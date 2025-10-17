@@ -1,0 +1,51 @@
+Rank,Oracle Name,Protocols Secured,Total Value Secured (TVS),TVS in Billions,Market Share %,Chains Supported,Key Chains,Average TVS per Protocol,Notes
+1,Chainlink,461,$96.922B,96.922,51.30%,11+,"Ethereum, Arbitrum, Avalanche, Polygon, Linea, Optimism, Base",0.210B,US Gov BEA data provider
+2,Chronicle,8,$9.618B,9.618,5.10%,6+,"Ethereum, Polygon, Avalanche, Arbitrum, Gnosis, Scroll",1.202B,Highest TVS per protocol
+3,Pyth,287,$8.478B,8.478,4.50%,72+,"Solana, Aptos, Near, Sui, Injective, Osmosis, Neutron",0.030B,US Gov GDP data provider
+4,RedStone,86,$8.054B,8.054,4.30%,110+,"Ethereum, Arbitrum, Avalanche, Polygon, multiple L2s",0.094B,Acquired Credora Sept 2025
+5,Internal,45,$6.806B,6.806,3.60%,19+,"Ethereum, Arbitrum, Optimism, Polygon, Avalanche",0.151B,Protocol-operated oracles
+6,Edge,5,$2.816B,2.816,1.50%,3,"Ethereum, Avalanche, Polygon",0.563B,Premium specialized feeds
+7,Switchboard,20,$1.871B,1.871,1.00%,7,"Solana, Aptos, Sui, Core, Coredao, Near, Aurora",0.094B,Permissionless model
+8,Supra,14,$1.003B,1.003,0.50%,35+,"Multiple EVM chains, Aptos, Sui, Move-based chains",0.072B,High-throughput focus
+9,API3,40,$774.05M,0.774,0.40%,28+,"Ethereum, Arbitrum, Polygon, BSC, Avalanche",0.019B,First-party oracle model
+10,eOracle,17,$660.84M,0.661,0.30%,8,"Ethereum, Arbitrum, Base, Optimism, Linea, Mode",0.039B,EigenLayer restaking
+11,DIA,43,$367.82M,0.368,0.20%,44+,Multiple chains including alternative L1s,0.009B,Community-driven model
+12,Stork,30,$313.17M,0.313,0.20%,60+,Focus on high-performance chains,0.010B,Ultra-fast (<100ms) updates
+13,UMA,8,$269.96M,0.27,0.10%,5,"Ethereum, Polygon, Optimism, Arbitrum, Avalanche",0.034B,Optimistic oracle model
+14,TWAP,89,$225.97M,0.226,0.10%,35+,"All chains with DEXs (Uniswap V3, etc)",0.003B,DEX-native pricing
+TOTAL,ALL,1153,$189.09B,189.09,100.00%,,,0.164B,
+,,,,,,,,,
+Summary Statistics,,,,,,,,,
+Top 4 Market Share,,,,$122.472B,64.80%,,,,Top 4 control nearly 2/3 of market
+Average TVS per Oracle,,,,13.506B,,,,,
+Median TVS per Oracle,,,,1.437B,,,,,
+Protocols per Oracle (Average),,82.4,,,,,,,
+Protocols per Oracle (Median),,30,,,,,,,
+Government Partners,,2,,,,,Chainlink and Pyth,,
+Risk Rating Provider,,1,,,,,RedStone via Credora,,
+Internal Oracle Share,,,,$6.806B,3.60%,,,,Growing self-sufficiency trend
+,,,,,,,,,
+Market Concentration Analysis,,,,,,,,,
+Top 1 (Chainlink),,,,$96.922B,51.30%,,,,Dominant but declining from 60%+
+Top 2,,,,$106.540B,56.30%,,,,
+Top 3,,,,$115.018B,60.80%,,,,
+Top 4,,,,$123.072B,65.10%,,,,
+Top 5,,,,$129.878B,68.70%,,,,
+Bottom 5,,,,$1.877B,1.00%,,,,High consolidation risk
+,,,,,,,,,
+Revenue Estimates (Annual),,,,,,,,,
+Oracle,Pre-2025 Revenue,Post-2025 Revenue,2026 Projection,Growth Driver,,,,,
+Chainlink,$100-200M,$105-220M,$110-250M,Government contracts,,,,,
+Pyth,$10-30M,$20-40M,$40-80M,Government partnership,,,,,
+RedStone,$2-8M,$5-10M,$20-40M,Credora acquisition,,,,,
+Chronicle,$5-15M,$5-15M,$10-20M,MakerDAO expansion,,,,,
+API3,$3-10M,$3-10M,$5-15M,OEV capture,,,,,
+Others,$30-50M,$40-70M,$80-150M,Market growth,,,,,
+TOTAL,$150-313M,$178-365M,$265-555M,52% CAGR,,,,,
+,,,,,,,,,
+Key Developments September 2025,,,,,,,,,
+Date,Event,Oracle,Impact,Market Reaction,,,,,
+Sept 4 2025,Credora Acquisition,RedStone,First price + risk oracle,10x revenue potential,,,,,
+Sep.25,US Gov Partnership,Chainlink,BEA data provider,LINK +3% (+61% since Aug),,,,,
+Sep.25,US Gov Partnership,Pyth,GDP data provider,PYTH +70%,,,,,
+Sep.25,Market Milestone,All,TVS crosses $189B,Oracle tax $650M-1.2B annually,,,,,

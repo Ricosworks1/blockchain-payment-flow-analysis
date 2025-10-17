@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BNB Smart Chain Fee Breakdown</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            background: white;
+            font-family: Arial, sans-serif;
+        }
+
+        .chart-container {
+            width: 900px;
+            height: 600px;
+            margin: 0 auto;
+            background: white;
+            border: 1px solid #ccc;
+        }
+    </style>
+</head>
+<body>
+    <div class="chart-container">
+        <canvas id="bnbChart"></canvas>
+    </div>
+
+    <script>
+        const ctx = document.getElementById('bnbChart').getContext('2d');
+
+        new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: ['Combined Transaction Cost', 'User Costs vs Corporate Subsidies'],
+                datasets: [
+                    {
+                        label: 'Validators',
+                        data: [0.90, 0],
+                        backgroundColor: '#f3ba2f'
+                    },
+                    {
+                        label: 'Auto-Burn',
+                        data: [0.10, 0],
+                        backgroundColor: '#ffd700'
+                    },
+                    {
+                        label: 'Quarterly Burns',
+                        data: [73.1, 0],
+                        backgroundColor: '#ff6b35'
+                    },
+                    {
+                        label: 'Ecosystem Development',
+                        data: [3.8, 0],
+                        backgroundColor: '#4ecdc4'
+                    },
+                    {
+                        label: 'Validator Subsidies',
+                        data: [1.9, 0],
+                        backgroundColor: '#45b7d1'
+                    },
+                    {
+                        label: 'Infrastructure',
+                        data: [1.33, 0],
+                        backgroundColor: '#96ceb4'
+                    },
+                    {
+                        label: 'User Costs',
+                        data: [0, 1.00],
+                        backgroundColor: '#2980b9'
+                    },
+                    {
+                        label: 'Corporate Subsidies',
+                        data: [0, 80.13],
+                        backgroundColor: '#e74c3c'
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: true,
+                layout: {
+                    padding: {
+                        top: 80,
+                        bottom: 120
+                    }
+                },
+                plugins: {
+                    title: {
+                        display: true,
+                        text: 'BNB Smart Chain Transaction Costs: User Fee vs Corporate Subsidies',
+                        font: {
+                            size: 18,
+                            weight: 'bold'
+                        },
+                        color: '#2c3e50',
+                        padding: 25
+                    },
+                    legend: {
+                        display: false
+                    },
+                    tooltip: {
+                        enabled: false
+                    }
+                },
+                scales: {
+                    x: {
+                        stacked: true,
+                        ticks: {
+                            font: {
+                                size: 14,
+                                weight: 'bold'
+                            },
+                            color: '#2c3e50'
+                        },
+                        grid: {
+                            display: false
+                        }
+                    },
+                    y: {
+                        stacked: true,
+                        beginAtZero: true,
+                        max: 100,
+                        title: {
+                            display: true,
+                            text: 'Cost (USD)',
+                            font: {
+                                size: 16,
+                                weight: 'bold'
+                            },
+                            color: '#2c3e50'
+                        },
+                        ticks: {
+                            callback: function(value) {
+                                return '$' + value.toFixed(0);
+                            },
+                            font: {
+                                size: 14
+                            },
+                            color: '#2c3e50'
+                        },
+                        grid: {
+                            color: '#e0e0e0'
+                        }
+                    }
+                },
+                animation: false
+            },
+            plugins: [{
+                id: 'customLabels',
+                afterDatasetsDraw: function(chart) {
+                    const ctx = chart.ctx;
+                    ctx.textAlign = 'center';
+                    ctx.textBaseline = 'middle';
+
+                    // Clear data labels on bars
+                    ctx.fillStyle = 'white';
+
+                    chart.data.datasets.forEach((dataset, datasetIndex) => {
+                        const meta = chart.getDatasetMeta(datasetIndex);
+                        meta.data.forEach((bar, index) => {
+                            const value = dataset.data[index];
+                            if (value > 0) {
+                                const x = bar.x;
+                                const barHeight = bar.base - bar.y;
+                                const barCenterY = bar.y + (barHeight / 2);
+
+                                // Adjust font size based on bar height
+                                let fontSize = Math.max(9, Math.min(12, barHeight / 25));
+                                ctx.font = fontSize + 'px Arial';
+
+                                // Only show text if bar is tall enough
+                                if (barHeight > 15) {
+                                    if (datasetIndex === 0) { // Validators
+                                        if (barHeight > 25) {
+                                            ctx.fillText('$0.90', x, barCenterY - 6);
+                                            ctx.fillText('VALIDATORS', x, barCenterY + 6);
+                                        }
+                                    } else if (datasetIndex === 1) { // Auto-Burn
+                                        if (barHeight > 20) {
+                                            ctx.fillText('$0.10', x, barCenterY - 6);
+                                            ctx.fillText('AUTO-BURN', x, barCenterY + 6);
+                                        }
+                                    } else if (datasetIndex === 2) { // Quarterly Burns
+                                        ctx.fillText('$73.1', x, barCenterY - 8);
+                                        ctx.fillText('QUARTERLY BURNS', x, barCenterY + 8);
+                                    } else if (datasetIndex === 3) { // Ecosystem Development
+                                        ctx.fillText('$3.8', x, barCenterY - 8);
+                                        ctx.fillText('ECOSYSTEM DEV', x, barCenterY + 8);
+                                    } else if (datasetIndex === 4) { // Validator Subsidies
+                                        ctx.fillText('$1.9', x, barCenterY - 8);
+                                        ctx.fillText('VALIDATOR SUBS', x, barCenterY + 8);
+                                    } else if (datasetIndex === 5) { // Infrastructure
+                                        ctx.fillText('$1.33', x, barCenterY - 8);
+                                        ctx.fillText('INFRASTRUCTURE', x, barCenterY + 8);
+                                    } else if (datasetIndex === 6) { // User Costs
+                                        if (barHeight > 30) {
+                                            ctx.fillText('$1.00', x, barCenterY - 8);
+                                            ctx.fillText('USER COSTS', x, barCenterY + 8);
+                                        }
+                                    } else if (datasetIndex === 7) { // Corporate Subsidies
+                                        ctx.fillText('$80.13', x, barCenterY - 8);
+                                        ctx.fillText('CORPORATE', x, barCenterY + 8);
+                                    }
+                                }
+                            }
+                        });
+                    });
+
+                    // Total labels above bars
+                    ctx.font = 'bold 16px Arial';
+                    ctx.fillStyle = '#2c3e50';
+
+                    const firstBarX = chart.getDatasetMeta(0).data[0].x;
+                    const secondBarX = chart.getDatasetMeta(6).data[1].x;
+
+                    // First bar total
+                    ctx.fillText('TOTAL: $81.13', firstBarX, 50);
+                    ctx.font = '12px Arial';
+                    ctx.fillStyle = '#f3ba2f';
+                    ctx.fillText('(Detailed Breakdown)', firstBarX, 70);
+
+                    // Second bar total
+                    ctx.font = 'bold 16px Arial';
+                    ctx.fillStyle = '#2c3e50';
+                    ctx.fillText('TOTAL: $81.13', secondBarX, 50);
+                    ctx.font = '12px Arial';
+                    ctx.fillStyle = '#7f8c8d';
+                    ctx.fillText('(User vs Corporate)', secondBarX, 70);
+
+                    // Key insight at bottom
+                    const chartBottom = chart.chartArea.bottom;
+                    ctx.font = 'bold 14px Arial';
+                    ctx.fillStyle = '#f3ba2f';
+                    ctx.fillText('KEY INSIGHT: Your $1 BNB fee triggers $81.13 total economic activity', chart.width / 2, chartBottom + 40);
+
+                    ctx.font = '12px Arial';
+                    ctx.fillStyle = '#7f8c8d';
+                    ctx.fillText('Direct user fees ($1) + Binance corporate subsidies ($80.13) = True transaction cost', chart.width / 2, chartBottom + 60);
+                    ctx.fillText('Corporate subsidies are 81x larger through quarterly burns and ecosystem funding', chart.width / 2, chartBottom + 75);
+
+                    // Simple legend at bottom
+                    const legendY = chartBottom + 100;
+                    const legendItems = [
+                        { color: '#f3ba2f', text: 'Validators ($0.90)' },
+                        { color: '#ffd700', text: 'Auto-Burn ($0.10)' },
+                        { color: '#ff6b35', text: 'Q-Burns ($73.1)' },
+                        { color: '#4ecdc4', text: 'Ecosystem ($3.8)' },
+                        { color: '#45b7d1', text: 'Val-Subs ($1.9)' },
+                        { color: '#96ceb4', text: 'Infra ($1.33)' },
+                        { color: '#2980b9', text: 'User ($1)' },
+                        { color: '#e74c3c', text: 'Corporate ($80.13)' }
+                    ];
+
+                    const itemWidth = 112;
+                    const startX = (chart.width - (legendItems.length * itemWidth)) / 2;
+
+                    legendItems.forEach((item, index) => {
+                        const x = startX + (index * itemWidth);
+
+                        // Color box
+                        ctx.fillStyle = item.color;
+                        ctx.fillRect(x, legendY - 8, 15, 15);
+
+                        // Text
+                        ctx.fillStyle = '#2c3e50';
+                        ctx.font = '9px Arial';
+                        ctx.textAlign = 'left';
+                        ctx.fillText(item.text, x + 20, legendY);
+                    });
+                }
+            }]
+        });
+    </script>
+</body>
+</html>
