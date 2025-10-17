@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bitcoin Fee Breakdown - Clean</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            background: white;
+            font-family: Arial, sans-serif;
+        }
+
+        .chart-container {
+            width: 900px;
+            height: 600px;
+            margin: 0 auto;
+            background: white;
+            border: 1px solid #ccc;
+        }
+    </style>
+</head>
+<body>
+    <div class="chart-container">
+        <canvas id="bitcoinChart"></canvas>
+    </div>
+
+    <script>
+        const ctx = document.getElementById('bitcoinChart').getContext('2d');
+
+        new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: ['Combined Transaction Cost', 'User Costs vs Mining Economy'],
+                datasets: [
+                    {
+                        label: 'Direct Fee',
+                        data: [1.00, 0],
+                        backgroundColor: '#f7931a'
+                    },
+                    {
+                        label: 'Mining Issuance',
+                        data: [157.00, 0],
+                        backgroundColor: '#ffb84d'
+                    },
+                    {
+                        label: 'User Costs',
+                        data: [0, 1.00],
+                        backgroundColor: '#2980b9'
+                    },
+                    {
+                        label: 'Mining Economy',
+                        data: [0, 157.00],
+                        backgroundColor: '#e67e22'
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: true,
+                layout: {
+                    padding: {
+                        top: 80,
+                        bottom: 120
+                    }
+                },
+                plugins: {
+                    title: {
+                        display: true,
+                        text: 'Bitcoin Transaction Costs: User Fee vs Hidden Mining Economy',
+                        font: {
+                            size: 18,
+                            weight: 'bold'
+                        },
+                        color: '#2c3e50',
+                        padding: 25
+                    },
+                    legend: {
+                        display: false
+                    },
+                    tooltip: {
+                        enabled: false
+                    }
+                },
+                scales: {
+                    x: {
+                        stacked: true,
+                        ticks: {
+                            font: {
+                                size: 14,
+                                weight: 'bold'
+                            },
+                            color: '#2c3e50'
+                        },
+                        grid: {
+                            display: false
+                        }
+                    },
+                    y: {
+                        stacked: true,
+                        beginAtZero: true,
+                        max: 200,
+                        title: {
+                            display: true,
+                            text: 'Cost (USD)',
+                            font: {
+                                size: 16,
+                                weight: 'bold'
+                            },
+                            color: '#2c3e50'
+                        },
+                        ticks: {
+                            callback: function(value) {
+                                return '$' + value.toFixed(0);
+                            },
+                            font: {
+                                size: 14
+                            },
+                            color: '#2c3e50'
+                        },
+                        grid: {
+                            color: '#e0e0e0'
+                        }
+                    }
+                },
+                animation: false
+            },
+            plugins: [{
+                id: 'customLabels',
+                afterDatasetsDraw: function(chart) {
+                    const ctx = chart.ctx;
+                    ctx.textAlign = 'center';
+                    ctx.textBaseline = 'middle';
+
+                    // Clear data labels on bars
+                    ctx.fillStyle = 'white';
+
+                    chart.data.datasets.forEach((dataset, datasetIndex) => {
+                        const meta = chart.getDatasetMeta(datasetIndex);
+                        meta.data.forEach((bar, index) => {
+                            const value = dataset.data[index];
+                            if (value > 0) {
+                                const x = bar.x;
+                                const barHeight = bar.base - bar.y;
+                                const barCenterY = bar.y + (barHeight / 2);
+
+                                // Adjust font size based on bar height
+                                let fontSize = Math.max(9, Math.min(12, barHeight / 15));
+                                ctx.font = fontSize + 'px Arial';
+
+                                // Only show text if bar is tall enough
+                                if (barHeight > 20) {
+                                    if (datasetIndex === 0) { // Direct Fee
+                                        ctx.fillText('$1.00', x, barCenterY - 8);
+                                        ctx.fillText('DIRECT FEE', x, barCenterY + 8);
+                                    } else if (datasetIndex === 1) { // Mining Issuance
+                                        ctx.fillText('$157', x, barCenterY - 8);
+                                        ctx.fillText('MINING SUBSIDY', x, barCenterY + 8);
+                                    } else if (datasetIndex === 2) { // User Costs
+                                        if (barHeight > 30) {
+                                            ctx.fillText('$1.00', x, barCenterY - 8);
+                                            ctx.fillText('USER COSTS', x, barCenterY + 8);
+                                        }
+                                    } else if (datasetIndex === 3) { // Mining Economy
+                                        ctx.fillText('$157', x, barCenterY - 8);
+                                        ctx.fillText('MINING ECONOMY', x, barCenterY + 8);
+                                    }
+                                }
+                            }
+                        });
+                    });
+
+                    // Total labels above bars
+                    ctx.font = 'bold 16px Arial';
+                    ctx.fillStyle = '#2c3e50';
+
+                    const firstBarX = chart.getDatasetMeta(0).data[0].x;
+                    const secondBarX = chart.getDatasetMeta(2).data[1].x;
+
+                    // First bar total
+                    ctx.fillText('TOTAL: $158', firstBarX, 50);
+                    ctx.font = '12px Arial';
+                    ctx.fillStyle = '#f7931a';
+                    ctx.fillText('(Detailed Breakdown)', firstBarX, 70);
+
+                    // Second bar total
+                    ctx.font = 'bold 16px Arial';
+                    ctx.fillStyle = '#2c3e50';
+                    ctx.fillText('TOTAL: $158', secondBarX, 50);
+                    ctx.font = '12px Arial';
+                    ctx.fillStyle = '#7f8c8d';
+                    ctx.fillText('(User vs Mining)', secondBarX, 70);
+
+                    // Key insight at bottom
+                    const chartBottom = chart.chartArea.bottom;
+                    ctx.font = 'bold 14px Arial';
+                    ctx.fillStyle = '#f7931a';
+                    ctx.fillText('KEY INSIGHT: Your $1 Bitcoin fee triggers $158 total economic activity', chart.width / 2, chartBottom + 40);
+
+                    ctx.font = '12px Arial';
+                    ctx.fillStyle = '#7f8c8d';
+                    ctx.fillText('Direct user fees ($1) + Mining block subsidy ($157) = True transaction cost', chart.width / 2, chartBottom + 60);
+                    ctx.fillText('Mining economy is 157x larger than user fees through BTC issuance', chart.width / 2, chartBottom + 75);
+
+                    // Simple legend at bottom
+                    const legendY = chartBottom + 100;
+                    const legendItems = [
+                        { color: '#f7931a', text: 'Direct Fee ($1.00)' },
+                        { color: '#ffb84d', text: 'Mining Issuance ($157)' },
+                        { color: '#2980b9', text: 'User Costs ($1.00)' },
+                        { color: '#e67e22', text: 'Mining Economy ($157)' }
+                    ];
+
+                    const itemWidth = 200;
+                    const startX = (chart.width - (legendItems.length * itemWidth)) / 2;
+
+                    legendItems.forEach((item, index) => {
+                        const x = startX + (index * itemWidth);
+
+                        // Color box
+                        ctx.fillStyle = item.color;
+                        ctx.fillRect(x, legendY - 8, 15, 15);
+
+                        // Text
+                        ctx.fillStyle = '#2c3e50';
+                        ctx.font = '11px Arial';
+                        ctx.textAlign = 'left';
+                        ctx.fillText(item.text, x + 20, legendY);
+                    });
+                }
+            }]
+        });
+    </script>
+</body>
+</html>

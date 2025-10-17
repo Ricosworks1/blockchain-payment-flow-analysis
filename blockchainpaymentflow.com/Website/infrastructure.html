@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Infrastructure Layer Analysis | Blockchain Money Flow</title>
+    <meta name="description" content="Deep dive into blockchain infrastructure: Oracle networks ($178-365M), MEV extraction ($3-7B), and RPC providers ($200-500M). The hidden tax on every transaction.">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-brand">
+                <h1>Blockchain Money Flow</h1>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="l1-networks.html">L1 Networks</a></li>
+                <li><a href="l2-networks.html">L2 Networks</a></li>
+                <li><a href="infrastructure.html" class="active">Infrastructure</a></li>
+                <li><a href="ecosystem.html">Ecosystem</a></li>
+                <li><a href="conclusion.html">Conclusion</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <header class="page-header">
+        <div class="container">
+            <h1>Infrastructure Layer: The Hidden Tax</h1>
+            <p class="subtitle">Oracle Networks, MEV Extraction, and RPC Providers Capturing $3.4-7.9B Annually</p>
+        </div>
+    </header>
+
+    <section class="infrastructure-overview">
+        <div class="container">
+            <div class="overview-stats">
+                <div class="stat-box">
+                    <span class="stat-value">$3.4-7.9B</span>
+                    <span class="stat-label">Total Infrastructure Revenue</span>
+                </div>
+                <div class="stat-box">
+                    <span class="stat-value">$178-365M</span>
+                    <span class="stat-label">Oracle Providers</span>
+                </div>
+                <div class="stat-box">
+                    <span class="stat-value">$3-7B</span>
+                    <span class="stat-label">MEV Extraction</span>
+                </div>
+                <div class="stat-box">
+                    <span class="stat-value">$200-500M</span>
+                    <span class="stat-label">RPC Providers</span>
+                </div>
+            </div>
+
+            <div class="warning-box">
+                <h3>⚠️ The Infrastructure Tax</h3>
+                <p>For every dollar users spend on blockchain transactions, infrastructure providers extract 1-3% in hidden fees. Oracle networks charge protocols for price feeds. MEV searchers front-run transactions. RPC providers monetize API access. This infrastructure layer generates $3.4-7.9B annually—more than most blockchains earn in direct fees.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- ORACLE PROVIDERS -->
+    <section id="oracles" class="infrastructure-section">
+        <div class="container">
+            <h2 class="section-title">Oracle Providers: The Data Middlemen</h2>
+
+            <div class="infra-stats-grid">
+                <div class="stat-box">
+                    <span class="stat-label">Annual Market Size</span>
+                    <span class="stat-value">$178-365M</span>
+                </div>
+                <div class="stat-box">
+                    <span class="stat-label">DeFi TVL Served</span>
+                    <span class="stat-value">$85B+</span>
+                </div>
+                <div class="stat-box">
+                    <span class="stat-label">Infrastructure Tax</span>
+                    <span class="stat-value">1-3%</span>
+                </div>
+                <div class="stat-box">
+                    <span class="stat-label">Major Providers</span>
+                    <span class="stat-value">14</span>
+                </div>
+            </div>
+
+            <div class="provider-breakdown">
+                <h3>Oracle Provider Analysis</h3>
+
+                <div class="provider-card">
+                    <h4>1. Chainlink ($100-200M annual revenue)</h4>
+                    <div class="provider-details">
+                        <p><strong>Market Position:</strong> Dominant oracle network with 70%+ market share</p>
+                        <p><strong>Revenue Model:</strong></p>
+                        <ul>
+                            <li>Protocols pay LINK tokens for price feed subscriptions</li>
+                            <li>VRF (Verifiable Random Function) fees for gaming/NFTs</li>
+                            <li>Automation services (Chainlink Keepers)</li>
+                            <li>CCIP (Cross-Chain Interoperability Protocol) fees</li>
+                        </ul>
+                        <p><strong>Value Flow:</strong></p>
+                        <ul>
+                            <li><strong>Node Operators:</strong> 30-40% of fees for running oracle infrastructure</li>
+                            <li><strong>Chainlink Labs:</strong> 20-30% for protocol development</li>
+                            <li><strong>LINK Staking:</strong> 15-25% distributed to LINK stakers (v0.2 staking)</li>
+                            <li><strong>Network Operations:</strong> 15-20% for security and maintenance</li>
+                        </ul>
+                        <p class="provider-insight">💡 <strong>Insight:</strong> Chainlink's moat is network effects—the more protocols integrate, the more valuable the feeds become. $100-200M revenue from ~$85B DeFi TVL = 0.12-0.24% infrastructure tax.</p>
+                    </div>
+                </div>
+
+                <div class="provider-card">
+                    <h4>2. Pyth Network ($30-60M annual revenue)</h4>
+                    <div class="provider-details">
+                        <p><strong>Market Position:</strong> High-frequency oracle for trading applications</p>
+                        <p><strong>Revenue Model:</strong></p>
+                        <ul>
+                            <li>Real-time price feeds from 90+ first-party publishers (exchanges, trading firms)</li>
+                            <li>Low-latency updates (sub-second) for DeFi protocols and perp DEXs</li>
+                            <li>Cross-chain price propagation via Wormhole</li>
+                        </ul>
+                        <p><strong>Value Flow:</strong></p>
+                        <ul>
+                            <li><strong>Data Publishers:</strong> 40-50% to exchanges and market makers providing price data</li>
+                            <li><strong>Pyth Contributors:</strong> 25-35% to protocol development</li>
+                            <li><strong>PYTH Staking:</strong> 15-20% to token stakers</li>
+                            <li><strong>Infrastructure:</strong> 10-15% for Wormhole cross-chain messaging</li>
+                        </ul>
+                        <p class="provider-insight">💡 <strong>Insight:</strong> Pyth targets high-frequency trading protocols (perp DEXs like Hyperliquid, Jupiter) where 1-second latency = millions in MEV. Premium pricing for premium speed.</p>
+                    </div>
+                </div>
+
+                <div class="provider-card">
+                    <h4>3. Chronicle, UMA, RedStone ($48-105M combined)</h4>
+                    <div class="provider-details">
+                        <p><strong>Chronicle ($18-30M):</strong> MakerDAO's in-house oracle solution, low-cost feeds for stablecoin collateral</p>
+                        <p><strong>UMA ($15-35M):</strong> Optimistic oracle with dispute resolution, specialized for exotic assets and insurance products</p>
+                        <p><strong>RedStone ($15-40M):</strong> Modular oracle with push/pull models, targeting new L2s and emerging chains</p>
+
+                        <p><strong>Combined Value Proposition:</strong></p>
+                        <ul>
+                            <li>Lower cost than Chainlink (30-50% cheaper)</li>
+                            <li>Specialized use cases (exotic assets, optimistic resolution, modular deployment)</li>
+                            <li>Early-stage protocols with smaller budgets</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="highlight-box">
+                <h3>✅ The Oracle Business Model</h3>
+                <p>Oracles charge protocols 1-3% of TVL annually for price feeds. A $100M DeFi protocol pays $1-3M/year for oracle services—often more than they pay in L1 gas fees. This infrastructure tax is invisible to users but fundamental to protocol economics.</p>
+                <p><strong>Example:</strong> Aave ($10B TVL) pays ~$12-36M annually across Chainlink, Chronicle, and backup oracles. That's 12-36% of Aave's total fee revenue.</p>
+            </div>
+
+            <div class="oracle-metrics">
+                <h3>Oracle Market Metrics</h3>
+                <div class="metrics-grid">
+                    <div class="metric-item">
+                        <span class="metric-label">Total DeFi TVL Secured</span>
+                        <span class="metric-value">$85B+</span>
+                    </div>
+                    <div class="metric-item">
+                        <span class="metric-label">Average Infrastructure Tax</span>
+                        <span class="metric-value">0.2-0.4%</span>
+                    </div>
+                    <div class="metric-item">
+                        <span class="metric-label">Chainlink Market Share</span>
+                        <span class="metric-value">70%+</span>
+                    </div>
+                    <div class="metric-item">
+                        <span class="metric-label">Annual Growth Rate</span>
+                        <span class="metric-value">40-60%</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- MEV EXTRACTION -->
+    <section id="mev" class="infrastructure-section dark-section">
+        <div class="container">
+            <h2 class="section-title">MEV Extraction: The Invisible Hand</h2>
+
+            <div class="infra-stats-grid">
+                <div class="stat-box">
+                    <span class="stat-label">Annual MEV Extracted</span>
+                    <span class="stat-value">$3-7B</span>
+                </div>
+                <div class="stat-box">
+                    <span class="stat-label">Ethereum MEV</span>
+                    <span class="stat-value">$1.5-2.5B</span>
+                </div>
+                <div class="stat-box">
+                    <span class="stat-label">Multi-Chain MEV</span>
+                    <span class="stat-value">$1.5-4.5B</span>
+                </div>
+                <div class="stat-box">
+                    <span class="stat-label">MEV as % of Fees</span>
+                    <span class="stat-value">100-200%</span>
+                </div>
+            </div>
+
+            <div class="mev-explanation">
+                <h3>What is MEV?</h3>
+                <p>Maximal Extractable Value (MEV) represents profit extracted by reordering, inserting, or censoring transactions within blocks. Searchers use bots to identify profitable opportunities (arbitrage, liquidations, sandwiching), then pay validators to include their transactions in optimal positions.</p>
+            </div>
+
+            <div class="mev-breakdown">
+                <h3>MEV Value Distribution</h3>
+
+                <div class="mev-category">
+                    <h4>1. Searchers ($1.5-3.5B - 50-60%)</h4>
+                    <ul>
+                        <li><strong>Arbitrage:</strong> Exploiting price differences across DEXs ($800M-1.5B annually)</li>
+                        <li><strong>Liquidations:</strong> Capturing collateral from undercollateralized positions ($400-800M)</li>
+                        <li><strong>Sandwich Attacks:</strong> Front-running and back-running user trades ($300-700M)</li>
+                        <li><strong>NFT Sniping:</strong> Front-running mint transactions ($100-500M)</li>
+                    </ul>
+                    <p class="category-note">Searchers compete in gas auctions, burning much of their profit to validators in priority fees.</p>
+                </div>
+
+                <div class="mev-category">
+                    <h4>2. Validators ($900M-2.1B - 30-40%)</h4>
+                    <ul>
+                        <li><strong>MEV-Boost Integration:</strong> 90%+ of validators use MEV-Boost to maximize tips</li>
+                        <li><strong>Priority Fees:</strong> Searchers pay validators to include bundles</li>
+                        <li><strong>Block Building Revenue:</strong> Validators receive ~30-40% of total MEV value</li>
+                    </ul>
+                    <p class="category-note">Post-Merge, validators earn more from MEV tips than from protocol issuance in many blocks.</p>
+                </div>
+
+                <div class="mev-category">
+                    <h4>3. Builders ($600M-1.4B - 20-30%)</h4>
+                    <ul>
+                        <li><strong>Block Construction:</strong> Specialized builders optimize transaction ordering for maximum MEV</li>
+                        <li><strong>Flashbots Builders:</strong> Dominant players capturing 60-80% of block building market</li>
+                        <li><strong>Private Order Flow:</strong> Exclusive deals with searchers and users</li>
+                    </ul>
+                </div>
+
+                <div class="mev-category">
+                    <h4>4. Relays & Infrastructure ($100-300M - 3-5%)</h4>
+                    <ul>
+                        <li><strong>MEV-Boost Relays:</strong> Flashbots, BloXroute, Manifold charging 1-3% relay fees</li>
+                        <li><strong>RPC Providers:</strong> Monetizing "MEV protection" services</li>
+                        <li><strong>Simulation Infrastructure:</strong> Tenderly, Blocknative providing MEV detection tools</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="warning-box">
+                <h3>⚠️ MEV: The Largest Blockchain Tax</h3>
+                <p>MEV extraction ($3-7B) exceeds total blockchain fee revenue ($3.1B). Users pay invisible taxes through worse execution prices, front-running losses, and failed transactions. Unlike protocol fees that fund network security, MEV primarily enriches sophisticated operators.</p>
+                <p><strong>Example:</strong> A $1M DEX trade might lose $5,000-50,000 (0.5-5%) to sandwich attacks. The user sees "slippage," but it's really MEV extraction.</p>
+            </div>
+
+            <div class="mev-solutions">
+                <h3>MEV Mitigation Efforts</h3>
+                <div class="solution-grid">
+                    <div class="solution-card">
+                        <h4>Order Flow Auctions (OFAs)</h4>
+                        <p>CoW Protocol, UniswapX: Users auction their trade flow, capturing MEV value themselves rather than losing it to searchers.</p>
+                    </div>
+                    <div class="solution-card">
+                        <h4>Encrypted Mempools</h4>
+                        <p>Flashbots Protect, Securerpc: Hide transactions until inclusion, preventing front-running.</p>
+                    </div>
+                    <div class="solution-card">
+                        <h4>Threshold Encryption</h4>
+                        <p>Shutter Network: Encrypt all transactions, decrypt only after ordering is finalized.</p>
+                    </div>
+                    <div class="solution-card">
+                        <h4>MEV Redistribution</h4>
+                        <p>Eden Network, Jito (Solana): Share MEV profits with users who contributed order flow.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- RPC PROVIDERS -->
+    <section id="rpc" class="infrastructure-section">
+        <div class="container">
+            <h2 class="section-title">RPC Providers: The API Gatekeepers</h2>
+
+            <div class="infra-stats-grid">
+                <div class="stat-box">
+                    <span class="stat-label">Annual Market Size</span>
+                    <span class="stat-value">$200-500M</span>
+                </div>
+                <div class="stat-box">
+                    <span class="stat-label">Daily API Requests</span>
+                    <span class="stat-value">100B+</span>
+                </div>
+                <div class="stat-box">
+                    <span class="stat-label">Major Providers</span>
+                    <span class="stat-value">5</span>
+                </div>
+                <div class="stat-box">
+                    <span class="stat-label">Market Growth</span>
+                    <span class="stat-value">50-80%/year</span>
+                </div>
+            </div>
+
+            <div class="rpc-explanation">
+                <h3>What are RPC Providers?</h3>
+                <p>Remote Procedure Call (RPC) providers offer API infrastructure for applications to interact with blockchains. Instead of running full nodes, developers pay RPC providers for access to blockchain data, transaction broadcasting, and smart contract interactions. This infrastructure layer captures $200-500M annually.</p>
+            </div>
+
+            <div class="rpc-providers">
+                <h3>Major RPC Provider Analysis</h3>
+
+                <div class="rpc-card">
+                    <h4>1. Infura (ConsenSys) - $80-150M annual revenue</h4>
+                    <div class="rpc-details">
+                        <p><strong>Market Position:</strong> Ethereum-focused infrastructure, MetaMask default provider</p>
+                        <p><strong>Pricing Model:</strong></p>
+                        <ul>
+                            <li>Free tier: 100,000 requests/day</li>
+                            <li>Developer: $50/month for 2M requests/day</li>
+                            <li>Team: $225/month for 10M requests/day</li>
+                            <li>Enterprise: $1,000+/month for unlimited requests</li>
+                        </ul>
+                        <p><strong>Revenue Sources:</strong></p>
+                        <ul>
+                            <li><strong>API Access:</strong> $50-90M from paid subscriptions</li>
+                            <li><strong>Enterprise Deals:</strong> $20-40M from large protocols and institutions</li>
+                            <li><strong>Additional Services:</strong> $10-20M from IPFS, Filecoin, advanced APIs</li>
+                        </ul>
+                        <p class="rpc-insight">💡 <strong>Competitive Advantage:</strong> MetaMask default = 30M+ users relying on Infura. Network effects from developer familiarity and ConsenSys ecosystem integration.</p>
+                    </div>
+                </div>
+
+                <div class="rpc-card">
+                    <h4>2. Alchemy - $60-120M annual revenue</h4>
+                    <div class="rpc-details">
+                        <p><strong>Market Position:</strong> Developer-focused platform with enhanced APIs and tooling</p>
+                        <p><strong>Pricing Model:</strong></p>
+                        <ul>
+                            <li>Free tier: 300M compute units/month</li>
+                            <li>Growth: $49/month for 400M compute units</li>
+                            <li>Scale: Custom pricing for enterprise</li>
+                        </ul>
+                        <p><strong>Value-Add Services:</strong></p>
+                        <ul>
+                            <li><strong>Enhanced APIs:</strong> NFT API, Token API, Transfers API (charging premium vs standard RPC)</li>
+                            <li><strong>Notify:</strong> Webhook infrastructure for real-time alerts</li>
+                            <li><strong>Supernode:</strong> Higher reliability and performance (10× standard RPC pricing)</li>
+                        </ul>
+                        <p class="rpc-insight">💡 <strong>Strategy:</strong> Alchemy targets professional developers with premium features. Average revenue per customer 2-3× higher than Infura through value-added tooling.</p>
+                    </div>
+                </div>
+
+                <div class="rpc-card">
+                    <h4>3. QuickNode - $40-80M annual revenue</h4>
+                    <div class="rpc-details">
+                        <p><strong>Market Position:</strong> Multi-chain RPC with 20+ networks supported</p>
+                        <p><strong>Differentiation:</strong></p>
+                        <ul>
+                            <li>Dedicated nodes (vs shared infrastructure)</li>
+                            <li>Global edge network for <100ms latency</li>
+                            <li>Add-ons marketplace (NFT API, Traces, Archive data)</li>
+                        </ul>
+                        <p><strong>Pricing:</strong> $9-$299/month base + add-ons (dedicated nodes $300-2,000/month)</p>
+                    </div>
+                </div>
+
+                <div class="rpc-card">
+                    <h4>4. Ankr - $20-50M annual revenue</h4>
+                    <div class="rpc-details">
+                        <p><strong>Market Position:</strong> Decentralized RPC network, Web3 infrastructure</p>
+                        <p><strong>Model:</strong> Distributed node operators earn ANKR tokens for providing RPC services</p>
+                        <p><strong>Revenue Split:</strong></p>
+                        <ul>
+                            <li>60-70% to node operators</li>
+                            <li>30-40% to Ankr protocol and stakers</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="rpc-card">
+                    <h4>5. The Graph - $30-80M annual revenue</h4>
+                    <div class="rpc-details">
+                        <p><strong>Market Position:</strong> Decentralized indexing protocol (GraphQL for blockchain data)</p>
+                        <p><strong>Revenue Model:</strong></p>
+                        <ul>
+                            <li>Developers pay GRT tokens for query fees</li>
+                            <li>Indexers earn 90-95% of query fees for running subgraphs</li>
+                            <li>Curators and Delegators earn 5-10% for curation signals and delegation</li>
+                        </ul>
+                        <p><strong>Market Size:</strong> 30,000+ subgraphs, billions of queries monthly</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="highlight-box">
+                <h3>✅ RPC Economics: The API Tax</h3>
+                <p>Every dApp interaction flows through RPC providers. A typical DeFi protocol with 100,000 daily users generates 10-50M API requests daily, costing $1,000-10,000/month. With 10,000+ protocols, RPC providers capture $200-500M annually—pure margin with 60-80% gross profit.</p>
+                <p><strong>Example:</strong> Uniswap's interface makes 50-100M daily requests across Infura, Alchemy, and backup providers. Cost: $50,000-150,000/month in RPC fees alone.</p>
+            </div>
+
+            <div class="rpc-trends">
+                <h3>Emerging RPC Trends</h3>
+                <div class="trend-grid">
+                    <div class="trend-card">
+                        <h4>Decentralized RPC</h4>
+                        <p>Ankr, Pocket Network: Distributed node operators reduce single-point censorship risk, but add 20-30% overhead vs centralized providers.</p>
+                    </div>
+                    <div class="trend-card">
+                        <h4>Rollup-as-a-Service</h4>
+                        <p>Alchemy Rollups, QuickNode Chains: RPC providers expanding into full-stack L2 deployment and hosting ($100K-1M+ per chain annually).</p>
+                    </div>
+                    <div class="trend-card">
+                        <h4>MEV Protection Integration</h4>
+                        <p>All major RPC providers now offer MEV-protected transaction routing, charging 5-20% premium over standard RPC pricing.</p>
+                    </div>
+                    <div class="trend-card">
+                        <h4>AI/ML Analytics</h4>
+                        <p>Next frontier: Real-time on-chain intelligence, predictive analytics, and automated trading signals built on RPC data streams.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- INFRASTRUCTURE KEY INSIGHTS -->
+    <section class="key-insights">
+        <div class="container">
+            <h2 class="section-title">Key Insights: Infrastructure Economics</h2>
+
+            <div class="insight-grid">
+                <div class="insight-card">
+                    <h3>1. Infrastructure > Protocol Revenue</h3>
+                    <p>Infrastructure providers ($3.4-7.9B) earn more than all blockchains combined ($3.1B in fees). Oracles, MEV, and RPC services capture value without assuming security costs or token inflation risk.</p>
+                </div>
+
+                <div class="insight-card">
+                    <h3>2. The Oracle Paradox</h3>
+                    <p>Oracles charge 1-3% of protocol TVL annually, often exceeding protocol fee revenue. Aave pays more to Chainlink than it earns in many quarters. The data layer extracts more value than the application layer.</p>
+                </div>
+
+                <div class="insight-card">
+                    <h3>3. MEV: The Invisible Tax</h3>
+                    <p>MEV extraction ($3-7B) dwarfs blockchain fees ($3.1B). Users lose 0.5-5% on every trade to sandwich attacks and front-running. Unlike protocol fees that fund security, MEV primarily enriches sophisticated operators.</p>
+                </div>
+
+                <div class="insight-card">
+                    <h3>4. RPC Margin Advantage</h3>
+                    <p>RPC providers operate at 60-80% gross margins, selling API access to blockchain data. Unlike protocols burning capital on subsidies, RPC services achieve profitability through pure SaaS economics.</p>
+                </div>
+
+                <div class="insight-card">
+                    <h3>5. Network Effects in Infrastructure</h3>
+                    <p>Chainlink's 70%+ oracle market share and Infura's MetaMask default position create self-reinforcing moats. Developers integrate once, protocols standardize, new entrants face 10× switching costs.</p>
+                </div>
+
+                <div class="insight-card">
+                    <h3>6. The Centralization Irony</h3>
+                    <p>Decentralized protocols rely on centralized infrastructure: 2-3 RPC providers, 1-2 oracle networks, handful of MEV searchers. The stack is decentralized at the base layer, centralized at the access layer.</p>
+                </div>
+            </div>
+
+            <div class="warning-box">
+                <h3>⚠️ Infrastructure Fragility</h3>
+                <p>If Infura goes down, 50%+ of Ethereum dApps fail. If Chainlink's price feeds break, $85B DeFi TVL faces liquidation cascades. The blockchain industry runs on centralized infrastructure with single points of failure—all while charging billions in "decentralization premium."</p>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>Report Information</h4>
+                    <p>Date: October 2025</p>
+                    <p>Published by: Maze2 SA</p>
+                    <p>Crypto Market Cap: $4.3T</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Coverage</h4>
+                    <p>25+ Blockchain Networks</p>
+                    <p>20+ Top Protocols</p>
+                    <p>14 Oracle Providers</p>
+                    <p>5+ Layer 2 Solutions</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Explore</h4>
+                    <ul class="footer-links">
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="l1-networks.html">L1 Networks</a></li>
+                        <li><a href="l2-networks.html">L2 Networks</a></li>
+                        <li><a href="ecosystem.html">Ecosystem Funding</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Data Sources</h4>
+                    <p>On-chain analytics</p>
+                    <p>Foundation disclosures</p>
+                    <p>Governance proposals</p>
+                    <p>Financial reports</p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Maze2 SA. All rights reserved. | Blockchain Money Flow Analysis</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="main.js"></script>
+</body>
+</html>
