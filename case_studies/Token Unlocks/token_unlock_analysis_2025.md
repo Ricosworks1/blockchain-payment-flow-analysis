@@ -13,7 +13,7 @@ Token unlocks represent a **critical source of selling pressure** and ecosystem 
 1. **Cliff Unlocks (Next 7 Days):** $125.25M in immediate unlock events
 2. **Linear Daily Releases:** $111.89M total across major networks
 
-**Key Finding:** The annualized value of token unlocks from just these tracked tokens exceeds **$41 billion annually**, representing a significant component of the blockchain subsidy economy.
+**Key Finding:** The annualized value of token unlocks from just these tracked tokens exceeds **$41 billion annually**, representing a significant component of the blockchain subsidy economy. The rest of the blockchain ecosystem representing 20% and new listings not being accounted for should represent roughly $15-20B in 2025.
 
 ---
 
