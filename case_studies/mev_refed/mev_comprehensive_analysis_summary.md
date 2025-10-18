@@ -288,7 +288,7 @@ MEV extraction has grown exponentially:
 
 ---
 
-## Sources and References with Explanatory Notes
+## Sources and References with Explanatory Notes - Saved
 
 [^1]: Flashbots Transparency Dashboard. "Real-time MEV-Boost Analytics." https://collective.flashbots.net/ (Accessed October 2025)
 **Data Used**: Ethereum MEV extraction totals, validator adoption rates, builder market share, daily MEV statistics and historical growth trends.
