@@ -8,7 +8,9 @@ Comprehensive analysis of where user money goes in blockchain networks. This pro
 - **Networks Covered:** 25+ blockchain networks (L1 & L2)
 - **Protocols Analyzed:** 20+ top protocols
 - **Oracle Providers:** 14 major providers
-- **Key Finding:** $120-170B annual subsidy economy (90% of total costs)
+- **Key Finding:** $115-170B annual subsidy economy (85-97% of total costs)
+  - $13.7B total on-chain revenue vs $115-155B costs = 85-90% subsidy rate
+  - $3.1B blockchain fees only vs $120-170B costs = 97% subsidy rate
 
 ## 📁 Repository Structure
 
@@ -46,22 +48,49 @@ The website provides a comprehensive breakdown of blockchain money flows:
 
 ## 📈 Key Findings
 
-### The $120-170B Subsidy Economy
-- **User Fees:** $3.1B annually
-- **Total Ecosystem Costs:** $123-173B annually
-- **Subsidy Gap:** $120-170B (97% of costs)
+### The Subsidy Economy: Two Valid Perspectives
 
-### How the Gap is Financed:
-- Token Inflation: $30-50B/year
-- Token Unlocks: $20-40B/year
-- VC Investments: $10-30B/year
-- Foundation Treasuries: $1-2B/year
-- Corporate Backing: $5-15B/year
+The blockchain ecosystem can be analyzed through two complementary lenses, both revealing massive subsidy dependency:
 
-### Infrastructure Revenue:
-- **Oracle Networks:** $178-365M/year (Chainlink, Pyth, etc.)
-- **MEV Extraction:** $3-7B/year
-- **RPC Providers:** $200-500M/year (Infura, Alchemy, QuickNode)
+#### **Perspective 1: Blockchain Base-Layer Analysis**
+Measuring only blockchain-layer transaction fees (excludes protocol revenues):
+
+- **Blockchain Base-Layer Fees:** $3.1B annually
+- **Total Ecosystem Costs:** $120-170B annually
+- **Subsidy Gap:** $117-167B (≈97% subsidy rate)
+- **Key Insight:** Even the most fundamental layer requires massive subsidies
+
+#### **Perspective 2: Total On-Chain Revenue Analysis**
+Including all transparent on-chain revenues (blockchain fees + protocol revenues):
+
+- **Total On-Chain Revenue:** $13.7B annually
+  - Blockchain base-layer fees: $3.1B
+  - Protocol-level revenues (DeFi, L2s, DEXs, staking): $10.6B
+- **Total Ecosystem Costs:** $115-155B annually
+- **Subsidy Gap:** $101.3-141.3B (≈85-90% subsidy rate)
+- **Key Insight:** Even with all on-chain revenues, 85-90% still comes from subsidies
+
+**Bottom Line:** Regardless of measurement approach, the blockchain industry operates on $115-170B annually, with 85-97% funded by subsidies rather than sustainable user fees.
+
+### How the Subsidy Gap is Financed:
+
+**Primary Subsidies ($55-72B):**
+- Token Inflation: $30-50B/year (ETH, SOL, other L1/L2 issuance)
+- Token Unlocks: $10-20B/year (scheduled vesting to investors/teams)
+- BTC Mining Issuance: $18.1B/year
+- Corporate Backing: $3.9B/year (BNB burns, others)
+
+**Supplementary Value Flows ($29-43B):**
+- VC Investments: $10-20B/year
+- MEV Extraction: $3-7B/year
+- Binance Exchange Profits: $14B/year (ecosystem support)
+- Foundation Grants: $1-2B/year
+- Infrastructure Revenue: $0.5-1B/year
+
+### Infrastructure Revenue Extraction:
+- **Oracle Networks:** $178-365M/year (Chainlink, Pyth, Chronicle, RedStone, UMA)
+- **MEV Infrastructure:** $3-7B/year (searchers, builders, validators)
+- **RPC Providers:** $200-500M/year (Infura, Alchemy, QuickNode, Ankr, The Graph)
 
 ## 🚀 Deployment
 
