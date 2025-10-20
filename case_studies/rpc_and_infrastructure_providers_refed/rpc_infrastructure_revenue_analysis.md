@@ -638,8 +638,8 @@ The blockchain RPC (Remote Procedure Call) and infrastructure services market re
 [^50]: Deloitte. "Blockchain and Web3 Adoption for Enterprises." https://www.deloitte.com/us/en/services/consulting/articles/blockchain-and-web3-adoption-for-enterprises.html (Accessed October 2025)
 **Data Used**: Enterprise blockchain adoption survey showing 87% of businesses likely to invest in blockchain solutions within 12 months, Web3 strategic framework, enterprise infrastructure requirements, adoption challenges including regulatory requirements and skilled talent gaps, benefits of peer-to-peer transactions and transparent recordkeeping.
 
-[^51]: Bessemer Venture Partners. "Cloud 100 and SaaS Insights." https://www.bvp.com/atlas/cloud-100-2024 (Published 2024)
-**Data Used**: SaaS business model analysis applicable to blockchain infrastructure, growth metrics, customer acquisition costs, revenue scaling patterns for infrastructure companies.
+[^51]: Bessemer Venture Partners. "The Cloud 100 Benchmarks Report 2025." https://www.bvp.com/atlas/the-cloud-100-benchmarks-report (Published 2025)
+**Data Used**: SaaS business model benchmarks applicable to blockchain infrastructure including CAC payback (6-18 months typical), gross margins (65-70% for cloud businesses), revenue growth metrics (75-125%+), net revenue retention (100-120%+), logo retention (85-95%+), and operational efficiency metrics for infrastructure companies. Average company valuation $11.2B, total list value $1.1T.
 
 [^52]: Alchemy. "The 12 Best Blockchain Node Providers (2025)." https://www.alchemy.com/overviews/blockchain-node-providers (Accessed October 2025)
 **Data Used**: Comprehensive comparison of blockchain node providers, market positioning, service offerings and competitive analysis.
@@ -687,6 +687,7 @@ The blockchain RPC (Remote Procedure Call) and infrastructure services market re
 - **[^30] QuickNode Demographics**: Replaced broken customer demographics report with QuickNode's 2024 Wrapped article containing actual customer metrics (13,000+ customers, 95% retention)
 - **[^38-44] The Graph URLs**: Updated all The Graph references to working URLs, removed broken /network/ endpoints
 - **[^50] Deloitte Blockchain Overview**: Replaced broken blockchain-overview.html URL with working "Blockchain and Web3 Adoption for Enterprises" article containing 87% enterprise investment data
+- **[^51] Bessemer Cloud 100**: Replaced broken cloud-100-2024 URL with working "Cloud 100 Benchmarks Report 2025" containing comprehensive SaaS metrics and $1.1T list valuation data
 - **[^54] PwC Link**: Replaced broken blockchain analysis URL with working PwC industrial manufacturing blockchain article
 - **[^58] IEEE Search**: Replaced generic IEEE search page with specific Alchemy technical infrastructure article
 - **Market Size**: Updated with Grand View Research verified data showing $31.28B blockchain market in 2024
