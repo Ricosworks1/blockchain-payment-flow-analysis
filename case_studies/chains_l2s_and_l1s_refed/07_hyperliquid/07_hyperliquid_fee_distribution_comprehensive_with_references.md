@@ -9,31 +9,31 @@ Hyperliquid operates as the top revenue-generating blockchain, earning $3.7M dai
 **When a user pays $1 in Hyperliquid trading fees:**
 
 ### Direct Fee Recipients
-- **HYPE Buybacks (Assistance Fund)**: $0.93-0.97 (93-97% for token buybacks¹)
-- **HLP Liquidity Providers**: $0.01 (1% of trading revenue²)
+- **HYPE Buybacks (Assistance Fund)**: $0.93-0.97 (93-97% for token buybacks[^5])
+- **HLP Liquidity Providers**: $0.01 (1% of trading revenue[^2])
 - **Operations/Development**: $0.02-0.06 (remaining for protocol operations)
 
 The unique model directs nearly all fees to token buybacks rather than validators, burning, or treasury accumulation.
 
 ### Trading Economics
-- **Daily Trading Volume**: $11-15B (futures and spot combined³)
-- **Daily Revenue**: $3.7M (top revenue blockchain⁴)
+- **Daily Trading Volume**: $11-15B (futures and spot combined[^3])
+- **Daily Revenue**: $3.7M (top revenue blockchain[^4])
 - **Annual Revenue**: $1.35B (at current run rate)
-- **Daily Buybacks**: $1M worth of HYPE tokens⁵
+- **Daily Buybacks**: $1M worth of HYPE tokens[^11]
 - **Monthly Buybacks**: $18.79M from derivatives alone
-- **Fee Structure**: 0.0225% average trading fee⁶
-- **Market Share**: 73% of decentralized perpetuals volume⁷
+- **Fee Structure**: 0.0225% average trading fee[^1]
+- **Market Share**: 73% of decentralized perpetuals volume[^7]
 
 ### Token Unlock Schedule
-- **Core Contributors Unlock**: 236.94M HYPE ($12.09B at current price) vesting through 2028⁸
+- **Core Contributors Unlock**: 236.94M HYPE ($12.09B at current price) vesting through 2028[^8]
 - **Genesis Distribution**: 310M HYPE ($15.81B) - largely unlocked
 - **Major Cliff**: Late 2025/early 2026 when core contributor vesting begins
 - **Total Supply**: 1B HYPE tokens maximum
 - **Current Circulating**: ~337M HYPE (33.7% of total supply)
 - **Team Unlock Schedule**: 236.94M HYPE vesting through 2028 (23.8% of total)
-- **Monthly Selling Pressure Post-Unlock**: ~$300-500M potential from gradual vesting⁹
+- **Monthly Selling Pressure Post-Unlock**: ~$300-500M potential from gradual vesting[^10]
 - **Buyback Capacity**: Current $30M monthly buybacks can only absorb ~10% of potential selling
-- **No VC/Exchange Allocations**: Pure community and team distribution¹⁰
+- **No VC/Exchange Allocations**: Pure community and team distribution[^9]
 
 **Protocol Profitability**: Actually profitable at $1.35B annual revenue with continuous buybacks, unlike subsidy-dependent chains
 
@@ -92,7 +92,7 @@ The unique model directs nearly all fees to token buybacks rather than validator
 ### Assistance Fund (AF) Operations
 - **Inflows**: 93-97% of all trading fees
 - **Daily buybacks**: $1M worth of HYPE tokens
-- **Accumulated USDC**: $77M+ total inflows¹¹
+- **Accumulated USDC**: $77M+ total inflows[^11]
 - **Monthly inflows**: $25M+ recently
 - **Buyback mechanism**: Continuous market purchases of HYPE
 
@@ -125,8 +125,8 @@ The unique model directs nearly all fees to token buybacks rather than validator
 ## Growth Metrics and Performance
 
 ### Q4 2024 - H1 2025 Performance
-- **TVL growth**: From $564M to $2B+ (269% surge Q4 2024)¹²
-- **H1 2025 TVL**: Additional 70.8% growth
+- **TVL growth**: From $564M to $2B+ (269% surge Q4 2024)[^4]
+- **H1 2025 TVL**: Additional 70.8% growth[^6]
 - **Open Interest**: Doubled in H1 2025
 - **Daily volume records**: Multiple $10B+ days
 - **Market dominance**: 73% of decentralized perps
