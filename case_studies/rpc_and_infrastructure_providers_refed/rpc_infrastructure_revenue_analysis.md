@@ -635,8 +635,8 @@ The blockchain RPC (Remote Procedure Call) and infrastructure services market re
 [^49]: MarketsandMarkets. "Blockchain Technology Market Report." https://www.marketsandmarkets.com/Market-Reports/blockchain-technology-market-90100890.html (Accessed October 2025)
 **Data Used**: Blockchain technology market analysis, pricing model evolution, infrastructure service monetization, competitive dynamics and market segmentation.
 
-[^50]: Deloitte. "Blockchain and Digital Assets." https://www2.deloitte.com/us/en/pages/consulting/articles/blockchain-overview.html (Accessed October 2025)
-**Data Used**: Enterprise blockchain adoption trends, infrastructure requirements, corporate use cases, adoption barriers and enterprise infrastructure considerations.
+[^50]: Deloitte. "Blockchain and Web3 Adoption for Enterprises." https://www.deloitte.com/us/en/services/consulting/articles/blockchain-and-web3-adoption-for-enterprises.html (Accessed October 2025)
+**Data Used**: Enterprise blockchain adoption survey showing 87% of businesses likely to invest in blockchain solutions within 12 months, Web3 strategic framework, enterprise infrastructure requirements, adoption challenges including regulatory requirements and skilled talent gaps, benefits of peer-to-peer transactions and transparent recordkeeping.
 
 [^51]: Bessemer Venture Partners. "Cloud 100 and SaaS Insights." https://www.bvp.com/atlas/cloud-100-2024 (Published 2024)
 **Data Used**: SaaS business model analysis applicable to blockchain infrastructure, growth metrics, customer acquisition costs, revenue scaling patterns for infrastructure companies.
@@ -686,6 +686,7 @@ The blockchain RPC (Remote Procedure Call) and infrastructure services market re
 - **[^15] CNBC → CoinDesk**: Replaced non-working CNBC link with working CoinDesk article on Alchemy's $10.2B valuation
 - **[^30] QuickNode Demographics**: Replaced broken customer demographics report with QuickNode's 2024 Wrapped article containing actual customer metrics (13,000+ customers, 95% retention)
 - **[^38-44] The Graph URLs**: Updated all The Graph references to working URLs, removed broken /network/ endpoints
+- **[^50] Deloitte Blockchain Overview**: Replaced broken blockchain-overview.html URL with working "Blockchain and Web3 Adoption for Enterprises" article containing 87% enterprise investment data
 - **[^54] PwC Link**: Replaced broken blockchain analysis URL with working PwC industrial manufacturing blockchain article
 - **[^58] IEEE Search**: Replaced generic IEEE search page with specific Alchemy technical infrastructure article
 - **Market Size**: Updated with Grand View Research verified data showing $31.28B blockchain market in 2024
