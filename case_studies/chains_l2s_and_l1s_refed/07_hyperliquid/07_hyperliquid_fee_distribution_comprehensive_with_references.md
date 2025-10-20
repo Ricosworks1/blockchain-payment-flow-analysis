@@ -186,30 +186,68 @@ The unique model directs nearly all fees to token buybacks rather than validator
 
 ## Sources and References
 
-### Official Documentation and Data
-¹ [Hyperliquid Documentation](https://hyperliquid.gitbook.io/hyperliquid/) - Protocol mechanics and fee structure
-² [HLP Documentation](https://hyperliquid.gitbook.io/hyperliquid/hlp) - Liquidity provider mechanics
-³ [CoinGecko Hyperliquid Exchange](https://www.coingecko.com/en/exchanges/hyperliquid) - Trading volume data
-⁴ [DeFiLlama Hyperliquid](https://defillama.com/protocol/hyperliquid) - Revenue and TVL metrics
+### Official Documentation and Protocol Data
 
-### Market Analysis and Research
-⁵ [Mint Ventures Hyperliquid Analysis](https://mint-ventures.medium.com/a-quick-overview-of-hyperliquid-current-product-status-economic-model-and-valuation-bd82bfcfd802) - Economic model analysis
-⁶ [OAK Research S1 2025 Report](https://oakresearch.io/en/reports/protocols/hyperliquid-hype-s1-2025-activity-report) - H1 2025 performance metrics
-⁷ [The Block Research](https://www.theblock.co/data/decentralized-finance/dex-derivatives) - Market share data
+[^1]: Hyperliquid Documentation. "About Hyperliquid." https://hyperliquid.gitbook.io/hyperliquid-docs (Accessed October 2025)
+**Data Used**: Protocol architecture, trading mechanics, fee structure (0.0225% average), consensus mechanism, L1 infrastructure design, perpetual contract mechanics, order book implementation, and cross-margin system specifications.
 
-### Token Economics and Unlocks
-⁸ [CryptoRank HYPE Vesting](https://cryptorank.io/price/hyperliquid/vesting) - Token unlock schedule
-⁹ [Tokenomist Hyperliquid](https://tokenomist.ai/hyperliquid) - Detailed tokenomics
-¹⁰ [Bitget News Token Analysis](https://www.bitget.com/news/detail/12560604941835) - November unlock analysis
-¹¹ [X/Twitter Thor Analysis](https://x.com/ThorHartvigsen/status/1874973170475704792) - AF and buyback data
+[^2]: Hyperliquid Docs. "Protocol Vaults - HLP (Hyperliquidity Provider)." https://hyperliquid.gitbook.io/hyperliquid-docs/hypercore/vaults/protocol-vaults (Accessed October 2025)
+**Data Used**: HLP vault mechanics receiving 1% of trading revenue, market making and liquidation operations, 4-day deposit lock-up period, PnL distribution to community liquidity providers, liquidation fee allocation, and vault performance metrics.
 
-### Performance Metrics
-¹² [CoinMarketCap Hyperliquid](https://coinmarketcap.com/currencies/hyperliquid/) - Price and market cap data
+[^3]: CoinGecko. "Hyperliquid Exchange Volume and Statistics." https://www.coingecko.com/en/exchanges/hyperliquid (Accessed October 2025)
+**Data Used**: Daily trading volume of $11-15B (futures and spot combined), 24-hour volume trends, trading pair statistics, exchange rankings, volume growth trajectory, and market activity patterns.
 
-### Additional Analysis
-- [Dropstab HYPE Vesting](https://dropstab.com/coins/hyperliquid/vesting) - Vesting schedule visualization
-- [DefiLlama Unlocks](https://defillama.com/unlocks/hyperliquid) - Token unlock tracking
-- [AInvest Analysis](https://www.ainvest.com/news/hyperliquid-hype-token-navigating-vesting-overhangs-price-stability-risks-high-stakes-market-2509/) - Risk analysis
+[^4]: DeFiLlama. "Hyperliquid Protocol Analytics." https://defillama.com/protocol/hyperliquid (Accessed October 2025)
+**Data Used**: Daily revenue of $3.7M (top revenue-generating blockchain), annual revenue run rate of $1.35B, TVL growth from $564M to $2B+ (269% surge Q4 2024), protocol fees, revenue rankings vs other blockchains (surpassing Ethereum, Solana, BNB Chain), and historical financial performance.
+
+### Market Analysis and Economic Research
+
+[^5]: Mint Ventures. "A Quick Overview of Hyperliquid: Product Status, Economic Model and Valuation." https://mint-ventures.medium.com/a-quick-overview-of-hyperliquid-current-product-status-economic-model-and-valuation-bd82bfcfd802 (Published 2024)
+**Data Used**: Economic model showing 93-97% of fees directed to Assistance Fund for HYPE buybacks, protocol profitability analysis vs subsidy-dependent chains, revenue allocation breakdown, competitive positioning in DEX market, and business model sustainability assessment.
+
+[^6]: OAK Research. "Hyperliquid (HYPE): S1 2025 Activity Report." https://oakresearch.io/en/reports/protocols/hyperliquid-hype-s1-2025-activity-report (Published 2025)
+**Data Used**: H1 2025 performance metrics including 70.8% TVL growth, doubled open interest, multiple $10B+ daily volume days, market dominance at 73% of decentralized perpetuals, on-chain activity analysis, and ecosystem development milestones.
+
+[^7]: The Block. "DEX Derivatives Data and Analytics." https://www.theblock.co/data/decentralized-finance/dex-derivatives (Accessed October 2025)
+**Data Used**: Market share data showing Hyperliquid at 73% of decentralized perpetuals volume, competitive landscape analysis, DEX derivatives market trends, volume comparisons with other platforms, and market concentration metrics.
+
+### Token Economics, Vesting, and Unlock Analysis
+
+[^8]: CryptoRank. "Hyperliquid (HYPE) Token Unlocks and Vesting Schedule." https://cryptorank.io/price/hyperliquid/vesting (Accessed October 2025)
+**Data Used**: Detailed vesting schedule - Total max supply 1B HYPE, Genesis Distribution 31% (fully unlocked), Core Contributors 23.8% (236.94M HYPE vesting through 2028), Treasury 18%, Community Airdrop 12.8%, next unlock event November 29 2025, current circulating supply 337M HYPE (33.7%), and monthly unlock projections.
+
+[^9]: Tokenomist. "Hyperliquid (HYPE) Tokenomics and Supply Schedule." https://tokenomist.ai/hyperliquid (Accessed October 2025)
+**Data Used**: Comprehensive tokenomics breakdown - allocation percentages (38.89% Future Emissions, 31% Genesis, 23.8% Core Contributors), cliff vesting mechanism, 24-month vesting period starting November 2025, monthly unlock value of ~$500M at current prices, no VC/exchange allocations, and pure community + team distribution model.
+
+[^10]: Bitget News. "Navigating HYPE's November Token Unlocks: A Critical Inflection Point." https://www.bitget.com/news/detail/12560604941835 (Published 2025)
+**Data Used**: November 2025 unlock analysis showing $12.09B in core contributor tokens at current price, monthly selling pressure potential of $300-500M, cliff vesting model creating sudden liquidity shock, buyback absorption capacity at only 10% of unlock value, and market impact scenarios.
+
+[^11]: ASXN Data. "Hyperliquid Buyback Dashboard." https://data.asxn.xyz/dashboard/hl-buybacks (Accessed October 2025)
+**Data Used**: Assistance Fund real-time tracking - $77M+ total USDC inflows, $1M daily HYPE buybacks, $30M monthly buyback volume, $18.79M monthly allocation from derivatives revenue (54% of derivative trading fees), continuous market purchase mechanism, and historical buyback patterns.
+
+[^12]: CoinMarketCap. "Hyperliquid Price, Market Cap and Charts." https://coinmarketcap.com/currencies/hyperliquid/ (Accessed October 2025)
+**Data Used**: Current HYPE token price (~$51.02), market capitalization, circulating supply metrics, 24-hour trading volume, price history, all-time high/low data, and market rankings.
+
+### Additional Vesting and Risk Analysis
+
+**Dropstab.** "Hyperliquid HYPE Token Unlocks and Vesting Schedules." https://dropstab.com/coins/hyperliquid/vesting (Accessed October 2025)
+**Data Used**: Vesting schedule visualization showing 31.01% unlock progress, 238M HYPE locked, 310.1M HYPE unlocked, upcoming unlock events timeline, and allocation breakdown with unlock dates.
+
+**DefiLlama.** "Hyperliquid HYPE Token Unlocks Tracking." https://defillama.com/unlocks/hyperliquid (Accessed October 2025)
+**Data Used**: Token unlock tracking dashboard, future unlock events calendar, unlock value projections, market impact analysis, and historical unlock performance.
+
+**AInvest.** "Hyperliquid's HYPE Token: Navigating Vesting Overhangs and Price Stability Risks in a High-Stakes Market." https://www.ainvest.com/news/hyperliquid-hype-token-navigating-vesting-overhangs-price-stability-risks-high-stakes-market-2509/ (Published September 2025)
+**Data Used**: Risk analysis of $500M monthly unlocks starting November 2025, buyback absorption at only 17% of unlocks, cliff vesting model creating liquidity shock, whale withdrawal risks, $3M short position analysis, and price stability sustainability concerns.
+
+**OnChain Times.** "Analyzing Hyperliquid's Fundamentals." https://www.onchaintimes.com/analyzing-hyperliquid-fundamentals-2/ (Published 2025)
+**Data Used**: Thor Hartvigsen analysis of 48-hour buyback showing 151,000 HYPE purchased ($686M annualized buy pressure), Assistance Fund mechanism breakdown, fee distribution to HLP vault and insurance fund, revenue estimates of $587.5M annually for HYPE buybacks, and volume-based growth projections.
+
+**OAK Research.** "Hyperliquid (HYPE) Investment Thesis: The House of Finance." https://oakresearch.io/en/reports/protocols/hyperliquid-hype-investment-thesis-the-house-of-finance (Published 2025)
+**Data Used**: Investment framework analyzing revenue growth from $800M (2024) to $1.35B (2025), 69% revenue CAGR, daily revenue increase from $2.2M to $3.7M, profitability comparison vs traditional CEX (Coinbase/Binance), operating margin analysis, and infrastructure cost efficiency.
+
+---
+
+**Methodology Note**: All revenue and financial metrics based on publicly available blockchain data, protocol analytics, and verified third-party research. Token unlock values calculated using current market prices and may fluctuate. Vesting schedules sourced from official documentation and cross-referenced with multiple independent tracking services. Trading volume and revenue figures represent trailing averages unless otherwise specified.
 
 ## Key Insights
 
