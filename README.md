@@ -83,8 +83,6 @@ Including all transparent on-chain revenues (blockchain fees + protocol revenues
 
 ### Infrastructure Revenue Extraction:
 - **Oracle Networks:** $178-365M/year (Chainlink, Pyth, Chronicle, RedStone, UMA)
-- **MEV Infrastructure:** $3-7B/year (searchers, builders, validators)
-- **RPC Providers:** $200-500M/year (Infura, Alchemy, QuickNode, Ankr, The Graph)
 
 ## 📝 Data Sources
 
