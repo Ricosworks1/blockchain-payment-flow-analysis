@@ -34,11 +34,6 @@ The website provides a comprehensive breakdown of blockchain money flows:
 
 ### Pages:
 1. **index.html** - Homepage with executive summary and key statistics
-2. **l1-networks.html** - Analysis of 7 major L1 networks (Ethereum, Bitcoin, Solana, etc.)
-3. **l2-networks.html** - L2 solutions analysis (Base, Arbitrum, Optimism, zkSync)
-4. **infrastructure.html** - Oracle providers, MEV extraction, RPC providers ($3.4-7.9B annually)
-5. **ecosystem.html** - Foundation funding and VC investments ($11-32B annually)
-6. **conclusion.html** - "Digital Tribalism" analysis and final insights
 
 ### Design:
 - **Theme:** Black & white monochrome
@@ -56,9 +51,9 @@ The blockchain ecosystem can be analyzed through two complementary lenses, both 
 Measuring only blockchain-layer transaction fees (excludes protocol revenues):
 
 - **Blockchain Base-Layer Fees:** $3.1B annually
-- **Total Ecosystem Costs:** $120-170B annually
-- **Subsidy Gap:** $117-167B (≈97% subsidy rate)
-- **Key Insight:** Even the most fundamental layer requires massive subsidies
+- **Total Ecosystem Costs:** $86-115B annually
+- **Subsidy Gap:** $72-111B (≈90% subsidy rate)
+- **Key Insight:** Even the most fundamental layer (ETH, SOL, HYPE) requires massive subsidies
 
 #### **Perspective 2: Total On-Chain Revenue Analysis**
 Including all transparent on-chain revenues (blockchain fees + protocol revenues):
@@ -66,11 +61,11 @@ Including all transparent on-chain revenues (blockchain fees + protocol revenues
 - **Total On-Chain Revenue:** $13.7B annually
   - Blockchain base-layer fees: $3.1B
   - Protocol-level revenues (DeFi, L2s, DEXs, staking): $10.6B
-- **Total Ecosystem Costs:** $115-155B annually
-- **Subsidy Gap:** $101.3-141.3B (≈85-90% subsidy rate)
+- **Total Ecosystem Costs:** $86-115B annually
+- **Subsidy Gap:** $72-111B (≈90% subsidy rate)
 - **Key Insight:** Even with all on-chain revenues, 85-90% still comes from subsidies
 
-**Bottom Line:** Regardless of measurement approach, the blockchain industry operates on $115-170B annually, with 85-97% funded by subsidies rather than sustainable user fees.
+**Bottom Line:** Regardless of measurement approach, the blockchain industry operates on de minimis $86-115B annually, with 85-90% funded by subsidies rather than sustainable user fees.
 
 ### How the Subsidy Gap is Financed:
 
