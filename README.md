@@ -70,8 +70,8 @@ Including all transparent on-chain revenues (blockchain fees + protocol revenues
 ### How the Subsidy Gap is Financed:
 
 **Primary Subsidies ($55-72B):**
-- Token Inflation: $30-50B/year (ETH, SOL, other L1/L2 issuance)
-- Token Unlocks: $10-20B/year (scheduled vesting to investors/teams)
+- Token Inflation: $31-39B/year (ETH, SOL, other L1/L2 issuance)
+- Token Unlocks: $20-29B/year (scheduled vesting to investors/teams)
 - Corporate Backing: $3.9B/year (BNB burns, others)
 
 **Supplementary Value Flows ($29-43B):**
