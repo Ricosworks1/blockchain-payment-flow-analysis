@@ -78,7 +78,7 @@ Including all transparent on-chain revenues (blockchain fees + protocol revenues
 **Supplementary Value Flows ($29-43B):**
 - VC Investments: $10-20B/year
 - MEV Extraction: $3-7B/year
-- Binance Exchange Profits: $14B/year (ecosystem support)
+- Binance Exchange Profits: $14B/year (ecosystem extraction/support?)
 - Foundation Grants: $1-2B/year
 - Infrastructure Revenue: $0.5-1B/year
 
