@@ -1,0 +1,625 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blockchain Money Flow Analysis</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #333;
+            padding: 20px;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+        }
+
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .subtitle {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+
+        .chart-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+            gap: 30px;
+            margin-bottom: 30px;
+        }
+
+        .chart-container {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            transition: transform 0.3s ease;
+        }
+
+        .chart-container:hover {
+            transform: translateY(-5px);
+        }
+
+        .chart-title {
+            font-size: 1.5em;
+            font-weight: 600;
+            margin-bottom: 20px;
+            color: #667eea;
+            text-align: center;
+        }
+
+        .chart-wrapper {
+            position: relative;
+            height: 400px;
+        }
+
+        .chart-wrapper.wide {
+            height: 280px;
+        }
+
+        .legend {
+            background: white;
+            border-radius: 10px;
+            padding: 20px;
+            margin-top: 30px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+
+        .legend h3 {
+            color: #667eea;
+            margin-bottom: 15px;
+        }
+
+        .legend-item {
+            margin-bottom: 10px;
+            padding: 10px;
+            background: #f8f9fa;
+            border-radius: 5px;
+        }
+
+        .legend-item strong {
+            color: #764ba2;
+        }
+
+        .info-box {
+            background: rgba(255,255,255,0.95);
+            border-radius: 10px;
+            padding: 20px;
+            margin-top: 20px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+
+        .info-box h3 {
+            color: #667eea;
+            margin-bottom: 10px;
+        }
+
+        @media (max-width: 768px) {
+            .chart-grid {
+                grid-template-columns: 1fr;
+            }
+
+            h1 {
+                font-size: 1.8em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Blockchain Money Flow Analysis</h1>
+            <p class="subtitle">Understanding Where Your $1 Transaction Fee Goes</p>
+            <p style="margin-top: 10px; font-size: 0.9em;">Source: Economic Value Distribution in Blockchain Ecosystems (October 2025)</p>
+        </header>
+
+        <div class="chart-grid">
+            <!-- Chart 1: Direct Fee Recipients Pie Chart -->
+            <div class="chart-container">
+                <h2 class="chart-title">Direct Recipients: Where $1 Goes (Average)</h2>
+                <div class="chart-wrapper">
+                    <canvas id="directRecipientsChart"></canvas>
+                </div>
+            </div>
+
+            <!-- Chart 2: Network Comparison Bar Chart -->
+            <div class="chart-container">
+                <h2 class="chart-title">Fee Distribution by Network</h2>
+                <div class="chart-wrapper">
+                    <canvas id="networkComparisonChart"></canvas>
+                </div>
+            </div>
+
+            <!-- Chart 3: External Infrastructure Costs -->
+            <div class="chart-container">
+                <h2 class="chart-title">External Infrastructure Costs (Annual)</h2>
+                <p style="text-align: center; color: #666; margin-top: -10px; margin-bottom: 15px; font-size: 0.95em;">Total: $27.1B annually</p>
+                <div class="chart-wrapper wide">
+                    <canvas id="externalCostsChart"></canvas>
+                </div>
+            </div>
+
+            <!-- Chart 4: Total Ecosystem Funding -->
+            <div class="chart-container">
+                <h2 class="chart-title">Total Ecosystem Funding Beyond User Fees</h2>
+                <p style="text-align: center; color: #666; margin-top: -10px; margin-bottom: 15px; font-size: 0.95em;">Total: $90.1B annually (vs. $13.7B on-chain revenue)</p>
+                <div class="chart-wrapper wide">
+                    <canvas id="ecosystemFundingChart"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <div class="info-box">
+            <h3>Key Insights from October 2025 Report</h3>
+            <div class="legend-item">
+                <strong>Total Ecosystem Funding:</strong> $86-113B annually, with only ~$13.7B from transparent on-chain revenues
+            </div>
+            <div class="legend-item">
+                <strong>Subsidy Economy:</strong> 85-90% of blockchain economic activity is sustained by token issuance, VC funding, and external capital rather than user fees
+            </div>
+            <div class="legend-item">
+                <strong>Hidden Infrastructure Costs:</strong> Oracle providers ($178M-365M), RPC services ($200-500M), and MEV extractors ($3-7B) operate mostly invisible to end users
+            </div>
+            <div class="legend-item">
+                <strong>Key Finding:</strong> User-generated fees represent less than 1% of total annual economic activity across major Layer-1 networks (Hyperliquid is the sole exception generating $0.9-1.35B annually)
+            </div>
+            <div class="legend-item">
+                <strong>Subsidy Breakdown:</strong> Token unlocks ($10-20B), Bitcoin mining issuance ($18.1B), Ethereum staking inflation ($4-5B), Solana staking inflation ($4-5B), other L1/L2 issuance ($15-20B), corporate support ($3.9B BNB burns)
+            </div>
+        </div>
+
+        <div class="legend">
+            <h3>Money Flow Categories (Annual Totals)</h3>
+            <div class="legend-item">
+                <strong>Validators/Miners/Stakers:</strong> $50-75B annually - Network security providers receiving fee revenue directly plus token inflation rewards
+            </div>
+            <div class="legend-item">
+                <strong>Token Burn Mechanisms:</strong> Reducing supply to benefit all token holders (Ethereum burns ~40K ETH annually post-Dencun, while issuing ~960K ETH to stakers)
+            </div>
+            <div class="legend-item">
+                <strong>Protocol Treasuries & Foundations:</strong> $1-2B annually - DAOs and foundations receiving fee shares and distributing grants for ecosystem development
+            </div>
+            <div class="legend-item">
+                <strong>MEV Infrastructure:</strong> $3-7B annually - Searchers (60-70%), validators (10-15%), builders (15-25%), and relay operators (1-5%) capturing Maximal Extractable Value
+            </div>
+            <div class="legend-item">
+                <strong>Infrastructure Services:</strong> Oracle providers ($178M-365M led by Chainlink), RPC providers ($200-500M including Infura, Alchemy, QuickNode), and indexing services ($30-80M including The Graph)
+            </div>
+            <div class="legend-item">
+                <strong>VC & Early Investors:</strong> $10-30B annually - Venture capital firms deploying fresh capital and realizing value through token unlocks
+            </div>
+        </div>
+
+        <div class="info-box" style="margin-top: 30px;">
+            <h3>Report Summary: The Blockchain Subsidy Economy</h3>
+            <p style="line-height: 1.6; margin-bottom: 15px;">
+                This analysis reveals that blockchain operates as a <strong>subsidized economy</strong> where approximately <strong>85-90% of total value flows</strong> are sustained not by organic user demand, but by token issuance, foundation spending, venture financing, and speculative capital rotation.
+            </p>
+            <p style="line-height: 1.6; margin-bottom: 15px;">
+                <strong>Core Finding:</strong> The blockchain sector operates on an annualized funding base of roughly <strong>$86-113B</strong>, with approximately <strong>$13-14B</strong> coming from transparent, on-chain revenues and the remainder from inflationary, issuance-based, and off-chain subsidies.
+            </p>
+            <p style="line-height: 1.6; margin-bottom: 15px;">
+                <strong>Notable Exception:</strong> Hyperliquid currently ranks as the highest revenue-generating blockchain ecosystem with annualized revenues of <strong>$0.9-1.4B</strong>, demonstrating genuine operational profitability. However, it faces a <strong>$12B team unlock</strong> in 2026.
+            </p>
+            <p style="line-height: 1.6; margin-bottom: 15px;">
+                <strong>Infrastructure Reality:</strong> Bitcoin requires <strong>$54-72B annually</strong> to secure <strong>$115M</strong> in fees. Ethereum shifted from deflationary to 0.8% inflation post-Dencun. Solana depends on <strong>$4.5-5B</strong> in annual subsidies versus <strong>$55M</strong> in daily fees.
+            </p>
+            <p style="line-height: 1.6; margin-bottom: 0;">
+                <strong>Source:</strong> <em>Economic Value Distribution in Blockchain Ecosystems</em> - A Multi-Chain Analysis covering 25+ chains and L2 solutions, 20 top protocols, and 14 oracles (December 2024 - October 2025). Full report available in the GitHub repository.
+            </p>
+        </div>
+    </div>
+
+    <script>
+        // Chart 1: Direct Fee Recipients (Average across major networks)
+        const directRecipientsCtx = document.getElementById('directRecipientsChart').getContext('2d');
+        new Chart(directRecipientsCtx, {
+            type: 'pie',
+            data: {
+                labels: ['Validators/Miners', 'Token Burn', 'Protocol Treasury', 'L1 Settlement', 'MEV Capture'],
+                datasets: [{
+                    data: [40, 35, 15, 5, 5],
+                    backgroundColor: [
+                        '#667eea',
+                        '#764ba2',
+                        '#f093fb',
+                        '#4facfe',
+                        '#43e97b'
+                    ],
+                    borderWidth: 2,
+                    borderColor: '#fff'
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        position: 'bottom',
+                        labels: {
+                            padding: 15,
+                            font: {
+                                size: 12
+                            }
+                        }
+                    },
+                    tooltip: {
+                        callbacks: {
+                            label: function(context) {
+                                return context.label + ': $' + (context.parsed / 100).toFixed(2) + ' per $1 fee';
+                            }
+                        }
+                    },
+                    datalabels: {
+                        color: '#fff',
+                        font: {
+                            size: 14,
+                            weight: 'bold'
+                        },
+                        formatter: function(value, context) {
+                            return '$' + (value / 100).toFixed(2) + '\n(' + value + '%)';
+                        }
+                    }
+                }
+            },
+            plugins: [{
+                id: 'customLabels',
+                afterDatasetsDraw: function(chart) {
+                    const ctx = chart.ctx;
+                    chart.data.datasets.forEach(function(dataset, i) {
+                        const meta = chart.getDatasetMeta(i);
+                        if (!meta.hidden) {
+                            meta.data.forEach(function(element, index) {
+                                ctx.fillStyle = '#fff';
+                                const fontSize = 13;
+                                const fontStyle = 'bold';
+                                const fontFamily = 'Arial';
+                                ctx.font = fontStyle + ' ' + fontSize + 'px ' + fontFamily;
+
+                                const dataString = '$' + (dataset.data[index] / 100).toFixed(2);
+                                const percentString = dataset.data[index] + '%';
+
+                                ctx.textAlign = 'center';
+                                ctx.textBaseline = 'middle';
+                                const position = element.tooltipPosition();
+
+                                ctx.fillText(dataString, position.x, position.y - 8);
+                                ctx.fillText(percentString, position.x, position.y + 8);
+                            });
+                        }
+                    });
+                }
+            }]
+        });
+
+        // Chart 2: Network Comparison
+        const networkComparisonCtx = document.getElementById('networkComparisonChart').getContext('2d');
+        new Chart(networkComparisonCtx, {
+            type: 'bar',
+            data: {
+                labels: ['Ethereum', 'Bitcoin', 'Solana', 'BNB Chain', 'Base', 'Arbitrum'],
+                datasets: [
+                    {
+                        label: 'Validators/Miners',
+                        data: [0.15, 1.00, 0.75, 0.90, 0.00, 0.00],
+                        backgroundColor: '#667eea'
+                    },
+                    {
+                        label: 'Token Burn',
+                        data: [0.85, 0.00, 0.25, 0.10, 0.00, 0.00],
+                        backgroundColor: '#764ba2'
+                    },
+                    {
+                        label: 'Protocol Treasury',
+                        data: [0.00, 0.00, 0.00, 0.00, 0.80, 0.65],
+                        backgroundColor: '#f093fb'
+                    },
+                    {
+                        label: 'OP Superchain',
+                        data: [0.00, 0.00, 0.00, 0.00, 0.05, 0.00],
+                        backgroundColor: '#FF6B9D'
+                    },
+                    {
+                        label: 'L1 Settlement',
+                        data: [0.00, 0.00, 0.00, 0.00, 0.15, 0.35],
+                        backgroundColor: '#4facfe'
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    x: {
+                        stacked: true,
+                        grid: {
+                            display: false
+                        }
+                    },
+                    y: {
+                        stacked: true,
+                        beginAtZero: true,
+                        max: 1,
+                        ticks: {
+                            callback: function(value) {
+                                return '$' + value.toFixed(2);
+                            }
+                        }
+                    }
+                },
+                plugins: {
+                    legend: {
+                        position: 'bottom',
+                        labels: {
+                            padding: 10,
+                            font: {
+                                size: 11
+                            }
+                        }
+                    },
+                    tooltip: {
+                        callbacks: {
+                            label: function(context) {
+                                return context.dataset.label + ': $' + context.parsed.y.toFixed(2);
+                            }
+                        }
+                    }
+                }
+            },
+            plugins: [{
+                id: 'stackedBarLabels',
+                afterDatasetsDraw: function(chart) {
+                    const ctx = chart.ctx;
+                    chart.data.datasets.forEach(function(dataset, datasetIndex) {
+                        const meta = chart.getDatasetMeta(datasetIndex);
+                        if (!meta.hidden) {
+                            meta.data.forEach(function(bar, index) {
+                                const value = dataset.data[index];
+
+                                // Only show label if value is greater than 0
+                                if (value > 0) {
+                                    ctx.fillStyle = '#fff';
+                                    const fontSize = 12;
+                                    const fontStyle = 'bold';
+                                    const fontFamily = 'Arial';
+                                    ctx.font = fontStyle + ' ' + fontSize + 'px ' + fontFamily;
+
+                                    const dataString = '$' + value.toFixed(2);
+
+                                    ctx.textAlign = 'center';
+                                    ctx.textBaseline = 'middle';
+
+                                    const x = bar.x;
+                                    const y = bar.y + (bar.height / 2);
+
+                                    ctx.fillText(dataString, x, y);
+                                }
+                            });
+                        }
+                    });
+                }
+            }]
+        });
+
+        // Chart 3: External Infrastructure Costs
+        const externalCostsCtx = document.getElementById('externalCostsChart').getContext('2d');
+        new Chart(externalCostsCtx, {
+            type: 'doughnut',
+            data: {
+                labels: ['MEV Infrastructure', 'Oracle Providers', 'RPC/Infrastructure', 'Foundation Grants', 'VC Investments'],
+                datasets: [{
+                    data: [5000, 272, 350, 1500, 20000],
+                    backgroundColor: [
+                        '#667eea',
+                        '#764ba2',
+                        '#f093fb',
+                        '#4facfe',
+                        '#43e97b'
+                    ],
+                    borderWidth: 2,
+                    borderColor: '#fff'
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        position: 'bottom',
+                        labels: {
+                            padding: 15,
+                            font: {
+                                size: 11
+                            },
+                            generateLabels: function(chart) {
+                                const data = chart.data;
+                                if (data.labels.length && data.datasets.length) {
+                                    return data.labels.map(function(label, i) {
+                                        const value = data.datasets[0].data[i];
+                                        const valueString = value >= 1000 ? '$' + (value/1000).toFixed(1) + 'B' : '$' + value + 'M';
+                                        return {
+                                            text: label + ': ' + valueString,
+                                            fillStyle: data.datasets[0].backgroundColor[i],
+                                            hidden: false,
+                                            index: i
+                                        };
+                                    });
+                                }
+                                return [];
+                            }
+                        }
+                    },
+                    tooltip: {
+                        callbacks: {
+                            label: function(context) {
+                                return context.label + ': $' + context.parsed.toLocaleString() + 'M annually';
+                            }
+                        }
+                    }
+                }
+            },
+            plugins: [{
+                id: 'doughnutLabels',
+                afterDatasetsDraw: function(chart) {
+                    const ctx = chart.ctx;
+                    const total = chart.data.datasets[0].data.reduce((a, b) => a + b, 0);
+                    const chartArea = chart.chartArea;
+                    const centerX = (chartArea.left + chartArea.right) / 2;
+                    const centerY = (chartArea.top + chartArea.bottom) / 2;
+
+                    chart.data.datasets.forEach(function(dataset, i) {
+                        const meta = chart.getDatasetMeta(i);
+                        if (!meta.hidden) {
+                            meta.data.forEach(function(element, index) {
+                                const value = dataset.data[index];
+                                const percentage = ((value / total) * 100).toFixed(1);
+                                const label = chart.data.labels[index];
+
+                                // Get the position of the slice
+                                const model = element;
+                                const midAngle = (model.startAngle + model.endAngle) / 2;
+
+                                // Calculate point on edge of slice
+                                const radius = model.outerRadius;
+                                const x1 = centerX + Math.cos(midAngle) * radius;
+                                const y1 = centerY + Math.sin(midAngle) * radius;
+
+                                // Calculate point for label (further out)
+                                const labelRadius = radius + 40;
+                                const x2 = centerX + Math.cos(midAngle) * labelRadius;
+                                const y2 = centerY + Math.sin(midAngle) * labelRadius;
+
+                                // Draw line from slice to label
+                                ctx.strokeStyle = '#333';
+                                ctx.lineWidth = 1;
+                                ctx.beginPath();
+                                ctx.moveTo(x1, y1);
+                                ctx.lineTo(x2, y2);
+                                ctx.stroke();
+
+                                // Draw label text
+                                ctx.fillStyle = '#000';
+                                ctx.font = 'bold 11px Arial';
+                                ctx.textBaseline = 'middle';
+
+                                // Align text based on which side of chart
+                                if (x2 > centerX) {
+                                    ctx.textAlign = 'left';
+                                    ctx.fillText(label + ' (' + percentage + '%)', x2 + 5, y2);
+                                } else {
+                                    ctx.textAlign = 'right';
+                                    ctx.fillText(label + ' (' + percentage + '%)', x2 - 5, y2);
+                                }
+                            });
+                        }
+                    });
+                }
+            }]
+        });
+
+        // Chart 4: Total Ecosystem Funding
+        const ecosystemFundingCtx = document.getElementById('ecosystemFundingChart').getContext('2d');
+        new Chart(ecosystemFundingCtx, {
+            type: 'bar',
+            data: {
+                labels: ['Token Inflation', 'VC Investments', 'MEV Extraction', 'Foundation Spending', 'Infrastructure'],
+                datasets: [{
+                    label: 'Annual Value (Billions USD)',
+                    data: [63, 20, 5, 1.5, 0.62],
+                    backgroundColor: [
+                        '#667eea',
+                        '#764ba2',
+                        '#f093fb',
+                        '#4facfe',
+                        '#43e97b'
+                    ],
+                    borderWidth: 0
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                indexAxis: 'y',
+                scales: {
+                    x: {
+                        beginAtZero: true,
+                        ticks: {
+                            callback: function(value) {
+                                return '$' + value + 'B';
+                            }
+                        }
+                    },
+                    y: {
+                        grid: {
+                            display: false
+                        }
+                    }
+                },
+                plugins: {
+                    legend: {
+                        display: false
+                    },
+                    tooltip: {
+                        callbacks: {
+                            label: function(context) {
+                                return '$' + context.parsed.x.toFixed(1) + 'B annually';
+                            }
+                        }
+                    }
+                }
+            },
+            plugins: [{
+                id: 'horizontalBarLabels',
+                afterDatasetsDraw: function(chart) {
+                    const ctx = chart.ctx;
+                    chart.data.datasets.forEach(function(dataset, datasetIndex) {
+                        const meta = chart.getDatasetMeta(datasetIndex);
+                        if (!meta.hidden) {
+                            meta.data.forEach(function(bar, index) {
+                                const value = dataset.data[index];
+
+                                ctx.fillStyle = '#fff';
+                                const fontSize = 14;
+                                const fontStyle = 'bold';
+                                const fontFamily = 'Arial';
+                                ctx.font = fontStyle + ' ' + fontSize + 'px ' + fontFamily;
+
+                                const dataString = '$' + value.toFixed(1) + 'B';
+
+                                ctx.textAlign = 'left';
+                                ctx.textBaseline = 'middle';
+
+                                const x = bar.x + 10;
+                                const y = bar.y;
+
+                                ctx.fillText(dataString, x, y);
+                            });
+                        }
+                    });
+                }
+            }]
+        });
+    </script>
+</body>
+</html>

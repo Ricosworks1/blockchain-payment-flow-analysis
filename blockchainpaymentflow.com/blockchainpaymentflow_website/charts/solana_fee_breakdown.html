@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Solana Fee Breakdown - Clean</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            background: white;
+            font-family: Arial, sans-serif;
+        }
+
+        .chart-container {
+            width: 900px;
+            height: 600px;
+            margin: 0 auto;
+            background: white;
+            border: 1px solid #ccc;
+        }
+    </style>
+</head>
+<body>
+    <div class="chart-container">
+        <canvas id="solanaChart"></canvas>
+    </div>
+
+    <script>
+        // Solana Payment Flow Analysis
+        // When a user pays $1 in fees:
+        // - Validators receive $0.50-1.00 (50% base fees + 100% priority fees)
+        // - Token burn: $0.00-0.50 (50% of base fees)
+        // - Daily issuance: 51,000 SOL ($10.2M at $200/SOL)
+        // - Annual inflation: 4.26% diluting non-stakers
+        // - Staking rewards: $4.5-5B annually (8% yield on 297M SOL staked)
+        // - Jito MEV: $800M-1.2B annually
+        // - Token unlocks: Completed (no ongoing programmatic unlocks)
+        // Total ecosystem funding: ~$5-6B annually vs $55M user fees
+        const ctx = document.getElementById('solanaChart').getContext('2d');
+
+        new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: ['Combined Transaction Cost', 'User Costs vs Ecosystem Funding'],
+                datasets: [
+                    {
+                        label: 'Validators',
+                        data: [0.75, 0],
+                        backgroundColor: '#9945ff'
+                    },
+                    {
+                        label: 'Token Burn',
+                        data: [0.25, 0],
+                        backgroundColor: '#14f195'
+                    },
+                    {
+                        label: 'Staking Rewards',
+                        data: [91.0, 0],
+                        backgroundColor: '#ff6b9d'
+                    },
+                    {
+                        label: 'Jito MEV',
+                        data: [20.0, 0],
+                        backgroundColor: '#c471ed'
+                    },
+                    {
+                        label: 'User Costs',
+                        data: [0, 1.00],
+                        backgroundColor: '#2980b9'
+                    },
+                    {
+                        label: 'Ecosystem Economy',
+                        data: [0, 111.0],
+                        backgroundColor: '#e67e22'
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: true,
+                layout: {
+                    padding: {
+                        top: 80,
+                        bottom: 120
+                    }
+                },
+                plugins: {
+                    title: {
+                        display: true,
+                        text: 'Solana Transaction Costs: User Fee vs Hidden Ecosystem Economy',
+                        font: {
+                            size: 18,
+                            weight: 'bold'
+                        },
+                        color: '#2c3e50',
+                        padding: 25
+                    },
+                    legend: {
+                        display: false
+                    },
+                    tooltip: {
+                        enabled: false
+                    }
+                },
+                scales: {
+                    x: {
+                        stacked: true,
+                        ticks: {
+                            font: {
+                                size: 14,
+                                weight: 'bold'
+                            },
+                            color: '#2c3e50'
+                        },
+                        grid: {
+                            display: false
+                        }
+                    },
+                    y: {
+                        stacked: true,
+                        beginAtZero: true,
+                        max: 150,
+                        title: {
+                            display: true,
+                            text: 'Cost (USD)',
+                            font: {
+                                size: 16,
+                                weight: 'bold'
+                            },
+                            color: '#2c3e50'
+                        },
+                        ticks: {
+                            callback: function(value) {
+                                return '$' + value.toFixed(0);
+                            },
+                            font: {
+                                size: 14
+                            },
+                            color: '#2c3e50'
+                        },
+                        grid: {
+                            color: '#e0e0e0'
+                        }
+                    }
+                },
+                animation: false
+            },
+            plugins: [{
+                id: 'customLabels',
+                afterDatasetsDraw: function(chart) {
+                    const ctx = chart.ctx;
+                    ctx.textAlign = 'center';
+                    ctx.textBaseline = 'middle';
+
+                    // Clear data labels on bars
+                    ctx.fillStyle = 'white';
+
+                    chart.data.datasets.forEach((dataset, datasetIndex) => {
+                        const meta = chart.getDatasetMeta(datasetIndex);
+                        meta.data.forEach((bar, index) => {
+                            const value = dataset.data[index];
+                            if (value > 0) {
+                                const x = bar.x;
+                                const barHeight = bar.base - bar.y;
+                                const barCenterY = bar.y + (barHeight / 2);
+
+                                // Adjust font size based on bar height
+                                let fontSize = Math.max(9, Math.min(12, barHeight / 20));
+                                ctx.font = fontSize + 'px Arial';
+
+                                // Only show text if bar is tall enough
+                                if (barHeight > 15) {
+                                    if (datasetIndex === 0) { // Validators
+                                        if (barHeight > 25) {
+                                            ctx.fillText('$0.75', x, barCenterY - 6);
+                                            ctx.fillText('VALIDATORS', x, barCenterY + 6);
+                                        }
+                                    } else if (datasetIndex === 1) { // Token Burn
+                                        if (barHeight > 20) {
+                                            ctx.fillText('$0.25', x, barCenterY - 6);
+                                            ctx.fillText('BURN', x, barCenterY + 6);
+                                        }
+                                    } else if (datasetIndex === 2) { // Staking Rewards
+                                        ctx.fillText('$91', x, barCenterY - 8);
+                                        ctx.fillText('STAKING', x, barCenterY + 8);
+                                    } else if (datasetIndex === 3) { // Jito MEV
+                                        ctx.fillText('$20', x, barCenterY - 8);
+                                        ctx.fillText('JITO MEV', x, barCenterY + 8);
+                                    } else if (datasetIndex === 4) { // User Costs
+                                        if (barHeight > 30) {
+                                            ctx.fillText('$1.00', x, barCenterY - 8);
+                                            ctx.fillText('USER COSTS', x, barCenterY + 8);
+                                        }
+                                    } else if (datasetIndex === 5) { // Ecosystem Economy
+                                        ctx.fillText('$111', x, barCenterY - 8);
+                                        ctx.fillText('ECOSYSTEM', x, barCenterY + 8);
+                                    }
+                                }
+                            }
+                        });
+                    });
+
+                    // Total labels above bars
+                    ctx.font = 'bold 16px Arial';
+                    ctx.fillStyle = '#2c3e50';
+
+                    const firstBarX = chart.getDatasetMeta(0).data[0].x;
+                    const secondBarX = chart.getDatasetMeta(4).data[1].x;
+
+                    // First bar total
+                    ctx.fillText('TOTAL: $112', firstBarX, 50);
+                    ctx.font = '12px Arial';
+                    ctx.fillStyle = '#9945ff';
+                    ctx.fillText('(Detailed Breakdown)', firstBarX, 70);
+
+                    // Second bar total
+                    ctx.font = 'bold 16px Arial';
+                    ctx.fillStyle = '#2c3e50';
+                    ctx.fillText('TOTAL: $112', secondBarX, 50);
+                    ctx.font = '12px Arial';
+                    ctx.fillStyle = '#7f8c8d';
+                    ctx.fillText('(User vs Ecosystem)', secondBarX, 70);
+
+                    // Key insight at bottom
+                    const chartBottom = chart.chartArea.bottom;
+                    ctx.font = 'bold 14px Arial';
+                    ctx.fillStyle = '#9945ff';
+                    ctx.fillText('KEY INSIGHT: Your $1 Solana fee triggers $112 total economic activity', chart.width / 2, chartBottom + 40);
+
+                    ctx.font = '12px Arial';
+                    ctx.fillStyle = '#7f8c8d';
+                    ctx.fillText('Direct user fees ($1) + Ecosystem funding ($111) = True transaction cost', chart.width / 2, chartBottom + 60);
+                    ctx.fillText('Ecosystem economy is 111x larger than user fees through staking rewards and MEV', chart.width / 2, chartBottom + 75);
+
+                    // Simple legend at bottom
+                    const legendY = chartBottom + 100;
+                    const legendItems = [
+                        { color: '#9945ff', text: 'Validators ($0.75)' },
+                        { color: '#14f195', text: 'Token Burn ($0.25)' },
+                        { color: '#ff6b9d', text: 'Staking ($91)' },
+                        { color: '#c471ed', text: 'Jito MEV ($20)' },
+                        { color: '#2980b9', text: 'User Costs ($1)' },
+                        { color: '#e67e22', text: 'Ecosystem ($111)' }
+                    ];
+
+                    const itemWidth = 140;
+                    const startX = (chart.width - (legendItems.length * itemWidth)) / 2;
+
+                    legendItems.forEach((item, index) => {
+                        const x = startX + (index * itemWidth);
+
+                        // Color box
+                        ctx.fillStyle = item.color;
+                        ctx.fillRect(x, legendY - 8, 15, 15);
+
+                        // Text
+                        ctx.fillStyle = '#2c3e50';
+                        ctx.font = '10px Arial';
+                        ctx.textAlign = 'left';
+                        ctx.fillText(item.text, x + 20, legendY);
+                    });
+                }
+            }]
+        });
+    </script>
+</body>
+</html>
