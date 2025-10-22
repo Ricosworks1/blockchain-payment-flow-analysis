@@ -90,9 +90,9 @@ Including all transparent on-chain revenues (blockchain fees + protocol revenues
 ## 📝 Data Sources
 
 - **On-chain analytics:** DeFiLlama (October 2025 data)
-- **Foundation disclosures:** Public treasury reports (mostly up to dec. 2024 for Claude related queries)
-- **Governance proposals:** DAO governance forums (mostly up to dec. 2024 for Claude related queries)
-- **Financial reports:** Corporate filings and announcements (mostly up to dec. 2024 for Claude related queries)
+- **Foundation disclosures:** Public treasury reports (mostly up to Dec. 2024 for Claude-related queries)
+- **Governance proposals:** DAO governance forums (mostly up to Dec. 2024 for Claude-related queries)
+- **Financial reports:** Corporate filings and announcements (mostly up to Dec. 2024 for Claude-related queries)
 
 ## 🔬 Research Methodology
 
@@ -101,7 +101,7 @@ This comprehensive blockchain payment flow analysis was produced through a multi
 ### Phase 1: Data Collection & Aggregation (Week 1-2)
 
 **Primary Data Sources:**
-- **DeFiLlama:** Real-time on-chain metrics for 25+ networks (fees, TVL, volume etc.)
+- **DeFiLlama:** Real-time on-chain metrics for 25+ networks (fees, TVL, volume, etc.)
 - **Ultrasound.money:** Ethereum burn/issuance data and validator economics
 - **Token Terminal:** Protocol revenue and fee data across 20+ DeFi protocols
 - **CoinGecko/CoinMarketCap:** Market cap, circulating supply, token unlock schedules
@@ -166,7 +166,7 @@ For each of the 25+ networks studied, we conducted:
 
 3. **Protocol Economics:**
    - 20+ top protocols analyzed (Uniswap, Aave, Lido, MakerDAO, etc.)
-   - Revenue models, fee capture mechanisms, sustainability
+   - Revenue models, fee capture mechanisms and sustainability
    - Token holder value accrual vs. treasury accumulation
 
 **Analysis Techniques:**
@@ -269,8 +269,8 @@ The final report, website, and repository were created using **Claude Code, VSC,
 - Revenue estimates based on available public data; some protocols don't disclose full financials
 - VC investment figures aggregated from public announcements (actual deal terms often confidential)
 - Oracle provider revenue estimated from market analysis and disclosed customer counts
-- Foundation spending extrapolated from annual reports where quarterly data unavailable
-- AI training for Claude as of end of 2024, hence limited for full review up to Oct. 2025
+- Foundation spending extrapolated from annual reports, where quarterly data is  unavailable
+- AI training for Claude as of the end of 2024, hence limited for full review up to Oct. 2025
 
 **Temporal Scope:**
 - Primary data collection: September-October 2025
@@ -281,7 +281,7 @@ The final report, website, and repository were created using **Claude Code, VSC,
 - Conservative estimates preferred when ranges exist
 - Annualization assumes consistent activity (may not reflect seasonal variations)
 - Subsidy calculations include all non-fee funding sources (inflation, unlocks, grants, VC)
-- "Profitability" defined as fee revenue > operational costs (excluding token appreciation)
+- "Profitability" is defined as fee revenue > operational costs (excluding token appreciation)
 
 ### Reproducibility
 
@@ -294,7 +294,7 @@ Analysis is reproducible using:
 ---
 
 **Research Lead:** Maze2 SA Research Team
-**AI Development Partner:** Claude Code (Anthropic), Cursor AI, Windsurf IDE, Grok, ChatGPT
+**AI Development Tools:** Claude Code (Anthropic), Cursor AI, Windsurf IDE, Grok, ChatGPT
 **Publication Date:** October 2025
 **Last Updated:** October 22, 2025
 
@@ -313,4 +313,4 @@ All rights reserved © 2025 Maze2 SA
 
 ---
 
-*Analysis revealing the blockchain industry as modern digital tribalism: where finance becomes fandom, and 90% of costs are funded by subsidies rather than user fees.*
+*Analysis revealing the blockchain industry as modern digital tribalism: where finance becomes fandom, and subsidies rather than user fees fund 90% of costs.*
