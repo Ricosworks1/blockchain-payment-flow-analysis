@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oracle Infrastructure - The Hidden Recipients (5D Analysis)</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns"></script>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: white;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            background: rgba(255,255,255,0.1);
+            padding: 20px;
+            border-radius: 15px;
+            backdrop-filter: blur(10px);
+        }
+
+        .chart-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            grid-gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .chart-container {
+            background: rgba(255,255,255,0.95);
+            border-radius: 15px;
+            padding: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+        }
+
+        .main-chart {
+            grid-column: 1 / -1;
+            height: 600px;
+        }
+
+        .sub-chart {
+            height: 400px;
+        }
+
+        .metrics-panel {
+            background: rgba(255,255,255,0.1);
+            border-radius: 15px;
+            padding: 20px;
+            margin-top: 20px;
+        }
+
+        .metric-row {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 10px;
+            padding: 10px;
+            background: rgba(255,255,255,0.1);
+            border-radius: 8px;
+        }
+
+        .controls {
+            text-align: center;
+            margin: 20px 0;
+        }
+
+        .control-btn {
+            background: rgba(255,255,255,0.2);
+            color: white;
+            border: 1px solid rgba(255,255,255,0.3);
+            padding: 10px 20px;
+            margin: 0 5px;
+            border-radius: 25px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .control-btn:hover, .control-btn.active {
+            background: rgba(255,255,255,0.4);
+            transform: translateY(-2px);
+        }
+
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .subtitle {
+            font-size: 1.2em;
+            opacity: 0.9;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🔮 Oracle Infrastructure: The Hidden Recipients</h1>
+            <p class="subtitle">5D Analysis: Revenue vs TVS vs Market Share vs Sustainability vs Innovation</p>
+            <p>$211M annual revenue economy securing $189B+ TVS across 1,153 protocols</p>
+            <p style="font-size: 0.85em; margin-top: 5px; opacity: 0.85;">Data: September 2025 CSV + October 2025 Web Research</p>
+        </div>
+
+        <div class="controls">
+            <button class="control-btn active" onclick="showDimension('revenue', event)">💰 Revenue Model</button>
+            <button class="control-btn" onclick="showDimension('volume', event)">📊 TVS & Growth</button>
+            <button class="control-btn" onclick="showDimension('market', event)">🎯 Market Share</button>
+            <button class="control-btn" onclick="showDimension('sustainability', event)">🌱 Sustainability</button>
+            <button class="control-btn" onclick="showDimension('innovation', event)">🚀 Innovation</button>
+        </div>
+
+        <div class="chart-grid">
+            <div class="chart-container main-chart">
+                <canvas id="mainChart"></canvas>
+            </div>
+
+            <div class="chart-container sub-chart">
+                <canvas id="subChart1"></canvas>
+            </div>
+
+            <div class="chart-container sub-chart">
+                <canvas id="subChart2"></canvas>
+            </div>
+        </div>
+
+        <div class="metrics-panel">
+            <div class="metric-row">
+                <span><strong>Chainlink:</strong> Market Leader (51.3% share)</span>
+                <span>$105-220M annual revenue ($162.5M avg)</span>
+            </div>
+            <div class="metric-row">
+                <span><strong>Pyth Network:</strong> 72+ Chains (376.6% growth)</span>
+                <span>$20-40M annual revenue ($30M avg)</span>
+            </div>
+            <div class="metric-row">
+                <span><strong>Chronicle:</strong> Cost Efficiency (65.7% cheaper)</span>
+                <span>$5-15M annual revenue ($10M avg)</span>
+            </div>
+            <div class="metric-row">
+                <span><strong>UMA:</strong> AI-Powered ($0.005/request, 95 AI score)</span>
+                <span>$400K-2.2M revenue ($1.3M avg)</span>
+            </div>
+            <div class="metric-row">
+                <span><strong>RedStone:</strong> Fastest Growing (6,000% in 2024, 110+ chains)</span>
+                <span>$5-10M revenue ($7.5M avg)</span>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let mainChart, subChart1, subChart2;
+        let currentDimension = 'revenue';
+
+        const oracleData = {
+            providers: ['Chainlink', 'Pyth Network', 'Chronicle', 'UMA Protocol', 'RedStone'],
+            colors: ['#375BD2', '#7C3AED', '#059669', '#6B7280', '#DC2626'],
+            revenue: {
+                annual: [162500000, 30000000, 10000000, 1300000, 7500000],
+                sustainability: [95, 48, 42, 39, 68],
+                marketShare: [51.3, 4.5, 5.1, 0.1, 4.3]
+            },
+            volume: {
+                TVS: [96922000000, 8478000000, 9618000000, 269960000, 8054000000],
+                efficiencyUSD: [6.61, 0.000000004, 2.27, 0.005, 1.32], // USD per update (normalized)
+                growth: [90, 376.6, 46, 180, 6000]
+            },
+            innovation: {
+                aiAdoption: [35, 15, 5, 95, 70],
+                chainIntegration: [11, 72, 6, 5, 110],
+                updateSpeed: [300, 0.4, 600, 1440, 0.0024]
+            }
+        };
+
+        function initCharts() {
+            const ctx1 = document.getElementById('mainChart').getContext('2d');
+            const ctx2 = document.getElementById('subChart1').getContext('2d');
+            const ctx3 = document.getElementById('subChart2').getContext('2d');
+
+            mainChart = new Chart(ctx1, {
+                type: 'bubble',
+                data: {
+                    datasets: []
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        title: {
+                            display: true,
+                            text: 'Oracle Provider 5D Analysis',
+                            font: { size: 20, weight: 'bold' },
+                            color: '#1f2937'
+                        },
+                        legend: {
+                            display: true,
+                            position: 'bottom'
+                        }
+                    },
+                    scales: {
+                        x: {
+                            type: 'linear',
+                            title: {
+                                display: true,
+                                text: 'Market Share (%)',
+                                font: { weight: 'bold' }
+                            }
+                        },
+                        y: {
+                            type: 'linear',
+                            title: {
+                                display: true,
+                                text: 'Annual Revenue (USD)',
+                                font: { weight: 'bold' }
+                            }
+                        }
+                    }
+                }
+            });
+
+            subChart1 = new Chart(ctx2, {
+                type: 'doughnut',
+                data: {
+                    labels: oracleData.providers,
+                    datasets: [{
+                        data: oracleData.revenue.marketShare,
+                        backgroundColor: oracleData.colors,
+                        borderWidth: 2,
+                        borderColor: '#fff'
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        title: {
+                            display: true,
+                            text: 'Market Share Distribution',
+                            font: { size: 16, weight: 'bold' },
+                            color: '#1f2937'
+                        }
+                    }
+                }
+            });
+
+            subChart2 = new Chart(ctx3, {
+                type: 'radar',
+                data: {
+                    labels: ['Revenue', 'Sustainability', 'Innovation', 'Volume', 'Efficiency'],
+                    datasets: []
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        title: {
+                            display: true,
+                            text: 'Multi-Dimensional Comparison',
+                            font: { size: 16, weight: 'bold' },
+                            color: '#1f2937'
+                        }
+                    },
+                    scales: {
+                        r: {
+                            beginAtZero: true,
+                            max: 100
+                        }
+                    }
+                }
+            });
+
+            showDimension('revenue');
+        }
+
+        function showDimension(dimension, evt) {
+            // Update button states
+            document.querySelectorAll('.control-btn').forEach(btn => btn.classList.remove('active'));
+            if (evt && evt.target) {
+                evt.target.classList.add('active');
+            }
+
+            currentDimension = dimension;
+
+            switch(dimension) {
+                case 'revenue':
+                    updateRevenueView();
+                    break;
+                case 'volume':
+                    updateVolumeView();
+                    break;
+                case 'market':
+                    updateMarketView();
+                    break;
+                case 'sustainability':
+                    updateSustainabilityView();
+                    break;
+                case 'innovation':
+                    updateInnovationView();
+                    break;
+            }
+        }
+
+        function updateRevenueView() {
+            mainChart.data.datasets = [{
+                label: 'Oracle Providers',
+                data: oracleData.providers.map((provider, i) => ({
+                    x: oracleData.revenue.marketShare[i],
+                    y: oracleData.revenue.annual[i],
+                    r: Math.log10(oracleData.revenue.annual[i] + 1) * 2
+                })),
+                backgroundColor: oracleData.colors.map(color => color + '80'),
+                borderColor: oracleData.colors,
+                borderWidth: 2
+            }];
+
+            mainChart.options.scales.y.title.text = 'Annual Revenue (USD)';
+            mainChart.options.plugins.title.text = 'Revenue vs Market Share Analysis';
+
+            // Update radar chart for revenue dimension
+            subChart2.data.datasets = oracleData.providers.map((provider, i) => ({
+                label: provider,
+                data: [
+                    Math.min(100, Math.log10(oracleData.revenue.annual[i] + 1) * 12),
+                    oracleData.revenue.sustainability[i],
+                    oracleData.innovation.aiAdoption[i],
+                    Math.min(100, Math.log10(oracleData.volume.TVS[i]) * 4.5),
+                    Math.min(100, 100 - (Math.log10(oracleData.volume.efficiencyUSD[i] + 0.001) * 15))
+                ],
+                backgroundColor: oracleData.colors[i] + '20',
+                borderColor: oracleData.colors[i],
+                pointBackgroundColor: oracleData.colors[i]
+            }));
+
+            mainChart.update();
+            subChart2.update();
+        }
+
+        function updateVolumeView() {
+            mainChart.data.datasets = [{
+                label: 'TVS & Growth Leaders',
+                data: oracleData.providers.map((provider, i) => ({
+                    x: oracleData.volume.growth[i],
+                    y: oracleData.volume.TVS[i],
+                    r: Math.log10(oracleData.volume.TVS[i]) / 2
+                })),
+                backgroundColor: oracleData.colors.map(color => color + '80'),
+                borderColor: oracleData.colors,
+                borderWidth: 2
+            }];
+
+            mainChart.options.scales.x.title.text = 'Growth Rate (% YoY)';
+            mainChart.options.scales.y.title.text = 'Total Value Secured (USD)';
+            mainChart.options.plugins.title.text = 'TVS vs Growth Rate Analysis';
+
+            mainChart.update();
+        }
+
+        function updateMarketView() {
+            mainChart.data.datasets = [{
+                label: 'Market Position',
+                data: oracleData.providers.map((provider, i) => ({
+                    x: oracleData.innovation.chainIntegration[i],
+                    y: oracleData.revenue.marketShare[i],
+                    r: oracleData.revenue.marketShare[i]
+                })),
+                backgroundColor: oracleData.colors.map(color => color + '80'),
+                borderColor: oracleData.colors,
+                borderWidth: 2
+            }];
+
+            mainChart.options.scales.x.title.text = 'Chain Integration Count';
+            mainChart.options.scales.y.title.text = 'Market Share (%)';
+            mainChart.options.plugins.title.text = 'Market Share vs Integration Analysis';
+
+            mainChart.update();
+        }
+
+        function updateSustainabilityView() {
+            mainChart.data.datasets = [{
+                label: 'Sustainability Score',
+                data: oracleData.providers.map((provider, i) => ({
+                    x: oracleData.revenue.sustainability[i],
+                    y: oracleData.revenue.annual[i],
+                    r: oracleData.revenue.sustainability[i] / 5
+                })),
+                backgroundColor: oracleData.colors.map(color => color + '80'),
+                borderColor: oracleData.colors,
+                borderWidth: 2
+            }];
+
+            mainChart.options.scales.x.title.text = 'Sustainability Score';
+            mainChart.options.scales.y.title.text = 'Annual Revenue (USD)';
+            mainChart.options.plugins.title.text = 'Sustainability vs Revenue Analysis';
+
+            mainChart.update();
+        }
+
+        function updateInnovationView() {
+            mainChart.data.datasets = [{
+                label: 'Innovation Index',
+                data: oracleData.providers.map((provider, i) => ({
+                    x: oracleData.innovation.aiAdoption[i],
+                    y: 1000 - oracleData.innovation.updateSpeed[i],
+                    r: oracleData.innovation.chainIntegration[i] / 10
+                })),
+                backgroundColor: oracleData.colors.map(color => color + '80'),
+                borderColor: oracleData.colors,
+                borderWidth: 2
+            }];
+
+            mainChart.options.scales.x.title.text = 'AI Adoption Score';
+            mainChart.options.scales.y.title.text = 'Update Speed (inverted)';
+            mainChart.options.plugins.title.text = 'Innovation: AI Adoption vs Update Speed';
+
+            mainChart.update();
+        }
+
+        // Initialize charts when page loads
+        window.addEventListener('load', initCharts);
+
+        // Removed provider labels plugin for cleaner visualization
+    </script>
+</body>
+</html>
