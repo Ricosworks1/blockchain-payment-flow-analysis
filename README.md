@@ -8,9 +8,9 @@ Comprehensive analysis of where user money goes in blockchain networks. This pro
 - **Networks Covered:** 25+ blockchain networks (L1 & L2)
 - **Protocols Analyzed:** 20+ top protocols
 - **Oracle Providers:** 14 major providers
-- **Key Finding:** $115-170B annual subsidy economy (85-97% of total costs)
-  - $13.7B total on-chain revenue vs $115-155B costs = 85-90% subsidy rate
-  - $3.1B blockchain fees only vs $120-170B costs = 97% subsidy rate
+- **Key Finding:** $86-115B annual subsidy economy (85-90% of total costs)
+  - $13.7B total on-chain revenue vs $86-115B costs = 85-90% subsidy rate
+  - $3.1B blockchain fees only vs $86-115B costs = approximately 97% subsidy rate
 
 ## 📁 Repository Structure
 
