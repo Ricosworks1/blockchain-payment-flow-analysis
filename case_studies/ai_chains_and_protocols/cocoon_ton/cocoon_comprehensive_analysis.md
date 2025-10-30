@@ -11,6 +11,8 @@
 
 ## Executive Summary
 
+<img src="assets/logo.png" alt="Cocoon Network - Confidential Compute Visualization" width="320" align="right" style="margin: 0 0 20px 20px;"/>
+
 Cocoon represents a strategic convergence of Telegram's billion-user ecosystem, TON blockchain infrastructure, and decentralized AI compute. By leveraging Telegram as its first major client and the TON blockchain's multi-chain architecture, Cocoon aims to challenge centralized AI infrastructure dominated by AWS, Azure, and Google Cloud. The protocol enables GPU owners to earn TON tokens by providing computing power for AI inference workloads, with end-to-end encryption ensuring user privacy.
 
 **Key Value Propositions:**
