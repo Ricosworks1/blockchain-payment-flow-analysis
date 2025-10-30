@@ -22,6 +22,8 @@ Cocoon represents a strategic convergence of Telegram's billion-user ecosystem, 
 - Seamless integration with Telegram's 950M+ user base
 - Compensation in TON cryptocurrency for GPU providers
 
+<br clear="right"/>
+
 ---
 
 ## 1. Protocol Overview
