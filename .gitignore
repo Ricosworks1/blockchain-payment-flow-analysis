@@ -1,6 +1,9 @@
 # Exclude reports folder
 reports/
 
+# Governance (private - local only)
+.governance/
+
 # macOS
 .DS_Store
 .AppleDouble
