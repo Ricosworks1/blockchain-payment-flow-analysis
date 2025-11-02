@@ -1,739 +1,256 @@
-# Promising Chains & Protocols: Research Priority List
-## November 2, 2025 - Based on Comprehensive Market Analysis
+# Promising Research Targets: November 2, 2025
 
-**Document Purpose:** Identify high-potential L1s and protocols worthy of deep-dive research based on current market trends, innovation, revenue potential, and strategic positioning.
-
-**Research Methodology:** Analysis synthesized from:
-- Existing research context (Blockchain Payment Flow Analysis repository)
-- Market consolidation trends (November 2025)
-- VC funding patterns ($5.11B October 2025, 32% to AI)
-- Fee revenue analysis ($20B+ on-chain revenue 2025)
-- Emerging technology innovations (RWA, AI, parallel execution)
+**Focus**: Brand new protocols with active testnets, points programs, and community engagement in Q4 2025
 
 ---
 
-## Executive Summary
+## TIER 1: ACTIVE NOW - Imminent Mainnet/TGE (November-December 2025)
 
-**Market Context (November 2, 2025):**
-- **Consolidation Accelerating:** Dominant players (Base, Hyperliquid, Solana) capturing disproportionate market share
-- **Revenue Maturation:** DeFi shifting from growth to profitability ($ 1.4B+ in buybacks)
-- **Technology Innovation:** High-TPS L1s (10K-125K TPS) challenging established chains
-- **Narrative Shifts:** RWA tokenization ($25B market), AI integration, institutional adoption
+### 1. **BlockDAG (BDAG)**
+**Why Selected**: Genesis Day November 26, 2025 - most imminent major launch with potential tier-1 CEX listings
+- **Status**: Pre-mainnet, Genesis Day in 24 days
+- **Funding**: $435M raised, 312K holders, 3.5M X1 mobile miners
+- **Catalyst**: Leaked Kraken/Coinbase listing rumors driving crypto Twitter buzz
+- **Research Value**: High - First major Layer 1 launch of Q4 2025
+- **Risk**: Very speculative, unproven technology, heavy marketing focus
 
-**Research Priorities:** Focus on protocols/chains demonstrating:
-1. Sustainable revenue models (fee revenue > subsidies)
-2. Technical innovation (solving scalability trilemma)
-3. Market momentum (TVL growth, user adoption)
-4. Strategic positioning (unique moats, network effects)
+### 2. **Monad (MON)**
+**Why Selected**: Airdrop allocation reveal active NOW with November 3, 2025 wallet connection deadline
+- **Status**: Testnet live since Feb 2025, 170M+ total accounts (148M active)
+- **Funding**: $225M from Paradigm, a16z, Coinbase Ventures
+- **Catalyst**: November 3 deadline to connect wallets before claim profiles lock permanently
+- **Key Feature**: EVM-compatible with 10,000 TPS throughput promise
+- **Research Value**: Very High - Major institutional backing, huge testnet participation
+- **Community**: Fantasy Top game, active ecosystem with 170M+ participants
 
----
+### 3. **Grass Network - Season 2**
+**Why Selected**: Season 2 airdrop snapshot happening NOW (Nov-Dec 2025)
+- **Status**: Season 2 active, 170M GRASS tokens (2x Season 1)
+- **Model**: Bandwidth sharing for AI training data
+- **Points System**: Uptime points + Network points
+- **Catalyst**: Active snapshot period for Q4 2025 airdrop
+- **Research Value**: High - DePIN sector, AI data narrative
+- **Unique**: Passive income via bandwidth sharing, low barrier to entry
 
-## TIER 1: Immediate Deep-Dive Research (Highest Priority)
-
-### Category A: Proven Revenue Leaders (Consolidation Winners)
-
-#### 1. **Hyperliquid** ⭐ HIGHEST PRIORITY
-**Status:** Actively capturing market share
-**Current Performance:**
-- **Revenue:** $106M August 2025, $317B October trading volume
-- **Market Share:** 35% of ALL derivatives fees (remarkable for <1 year old)
-- **Profitability:** Actually profitable (not subsidized)
-
-**Why Research:**
-- Only truly profitable DeFi protocol identified
-- Rapid market share capture from established players
-- Demonstrates sustainability without token inflation
-- Potential to become "Binance of DeFi" (perp DEX dominance)
-
-**Research Questions:**
-- How does tokenomics sustain profitability?
-- What technical architecture enables 35% market share?
-- Can they maintain dominance as competition intensifies?
-- Regulatory positioning for derivatives trading?
-- Long-term moat vs. CEX competition?
-
-**Estimated Research Value:** 10/10 - Could validate new model for sustainable DeFi
+### 4. **Abstract Chain (ABST)**
+**Why Selected**: XP points farming active since January 2025 mainnet launch, airdrop expected "later in 2025"
+- **Status**: Mainnet live January 2025, XP campaign ongoing
+- **Backing**: Pudgy Penguins ecosystem (Igloo Inc.)
+- **Points System**: XP + badges for bridging, swaps, domain mints
+- **Catalyst**: 250% XP boost for $PENGU holders creates urgency
+- **Research Value**: High - NFT-to-L2 narrative, strong community
+- **TVL Attraction**: Active dApp ecosystem, Galxe/Intract quests
 
 ---
 
-#### 2. **Base (Coinbase L2)** ⭐ HIGHEST PRIORITY
-**Status:** L2 market leader through consolidation
-**Current Performance:**
-- **Market Share:** 55% value transfer, 25-30% DEX volume
-- **TVL:** Surpasses Arbitrum + Optimism combined
-- **Profit Margin:** 84.35%
-- **Revenue:** $193M Q1 2025
+## TIER 2: Q4 2025 MAINNET LAUNCHES
 
-**Why Research:**
-- L2 wars effectively over - Base won
-- Corporate backing = infinite runway vs. competitors
-- Coinbase distribution (110M+ users) = organic growth engine
-- Demonstrates "corporate-backed L2" as winning model
+### 5. **QF Network (Quantum Fusion)**
+**Why Selected**: Q4 2025 mainnet confirmed, aiming for "Web2-grade performance"
+- **Status**: Pre-mainnet, Q4 2025 launch confirmed (Aug 2025 announcement)
+- **Tech**: SPIN consensus, RISC-V architecture, zkTLS, verifiable off-chain compute
+- **Performance**: 0.1 second block finality, 10x throughput claims
+- **Token**: Built on Ethereum, launched May 2024
+- **Research Value**: Medium-High - New consensus mechanism, performance-focused
+- **Risk**: Unproven claims, competitive L1 space
 
-**Research Questions:**
-- How does Coinbase monetize Base long-term?
-- What technical/strategic moats prevent Arbitrum/Optimism recovery?
-- Is this a blueprint for other CEX L2s (Binance, Kraken)?
-- Will no-token model sustain vs. token-incentivized L2s?
-- Path to $1B+ annual revenue by 2026?
-
-**Estimated Research Value:** 9/10 - Validates corporate-backed L2 model
+### 6. **Mutuum Finance (MUTM)**
+**Why Selected**: V1 Sepolia Testnet launching Q4 2025 with $18M+ raised
+- **Status**: Phase 6 presale 80% complete, testnet imminent
+- **Funding**: $18.1M raised, 17,600+ holders
+- **Type**: DeFi lending protocol
+- **Features**: Liquidity pools, mtToken, debt token mechanics
+- **Research Value**: Medium - DeFi lending is crowded but proven model
+- **Catalyst**: Testnet launch expected Nov-Dec 2025
 
 ---
 
-#### 3. **Jupiter Exchange (Solana DEX)** 🆕
-**Status:** Solana DeFi leader with buyback model
-**Current Performance:**
-- **Revenue:** $101.01M in 30-day fees (Q2 2025)
-- **Buyback:** 50% of protocol fees → $JUP buybacks
-- **Price Impact:** 15.56% surge post-buyback announcement
+## TIER 3: ACTIVE TESTNET FARMING (High Airdrop Probability)
 
-**Why Research:**
-- Dominates Solana DEX market (similar to Hyperliquid on derivatives)
-- Solana DEX volume ($94.8B) now exceeds Ethereum
-- Buyback model = credible revenue signal
-- Benefits from Solana ETF tailwind
+### 7. **Pharos Network (PHRS)**
+**Why Selected**: Incentivized testnet Season 1 active with $300K builder program
+- **Status**: Testnet Season 1 launched June 2025
+- **Funding**: $8M seed (Faction, Hack VC, SN7, Reforge)
+- **Tech**: Modular full-stack parallel L1 (L1-Base, L1-Core, L1-Extension)
+- **Airdrop Confirmed**: Yes, based on testnet participation
+- **Points System**: Daily check-ins, transactions, social tasks, referrals
+- **Builder Program**: $300K prize pool (70% stablecoin, 30% PHRS tokens)
+- **Research Value**: High - Modular L1, strong VC backing, active incentives
+- **Bitget Campaign**: 100K PHRS testnet tokens (June-July 2025)
 
-**Research Questions:**
-- Sustainability of $100M+ monthly fees?
-- Can maintain dominance vs. Orca, Raydium?
-- How does Solana DEX growth vs. ETH affect Jupiter?
-- Token value accrual from buybacks?
-- MEV capture strategy?
+### 8. **Linera**
+**Why Selected**: Testnet Phase 2 (Babbage) active with points system for social engagement
+- **Status**: Testnet 2 (Babbage) live April 2025, Phase 3 & 4 planned before mainnet
+- **Funding**: $6M additional raise (Meta Novi research spinoff)
+- **Tech**: Microchains architecture, theoretically infinite scalability
+- **Features**: Full Linera Web client, PoW microchains, EVM-ready upgrades
+- **Points System**: Engage with socials, earn points for future airdrop
+- **Research Value**: High - Novel microchains concept, Meta research pedigree
+- **Timeline**: 2 more testnet phases before mainnet
 
-**Estimated Research Value:** 8/10 - Solana ecosystem alpha
+### 9. **Mitosis**
+**Why Selected**: "Game of MITO" testnet completed, mainnet prep underway, June 2025 airdrop expected
+- **Status**: Testnet completed Dec 2024, mainnet launch imminent
+- **Funding**: $7M raised
+- **TVL**: $80M+ during testnet
+- **Model**: Cross-chain liquidity protocol, Ecosystem-Owned Liquidity (EOL)
+- **Features**: miAssets (miweETH, mimETH) for yield optimization
+- **Airdrop**: Planned June 2025 for testnet participants
+- **Research Value**: Medium-High - Cross-chain liquidity, proven testnet traction
 
----
-
-### Category B: Infrastructure Revenue Generators
-
-#### 4. **Chainlink (LINK)** ⭐ VALIDATED INFRASTRUCTURE
-**Status:** Oracle network dominance
-**Current Performance:**
-- **Market Share:** 80%+ oracle market
-- **TVE:** $20T+ Q1 2025
-- **Revenue:** $178M+ (estimated)
-
-**Why Research (Update):**
-- Proven survivor (maintained value through 2018-2022 bear)
-- Cross-chain utility = recession-resistant
-- CCIP (Cross-Chain Interoperability Protocol) expanding use cases
-- Staking model launching (revenue share to token holders)
-
-**Research Questions:**
-- How does CCIP revenue compare to oracle feeds?
-- Competitive threat from Pyth, UMA, Chronicle?
-- Path to $500M+ annual revenue?
-- Tokenomics improvements from staking?
-
-**Estimated Research Value:** 7/10 - Infrastructure backbone validation
+### 10. **Bless Network (BLESS)**
+**Why Selected**: DePIN platform with Chapter 1 airdrop in preparation, staking live
+- **Status**: Chapter 0 airdrop claimed, Chapter 1 in preparation
+- **Model**: "World's first shared computer" - CPU/GPU power sharing for AI
+- **Platform**: Solana-based
+- **Points System**: TIME tokens → BLESS governance tokens at TGE
+- **Token Allocation**: 10B total supply, 10% for airdrops
+- **Catalyst**: Mainnet TGE expected Q1 2026, Chapter 1 airdrop imminent
+- **Research Value**: High - DePIN + AI narrative convergence
+- **Participation**: Browser extension or app for idle computing power
 
 ---
 
-#### 5. **Jito (Solana MEV Infrastructure)** 🆕
-**Status:** MEV extraction leader on Solana
-**Current Performance:**
-- **Peak Fees:** $20M+ daily
-- **Total Tips:** $674M lifetime
-- **Market Share:** Dominant Solana MEV
+## TIER 4: RECENTLY LAUNCHED - ATTRACTING TVL (2025 Mainnets)
 
-**Why Research:**
-- Captures value from Solana memecoin mania
-- $3-7B/year total MEV market across all chains
-- Infrastructure tax = recurring revenue
-- Benefits from Solana growth
+### 11. **Sonic Labs (formerly Fantom)**
+**Why Selected**: Points program launched January 2025, actively distributing 200M S tokens
+- **Status**: Mainnet live, Season 2 ending November 1, 2025
+- **Performance**: 10,000 TPS, sub-second confirmations, EVM L1
+- **Points System**:
+  - Passive Points: Hold whitelisted assets (scUSD, USDC.e, scETH)
+  - Activity Points: Deploy liquidity on DEXs, lending protocols
+  - Sonic Gems: Developer-focused app competition
+- **Airdrop**: 200M S tokens via multi-layered distribution
+- **DeFAI**: $295K hackathon for AI agents on Sonic
+- **Research Value**: Very High - Rebrand momentum, active points economy
+- **TVL Catalyst**: Multi-tier rewards attracting both users and developers
 
-**Research Questions:**
-- Revenue sustainability post-memecoin hype?
-- Can Solana MEV match Ethereum scale ($2-4B/year)?
-- Tokenomics and value distribution?
-- Competitive moat vs. other Solana MEV solutions?
+### 12. **Plume Network**
+**Why Selected**: Mainnet launched June 5, 2025 with $150M RWA deployed at launch
+- **Status**: Mainnet live, 3.75M testnet users converted
+- **Focus**: Real-World Assets (RWA) Layer 1
+- **Funding**: $30M raised
+- **Partnership**: Apollo Global
+- **Traction**: 280M transactions during testnet, $150M RWA at mainnet
+- **Research Value**: Very High - RWA sector leader, institutional partnerships
+- **Catalyst**: First major RWA-focused L1 with significant TVL
 
-**Estimated Research Value:** 7/10 - MEV infrastructure alpha
-
----
-
-## TIER 2: Next-Gen L1s (High-Performance Innovation)
-
-### Category A: Pre-Launch High-Funded Projects
-
-#### 6. **Monad** 🆕 ⭐ HIGHEST TECHNICAL INNOVATION
-**Status:** Testnet launched Q1 2025, mainnet upcoming
-**Technical Specs:**
-- **TPS:** 10,000+ with 1-second finality
-- **Architecture:** MonadBFT consensus, MonadDB storage, parallel execution
-- **EVM Compatibility:** Yes (Ethereum + Solana performance)
-
-**Funding & Traction:**
-- **Raised:** $225M (Paradigm, Dragonfly, GSR)
-- **Airdrop:** Confirmed October 2025
-- **Testnet:** V0.2 launched February 2025
-
-**Why Research:**
-- Best-funded L1 pre-launch
-- Solves Ethereum scalability while maintaining compatibility
-- Parallel execution = next-gen architecture
-- Institutional VC backing signals confidence
-
-**Research Questions:**
-- Can deliver on 10K TPS claims in production?
-- Will EVM compatibility attract Ethereum developers?
-- Tokenomics and airdrop distribution strategy?
-- Post-launch TVL trajectory vs. Sui, Aptos?
-- Competitive positioning vs. existing high-TPS L1s?
-
-**Estimated Research Value:** 9/10 - Could be next Solana-scale chain
+### 13. **EigenLayer**
+**Why Selected**: Restaking TVL exploded to $25B in 2025, 85% market dominance
+- **Status**: Mainnet live, massive TVL growth through 2025
+- **TVL**: $25B+ (peaked above $20B, grew from $1.1B to $18B+ in 2024-2025)
+- **Market Share**: 85%+ of restaking market, 70% sector dominance
+- **Model**: ETH restaking for Actively Validated Services (AVSs)
+- **Growth Driver**: Capital efficiency - earn extra returns without new capital
+- **Research Value**: Very High - Defining new DeFi primitive, institutional grade
+- **Recent**: EigenCloud infrastructure launch
 
 ---
 
-#### 7. **MegaETH** 🆕
-**Status:** Testnet March 2025, TGE Q4 2025
-**Technical Specs:**
-- **TPS:** 20,000 with 10ms block times
-- **Speed:** Claims 50x faster than Base
-- **Type:** Ethereum L2 (settlement on ETH)
+## TIER 5: BITCOIN ECOSYSTEM (BTC Narrative Play)
 
-**Funding & Traction:**
-- **Valuation:** $1B at ICO
-- **Backers:** Major VCs (names not disclosed in search)
+### 14. **Babylon**
+**Why Selected**: Bitcoin staking Phase 2 testnet launching January 2025 with BABY token migration
+- **Status**: Phase 1 complete, Phase 2 testnet January 2025
+- **Innovation**: Bitcoin securing PoS chains via staking
+- **Points System**: Points → BABY token conversion
+- **Feature**: Fast unbonding (16-17 hours vs traditional 21 days)
+- **Research Value**: Very High - Bitcoin DeFi primitive, unique value proposition
+- **Narrative**: BTC utility expansion beyond store of value
+- **Timing**: Phase 2 launch aligns with Q1 2026 BTC cycle momentum
 
-**Why Research:**
-- Real-time performance focus (gaming, high-frequency trading)
-- L2 approach = Ethereum security + extreme performance
-- Competition with Monad for high-TPS narrative
-- $1B valuation pre-launch = high expectations
-
-**Research Questions:**
-- How achieves 20K TPS on L2 vs. Monad's L1 10K?
-- Real-world use cases for 10ms blocks?
-- Post-launch adoption vs. Base (incumbent L2 leader)?
-- Tokenomics and go-to-market strategy?
-- Can challenge Base's 55% L2 market share?
-
-**Estimated Research Value:** 8/10 - High-performance L2 race
+### 15. **Fractal Bitcoin (FB)**
+**Why Selected**: Mainnet live with active testnet (PizzaSwap), 1M FB airdrop
+- **Status**: Mainnet live, PizzaSwap testnet active
+- **Airdrop**: 1M FB tokens for ecosystem participants
+- **Focus**: Bitcoin scaling via fractal architecture
+- **Research Value**: Medium - Bitcoin L2 narrative, proven mainnet
+- **Risk**: Highly competitive Bitcoin scaling sector
 
 ---
 
-### Category B: Launched & Scaling L1s
+## KEY SELECTION CRITERIA APPLIED
 
-#### 8. **Berachain** 🆕 ⭐ FASTEST GROWING L1
-**Status:** Mainnet February 2025
-**Current Performance:**
-- **TVL:** $3.26B peak (20 days post-launch), $1.19B current
-- **Growth:** 18.89% monthly TVL increase (highest among top 15 chains)
-- **Innovation:** Proof of Liquidity (PoL) consensus
+### What Made These Protocols "Mega Recent":
 
-**Funding & Traction:**
-- **Raised:** $100M+ (Polychain Capital)
-- **Milestone:** Surpassed Sui, Avalanche, Arbitrum in TVL within 20 days
+1. **Active Q4 2025 Catalysts**: Points programs, airdrops, or mainnet launches happening NOW
+2. **Community Engagement**: Crypto Twitter buzz, Reddit discussions, testnet farming guides
+3. **TVL Attraction**: Active campaigns to attract liquidity or users
+4. **Recent Funding**: 2024-2025 raises showing momentum
+5. **Testnet→Mainnet Transition**: Protocols at inflection point between testing and launch
 
-**Why Research:**
-- Fastest TVL growth in 2025
-- Novel PoL consensus (incentivizes liquidity provision at protocol level)
-- DeFi-native design vs. general-purpose L1s
-- Institutional backing from top VCs
+### What Was Excluded:
 
-**Research Questions:**
-- Is PoL sustainable or temporary incentive-driven growth?
-- Why did TVL drop from $3.26B to $1.19B?
-- Can maintain 18.89% monthly growth?
-- Revenue model and fee sustainability?
-- Competitive moat vs. Ethereum L2s and other alt-L1s?
-
-**Estimated Research Value:** 9/10 - Novel consensus + rapid adoption
+❌ **Established Protocols** (>1 year old mainnet): Hyperliquid, Base, Solana, Aave, Uniswap
+❌ **No Active Campaigns**: Protocols without current points/testnet programs
+❌ **Vaporware**: Projects without testnet traction or verifiable progress
+❌ **Old Testnets**: Testnets launched before 2024 without recent updates
 
 ---
 
-#### 9. **Sei Network** 🆕
-**Status:** Active, rapid growth 2024-2025
-**Current Performance:**
-- **TVL:** $487M (5,210% growth from $85M Aug 2024)
-- **Active Addresses:** 300K+ daily
-- **Growth:** Outpacing Sui, Base, Aptos
+## RESEARCH PRIORITY RANKINGS
 
-**Technical Specs:**
-- **Consensus:** Optimized Tendermint
-- **Finality:** Sub-second
-- **Focus:** Trading and DeFi applications
+### HIGHEST PRIORITY (Research First):
+1. **Monad** - Nov 3 deadline, massive scale, tier-1 VC backing
+2. **BlockDAG** - Nov 26 Genesis Day, highest immediate catalyst
+3. **Sonic Labs** - Active points program ending Nov 1, rebrand momentum
+4. **EigenLayer** - $25B TVL proves product-market fit, defining new primitive
+5. **Pharos** - $300K builder program, strong incentives, testnet Season 1 active
 
-**Why Research:**
-- 5,210% TVL growth = fastest in sector
-- Positioned as "Solana of 2025" by analysts
-- Trading-optimized architecture (order book native)
-- Under-researched vs. hype around Sui/Aptos
+### MEDIUM PRIORITY:
+6. **Babylon** - Bitcoin DeFi primitive, Phase 2 Jan 2025
+7. **Plume** - RWA narrative, $150M deployed, institutional backing
+8. **Abstract** - Pudgy Penguins ecosystem, active XP farming
+9. **Grass** - DePIN+AI, Season 2 snapshot active
+10. **Linera** - Novel tech (microchains), Meta pedigree
 
-**Research Questions:**
-- What drives 5,210% TVL growth?
-- Can sustain momentum vs. Monad, Berachain launches?
-- Revenue model and token value accrual?
-- Why isn't it getting more attention vs. Sui/Aptos?
-- Technical advantages for trading applications?
-
-**Estimated Research Value:** 8/10 - Hidden gem potential
+### MONITOR/LOWER PRIORITY:
+11. **QF Network** - Unproven claims, competitive space
+12. **Mutuum Finance** - Crowded DeFi lending sector
+13. **Mitosis** - Testnet complete, waiting for mainnet
+14. **Bless** - Early stage DePIN, Solana ecosystem risk
+15. **Fractal Bitcoin** - Competitive Bitcoin L2 space
 
 ---
 
-#### 10. **Sui** 🆕
-**Status:** Active, maturing ecosystem
-**Current Performance:**
-- **TPS:** 125,000 theoretical (Mysticeti update)
-- **TVL:** $1.9B (dropped from $2.1B post-$260M Cetus hack)
-- **DeFi Peak:** $2.5B TVL Q2 2025
+## MACRO THEMES ACROSS SELECTIONS
 
-**Technical Specs:**
-- **Architecture:** Parallel execution via Narwhal/Bullshark
-- **Language:** Move programming language
-- **Finality:** <3 seconds
-
-**Why Research:**
-- Highest theoretical TPS of any L1 (125K)
-- Move language = security advantages
-- Recovering from major hack (resilience test)
-- DeFi ecosystem growing despite setback
-
-**Research Questions:**
-- Impact of $260M Cetus hack on long-term adoption?
-- Can reach 125K TPS in practice?
-- Move language adoption vs. Solidity/Rust?
-- Path to $5B+ TVL post-recovery?
-- Competitive positioning vs. Aptos (also Move)?
-
-**Estimated Research Value:** 7/10 - Technical leader, execution risk
+1. **Points Programs Dominance**: 11 of 15 protocols use points for airdrop farming
+2. **L1 Renaissance**: 7 new Layer 1 chains (vs L2 dominance in 2024)
+3. **AI Integration**: 4 protocols (Grass, Bless, Sonic DeFAI, EigenLayer AVS potential)
+4. **Bitcoin Utility Expansion**: 2 BTC ecosystem plays (Babylon, Fractal)
+5. **RWA Maturation**: 2 RWA-focused (Plume, Pharos builder track)
+6. **Restaking Economy**: EigenLayer proving $25B+ market exists
+7. **DePIN + AI Convergence**: Grass and Bless combining infrastructure with AI demand
 
 ---
 
-#### 11. **Aptos** 🆕
-**Status:** Active, moderate growth
-**Current Performance:**
-- **TPS:** 100,000 theoretical (Shoal++ consensus)
-- **TVL:** $1.23B
-- **Active Addresses:** 743K (50%+ increase November)
-- **Monthly Volume:** $21B
+## ACTIONABLE RESEARCH NEXT STEPS
 
-**Technical Specs:**
-- **Consensus:** Shoal++ (sub-second latency)
-- **Language:** Move programming language
-- **Finality:** Sub-second
+### Immediate (This Week):
+1. Connect wallet to **Monad** before Nov 3 deadline (if farming)
+2. Monitor **BlockDAG** Genesis Day (Nov 26) for listing news
+3. Check **Sonic** Season 2 ending (Nov 1) for final point claims
+4. Start **Pharos** testnet daily check-ins for Season 1 points
 
-**Why Research:**
-- Move ecosystem alternative to Sui
-- Ex-Meta Diem team credibility
-- 100K TPS capability
-- Growing user base (50%+ increase)
+### This Month (November 2025):
+5. Research **Grass Network** Season 2 setup for snapshot eligibility
+6. Evaluate **Abstract** XP farming with $PENGU boost mechanics
+7. Track **QF Network** and **Mutuum Finance** mainnet announcements
+8. Monitor **Babylon** Phase 2 testnet launch (Jan 2025) preparation
 
-**Research Questions:**
-- Why lagging Sui in TVL despite similar tech?
-- Move language ecosystem development?
-- Post-Diem team execution vs. Sui?
-- Path to differentiation in crowded alt-L1 market?
-- Can capture value from Move developer migration?
-
-**Estimated Research Value:** 6/10 - Solid but not standout
+### Ongoing Monitoring:
+9. **EigenLayer** AVS launches and TVL trends
+10. **Plume** RWA deployments and Apollo Global integration
+11. **Linera** Testnet 3 & 4 roadmap updates
+12. **Mitosis** mainnet launch and June 2025 airdrop details
 
 ---
 
-## TIER 3: RWA & AI Protocol Leaders (Emerging Narratives)
-
-### Category A: Real-World Asset (RWA) Protocols
-
-#### 12. **Ondo Finance (ONDO)** 🆕 ⭐ RWA LEADER
-**Status:** Active, institutional focus
-**Market Performance:**
-- **RWA Market:** $25B+ in Q2 2025 (245x growth since 2020)
-- **Focus:** Tokenized U.S. Treasuries and real estate
-- **Target:** $50B RWA market
-
-**Why Research:**
-- Leading institutional RWA tokenization
-- $25B market growth = massive TAM
-- Yields from real-world assets (rental income, treasury interest)
-- Regulatory compliance focus (unlike many DeFi)
-
-**Research Questions:**
-- Revenue model and tokenomics?
-- Regulatory positioning vs. competitors?
-- Institutional client traction?
-- How competes with BlackRock BUIDL, Franklin Templeton BENJI?
-- Can reach $1B+ AUM?
-
-**Estimated Research Value:** 9/10 - RWA narrative leader
-
----
-
-#### 13. **Lagrange (Modular ZK Infrastructure)** 🆕
-**Status:** Emerging, cross-chain focus
-**Technical Specs:**
-- **Architecture:** Modular ZK-proof protocol
-- **Use Case:** Cross-chain interoperability and scalable verification
-
-**Why Research:**
-- ZK infrastructure = critical for scaling
-- Cross-chain = future of multi-chain world
-- Modular approach = composability
-- Under-researched vs. hype around L1s/L2s
-
-**Research Questions:**
-- Technical architecture and innovation?
-- Go-to-market strategy and adoption?
-- Competitive positioning vs. Celestia, Polygon zkEVM?
-- Revenue model for ZK infrastructure?
-- Partnership traction?
-
-**Estimated Research Value:** 7/10 - Infrastructure innovation
-
----
-
-#### 14. **Morpho (MORPHO)** 🆕
-**Status:** Active, rapid growth
-**Current Performance:**
-- **TVL:** Doubled to $4B in Q3 2025
-- **Growth:** 100% TVL increase in one quarter
-
-**Why Research:**
-- Fastest growing lending protocol (100% quarterly growth)
-- Lending market = proven product-market fit (Aave $39B)
-- Potential Aave/Compound competitor
-- Revenue sustainability analysis needed
-
-**Research Questions:**
-- What drives 100% TVL growth?
-- Revenue model vs. Aave/Compound?
-- Competitive advantages?
-- Token value accrual mechanism?
-- Can sustain $4B+ TVL?
-
-**Estimated Research Value:** 8/10 - Lending market alpha
-
----
-
-### Category B: AI-Integrated Protocols
-
-#### 15. **Zoniqx (AI Yield Optimization)** 🆕
-**Status:** Emerging
-**Focus:** AI-powered dynamic yield optimization across DeFi
-
-**Why Research:**
-- AI + DeFi = $5.11B VC funding with 32% to AI projects
-- Yield optimization = real user problem
-- Multi-protocol diversification = risk mitigation
-- Early-stage AI-DeFi intersection
-
-**Research Questions:**
-- Technical implementation of AI yield strategies?
-- Performance vs. manual strategies?
-- Revenue model and tokenomics?
-- Regulatory positioning for AI + financial services?
-- Competitive moat vs. copycat protocols?
-
-**Estimated Research Value:** 6/10 - Early-stage narrative
-
----
-
-#### 16. **Fetch.ai & Ocean Protocol** 🆕
-**Status:** Established AI blockchain projects
-**Focus:** AI models on blockchain (healthcare, logistics, data marketplace)
-
-**Why Research:**
-- AI blockchain = $5.11B VC funding trend
-- Real-world AI applications (not just DeFi)
-- Established projects with track record
-- Data economy = massive TAM
-
-**Research Questions:**
-- Revenue traction from AI services?
-- Enterprise adoption vs. crypto-native use?
-- Token utility and value accrual?
-- Competitive positioning vs. centralized AI (OpenAI, Anthropic)?
-- Can blockchain AI compete on performance?
-
-**Estimated Research Value:** 5/10 - Interesting but uncertain PMF
-
----
-
-## TIER 4: Privacy & Specialty Protocols
-
-#### 17. **Secret Network** (Privacy Computing)
-**Status:** Established privacy L1
-**Why Research:**
-- Privacy = regulatory moat (GDPR/CCPA)
-- Confidential compute = enterprise use case
-- Under-researched vs. Monero/Zcash
-
-**Estimated Research Value:** 6/10
-
----
-
-#### 18. **Stargate (Cross-Chain Bridge)** 🆕
-**Status:** Active, post-LayerZero acquisition
-**Current Performance:**
-- **Volume:** $2.9B Q2 2025
-- **Focus:** Low-fee cross-chain transfers
-
-**Why Research:**
-- Multi-chain infrastructure = necessary utility
-- LayerZero backing = credibility
-- $2.9B volume = real usage
-
-**Estimated Research Value:** 7/10
-
----
-
-## TIER 5: Monitor But Lower Priority
-
-#### 19. **Celestia (TIA)** - Modular blockchain infrastructure
-#### 20. **Injective** - 25K+ TPS, DeFi-focused L1
-#### 21. **Sonic** - Next-gen chain (limited info)
-#### 22. **Unichain** - Uniswap L2 (early stage)
-#### 23. **Abstract** - zkEVM L2 (emerging)
-
----
-
-## Research Prioritization Framework
-
-### Immediate Research (Next 2 Weeks)
-
-**Week 1:**
-1. **Hyperliquid** - Derivatives dominance analysis
-2. **Base** - L2 consolidation deep-dive
-3. **Monad** - Pre-launch technical assessment
-
-**Week 2:**
-4. **Berachain** - PoL consensus & TVL sustainability
-5. **Ondo Finance** - RWA institutional positioning
-6. **Jupiter Exchange** - Solana DEX alpha
-
-### Month 1 Research Queue
-
-**Week 3:**
-7. **MegaETH** - High-performance L2 analysis
-8. **Sei Network** - 5,210% growth investigation
-9. **Jito** - Solana MEV infrastructure
-
-**Week 4:**
-10. **Morpho** - Lending protocol disruption potential
-11. **Sui** - Post-hack recovery & Move ecosystem
-12. **Chainlink** - CCIP expansion research
-
-### Month 2-3 Research Queue
-
-13. **Stargate** - Cross-chain infrastructure
-14. **Lagrange** - ZK modular protocol
-15. **Aptos** - Move ecosystem comparison
-16. **Zoniqx** - AI yield optimization
-17. **Secret Network** - Privacy computing update
-
----
-
-## Research Question Templates
-
-For each protocol, investigate:
-
-### 1. Revenue & Sustainability
-- **Fee Revenue:** How much? Growing or declining?
-- **Subsidy Dependency:** % revenue from real users vs. token inflation?
-- **Profitability:** Cashflow positive or burn rate?
-- **Runway:** How long can subsidies last?
-
-### 2. Technical Innovation
-- **Core Innovation:** What's novel vs. existing solutions?
-- **Performance:** Claimed vs. actual TPS, finality, fees?
-- **Security:** Audits, track record, exploit history?
-- **Scalability:** Can it maintain performance at scale?
-
-### 3. Market Positioning
-- **TAM/SAM:** Market size and addressable portion?
-- **Competition:** Who are competitors and how do they compare?
-- **Moat:** What prevents others from copying?
-- **Network Effects:** Does usage beget more usage?
-
-### 4. Tokenomics & Value Accrual
-- **Utility:** What does token do?
-- **Distribution:** Team/investors/community split?
-- **Vesting:** Unlock schedule?
-- **Value Accrual:** How do revenues benefit token holders?
-
-### 5. Team & Governance
-- **Team:** Who are they? Track record?
-- **Transparency:** Doxxed or anonymous?
-- **Governance:** On-chain or opaque?
-- **Treasury:** How much? Transparently managed?
-
-### 6. Adoption Metrics
-- **TVL:** Current and trajectory?
-- **Users:** Daily active users/addresses?
-- **Volume:** Transaction volume and trends?
-- **Developers:** Building on the platform?
-
----
-
-## Key Themes Across Promising Protocols
-
-### Theme 1: **Performance Wars (High-TPS L1s)**
-- Monad (10K TPS), MegaETH (20K TPS), Sui (125K TPS)
-- All claiming to solve trilemma differently
-- Key question: Does high TPS matter if users don't come?
-
-### Theme 2: **L2 Consolidation (Corporate Backing Wins)**
-- Base proves corporate backing beats token incentives
-- MegaETH, Unichain trying to replicate model
-- Key question: Can anyone challenge Base's 55% market share?
-
-### Theme 3: **DeFi Revenue Maturation (Buybacks Era)**
-- Hyperliquid, Jupiter, Aave launching buybacks
-- Shift from growth to profitability
-- Key question: Which protocols have sustainable revenue?
-
-### Theme 4: **RWA Tokenization (TradFi Meets DeFi)**
-- Ondo Finance leading $25B+ market
-- Institutional demand driving growth
-- Key question: Regulatory compliance separates winners from losers?
-
-### Theme 5: **AI Integration (Narrative or Reality?)**
-- Zoniqx, Fetch.ai, Ocean Protocol
-- $5.11B VC funding with 32% to AI
-- Key question: Real utility or just riding AI hype?
-
-### Theme 6: **Novel Consensus (Beyond PoS)**
-- Berachain's Proof of Liquidity
-- Monad's MonadBFT
-- Key question: Do novel mechanisms create moats?
-
----
-
-## Market Gaps & Opportunities
-
-### Identified Gaps Where Research Could Add Value:
-
-**1. High-Performance L1 Comparison Matrix**
-- Monad vs. MegaETH vs. Sui vs. Aptos vs. Sei
-- Technical specs, team, funding, go-to-market
-- Prediction: Which captures Solana-scale adoption?
-
-**2. L2 Revenue Model Analysis**
-- Base (no token) vs. Arbitrum/Optimism (token)
-- Which model attracts more TVL long-term?
-- Can fee revenue sustain without token subsidies?
-
-**3. RWA Regulatory Landscape**
-- Ondo vs. BlackRock BUIDL vs. Backed Finance
-- Compliance framework comparison
-- Who wins institutional capital?
-
-**4. DeFi Protocol Sustainability**
-- Hyperliquid, Jupiter, Morpho revenue analysis
-- Which fee models work at scale?
-- When do subsidies become unnecessary?
-
-**5. AI + Blockchain Reality Check**
-- Which AI crypto projects have real traction?
-- Separate signal from noise in $5B VC funding
-- Can decentralized AI compete with OpenAI/Anthropic?
-
----
-
-## Risks & Considerations
-
-### Research Limitations
-
-**1. Pre-Launch Protocols (Monad, MegaETH)**
-- No live data, only claims
-- Testnet performance ≠ mainnet performance
-- Delayed launches common in crypto
-
-**2. Regulatory Uncertainty (RWA, AI)**
-- Ondo, other RWA protocols face securities laws
-- AI + finance = regulatory scrutiny
-- Compliance costs could crush margins
-
-**3. Market Timing**
-- Bull market inflates all metrics
-- Bear market will reveal true sustainability
-- Current data may not predict long-term
-
-**4. Subsidy Dependency**
-- Many "growing" protocols are heavily subsidized
-- Token unlock schedules create sell pressure
-- Need to separate real growth from paid growth
-
-**5. Technical Complexity**
-- High-TPS claims often don't materialize
-- Parallel execution = hard to implement
-- Security vs. performance tradeoffs
-
----
-
-## Success Metrics for Research Output
-
-### How to Measure Research Value:
-
-**1. Predictive Accuracy**
-- Did we identify winners before market?
-- Were risk assessments accurate?
-- Did protocols perform as projected?
-
-**2. Actionable Insights**
-- Can readers make informed decisions?
-- Are trade-offs clearly articulated?
-- Is competitive positioning accurate?
-
-**3. Depth vs. Breadth**
-- Deep enough to be authoritative
-- Broad enough to cover landscape
-- Updated frequently with new data
-
-**4. Novel Analysis**
-- What did we find that others missed?
-- What connections did we identify?
-- What frameworks did we create?
-
----
-
-## Conclusion
-
-This research priority list identifies **23 protocols/chains** worthy of deep-dive analysis based on November 2025 market conditions. The highest-priority targets are:
-
-**Tier 1 (Immediate Research):**
-1. **Hyperliquid** - Only profitable DeFi protocol, 35% derivatives market share
-2. **Base** - L2 winner with 55% market share, corporate backing
-3. **Monad** - Best-funded pre-launch L1, $225M raised, 10K TPS
-4. **Berachain** - Fastest TVL growth, novel PoL consensus
-5. **Ondo Finance** - RWA leader in $25B+ market
-6. **Jupiter Exchange** - Solana DEX leader, $100M+ monthly revenue
-
-**Key Themes to Track:**
-- Performance wars (who delivers on TPS claims?)
-- L2 consolidation (can anyone challenge Base?)
-- DeFi maturation (buybacks = sustainability signal)
-- RWA explosion (institutional capital entering crypto)
-- AI integration (narrative or reality?)
-
-**Research Approach:**
-- Prioritize revenue-generating protocols over subsidized growth
-- Focus on technical innovation that solves real problems
-- Analyze competitive moats and network effects
-- Track regulatory positioning (especially RWA)
-- Monitor team execution post-launch
-
-**Next Steps:**
-- Begin Week 1 research on Hyperliquid, Base, Monad
-- Set up monitoring dashboards for all Tier 1-2 protocols
-- Schedule monthly updates as protocols launch/evolve
-- Build comparison matrices for high-performance L1s, L2s, DeFi protocols
-
----
-
-## Document Information
-
-**Author:** Blockchain Research Team
-**Date:** November 2, 2025
-**Version:** 1.0
-**Next Update:** Weekly (as protocols launch and market evolves)
-**Classification:** Internal Research - Priority Planning
-
-**Methodology:** Synthesized from existing research (Blockchain Payment Flow Analysis), current market data (DeFiLlama, CoinGecko, The Block), VC funding trends, and emerging technology developments.
-
-**Disclaimer:** This is a research planning document, not investment advice. All protocols listed carry significant risk. Many are pre-launch with unproven technology. Market conditions can change rapidly. Conduct independent due diligence before any allocation decisions.
-
----
-
-**End of Research Priority List**
+**Document Version**: November 2, 2025
+**Total Protocols**: 15 (vs 23 in previous version - focused on recent only)
+**Active Campaigns**: 11 with immediate participation opportunities
+**Imminent Catalysts**: 3 protocols with November 2025 deadlines/launches
+
+**Research Philosophy**: Focus on protocols at the inflection point between testnet and mainnet, with active community engagement and verifiable traction. Prioritize projects with near-term catalysts over speculative long-term bets.
