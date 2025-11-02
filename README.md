@@ -307,6 +307,7 @@ Analysis is reproducible using:
 ## 📄 License
 
 All rights reserved © 2025 Maze2 SA
+Disclosure: All the information contained in this repository is for research only and not financial advice. Always do your own research.
 
 ---
 
