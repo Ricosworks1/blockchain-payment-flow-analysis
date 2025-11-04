@@ -403,34 +403,33 @@ Hyperliquid represents a **rare experiment in crypto**: a self-funded, founder-c
 16. [RootData - Hyperliquid Project](https://www.rootdata.com/Projects/detail/Hyperliquid?k=ODM5NA%3D%3D)
 17. [Messari - Fundraising Data](https://messari.io/project/hyperliquid/fundraising)
 18. [PitchBook - Company Profile](https://pitchbook.com/profiles/company/746658-37)
-19. [Tracxn - Company Profile](https://tracxn.com/d/companies/hyperliquid/__yR1vmn9-xGn9C1xKLgwejZWBbkabnoJnhLug5XL0IKI)
-20. [Ventureburn - $1B SPAC Funding](https://ventureburn.com/hyperliquid-seeks-1b-funding-hype-token/)
+19. [Ventureburn - $1B SPAC Funding](https://ventureburn.com/hyperliquid-seeks-1b-funding-hype-token/)
 
 ### Legal & Regulatory
-21. [Ape Law - Hyperliquid Legal Analysis](https://ape.law/blog/hyperliquid)
-22. [DataWallet - Restricted Countries](https://www.datawallet.com/crypto/hyperliquid-supported-and-restricted-countries)
-23. [CoinPerps - Restricted Countries 2025](https://www.coinperps.com/learn/hyperliquid-restricted-countries)
-24. [Hyperliquid Terms of Service](https://app.hyperliquid.xyz/terms)
+20. [Ape Law - Hyperliquid Legal Analysis](https://ape.law/blog/hyperliquid)
+21. [DataWallet - Restricted Countries](https://www.datawallet.com/crypto/hyperliquid-supported-and-restricted-countries)
+22. [CoinPerps - Restricted Countries 2025](https://www.coinperps.com/learn/hyperliquid-restricted-countries)
+23. [Hyperliquid Terms of Service](https://app.hyperliquid.xyz/terms)
 
 ### Documentation & Resources
-25. [Hyperliquid Wiki - Hyperliquid Labs](https://hyperliquid-co.gitbook.io/wiki/introduction/hyperliquid-labs)
-26. [Hyperliquid Official Site](https://hyperliquid.xyz/)
-27. [Hyperliquid Application](https://app.hyperliquid.xyz/)
-28. [Hyperliquid Twitter](https://x.com/hyperliquidx)
+24. [Hyperliquid Wiki - Hyperliquid Labs](https://hyperliquid-co.gitbook.io/wiki/introduction/hyperliquid-labs)
+25. [Hyperliquid Official Site](https://hyperliquid.xyz/)
+26. [Hyperliquid Application](https://app.hyperliquid.xyz/)
+27. [Hyperliquid Twitter](https://x.com/hyperliquidx)
 
 ### Hiring & Jobs
-29. [Hyperliquid Labs Careers](https://jobs.ashbyhq.com/Hyperliquid%20Labs)
-30. [Web3 Career - Backend Engineer Singapore](https://web3.career/backend-engineer-hyperliquid/94866)
+28. [Hyperliquid Labs Careers](https://jobs.ashbyhq.com/Hyperliquid%20Labs)
+29. [Web3 Career - Backend Engineer Singapore](https://web3.career/backend-engineer-hyperliquid/94866)
 
 ### News & Analysis
-31. [Mitrade - CEO Market Maker Stance](https://www.mitrade.com/insights/news/live-news/article-3-1051231-20250819)
-32. [CoinGape - Team Expansion](https://coingape.com/block-of-fame/pulse/hyperliquid-ceo-jeff-expands-his-11-member-singapore-team-a-sly-strategic-move/)
-33. [CoinLedger - What is Hyperliquid](https://coinledger.io/learn/what-is-hyperliquid)
-34. [The Block - VC Interest in Perp DEXs](https://www.theblock.co/post/373464/the-funding-why-perp-dexs-getting-vc-attention-now)
+30. [Mitrade - CEO Market Maker Stance](https://www.mitrade.com/insights/news/live-news/article-3-1051231-20250819)
+31. [CoinGape - Team Expansion](https://coingape.com/block-of-fame/pulse/hyperliquid-ceo-jeff-expands-his-11-member-singapore-team-a-sly-strategic-move/)
+32. [CoinLedger - What is Hyperliquid](https://coinledger.io/learn/what-is-hyperliquid)
+33. [The Block - VC Interest in Perp DEXs](https://www.theblock.co/post/373464/the-funding-why-perp-dexs-getting-vc-attention-now)
 
 ### Token & Market Data
-35. [CoinMarketCap - HYPE Token](https://coinmarketcap.com/currencies/hyperliquid/)
-36. [Chain Broker - HYPE Investors](https://chainbroker.io/projects/hyperliquid/)
+34. [CoinMarketCap - HYPE Token](https://coinmarketcap.com/currencies/hyperliquid/)
+35. [Chain Broker - HYPE Investors](https://chainbroker.io/projects/hyperliquid/)
 
 ---
 
