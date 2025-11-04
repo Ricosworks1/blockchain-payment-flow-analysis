@@ -1,4 +1,4 @@
-# Morpho Keyrock USDC Vault: xUSD/Balancer Exploit Contagion Analysis
+# Morpho Keyrock USDC Vault: xUSD/Balancer Exploit Contagion Analysis (in review)
 
 **Analysis Date:** November 4, 2025
 **Vault Contract:** 0x04422053aDDbc9bB2759b248B574e3FCA76Bc145
