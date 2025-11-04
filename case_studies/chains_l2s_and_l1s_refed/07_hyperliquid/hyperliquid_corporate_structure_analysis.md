@@ -158,6 +158,9 @@ Hyperliquid is a **self-funded, founder-controlled L1 blockchain** operated by H
 
 **Sources**:
 - [Ventureburn - $1B SPAC Funding](https://ventureburn.com/hyperliquid-seeks-1b-funding-hype-token/)
+- [Coinmarketcap - $1B SPAC Funding](https://coinmarketcap.com/cmc-ai/hyperliquid/latest-updates/)
+- [TheBlock - $1B SPAC Funding](https://www.theblock.co/post/375812/hyperliquid-strategies-1-billion-raise)
+- [Edgar - $1B SPAC Funding S1 filing](https://www.sec.gov/Archives/edgar/data/2090011/000121390025103237/0001213900-25-103237-index.htm)
 
 ---
 
