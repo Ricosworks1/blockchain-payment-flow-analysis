@@ -7,14 +7,15 @@
 
 ## Executive Summary
 
-This report analyzes all blockchain projects and protocols covered in the Blockchain Payment Flow Analysis repository to identify optimal purchase zones based on historical all-time highs (ATH). The strategy employs a 75-95% discount range from ATH to establish purchase zones, with a progressive dollar-cost averaging (DCA) approach: **doubling position size every X% price decline**.
+This report analyzes **23 blockchain projects and protocols** covered in the Blockchain Payment Flow Analysis repository to identify optimal purchase zones based on historical all-time highs (ATH). The strategy employs a 75-95% discount range from ATH to establish purchase zones, with a progressive dollar-cost averaging (DCA) approach: **doubling position size every X% price decline**.
 
 **Key Findings:**
-- **60+ altcoins analyzed** across L1s, L2s, and DeFi protocols
-- Most altcoins trading **70-95% below 2021-2024 ATHs**
-- Only **3 tokens** (HYPE, XRP, ETH) near or above previous ATHs in 2025
-- **Optimal entry zones:** 85-95% below ATH for majority of assets
-- **Current market conditions:** Late 2024/Early 2025 bull market with selective ATH breaks
+- **23 repository tokens analyzed** across L1s, L2s, and DeFi protocols
+- Most tokens trading **70-95% below 2021-2024 ATHs**
+- Only **2 tokens** (SOL, HYPE) have made new ATHs in 2025
+- **14 active buy zones** at current prices (60% of portfolio in buy zones)
+- **Optimal entry zones:** 75-95% below ATH for majority of assets
+- **Current market conditions:** Mid-2025 bull market with selective strength in SOL ecosystem and perp DEXs
 
 ---
 
@@ -151,41 +152,7 @@ Discount Range from ATH: 75% - 95%
 
 ---
 
-### 4. Cardano (ADA)
-**All-Time High:** $3.10 (September 2021)
-**Current Price:** $0.82 (November 2025)
-**Current Discount:** -73.5% from ATH
-
-| Discount Level | Price Target | Purchase Size | Status |
-|---------------|--------------|---------------|---------|
-| 75% discount | $0.775 | 1x (Base) | ✅ **CURRENT ZONE** |
-| 80% discount | $0.620 | 2x | ❌ Below current |
-| 85% discount | $0.465 | 4x | ❌ Below current |
-| 90% discount | $0.310 | 8x | ❌ Below current |
-| 95% discount | $0.155 | 16x | ❌ Below current |
-
-**Analysis:** ADA currently trading at 73.5% discount - **ENTERING CONSERVATIVE BUY ZONE**. Start DCA with base position around $0.775-$0.82.
-
----
-
-### 5. Avalanche (AVAX)
-**All-Time High:** $134 (November 2021)
-**Current Price:** $16.35 (November 2025)
-**Current Discount:** -87.8% from ATH
-
-| Discount Level | Price Target | Purchase Size | Status |
-|---------------|--------------|---------------|---------|
-| 75% discount | $33.50 | 1x (Base) | ✅ PASSED |
-| 80% discount | $26.80 | 2x | ✅ PASSED |
-| 85% discount | $20.10 | 4x | ✅ PASSED |
-| 90% discount | $13.40 | 8x | ✅ **ACTIVE BUY ZONE** |
-| 95% discount | $6.70 | 16x | ❌ Below current |
-
-**Analysis:** AVAX deep in discount territory at 87.8% off ATH. **AGGRESSIVE BUY ZONE** - Currently between 85-90% discount levels. Strong DCA candidate.
-
----
-
-### 6. NEAR Protocol (NEAR)
+### 4. NEAR Protocol (NEAR)
 **All-Time High:** $20.42 (January 16, 2022)
 **Current Price:** ~$3.50 (estimated, November 2025)
 **Current Discount:** -82.9% from ATH
@@ -202,75 +169,7 @@ Discount Range from ATH: 75% - 95%
 
 ---
 
-### 7. Aptos (APT)
-**All-Time High:** $19.86 (January 30, 2023)
-**Current Price:** ~$6.00 (estimated, November 2025)
-**Current Discount:** -69.8% from ATH
-
-| Discount Level | Price Target | Purchase Size | Status |
-|---------------|--------------|---------------|---------|
-| 75% discount | $4.97 | 1x (Base) | ❌ Not Reached |
-| 80% discount | $3.97 | 2x | ❌ Not Reached |
-| 85% discount | $2.98 | 4x | ❌ Not Reached |
-| 90% discount | $1.99 | 8x | ❌ Not Reached |
-| 95% discount | $0.99 | 16x | ❌ Not Reached |
-
-**Analysis:** APT approaching 75% discount zone. **Watch for entry below $5.00** to start DCA strategy.
-
----
-
-### 8. SUI
-**All-Time High:** $5.35 (January 6, 2025)
-**Current Price:** ~$2.10 (estimated, November 2025)
-**Current Discount:** -60.7% from ATH
-
-| Discount Level | Price Target | Purchase Size | Status |
-|---------------|--------------|---------------|---------|
-| 75% discount | $1.34 | 1x (Base) | ❌ Not Reached |
-| 80% discount | $1.07 | 2x | ❌ Not Reached |
-| 85% discount | $0.80 | 4x | ❌ Not Reached |
-| 90% discount | $0.54 | 8x | ❌ Not Reached |
-| 95% discount | $0.27 | 16x | ❌ Not Reached |
-
-**Analysis:** SUI recent 2025 ATH, still in correction phase. **Wait for 75% discount at $1.34** to initiate DCA.
-
----
-
-### 9. Polygon (MATIC/POL)
-**All-Time High:** $2.92 (December 27, 2021)
-**Current Price:** ~$0.35 (estimated, November 2025)
-**Current Discount:** -88.0% from ATH
-
-| Discount Level | Price Target | Purchase Size | Status |
-|---------------|--------------|---------------|---------|
-| 75% discount | $0.73 | 1x (Base) | ✅ PASSED |
-| 80% discount | $0.58 | 2x | ✅ PASSED |
-| 85% discount | $0.44 | 4x | ✅ PASSED |
-| 90% discount | $0.29 | 8x | ✅ **DEEP VALUE ZONE** |
-| 95% discount | $0.15 | 16x | ❌ Below current |
-
-**Analysis:** MATIC at 88% discount - **EXTREME VALUE ZONE**. Between 85-90% discount tiers. High conviction buy zone for long-term holders.
-
----
-
-### 10. Arbitrum (ARB)
-**All-Time High:** $8.67 (March 23, 2023) *[Note: Some sources show $2.40]*
-**Current Price:** ~$0.60 (estimated, November 2025)
-**Current Discount:** -93.1% from $8.67 ATH
-
-| Discount Level | Price Target | Purchase Size | Status |
-|---------------|--------------|---------------|---------|
-| 75% discount | $2.17 | 1x (Base) | ✅ PASSED |
-| 80% discount | $1.73 | 2x | ✅ PASSED |
-| 85% discount | $1.30 | 4x | ✅ PASSED |
-| 90% discount | $0.87 | 8x | ✅ PASSED |
-| 95% discount | $0.43 | 16x | ✅ **MAXIMUM DISCOUNT ZONE** |
-
-**Analysis:** ARB at 93% discount if $8.67 ATH is accurate. **EXTREME DEEP VALUE**. If using $2.40 ATH, current discount is 75% - still in buy zone. High risk/reward setup.
-
----
-
-### 11. Optimism (OP)
+### 5. Optimism (OP)
 **All-Time High:** $4.85 (March 6, 2024)
 **Current Price:** ~$1.70 (estimated, November 2025)
 **Current Discount:** -64.9% from ATH
@@ -287,7 +186,7 @@ Discount Range from ATH: 75% - 95%
 
 ---
 
-### 12. Starknet (STRK)
+### 6. Starknet (STRK)
 **All-Time High:** ~$3.00 (estimated, 2024)
 **Current Price:** ~$0.50 (estimated, November 2025)
 **Current Discount:** -83.3% from ATH (estimated)
@@ -304,7 +203,7 @@ Discount Range from ATH: 75% - 95%
 
 ---
 
-### 13. Tron (TRX)
+### 7. Tron (TRX)
 **All-Time High:** $0.4407 (December 4, 2024)
 **Current Price:** $0.3527 (August 13, 2025)
 **Current Discount:** -20.0% from ATH
@@ -321,60 +220,9 @@ Discount Range from ATH: 75% - 95%
 
 ---
 
-### 14. XRP (Ripple)
-**All-Time High:** $3.67 (July 2025)
-**Current Price:** ~$2.90 (estimated, November 2025)
-**Current Discount:** -21.0% from ATH
-
-| Discount Level | Price Target | Purchase Size | Status |
-|---------------|--------------|---------------|---------|
-| 75% discount | $0.92 | 1x (Base) | ❌ Not Reached |
-| 80% discount | $0.73 | 2x | ❌ Not Reached |
-| 85% discount | $0.55 | 4x | ❌ Not Reached |
-| 90% discount | $0.37 | 8x | ❌ Not Reached |
-| 95% discount | $0.18 | 16x | ❌ Not Reached |
-
-**Analysis:** XRP hit new ATH in July 2025 driven by regulatory clarity. Currently in shallow correction. **No entry signals** - monitor for 75% discount at $0.92.
-
----
-
-### 15. Algorand (ALGO)
-**All-Time High:** $3.28 (September 2021)
-**Current Price:** $0.18 (November 2025)
-**Current Discount:** -94.5% from ATH
-
-| Discount Level | Price Target | Purchase Size | Status |
-|---------------|--------------|---------------|---------|
-| 75% discount | $0.82 | 1x (Base) | ✅ PASSED |
-| 80% discount | $0.66 | 2x | ✅ PASSED |
-| 85% discount | $0.49 | 4x | ✅ PASSED |
-| 90% discount | $0.33 | 8x | ✅ PASSED |
-| 95% discount | $0.16 | 16x | ✅ **MAXIMUM DISCOUNT ZONE** |
-
-**Analysis:** ALGO at 94.5% discount - **EXTREME DEEP VALUE TERRITORY**. Near 95% discount level at $0.18. Ultimate contrarian play for long-term believers.
-
----
-
-### 16. Fantom (FTM)
-**All-Time High:** $3.46 (October 28, 2021)
-**Current Price:** ~$0.22 (estimated, November 2025)
-**Current Discount:** -93.6% from ATH
-
-| Discount Level | Price Target | Purchase Size | Status |
-|---------------|--------------|---------------|---------|
-| 75% discount | $0.87 | 1x (Base) | ✅ PASSED |
-| 80% discount | $0.69 | 2x | ✅ PASSED |
-| 85% discount | $0.52 | 4x | ✅ PASSED |
-| 90% discount | $0.35 | 8x | ✅ PASSED |
-| 95% discount | $0.17 | 16x | ✅ **MAXIMUM DISCOUNT ZONE** |
-
-**Analysis:** FTM at 93.6% discount - **EXTREME VALUE ZONE**. Trading near 95% discount at $0.22. High risk, high reward positioning for recovery plays.
-
----
-
 ## Layer 2 Solutions Analysis
 
-### 17. Hyperliquid (HYPE)
+### 8. Hyperliquid (HYPE)
 **All-Time High:** $59.37 (September 2025)
 **Current Price:** $35.00 (November 2025, after Fed correction)
 **Current Discount:** -41.0% from ATH
@@ -387,11 +235,11 @@ Discount Range from ATH: 75% - 95%
 | 90% discount | $5.94 | 8x | ❌ Not Reached |
 | 95% discount | $2.97 | 16x | ❌ Not Reached |
 
-**Analysis:** HYPE set ATH in Sept 2025, currently in correction. New protocol with high volatility. **Wait for 75% discount at $14.84** before initiating DCA.
+**Analysis:** HYPE set ATH in Sept 2025, currently in correction. New protocol with high volatility. **Wait for 40% discount at $23.75** before initiating DCA (Blue chip perp DEX strategy).
 
 ---
 
-### 18. zkSync Era (ZK)
+### 9. zkSync Era (ZK)
 **All-Time High:** ~$0.30 (estimated, 2024 airdrop peak)
 **Current Price:** ~$0.12 (estimated, November 2025)
 **Current Discount:** -60% from ATH (estimated)
@@ -410,7 +258,7 @@ Discount Range from ATH: 75% - 95%
 
 ## DeFi Protocols Analysis
 
-### 19. Uniswap (UNI)
+### 10. Uniswap (UNI)
 **All-Time High:** $44.97 (May 3, 2021)
 **Current Price:** ~$6.50 (estimated, November 2025)
 **Current Discount:** -85.5% from ATH
@@ -427,58 +275,41 @@ Discount Range from ATH: 75% - 95%
 
 ---
 
-### 20. Aave (AAVE)
-**All-Time High:** $664.86 (May 18, 2021)
-**Current Price:** ~$145 (estimated, November 2025)
-**Current Discount:** -78.2% from ATH
+### 11. Pendle (PENDLE)
+**All-Time High:** $7.52 (April 2024)
+**Current Price:** $4.20 (November 2025)
+**Current Discount:** -44% from ATH
 
 | Discount Level | Price Target | Purchase Size | Status |
 |---------------|--------------|---------------|---------|
-| 75% discount | $166.22 | 1x (Base) | ✅ APPROACHING |
-| 80% discount | $132.97 | 2x | ❌ Not Reached |
-| 85% discount | $99.73 | 4x | ❌ Not Reached |
-| 90% discount | $66.49 | 8x | ❌ Not Reached |
-| 95% discount | $33.24 | 16x | ❌ Not Reached |
+| 75% discount | $1.88 | 1x (Base) | ❌ Not Reached |
+| 80% discount | $1.50 | 2x | ❌ Not Reached |
+| 85% discount | $1.13 | 4x | ❌ Not Reached |
+| 90% discount | $0.75 | 8x | ❌ Not Reached |
+| 95% discount | $0.38 | 16x | ❌ Not Reached |
 
-**Analysis:** AAVE approaching 75% discount zone at $145 current price. **Begin DCA around $166 and below** - top lending protocol with strong fundamentals.
+**Analysis:** PENDLE at 44% discount - **WAIT FOR 75% ENTRY**. Yield trading protocol with strong fundamentals. Set alerts for $1.88 entry.
 
 ---
 
-### 21. Maker/Sky (MKR)
-**All-Time High:** $6,292 (May 3, 2021)
-**Current Price:** ~$1,400 (estimated, November 2025)
-**Current Discount:** -77.7% from ATH
+### 12. Lido (LDO)
+**All-Time High:** $4.69 (August 20, 2021)
+**Current Price:** $0.75 (November 2025)
+**Current Discount:** -84% from ATH
 
 | Discount Level | Price Target | Purchase Size | Status |
 |---------------|--------------|---------------|---------|
-| 75% discount | $1,573 | 1x (Base) | ✅ APPROACHING |
-| 80% discount | $1,258 | 2x | ❌ Not Reached |
-| 85% discount | $944 | 4x | ❌ Not Reached |
-| 90% discount | $629 | 8x | ❌ Not Reached |
-| 95% discount | $315 | 16x | ❌ Not Reached |
+| 75% discount | $1.17 | 1x (Base) | ✅ PASSED |
+| 80% discount | $0.94 | 2x | ✅ PASSED |
+| 85% discount | $0.70 | 4x | ✅ **ACTIVE BUY ZONE** |
+| 90% discount | $0.47 | 8x | ❌ Below current |
+| 95% discount | $0.23 | 16x | ❌ Below current |
 
-**Analysis:** MKR nearing 75% discount entry at $1,400. Recently rebranded to SKY. **Start DCA below $1,573** - stable revenue from DAI.
-
----
-
-### 22. Lido (LDO)
-**All-Time High:** $7.30 (August 20, 2021)
-**Current Price:** ~$1.10 (estimated, November 2025)
-**Current Discount:** -84.9% from ATH
-
-| Discount Level | Price Target | Purchase Size | Status |
-|---------------|--------------|---------------|---------|
-| 75% discount | $1.83 | 1x (Base) | ✅ PASSED |
-| 80% discount | $1.46 | 2x | ✅ PASSED |
-| 85% discount | $1.10 | 4x | ✅ **ACTIVE BUY ZONE** |
-| 90% discount | $0.73 | 8x | ❌ Below current |
-| 95% discount | $0.37 | 16x | ❌ Below current |
-
-**Analysis:** LDO at 85% discount - **STRONG VALUE ZONE**. Dominant Ethereum liquid staking protocol. Active accumulation zone at current levels.
+**Analysis:** LDO at 84% discount - **STRONG VALUE ZONE**. Dominant Ethereum liquid staking protocol. Active accumulation zone at current levels.
 
 ---
 
-### 23. Chainlink (LINK)
+### 13. Chainlink (LINK)
 **All-Time High:** $52.88 (May 10, 2021)
 **Current Price:** ~$13.50 (estimated, November 2025)
 **Current Discount:** -74.5% from ATH
@@ -495,7 +326,58 @@ Discount Range from ATH: 75% - 95%
 
 ---
 
-### 24. Jupiter (JUP)
+### 14. Drift Protocol (DRIFT)
+**All-Time High:** $2.36 (November 2024)
+**Current Price:** $0.34 (November 2025)
+**Current Discount:** -86% from ATH
+
+| Discount Level | Price Target | Purchase Size | Status |
+|---------------|--------------|---------------|---------|
+| 75% discount | $0.59 | 1x (Base) | ✅ PASSED |
+| 80% discount | $0.47 | 2x | ✅ PASSED |
+| 85% discount | $0.35 | 4x | ✅ **ACTIVE BUY ZONE** |
+| 90% discount | $0.24 | 8x | ❌ Below current |
+| 95% discount | $0.12 | 16x | ❌ Below current |
+
+**Analysis:** DRIFT at 86% discount - **ACTIVE BUY ZONE**. Leading Solana perp DEX with $2B+ TVL. Currently between 85-90% discount tier - strong accumulation zone.
+
+---
+
+### 15. Ethena (ENA)
+**All-Time High:** $1.52 (April 2024)
+**Current Price:** $0.29 (November 2025)
+**Current Discount:** -81% from ATH
+
+| Discount Level | Price Target | Purchase Size | Status |
+|---------------|--------------|---------------|---------|
+| 75% discount | $0.38 | 1x (Base) | ✅ PASSED |
+| 80% discount | $0.30 | 2x | ✅ **ACTIVE BUY ZONE** |
+| 85% discount | $0.23 | 4x | ❌ Below current |
+| 90% discount | $0.15 | 8x | ❌ Below current |
+| 95% discount | $0.08 | 16x | ❌ Below current |
+
+**Analysis:** ENA at 81% discount - **ACTIVE BUY ZONE**. Synthetic USD protocol with $2.7B TVL. Currently at 80% discount tier - initiate DCA.
+
+---
+
+### 16. Ondo Finance (ONDO)
+**All-Time High:** $2.14 (December 2024)
+**Current Price:** $0.64 (November 2025)
+**Current Discount:** -70% from ATH
+
+| Discount Level | Price Target | Purchase Size | Status |
+|---------------|--------------|---------------|---------|
+| 75% discount | $0.54 | 1x (Base) | ❌ Not Reached |
+| 80% discount | $0.43 | 2x | ❌ Not Reached |
+| 85% discount | $0.32 | 4x | ❌ Not Reached |
+| 90% discount | $0.21 | 8x | ❌ Not Reached |
+| 95% discount | $0.11 | 16x | ❌ Not Reached |
+
+**Analysis:** ONDO at 70% discount - **APPROACHING 75% ENTRY**. RWA tokenization leader with recent ATH. Wait for $0.54 entry to begin DCA.
+
+---
+
+### 17. Jupiter (JUP)
 **All-Time High:** ~$1.85 (estimated, early 2024)
 **Current Price:** $0.33 (November 2025)
 **Current Discount:** -82.2% from ATH
@@ -512,7 +394,7 @@ Discount Range from ATH: 75% - 95%
 
 ---
 
-### 25. Jito (JTO)
+### 18. Jito (JTO)
 **All-Time High:** ~$4.85 (estimated, early 2024)
 **Current Price:** $0.74 (November 2025)
 **Current Discount:** -84.7% from ATH
@@ -529,24 +411,7 @@ Discount Range from ATH: 75% - 95%
 
 ---
 
-### 26. Ethena (ENA)
-**All-Time High:** ~$1.50 (estimated, April 2024)
-**Current Price:** $0.29 (November 2025)
-**Current Discount:** -80.7% from ATH
-
-| Discount Level | Price Target | Purchase Size | Status |
-|---------------|--------------|---------------|---------|
-| 75% discount | $0.38 | 1x (Base) | ✅ PASSED |
-| 80% discount | $0.30 | 2x | ✅ **CURRENT ENTRY ZONE** |
-| 85% discount | $0.23 | 4x | ❌ Below current |
-| 90% discount | $0.15 | 8x | ❌ Below current |
-| 95% discount | $0.08 | 16x | ❌ Below current |
-
-**Analysis:** ENA at 80.7% discount - **ACTIVE BUY ZONE**. Synthetic dollar protocol with yield generation. Currently at 80% discount tier - initiate DCA.
-
----
-
-### 27. EigenLayer (EIGEN)
+### 19. EigenLayer (EIGEN)
 **All-Time High:** ~$5.50 (estimated, October 2024 airdrop)
 **Current Price:** $1.07 (November 2025)
 **Current Discount:** -80.5% from ATH
@@ -563,7 +428,7 @@ Discount Range from ATH: 75% - 95%
 
 ---
 
-### 28. Ethereum Name Service (ENS)
+### 20. Ethereum Name Service (ENS)
 **All-Time High:** $85.69 (November 2021)
 **Current Price:** $13.03 (November 2025)
 **Current Discount:** -84.8% from ATH
@@ -582,18 +447,22 @@ Discount Range from ATH: 75% - 95%
 
 ## Newer/Emerging Projects Analysis
 
-### 29. Base (No native token)
-**Note:** Base is an Optimism L2 by Coinbase with no native token. Users pay fees in ETH.
+### 21. Berachain (BERA)
+**All-Time High:** $14.79 (February 6, 2025 - launch day)
+**Current Price:** $1.60 (November 2025)
+**Current Discount:** -89% from ATH
+
+| Discount Level | Price Target | Purchase Size | Status |
+|---------------|--------------|---------------|---------|
+| 85% discount | $2.22 | 1x (Base) | ✅ PASSED |
+| 90% discount | $1.48 | 2x | ✅ **ACTIVE BUY ZONE** |
+| 95% discount | $0.74 | 4x | ❌ Below current |
+
+**Analysis:** BERA at 89% discount - **ACTIVE BUY ZONE**. PoL consensus L1, currently between 85-90% discount tier - strong entry zone.
 
 ---
 
-### 30. Berachain (BERA)
-**Status:** Not yet launched (Testnet)
-**Analysis:** Wait for mainnet launch and token generation event before establishing ATH baseline.
-
----
-
-### 31. Taiko
+### 22. Taiko
 **All-Time High:** ~$3.20 (estimated, May 2024 launch)
 **Current Price:** ~$1.15 (estimated, November 2025)
 **Current Discount:** -64.1% from ATH
@@ -606,19 +475,11 @@ Discount Range from ATH: 75% - 95%
 | 90% discount | $0.32 | 8x | ❌ Not Reached |
 | 95% discount | $0.16 | 16x | ❌ Not Reached |
 
-**Analysis:** Taiko in mid-correction at 64% discount. **Wait for 75% discount at $0.80** before initiating DCA.
+**Analysis:** Taiko at 93% discount - **ACTIVE BUY ZONE**. ZK-rollup L2 with current price of $0.24. Currently between 90-95% discount tier - extreme value zone.
 
 ---
 
-### 32. Linea (No native token yet)
-**Status:** zkEVM L2 by Consensys - no token launched yet
-**Analysis:** Monitor for future token launch.
-
----
-
-## AI-Focused Blockchain Projects
-
-### 33. Astar Network (ASTR)
+### 23. Astar Network (ASTR)
 **All-Time High:** $0.3367 (January 2022)
 **Current Price:** ~$0.05 (estimated, November 2025)
 **Current Discount:** -85.1% from ATH
@@ -631,12 +492,7 @@ Discount Range from ATH: 75% - 95%
 | 90% discount | $0.034 | 8x | ❌ Below current |
 | 95% discount | $0.017 | 16x | ❌ Below current |
 
-**Analysis:** ASTR at 85% discount - **STRONG VALUE ZONE**. Japanese Web3 hub with AI integration. Active buy zone at current levels.
-
----
-
-### 34. Other Emerging Projects
-Projects like **Shardeum, Quai Network, MegaETH, Canton Network** are either in testnet or early mainnet without established ATH history. **Monitor these for post-launch accumulation opportunities.**
+**Analysis:** ASTR at 97% discount - **EXTREME VALUE ZONE**. Polkadot parachain with current price of $0.014. Currently between 95-97% discount tier - maximum discount zone for long-term holders.
 
 ---
 
@@ -645,35 +501,43 @@ Projects like **Shardeum, Quai Network, MegaETH, Canton Network** are either in 
 ### Tier 0: Blue Chip Assets (Special Strategies)
 **Active Buy Zones:**
 1. **Solana (SOL)** - 52% discount → ✅ **ACTIVE BUY NOW** at 50-55% range
-2. **Ethereum (ETH)** - 36% discount → ⏳ Wait for 50% ($2,477)
-3. **BNB** - 3% discount → ⏳ Wait for 30% ($665)
+2. **Hyperliquid (HYPE)** - 41% discount → ✅ **ACTIVE BUY NOW** (Blue chip perp DEX)
+3. **Ethereum (ETH)** - 36% discount → ⏳ Wait for 50% ($2,477)
+4. **BNB** - 3% discount → ⏳ Wait for 30% ($665)
 
-**Strategy:** Higher conviction, larger allocations. SOL is **immediate buy** at current levels. ETH and BNB require deeper corrections. Allocate **15-50% of portfolio** to this tier.
+**Strategy:** Higher conviction, larger allocations. SOL and HYPE are **immediate buys** at current levels. ETH and BNB require deeper corrections. Allocate **15-50% of portfolio** to this tier.
 
 ---
 
 ### Tier 1: High Conviction Entries (75-80% Discount Zone)
 **Current Opportunities:**
-1. **Cardano (ADA)** - 73.5% discount → Start base position
-2. **Chainlink (LINK)** - 74.5% discount → Start base position
-3. **Aave (AAVE)** - 78.2% discount → Approaching entry
-4. **Maker (MKR)** - 77.7% discount → Approaching entry
+1. **Chainlink (LINK)** - 74.5% discount → Start base position
+2. **Drift (DRIFT)** - 86% discount → Active buy
+3. **Ethena (ENA)** - 81% discount → Active buy
+4. **Uniswap (UNI)** - 85.5% discount → Active buy
+5. **Lido (LDO)** - 84% discount → Active buy
 
-**Strategy:** These are entering conservative buy zones. Start with **base allocation (1x)** and prepare to double down every 5-10% drop.
+**Wait for Entry:**
+- **Ondo (ONDO)** - 70% discount → Wait for 75% at $0.54
+- **Pendle (PENDLE)** - 44% discount → Wait for 75% at $1.88
+- **Optimism (OP)** - 65% discount → Wait for 75% at $1.21
+
+**Strategy:** These are in or entering conservative buy zones. Start with **base allocation (1x)** and prepare to double down every 5-10% drop.
 
 ---
 
 ### Tier 2: Deep Value Entries (80-85% Discount Zone)
 **Current Opportunities:**
-1. **NEAR Protocol** - 82.9% discount → Active accumulation
-2. **Uniswap (UNI)** - 85.5% discount → Strong value
-3. **Lido (LDO)** - 84.9% discount → Active buy zone
-4. **Jupiter (JUP)** - 82.2% discount → Solana ecosystem play
-5. **Jito (JTO)** - 84.7% discount → MEV/staking play
-6. **Ethena (ENA)** - 80.7% discount → Synthetic dollar exposure
-7. **EigenLayer (EIGEN)** - 80.5% discount → Restaking narrative
-8. **ENS** - 84.8% discount → Infrastructure play
-9. **Astar (ASTR)** - 85.1% discount → AI/Web3 exposure
+1. **NEAR Protocol** - 83% discount → Active accumulation
+2. **Starknet (STRK)** - 83% discount → Active buy zone
+3. **EigenLayer (EIGEN)** - 86% discount → Restaking play
+4. **Jito (JTO)** - 87% discount → MEV/staking play
+5. **Jupiter (JUP)** - 82% discount → Solana DEX aggregator
+6. **ENS** - 85% discount → Infrastructure play
+7. **zkSync (ZK)** - 84% discount → ZK-rollup play
+
+**Wait for Entry:**
+- **Tron (TRX)** - 30% discount → Wait for 80% at $0.09
 
 **Strategy:** These are in **aggressive buy zones (2x-4x positions)**. Scale into positions with confidence.
 
@@ -681,13 +545,11 @@ Projects like **Shardeum, Quai Network, MegaETH, Canton Network** are either in 
 
 ### Tier 3: Extreme Deep Value (85-95% Discount Zone)
 **Current Opportunities:**
-1. **Avalanche (AVAX)** - 87.8% discount → Deep value
-2. **Polygon (MATIC)** - 88.0% discount → Extreme value
-3. **Arbitrum (ARB)** - 93.1% discount (if $8.67 ATH) → Maximum discount
-4. **Algorand (ALGO)** - 94.5% discount → Maximum discount
-5. **Fantom (FTM)** - 93.6% discount → Maximum discount
+1. **Berachain (BERA)** - 89% discount → PoL consensus L1
+2. **Taiko (TAIKO)** - 93% discount → ZK-rollup L2
+3. **Astar (ASTR)** - 97% discount → Polkadot parachain
 
-**Strategy:** These are **contrarian plays** at 90-95% discount levels (**8x-16x positions** in DCA ladder). Highest risk/reward ratio. Only for long-term conviction holders willing to wait 2-3+ years.
+**Strategy:** These are **contrarian plays** at 90-95%+ discount levels (**8x-16x positions** in DCA ladder). Highest risk/reward ratio. Only for long-term conviction holders willing to wait 2-3+ years.
 
 ---
 
@@ -695,14 +557,13 @@ Projects like **Shardeum, Quai Network, MegaETH, Canton Network** are either in 
 **Not Currently in Buy Zone:**
 - **Ethereum (ETH)** - 36% discount → **Wait for 50% discount at $2,477** (blue chip)
 - **BNB** - 3% discount → **Wait for 30% discount at $665** (corporate-backed)
-- **Hyperliquid (HYPE)** - 41% discount → Wait for 75% at $14.84
-- **XRP** - 21% discount → Wait for 75% at $0.92
-- **Tron (TRX)** - 20% discount → Wait for 75% at $0.11
-- **Aptos (APT)** - 70% discount → Approaching 75% zone at $4.97
-- **SUI** - 61% discount → Wait for 75% at $1.34
+- **Tron (TRX)** - 30% discount → Wait for 80% at $0.09
+- **Ondo (ONDO)** - 70% discount → Wait for 75% at $0.54
+- **Pendle (PENDLE)** - 44% discount → Wait for 75% at $1.88
 - **Optimism (OP)** - 65% discount → Wait for 75% at $1.21
+- **zkSync (ZK)** - 84% discount → Wait for 80% entry zone
 
-**Strategy:** Set **price alerts** at appropriate entry levels. Blue chips (ETH, BNB): 30-50% discounts. Standard altcoins: 75% discount. Do not enter yet - wait for deeper corrections.
+**Strategy:** Set **price alerts** at appropriate entry levels. Blue chips (ETH, BNB, HYPE): 30-50% discounts. Standard altcoins: 75% discount. Do not enter yet - wait for deeper corrections.
 
 ---
 
@@ -760,80 +621,84 @@ Minimum Single Asset: 0.5% of total crypto portfolio
 
 ## Sample Portfolio Construction
 
-### Balanced Blue Chip + Altcoin Portfolio ($10,000 total)
+### Balanced Blue Chip + Altcoin Portfolio ($10,000 total) - Repository Tokens Only
 
-**Tier 0: Blue Chips - 50% allocation ($5,000):**
-- **SOL**: $3,000 ✅ **BUY NOW** at $141 (52% discount, active zone)
+**Tier 0: Blue Chips - 53% allocation ($5,300):**
+- **SOL**: $1,800 ✅ **BUY NOW** at $141 (52% discount, active zone)
+- **HYPE**: $1,200 ✅ **BUY NOW** at $35 (41% discount, blue chip perp DEX)
 - **ETH**: $1,500 ⏳ Wait for $2,477 (50% discount)
-- **BNB**: $500 ⏳ Wait for $665 (30% discount)
+- **BNB**: $800 ⏳ Wait for $215 (30% discount)
 
-**Tier 1: High Conviction (75-80%) - 25% allocation ($2,500):**
-- ADA: $700
-- LINK: $700
-- AAVE: $600
-- MKR: $500
+**Tier 1: High Conviction (75-80%) - 27% allocation ($2,700):**
+- DRIFT: $450 ✅ **BUY NOW** (Solana perp DEX)
+- ENA: $450 ✅ **BUY NOW** (Synthetic USD)
+- LINK: $600 (Oracle network)
+- UNI: $450 ✅ **BUY NOW** (DEX protocol)
+- LDO: $450 ✅ **BUY NOW** (Liquid staking)
+- ONDO: $300 ⏳ Wait for 75%
 
-**Tier 2: Deep Value (80-85%) - 15% allocation ($1,500):**
-- UNI: $400
-- LDO: $300
-- JUP: $300
-- EIGEN: $300
-- ENS: $200
+**Tier 2: Deep Value (80-85%) - 14% allocation ($1,400):**
+- STRK: $300 ✅ **BUY NOW**
+- EIGEN: $300 ✅ **BUY NOW**
+- JTO: $300 ✅ **BUY NOW**
+- ENS: $250 ✅ **BUY NOW**
+- JUP: $250
 
-**Tier 3: Extreme Deep Value (85-95%) - 10% allocation ($1,000):**
-- AVAX: $300
-- MATIC: $300
-- NEAR: $200
-- ALGO: $200
+**Tier 3: Extreme Deep Value (85-95%) - 6% allocation ($600):**
+- BERA: $250 ✅ **BUY NOW**
+- TAIKO: $200 ✅ **BUY NOW**
+- ASTR: $150 ✅ **BUY NOW**
 
 **Current Action Items:**
 1. ✅ **Immediate:** Buy $3,000 SOL at current $141 price
-2. ⏳ **Set Alerts:** ETH at $2,477, BNB at $665
-3. ✅ **DCA Starting:** ADA, LINK around current levels
-4. ✅ **Active Accumulation:** UNI, LDO, AVAX, MATIC in deep value zones
+2. ✅ **Immediate:** Buy $1,200 HYPE at current $35 price
+3. ⏳ **Set Alerts:** ETH at $2,477, BNB at $215, ONDO at $0.54
+4. ✅ **Active Accumulation:** DRIFT, ENA, UNI, LDO, STRK, EIGEN, JTO, ENS in active buy zones
 
 ---
 
-### Conservative Long-Term Hold ($10,000 total)
+### Conservative Long-Term Hold ($10,000 total) - Repository Tokens Only
 
 **Tier 0: Blue Chips Only - 70% allocation ($7,000):**
-- **SOL**: $3,500 ✅ **BUY NOW**
-- **ETH**: $3,000 ⏳ Wait for entry
+- **SOL**: $2,500 ✅ **BUY NOW**
+- **HYPE**: $1,500 ✅ **BUY NOW**
+- **ETH**: $2,500 ⏳ Wait for entry
 - **BNB**: $500 ⏳ Wait for entry
 
 **Tier 1: High Conviction (75-80%) - 20% allocation ($2,000):**
-- LINK: $800 (infrastructure)
-- AAVE: $600 (DeFi blue chip)
-- ADA: $600 (established L1)
+- LINK: $800 (Oracle infrastructure)
+- DRIFT: $600 (Solana perp DEX)
+- LDO: $600 (ETH liquid staking)
 
 **Tier 2: Deep Value (80-85%) - 10% allocation ($1,000):**
-- UNI: $500 (leading DEX)
-- LDO: $500 (ETH staking)
+- UNI: $500 (Leading DEX)
+- EIGEN: $500 (Restaking protocol)
 
-**Strategy:** Lower risk, focus on established winners with proven revenue and ecosystems.
+**Strategy:** Lower risk, focus on established winners with proven revenue and ecosystems from repository case studies.
 
 ---
 
-### Aggressive High-Risk Portfolio ($10,000 total)
+### Aggressive High-Risk Portfolio ($10,000 total) - Repository Tokens Only
 
 **Tier 0: Blue Chips - 30% allocation ($3,000):**
-- **SOL**: $3,000 ✅ **BUY NOW** (highest conviction alt)
+- **SOL**: $1,800 ✅ **BUY NOW** (highest conviction L1)
+- **HYPE**: $1,200 ✅ **BUY NOW** (blue chip perp DEX)
 
-**Tier 2: Deep Value (80-85%) - 30% allocation ($3,000):**
-- NEAR: $800
-- JUP: $600
-- JTO: $600
-- ENA: $500
-- EIGEN: $500
+**Tier 1 & 2: Deep Value (75-85%) - 40% allocation ($4,000):**
+- DRIFT: $800 ✅ **BUY NOW**
+- ENA: $600 ✅ **BUY NOW**
+- UNI: $600 ✅ **BUY NOW**
+- LDO: $500 ✅ **BUY NOW**
+- STRK: $500 ✅ **BUY NOW**
+- JTO: $500 ✅ **BUY NOW**
+- EIGEN: $500 ✅ **BUY NOW**
 
-**Tier 3: Extreme Deep Value (85-95%) - 40% allocation ($4,000):**
-- AVAX: $1,200
-- MATIC: $1,000
-- ARB: $800
-- ALGO: $600
-- FTM: $400
+**Tier 3: Extreme Deep Value (85-95%) - 30% allocation ($3,000):**
+- BERA: $1,200 ✅ **BUY NOW**
+- TAIKO: $1,000 ✅ **BUY NOW**
+- ASTR: $800 ✅ **BUY NOW**
 
-**Strategy:** Higher risk/reward, concentrated in deep discount altcoins. Only for those with long time horizon (3-5 years) and high risk tolerance.
+**Strategy:** Higher risk/reward, concentrated in deep discount repository tokens. Only for those with long time horizon (3-5 years) and high risk tolerance. All tokens have repository case studies.
 
 ---
 
@@ -911,45 +776,47 @@ This analysis is for **educational and informational purposes only** and does no
 
 ## Appendix A: Quick Reference Tables
 
-### Top 10 Active Buy Zones (80-85% Discount)
+### Top 10 Active Buy Zones (Repository Tokens)
 | Token | Current Price | ATH | Discount | Entry Tier |
 |-------|---------------|-----|----------|-----------|
-| ALGO | $0.18 | $3.28 | 94.5% | 🔥🔥🔥 Extreme |
-| FTM | $0.22 | $3.46 | 93.6% | 🔥🔥🔥 Extreme |
-| ARB | $0.60 | $8.67 | 93.1% | 🔥🔥🔥 Extreme |
-| MATIC | $0.35 | $2.92 | 88.0% | 🔥🔥 Deep Value |
-| AVAX | $16.35 | $134 | 87.8% | 🔥🔥 Deep Value |
-| UNI | $6.50 | $44.97 | 85.5% | 🔥🔥 Deep Value |
-| ASTR | $0.05 | $0.34 | 85.1% | 🔥🔉 Strong Value |
-| LDO | $1.10 | $7.30 | 84.9% | 🔥 Strong Value |
-| ENS | $13.03 | $85.69 | 84.8% | 🔥 Strong Value |
-| JTO | $0.74 | $4.85 | 84.7% | 🔥 Strong Value |
+| ASTR | $0.014 | $0.42 | 97% | 🔥🔥🔥 Extreme |
+| TAIKO | $0.24 | $3.27 | 93% | 🔥🔥🔥 Extreme |
+| BERA | $1.60 | $14.79 | 89% | 🔥🔥 Deep Value |
+| JTO | $0.74 | $5.61 | 87% | 🔥🔥 Deep Value |
+| DRIFT | $0.34 | $2.36 | 86% | 🔥🔥 Deep Value |
+| EIGEN | $0.77 | $5.65 | 86% | 🔥🔥 Deep Value |
+| UNI | $8.90 | $44.92 | 80% | 🔥 Strong Value |
+| ENS | $13.34 | $85.69 | 84% | 🔥 Strong Value |
+| LDO | $0.75 | $4.69 | 84% | 🔥 Strong Value |
+| ZK | $0.05 | $0.32 | 84% | 🔥 Strong Value |
 
-### Top 5 Approaching Buy Zones (70-75% Discount)
-| Token | Current Price | ATH | Discount | Target Entry |
-|-------|---------------|-----|----------|--------------|
-| ADA | $0.82 | $3.10 | 73.5% | ✅ Active Now |
-| LINK | $13.50 | $52.88 | 74.5% | ✅ Active Now |
-| MKR | $1,400 | $6,292 | 77.7% | ✅ Approaching |
-| AAVE | $145 | $664.86 | 78.2% | ✅ Approaching |
-| APT | $6.00 | $19.86 | 69.8% | ⏳ Watch $4.97 |
+### Tier 1 Active & Approaching (Repository Tokens)
+| Token | Current Price | ATH | Discount | Target Entry | Status |
+|-------|---------------|-----|----------|--------------|--------|
+| DRIFT | $0.34 | $2.36 | 86% | 75% ($0.59) | ✅ **BUY NOW** |
+| ENA | $0.29 | $1.52 | 81% | 80% ($0.30) | ✅ **BUY NOW** |
+| UNI | $8.90 | $44.92 | 80% | 85% ($6.75) | ✅ **BUY NOW** |
+| LDO | $0.75 | $4.69 | 84% | 85% ($0.70) | ✅ **BUY NOW** |
+| LINK | $13.50 | $52.70 | 74% | 75% ($13.22) | ✅ Active Now |
+| ONDO | $0.64 | $2.14 | 70% | 75% ($0.54) | ⏳ Approaching |
+| OP | $1.65 | $4.86 | 66% | 75% ($1.22) | ⏳ Approaching |
+| PENDLE | $4.20 | $7.52 | 44% | 75% ($1.88) | ⏳ Monitor |
 
-### Blue Chip Active Buys & Monitors
+### Blue Chip Active Buys & Monitors (Repository Tokens)
 | Token | Current Price | ATH | Discount | Entry Target | Status |
 |-------|---------------|-----|----------|--------------|--------|
-| SOL | $141 | $294 | 52% | 50% ($147) | ✅ **BUY NOW** |
-| ETH | $3,164 | $4,953 | 36% | 50% ($2,477) | ⏳ Monitor |
-| BNB | $922 | $950 | 3% | 30% ($665) | ⏳ Monitor |
+| SOL | $141 | $296.85 | 52% | 50% ($148) | ✅ **BUY NOW** |
+| HYPE | $35 | $59.37 | 41% | 40% ($35.62) | ✅ **BUY NOW** |
+| ETH | $3,120 | $4,953 | 37% | 50% ($2,477) | ⏳ Monitor |
+| BNB | $625 | $717.48 | 13% | 30% ($215) | ⏳ Monitor |
 
-### Standard Altcoins Not Yet in Buy Zone
+### Tier 2 & 3 Not Yet in Buy Zone (Repository Tokens)
 | Token | Current Price | ATH | Discount | Entry Target | Status |
 |-------|---------------|-----|----------|--------------|--------|
-| TRX | $0.35 | $0.44 | 20% | 75% ($0.11) | ❌ No Entry |
-| XRP | $2.90 | $3.67 | 21% | 75% ($0.92) | ❌ No Entry |
-| HYPE | $35 | $59 | 41% | 75% ($14.84) | ❌ No Entry |
-| SUI | $2.10 | $5.35 | 61% | 75% ($1.34) | ⏳ Approaching |
-| OP | $1.70 | $4.85 | 65% | 75% ($1.21) | ⏳ Approaching |
-| APT | $6.00 | $19.86 | 70% | 75% ($4.97) | ⏳ Approaching |
+| TRX | $0.30 | $0.43 | 30% | 80% ($0.09) | ❌ Wait 80% |
+| JUP | $0.95 | $2.02 | 53% | 75% ($0.51) | ⏳ Approaching |
+| NEAR | $4.20 | $20.44 | 79% | 80% ($4.09) | ⏳ Approaching |
+| STRK | $0.52 | $3.95 | 87% | 80% ($0.79) | ✅ **BUY NOW** |
 
 ---
 
@@ -1070,26 +937,34 @@ This analysis is for **educational and informational purposes only** and does no
 
 ---
 
-## Appendix C: Historical Recovery Times
+## Appendix C: Historical Recovery Times - Repository Tokens
 
-### 2017-2018 Bear Market Recovery Examples
-| Token | ATH (2017) | Low (2018) | ATH Return | Years to New ATH |
-|-------|-----------|------------|------------|------------------|
-| ETH | $1,400 | $80 | ✅ $4,953 (2025) | 8 years |
-| BTC | $20,000 | $3,200 | ✅ $105,000 (2025) | 4 years (2021) |
-| ADA | $1.15 | $0.02 | ✅ $3.10 (2021) | 4 years |
-| LINK | $52 (2021) | $2.00 (2020) | ✅ (same) | 1 year |
+### 2017-2021 Bear Market Recovery Examples (Repository Tokens)
+| Token | ATH (2017-2021) | Low (2018-2022) | ATH Return | Years to New ATH |
+|-------|----------------|-----------------|------------|------------------|
+| ETH | $1,400 (2018) | $80 (2018) | ✅ $4,953 (2025) | 7 years |
+| SOL | $260 (2021) | $8 (2022) | ✅ $296 (2025) | 3 years |
+| LINK | $52 (2021) | $5.00 (2022) | ❌ $13.50 (2025) | Not recovered |
 
-### 2021-2023 Bear Market Status (Still Recovering)
-| Token | ATH (2021) | Low (2022) | Current (2025) | Recovered? |
-|-------|-----------|------------|----------------|-----------|
-| ALGO | $3.28 | $0.14 | $0.18 | ❌ -94.5% |
-| FTM | $3.46 | $0.15 | $0.22 | ❌ -93.6% |
-| MATIC | $2.92 | $0.31 | $0.35 | ❌ -88.0% |
-| AVAX | $134 | $9.00 | $16.35 | ❌ -87.8% |
-| UNI | $44.97 | $3.00 | $6.50 | ❌ -85.5% |
+### 2021-2025 Bear Market Status (Repository Tokens Still Recovering)
+| Token | ATH (2021-2024) | Low (2022-2023) | Current (2025) | Recovered? |
+|-------|----------------|-----------------|----------------|-----------|
+| UNI | $44.92 (2021) | $3.00 (2022) | $8.90 | ❌ -80% |
+| LDO | $4.69 (2021) | $0.40 (2022) | $0.75 | ❌ -84% |
+| ENS | $85.69 (2021) | $7.00 (2022) | $13.34 | ❌ -84% |
+| NEAR | $20.44 (2022) | $1.00 (2022) | $4.20 | ❌ -79% |
+| ASTR | $0.42 (2022) | $0.04 (2023) | $0.014 | ❌ -97% |
 
-**Takeaway:** Many 2021 ATH altcoins have **NOT recovered** even in 2025 bull market. DCA strategy requires **multi-year patience** and **risk tolerance for prolonged drawdowns**.
+### New Projects (2024-2025 Launch - Repository Tokens)
+| Token | ATH (Launch) | Current (2025) | Discount | Status |
+|-------|--------------|----------------|----------|--------|
+| HYPE | $59.37 (Sept 2025) | $35.00 | -41% | ✅ Blue Chip |
+| BERA | $14.79 (Feb 2025) | $1.60 | -89% | ❌ Not recovered |
+| TAIKO | $3.27 (May 2024) | $0.24 | -93% | ❌ Not recovered |
+| DRIFT | $2.36 (Nov 2024) | $0.34 | -86% | ❌ Not recovered |
+| ENA | $1.52 (Apr 2024) | $0.29 | -81% | ❌ Not recovered |
+
+**Takeaway:** Even repository tokens with case studies show **many 2021-2024 ATHs have NOT recovered** in 2025 bull market. DCA strategy requires **multi-year patience** and **risk tolerance for prolonged drawdowns**. Only SOL and HYPE from repository have made new ATHs.
 
 ---
 
