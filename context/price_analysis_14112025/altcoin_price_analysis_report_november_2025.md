@@ -44,20 +44,36 @@ Discount Range from ATH: 75% - 95%
 
 ## Layer 1 Blockchains Analysis
 
-### 1. Ethereum (ETH)
+### 1. Ethereum (ETH) ⭐ BLUE CHIP ASSET - SPECIAL STRATEGY
 **All-Time High:** $4,953.73 (August 24, 2025)
 **Current Price:** $3,164.94 (November 14, 2025)
 **Current Discount:** -36.1% from ATH
 
+**⚠️ SPECIAL ETH STRATEGY:** Due to ETH's status as the leading smart contract platform and relative market strength, we employ a **modified DCA strategy starting at 50% discount** with maximum expected drawdown of **75% from ATH** this cycle.
+
+**ETH-Specific DCA Ladder (50-75% discount range):**
+
 | Discount Level | Price Target | Purchase Size | Status |
 |---------------|--------------|---------------|---------|
-| 75% discount | $1,238.43 | 1x (Base) | ❌ Not Reached |
-| 80% discount | $990.75 | 2x | ❌ Not Reached |
-| 85% discount | $743.06 | 4x | ❌ Not Reached |
-| 90% discount | $495.37 | 8x | ❌ Not Reached |
-| 95% discount | $247.69 | 16x | ❌ Not Reached |
+| 50% discount | $2,476.87 | 1x (Base) | ❌ Not Reached |
+| 55% discount | $2,229.18 | 1.5x | ❌ Not Reached |
+| 60% discount | $1,981.49 | 2x | ❌ Not Reached |
+| 65% discount | $1,733.81 | 3x | ❌ Not Reached |
+| 70% discount | $1,486.12 | 4x | ❌ Not Reached |
+| 75% discount | $1,238.43 | 6x (Max) | ❌ Not Reached |
 
-**Analysis:** ETH reached new ATH in August 2025 and currently in healthy correction. Not in deep discount zone yet. **No immediate buy signals.**
+**Rationale:**
+- **Blue chip status:** ETH is the dominant smart contract platform with the largest ecosystem
+- **Institutional adoption:** Spot ETH ETFs launched, institutional demand floor
+- **Real yield:** ETH staking provides ~3-4% APY, supporting price floor
+- **Deflationary potential:** EIP-1559 burn mechanism reduces supply during high usage
+- **Relative strength:** ETH less volatile than altcoins, unlikely to see 90%+ drawdowns
+- **Historical precedent:** 2018 bear saw 94% drawdown, but 2021-2022 bear only saw 77% max drawdown
+- **This cycle:** With ETF support and institutional flows, 75% drawdown is aggressive maximum estimate
+
+**Analysis:** ETH at 36% discount - **currently in standard correction zone**. Begin DCA at **50% discount ($2,477)** with gradual accumulation. If ETH reaches 75% discount ($1,238), it would represent an **extreme buying opportunity** likely accompanied by broader market capitulation.
+
+**Recommended Allocation:** Higher than typical altcoins due to lower risk profile. ETH can represent **30-50% of total crypto portfolio** vs 5% max for individual altcoins.
 
 ---
 
@@ -625,9 +641,9 @@ Projects like **Shardeum, Quai Network, MegaETH, Canton Network** are either in 
 
 ---
 
-### Tier 4: Wait & Monitor (< 75% Discount)
+### Tier 4: Wait & Monitor (< Entry Threshold)
 **Not Currently in Buy Zone:**
-- **Ethereum (ETH)** - 36% discount → Wait for deeper correction
+- **Ethereum (ETH)** - 36% discount → **SPECIAL: Wait for 50% discount at $2,477** (blue chip exception)
 - **Solana (SOL)** - 52% discount → Monitor for 75% at $73.50
 - **BNB** - 3% discount → Near ATH, no entry signal
 - **Hyperliquid (HYPE)** - 41% discount → Wait for 75% at $14.84
@@ -637,7 +653,7 @@ Projects like **Shardeum, Quai Network, MegaETH, Canton Network** are either in 
 - **SUI** - 61% discount → Wait for 75% at $1.34
 - **Optimism (OP)** - 65% discount → Wait for 75% at $1.21
 
-**Strategy:** Set **price alerts** at 75% discount levels. Do not enter yet - wait for deeper corrections.
+**Strategy:** Set **price alerts** at appropriate entry levels. For ETH: 50% discount. For all others: 75% discount. Do not enter yet - wait for deeper corrections.
 
 ---
 
@@ -833,20 +849,52 @@ This analysis is for **educational and informational purposes only** and does no
 | AAVE | $145 | $664.86 | 78.2% | ✅ Approaching |
 | APT | $6.00 | $19.86 | 69.8% | ⏳ Watch $4.97 |
 
-### Assets to Avoid (< 50% Discount from ATH)
-| Token | Current Price | ATH | Discount | Status |
-|-------|---------------|-----|----------|--------|
-| ETH | $3,164 | $4,953 | 36% | ❌ No Entry |
-| BNB | $922 | $950 | 3% | ❌ No Entry |
-| TRX | $0.35 | $0.44 | 20% | ❌ No Entry |
-| XRP | $2.90 | $3.67 | 21% | ❌ No Entry |
-| HYPE | $35 | $59 | 41% | ❌ No Entry |
+### Assets Not Yet in Buy Zone (Below Entry Threshold)
+| Token | Current Price | ATH | Discount | Entry Target | Status |
+|-------|---------------|-----|----------|--------------|--------|
+| ETH | $3,164 | $4,953 | 36% | 50% ($2,477) | ⏳ Monitor Blue Chip |
+| BNB | $922 | $950 | 3% | 75% ($238) | ❌ No Entry |
+| TRX | $0.35 | $0.44 | 20% | 75% ($0.11) | ❌ No Entry |
+| XRP | $2.90 | $3.67 | 21% | 75% ($0.92) | ❌ No Entry |
+| HYPE | $35 | $59 | 41% | 75% ($14.84) | ❌ No Entry |
+| SOL | $141 | $294 | 52% | 75% ($73.50) | ⏳ Approaching |
 
 ---
 
 ## Appendix B: DCA Calculator
 
-### Example: $1,000 Total Investment in AVAX
+### Example 1: $5,000 Total Investment in ETH (Blue Chip Strategy)
+
+**ETH ATH:** $4,953.73
+**Current Price:** $3,164.94 (36% discount - not yet in buy zone)
+
+**ETH-Specific DCA Ladder (50-75% discount):**
+
+| Price Level | Discount | Amount to Invest | Cumulative Investment |
+|-------------|----------|------------------|----------------------|
+| $2,476.87 | 50% | $500 (1x base) | $500 |
+| $2,229.18 | 55% | $750 (1.5x) | $1,250 |
+| $1,981.49 | 60% | $1,000 (2x) | $2,250 |
+| $1,733.81 | 65% | $1,500 (3x) | $3,750 |
+| $3,164.94 | 36% | **⬅️ CURRENT PRICE (Wait)** | - |
+| $1,486.12 | 70% | $2,000 (4x) | $5,750 |
+| $1,238.43 | 75% | $3,000 (6x MAX) | $8,750 |
+
+**If All Levels Filled:** Total investment = $8,750 with weighted average entry around $1,650-1,800 (63-67% discount)
+
+**Conservative Strategy (Cap at 70% discount):**
+- **At $2,477 (50%):** $1,000
+- **At $2,229 (55%):** $1,000
+- **At $1,981 (60%):** $1,500
+- **At $1,734 (65%):** $1,500
+
+**Total:** $5,000 with weighted average around $2,050 (59% discount)
+
+**Rationale:** ETH as blue chip asset justifies earlier entry (50% vs 75%) and larger portfolio allocation (30-50% of crypto holdings vs 5% max for altcoins).
+
+---
+
+### Example 2: $1,000 Total Investment in AVAX (Standard Altcoin Strategy)
 
 **AVAX ATH:** $134
 **Current Price:** $16.35 (87.8% discount - between 85-90% tier)
