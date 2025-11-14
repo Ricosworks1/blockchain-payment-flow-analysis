@@ -77,37 +77,77 @@ Discount Range from ATH: 75% - 95%
 
 ---
 
-### 2. Solana (SOL)
+### 2. Solana (SOL) ⭐ HIGH-PERFORMANCE L1 - SPECIAL STRATEGY
 **All-Time High:** $294 (January 2025)
 **Current Price:** $141.29 (November 14, 2025)
 **Current Discount:** -51.9% from ATH
 
+**⚠️ SPECIAL SOL STRATEGY:** Solana has emerged as the leading high-performance L1 with massive ecosystem growth, strong fundamentals, and institutional adoption. We employ a **modified DCA strategy starting at 50% discount** with maximum expected drawdown of **70% from ATH** this cycle.
+
+**SOL-Specific DCA Ladder (50-70% discount range):**
+
 | Discount Level | Price Target | Purchase Size | Status |
 |---------------|--------------|---------------|---------|
-| 75% discount | $73.50 | 1x (Base) | ❌ Not Reached |
-| 80% discount | $58.80 | 2x | ❌ Not Reached |
-| 85% discount | $44.10 | 4x | ❌ Not Reached |
-| 90% discount | $29.40 | 8x | ❌ Not Reached |
-| 95% discount | $14.70 | 16x | ❌ Not Reached |
+| 50% discount | $147.00 | 1x (Base) | ✅ **CURRENT ENTRY ZONE** |
+| 55% discount | $132.30 | 1.5x | ✅ **CURRENT ENTRY ZONE** |
+| 60% discount | $117.60 | 2x | ❌ Not Reached |
+| 65% discount | $102.90 | 3x | ❌ Not Reached |
+| 70% discount | $88.20 | 4x (Max) | ❌ Not Reached |
 
-**Analysis:** SOL set new ATH in Jan 2025, currently 52% down. Mid-cycle correction territory. **Monitor for 75% discount entry at $73.50.**
+**Rationale:**
+- **New ATH in 2025:** SOL broke previous cycle high, showing relative strength
+- **Dominant alt L1:** Largest share of DEX volume, NFT activity, and memecoin trading
+- **Real ecosystem growth:** Pump.fun, Jupiter, Jito, Drift - sustainable revenue protocols
+- **Institutional validation:** Grayscale SOL Trust, potential ETF in pipeline
+- **Technical superiority:** 400ms block times, $0.001 transaction costs
+- **Network effects:** Largest developer migration from other chains
+- **Historical precedent:** 2021-2022 bear saw 95% drop from $260, but that included FTX collapse
+- **This cycle:** Without existential risk events, 70% drawdown is conservative maximum
+
+**Analysis:** SOL at 52% discount - **ACTIVE REPURCHASE ZONE**. Current price of $141 is at the 50% discount level ($147 target). Begin aggressive DCA now with base position, add more below $132 (55% discount). SOL between 50-55% represents **excellent risk/reward** for a top-3 L1 by ecosystem activity.
+
+**Recommended Allocation:** Higher than typical altcoins due to proven product-market fit. SOL can represent **15-25% of total crypto portfolio** vs 5% max for speculative altcoins.
 
 ---
 
-### 3. BNB (Binance Coin)
-**All-Time High:** $950 (estimated, November 2025)
+### 3. BNB (Binance Coin) ⭐ CORPORATE-BACKED EXCHANGE TOKEN - SPECIAL STRATEGY
+**All-Time High:** $950 (November 2025)
 **Current Price:** $922.09 (November 14, 2025)
 **Current Discount:** -2.9% from ATH
 
+**⚠️ SPECIAL BNB STRATEGY:** BNB is unique as a corporate-backed exchange token with built-in buy pressure (quarterly burns), deflationary supply, and direct exposure to Binance's $14B+ annual profits. We employ a **modified DCA strategy starting at 30% discount** with maximum expected drawdown of **60% from ATH** this cycle.
+
+**BNB-Specific DCA Ladder (30-60% discount range):**
+
 | Discount Level | Price Target | Purchase Size | Status |
 |---------------|--------------|---------------|---------|
-| 75% discount | $237.50 | 1x (Base) | ❌ Not Reached |
-| 80% discount | $190.00 | 2x | ❌ Not Reached |
-| 85% discount | $142.50 | 4x | ❌ Not Reached |
-| 90% discount | $95.00 | 8x | ❌ Not Reached |
-| 95% discount | $47.50 | 16x | ❌ Not Reached |
+| 30% discount | $665.00 | 1x (Base) | ❌ Not Reached |
+| 35% discount | $617.50 | 1.5x | ❌ Not Reached |
+| 40% discount | $570.00 | 2x | ❌ Not Reached |
+| 45% discount | $522.50 | 2.5x | ❌ Not Reached |
+| 50% discount | $475.00 | 3x | ❌ Not Reached |
+| 55% discount | $427.50 | 4x | ❌ Not Reached |
+| 60% discount | $380.00 | 5x (Max) | ❌ Not Reached |
 
-**Analysis:** BNB near ATH levels. Corporate backing from Binance provides support. **No buy signals - wait for major correction.**
+**Rationale:**
+- **Corporate backing:** Binance commits 20% of profits to quarterly BNB burns (deflationary)
+- **Binance dominance:** World's largest exchange by volume ($14B annual profit)
+- **Multiple utilities:** Trading fee discounts, BSC gas, launchpad access, staking
+- **Proven resilience:** Survived regulatory FUD, SEC lawsuits, banking restrictions
+- **Strong support levels:** Binance actively defends BNB price through burns and market making
+- **Deflationary supply:** Total supply reduced from 200M to ~145M through burns
+- **Historical precedent:** 2021-2022 bear saw only 75% drawdown despite regulatory attacks
+- **This cycle:** With Binance's financial strength and ongoing burns, 60% is aggressive maximum
+
+**Analysis:** BNB at 3% discount - **NEAR ATH BUT ACCUMULATION STRATEGY**. While not in immediate buy zone, BNB's corporate backing and deflationary mechanics justify starting DCA at **30% discount ($665)**. Current price presents **no entry** but set alerts for 30%+ corrections.
+
+**Unique Characteristics:**
+- **Built-in buy pressure:** Quarterly burns reduce supply permanently
+- **Revenue sharing:** Indirect exposure to Binance's massive profits
+- **Centralization risk:** Dependent on Binance's continued success and regulatory standing
+- **Low volatility:** Tends to hold value better than pure L1 tokens during downturns
+
+**Recommended Allocation:** Moderate exposure as hedge against pure decentralized plays. BNB can represent **10-20% of total crypto portfolio** as a defensive position with exchange exposure.
 
 ---
 
@@ -602,6 +642,16 @@ Projects like **Shardeum, Quai Network, MegaETH, Canton Network** are either in 
 
 ## Portfolio Construction Strategy
 
+### Tier 0: Blue Chip Assets (Special Strategies)
+**Active Buy Zones:**
+1. **Solana (SOL)** - 52% discount → ✅ **ACTIVE BUY NOW** at 50-55% range
+2. **Ethereum (ETH)** - 36% discount → ⏳ Wait for 50% ($2,477)
+3. **BNB** - 3% discount → ⏳ Wait for 30% ($665)
+
+**Strategy:** Higher conviction, larger allocations. SOL is **immediate buy** at current levels. ETH and BNB require deeper corrections. Allocate **15-50% of portfolio** to this tier.
+
+---
+
 ### Tier 1: High Conviction Entries (75-80% Discount Zone)
 **Current Opportunities:**
 1. **Cardano (ADA)** - 73.5% discount → Start base position
@@ -643,17 +693,16 @@ Projects like **Shardeum, Quai Network, MegaETH, Canton Network** are either in 
 
 ### Tier 4: Wait & Monitor (< Entry Threshold)
 **Not Currently in Buy Zone:**
-- **Ethereum (ETH)** - 36% discount → **SPECIAL: Wait for 50% discount at $2,477** (blue chip exception)
-- **Solana (SOL)** - 52% discount → Monitor for 75% at $73.50
-- **BNB** - 3% discount → Near ATH, no entry signal
+- **Ethereum (ETH)** - 36% discount → **Wait for 50% discount at $2,477** (blue chip)
+- **BNB** - 3% discount → **Wait for 30% discount at $665** (corporate-backed)
 - **Hyperliquid (HYPE)** - 41% discount → Wait for 75% at $14.84
 - **XRP** - 21% discount → Wait for 75% at $0.92
 - **Tron (TRX)** - 20% discount → Wait for 75% at $0.11
-- **Aptos (APT)** - 70% discount → Approaching 75% zone
+- **Aptos (APT)** - 70% discount → Approaching 75% zone at $4.97
 - **SUI** - 61% discount → Wait for 75% at $1.34
 - **Optimism (OP)** - 65% discount → Wait for 75% at $1.21
 
-**Strategy:** Set **price alerts** at appropriate entry levels. For ETH: 50% discount. For all others: 75% discount. Do not enter yet - wait for deeper corrections.
+**Strategy:** Set **price alerts** at appropriate entry levels. Blue chips (ETH, BNB): 30-50% discounts. Standard altcoins: 75% discount. Do not enter yet - wait for deeper corrections.
 
 ---
 
@@ -711,44 +760,80 @@ Minimum Single Asset: 0.5% of total crypto portfolio
 
 ## Sample Portfolio Construction
 
-### Conservative Allocation ($10,000 total)
-**Tier 1 (75-80% discount) - 40% allocation:**
-- ADA: $1,000
-- LINK: $1,000
-- AAVE: $1,000
-- MKR: $1,000
+### Balanced Blue Chip + Altcoin Portfolio ($10,000 total)
 
-**Tier 2 (80-85% discount) - 40% allocation:**
-- NEAR: $600
-- UNI: $600
-- LDO: $600
-- JUP: $600
-- ENS: $600
+**Tier 0: Blue Chips - 50% allocation ($5,000):**
+- **SOL**: $3,000 ✅ **BUY NOW** at $141 (52% discount, active zone)
+- **ETH**: $1,500 ⏳ Wait for $2,477 (50% discount)
+- **BNB**: $500 ⏳ Wait for $665 (30% discount)
 
-**Tier 3 (85-95% discount) - 20% allocation:**
-- AVAX: $500
-- MATIC: $500
-- ALGO: $500
-- FTM: $500
+**Tier 1: High Conviction (75-80%) - 25% allocation ($2,500):**
+- ADA: $700
+- LINK: $700
+- AAVE: $600
+- MKR: $500
+
+**Tier 2: Deep Value (80-85%) - 15% allocation ($1,500):**
+- UNI: $400
+- LDO: $300
+- JUP: $300
+- EIGEN: $300
+- ENS: $200
+
+**Tier 3: Extreme Deep Value (85-95%) - 10% allocation ($1,000):**
+- AVAX: $300
+- MATIC: $300
+- NEAR: $200
+- ALGO: $200
+
+**Current Action Items:**
+1. ✅ **Immediate:** Buy $3,000 SOL at current $141 price
+2. ⏳ **Set Alerts:** ETH at $2,477, BNB at $665
+3. ✅ **DCA Starting:** ADA, LINK around current levels
+4. ✅ **Active Accumulation:** UNI, LDO, AVAX, MATIC in deep value zones
 
 ---
 
-### Aggressive Allocation ($10,000 total)
-**Tier 2 (80-85% discount) - 50% allocation:**
-- NEAR: $700
-- UNI: $700
-- JTO: $700
-- EIGEN: $700
-- LDO: $700
-- ENS: $500
+### Conservative Long-Term Hold ($10,000 total)
 
-**Tier 3 (85-95% discount) - 50% allocation:**
-- AVAX: $1,000
-- ARB: $1,000
+**Tier 0: Blue Chips Only - 70% allocation ($7,000):**
+- **SOL**: $3,500 ✅ **BUY NOW**
+- **ETH**: $3,000 ⏳ Wait for entry
+- **BNB**: $500 ⏳ Wait for entry
+
+**Tier 1: High Conviction (75-80%) - 20% allocation ($2,000):**
+- LINK: $800 (infrastructure)
+- AAVE: $600 (DeFi blue chip)
+- ADA: $600 (established L1)
+
+**Tier 2: Deep Value (80-85%) - 10% allocation ($1,000):**
+- UNI: $500 (leading DEX)
+- LDO: $500 (ETH staking)
+
+**Strategy:** Lower risk, focus on established winners with proven revenue and ecosystems.
+
+---
+
+### Aggressive High-Risk Portfolio ($10,000 total)
+
+**Tier 0: Blue Chips - 30% allocation ($3,000):**
+- **SOL**: $3,000 ✅ **BUY NOW** (highest conviction alt)
+
+**Tier 2: Deep Value (80-85%) - 30% allocation ($3,000):**
+- NEAR: $800
+- JUP: $600
+- JTO: $600
+- ENA: $500
+- EIGEN: $500
+
+**Tier 3: Extreme Deep Value (85-95%) - 40% allocation ($4,000):**
+- AVAX: $1,200
 - MATIC: $1,000
-- ALGO: $750
-- FTM: $750
-- Astar: $500
+- ARB: $800
+- ALGO: $600
+- FTM: $400
+
+**Strategy:** Higher risk/reward, concentrated in deep discount altcoins. Only for those with long time horizon (3-5 years) and high risk tolerance.
 
 ---
 
@@ -849,15 +934,22 @@ This analysis is for **educational and informational purposes only** and does no
 | AAVE | $145 | $664.86 | 78.2% | ✅ Approaching |
 | APT | $6.00 | $19.86 | 69.8% | ⏳ Watch $4.97 |
 
-### Assets Not Yet in Buy Zone (Below Entry Threshold)
+### Blue Chip Active Buys & Monitors
 | Token | Current Price | ATH | Discount | Entry Target | Status |
 |-------|---------------|-----|----------|--------------|--------|
-| ETH | $3,164 | $4,953 | 36% | 50% ($2,477) | ⏳ Monitor Blue Chip |
-| BNB | $922 | $950 | 3% | 75% ($238) | ❌ No Entry |
+| SOL | $141 | $294 | 52% | 50% ($147) | ✅ **BUY NOW** |
+| ETH | $3,164 | $4,953 | 36% | 50% ($2,477) | ⏳ Monitor |
+| BNB | $922 | $950 | 3% | 30% ($665) | ⏳ Monitor |
+
+### Standard Altcoins Not Yet in Buy Zone
+| Token | Current Price | ATH | Discount | Entry Target | Status |
+|-------|---------------|-----|----------|--------------|--------|
 | TRX | $0.35 | $0.44 | 20% | 75% ($0.11) | ❌ No Entry |
 | XRP | $2.90 | $3.67 | 21% | 75% ($0.92) | ❌ No Entry |
 | HYPE | $35 | $59 | 41% | 75% ($14.84) | ❌ No Entry |
-| SOL | $141 | $294 | 52% | 75% ($73.50) | ⏳ Approaching |
+| SUI | $2.10 | $5.35 | 61% | 75% ($1.34) | ⏳ Approaching |
+| OP | $1.70 | $4.85 | 65% | 75% ($1.21) | ⏳ Approaching |
+| APT | $6.00 | $19.86 | 70% | 75% ($4.97) | ⏳ Approaching |
 
 ---
 
@@ -894,7 +986,67 @@ This analysis is for **educational and informational purposes only** and does no
 
 ---
 
-### Example 2: $1,000 Total Investment in AVAX (Standard Altcoin Strategy)
+### Example 2: $3,000 Total Investment in SOL (High-Performance L1 Strategy)
+
+**SOL ATH:** $294
+**Current Price:** $141.29 (52% discount - **ACTIVE BUY ZONE**)
+
+**SOL-Specific DCA Ladder (50-70% discount):**
+
+| Price Level | Discount | Amount to Invest | Cumulative Investment |
+|-------------|----------|------------------|----------------------|
+| $147.00 | 50% | $600 (1x base) | $600 |
+| $141.29 | 52% | **⬅️ CURRENT PRICE - BUY NOW** | - |
+| $132.30 | 55% | $900 (1.5x) | $1,500 |
+| $117.60 | 60% | $1,200 (2x) | $2,700 |
+| $102.90 | 65% | $1,800 (3x) | $4,500 |
+| $88.20 | 70% | $2,400 (4x MAX) | $6,900 |
+
+**If All Levels Filled:** Total investment = $6,900 with weighted average entry around $108-115 (61-64% discount)
+
+**Aggressive Strategy (Current Entry):**
+- **Now at $141 (52%):** $1,500 (immediate buy)
+- **At $132 (55%):** $1,000
+- **At $118 (60%):** $500
+
+**Total:** $3,000 with weighted average around $135 (54% discount)
+
+**Why Buy NOW:** SOL at 50-55% discount represents excellent risk/reward for #3 L1 by ecosystem activity. New ATH in 2025 demonstrates strength. Active repurchase zone.
+
+---
+
+### Example 3: $2,000 Total Investment in BNB (Corporate-Backed Strategy)
+
+**BNB ATH:** $950
+**Current Price:** $922 (3% discount - **WAIT FOR CORRECTION**)
+
+**BNB-Specific DCA Ladder (30-60% discount):**
+
+| Price Level | Discount | Amount to Invest | Cumulative Investment |
+|-------------|----------|------------------|----------------------|
+| $922.09 | 3% | **⬅️ CURRENT PRICE (Wait)** | - |
+| $665.00 | 30% | $400 (1x base) | $400 |
+| $617.50 | 35% | $600 (1.5x) | $1,000 |
+| $570.00 | 40% | $800 (2x) | $1,800 |
+| $522.50 | 45% | $1,000 (2.5x) | $2,800 |
+| $475.00 | 50% | $1,200 (3x) | $4,000 |
+| $380.00 | 60% | $2,000 (5x MAX) | $6,000 |
+
+**If All Levels Filled:** Total investment = $6,000 with weighted average entry around $490-520 (45-48% discount)
+
+**Conservative Strategy (Cap at 50% discount):**
+- **At $665 (30%):** $500
+- **At $618 (35%):** $500
+- **At $570 (40%):** $500
+- **At $523 (45%):** $500
+
+**Total:** $2,000 with weighted average around $594 (37% discount)
+
+**Why Wait:** BNB near ATH ($922 vs $950). Corporate backing provides floor but better entries likely. Set alerts for 30% discount at $665.
+
+---
+
+### Example 4: $1,000 Total Investment in AVAX (Standard Altcoin Strategy)
 
 **AVAX ATH:** $134
 **Current Price:** $16.35 (87.8% discount - between 85-90% tier)
