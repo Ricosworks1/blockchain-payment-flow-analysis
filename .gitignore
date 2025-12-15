@@ -4,6 +4,28 @@ reports/
 # Governance (private - local only)
 .governance/
 
+# Claude Code instructions (private - local only)
+CLAUDE.md
+
+# Python virtual environments
+venv/
+**/venv/
+__pycache__/
+*.pyc
+*.pyo
+.Python
+env/
+.env/
+
+# External reference materials (not original work)
+peer_sample_reports/
+
+# Supporting context data (not website content)
+context/
+
+# Research reference materials
+research_material/
+
 # macOS
 .DS_Store
 .AppleDouble
