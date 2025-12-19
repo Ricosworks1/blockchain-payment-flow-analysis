@@ -26,6 +26,10 @@ context/
 # Research reference materials
 research_material/
 
+# Superseded/archived content
+z_superseeded/
+blockchainpaymentflow.com/
+
 # macOS
 .DS_Store
 .AppleDouble
