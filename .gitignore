@@ -36,6 +36,10 @@ defi_analyst/
 # Twitter/CT mindshare analysis
 twitter_feed/
 
+# Case studies - excluded subfolders
+case_studies/chains_l2s_and_l1s_24h_metrics/
+case_studies/token_unlocks/
+
 # macOS
 .DS_Store
 .AppleDouble
