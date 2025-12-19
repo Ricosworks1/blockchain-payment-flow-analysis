@@ -30,6 +30,9 @@ research_material/
 z_superseeded/
 blockchainpaymentflow.com/
 
+# DeFi analyst frameworks (not website content)
+defi_analyst/
+
 # macOS
 .DS_Store
 .AppleDouble
