@@ -33,6 +33,9 @@ blockchainpaymentflow.com/
 # DeFi analyst frameworks (not website content)
 defi_analyst/
 
+# Twitter/CT mindshare analysis
+twitter_feed/
+
 # macOS
 .DS_Store
 .AppleDouble
