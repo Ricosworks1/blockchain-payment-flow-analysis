@@ -419,11 +419,11 @@ The Fusaka upgrade represents Ethereum's most significant economic recalibration
 
 [^2]: [AInvest - Ethereum Fusaka Upgrade Deflationary Dynamics](https://www.ainvest.com/news/ethereum-fusaka-upgrade-emergence-eth-deflationary-dynamics-2512/) - Pre-Fusaka 620K issuance / 350K burn; post-Fusaka projections 600K-1.2M burn; potential Q1 2026 deflation.
 
-[^3]: [Etherscan API V2](https://api.etherscan.io/v2/api?chainid=1&module=stats&action=ethprice) - ETH price $2,950.30 (December 19, 2025).
+[^3]: [Etherscan - Ether Price](https://etherscan.io/chart/etherprice) - ETH price $2,950.30 retrieved via Etherscan API (December 19, 2025).
 
-[^4]: [Etherscan API V2](https://api.etherscan.io/v2/api?chainid=1&module=stats&action=ethsupply2) - Total supply 122,373,866 ETH (December 19, 2025).
+[^4]: [Etherscan - ETH Supply](https://etherscan.io/stat/supply) - Total supply 122,373,866 ETH retrieved via Etherscan API (December 19, 2025).
 
-[^5]: [Etherscan API V2 Gas Oracle](https://api.etherscan.io/v2/api?chainid=1&module=gastracker&action=gasoracle) - Current gas 0.025 Gwei (December 19, 2025).
+[^5]: [Etherscan Gas Tracker](https://etherscan.io/gastracker) - Current gas 0.025 Gwei retrieved via Etherscan API (December 19, 2025).
 
 [^6]: [Ultrasound.money](https://ultrasound.money/) - Annual issuance ~984,000 ETH to stakers.
 
@@ -437,7 +437,7 @@ The Fusaka upgrade represents Ethereum's most significant economic recalibration
 
 [^11]: [DataWallet - Ethereum Staking Statistics 2025](https://www.datawallet.com/crypto/ethereum-staking-statistics-and-trends) - 35.7M ETH staked (29.57% supply).
 
-[^12]: [DefiLlama API](https://api.llama.fi/v2/chains) - Ethereum TVL $68.96 billion (December 19, 2025).
+[^12]: [DefiLlama - Ethereum TVL](https://defillama.com/chain/Ethereum) - Ethereum TVL $68.96 billion retrieved via DefiLlama API (December 19, 2025).
 
 [^13]: [Ethereum.org - Gas and Fees](https://ethereum.org/developers/docs/gas) - EIP-1559 base fee burn mechanism, 80-90% burned, 10-20% to validators.
 
