@@ -4,17 +4,17 @@
 
 This report provides a detailed analysis of Ethereum's monetary flows, examining how transaction fees are distributed, the impact of network upgrades on tokenomics, and the broader ecosystem value extraction patterns. Following the Fusaka upgrade on December 3, 2025, Ethereum is transitioning from an inflationary back toward a potentially deflationary model, with EIP-7918 introducing minimum blob fees to restore ETH burn mechanics.[^1] The network currently operates at ~0.5% annual inflation, with projections suggesting potential deflation by Q1 2026.[^2]
 
-**Key Financial Metrics (December 19, 2025):**
-- 🔷 ETH Price: $2,950.30[^3]
+**Key Financial Metrics (December 22, 2025):**
+- 🔷 ETH Price: $3,038.35[^3]
 - 🔷 Total Supply: 122,373,866 ETH[^4]
-- 🔷 Current Gas: 0.025 Gwei (historic lows)[^5]
+- 🔷 Current Gas: 0.027 Gwei (historic lows)[^5]
 - Annual ETH burn rate: ~350,000 ETH (pre-Fusaka); projected 600,000-1.2M ETH (post-Fusaka)[^2]
 - Annual staking issuance: ~984,000 ETH[^6]
 - Net inflation: ~0.1-0.5% annually, potentially turning deflationary Q1 2026[^2][^7]
 - Ethereum Foundation treasury: ~$650-970 million (active DeFi deployment policy)[^8][^9]
 - Total ecosystem value flow: $6-10 billion annually[^10]
 - 🔷 Staked ETH: 35.7 million (29.57% of supply)[^11]
-- 🔷 DeFi TVL: $68.96 billion[^12]
+- 🔷 DeFi TVL: $70.24 billion[^12]
 
 ## 1. Direct Fee Distribution Analysis
 
@@ -27,10 +27,10 @@ This report provides a detailed analysis of Ethereum's monetary flows, examining
 
 The base fee automatically adjusts based on network congestion, targeting 50% block utilization at 15M gas per block.[^13] All base fees are burned, creating deflationary pressure during high network activity periods. Post-Fusaka, EIP-7918 introduces a minimum blob base fee (0.01-0.5 Gwei) to ensure consistent burn even during low-activity periods.[^1]
 
-### 1.2 Current Gas Fee Environment (December 19, 2025)
+### 1.2 Current Gas Fee Environment (December 22, 2025)
 
 **Historic Low Gas Fees**
-- 🔷 Current average gas: 0.025 Gwei[^5]
+- 🔷 Current average gas: 0.027 Gwei[^5]
 - 2025 average: 2-3 Gwei (down 95-96% from 2024 peaks of 72 Gwei)[^15]
 - Simple ETH transfer: <$0.01[^16]
 - Token swap: $0.20-1.00 (L2 dominant)[^17]
@@ -63,7 +63,7 @@ The base fee automatically adjusts based on network congestion, targeting 50% bl
 - 2025 (pre-Fusaka): ~350,000 ETH burned annually[^2]
 - Net ETH added to supply (April 2024-April 2025): 620,000 ETH[^20]
 
-**Current State (December 19, 2025)**
+**Current State (December 22, 2025)**
 - 🔷 Annual issuance: ~984,000 ETH to stakers[^6]
 - Annual burn: ~350,000 ETH (pre-Fusaka baseline)[^2]
 - Net inflation: ~0.1-0.5% annual rate[^7]
@@ -83,7 +83,7 @@ The base fee automatically adjusts based on network congestion, targeting 50% bl
 - Priority fees: Variable based on network activity (currently minimal due to low gas)
 - MEV-Boost share: 10-15% of total MEV captured[^14]
 
-**Current Validator Performance (December 19, 2025)**
+**Current Validator Performance (December 22, 2025)**
 - 🔷 Total validators: 2,169,441 total; 968,681 active[^23]
 - 🔷 Total staked ETH: 35.7 million (29.57% of supply)[^11]
 - Network effectiveness: ~99.2% average uptime[^24]
@@ -533,7 +533,7 @@ The Fusaka upgrade represents Ethereum's most significant economic recalibration
 
 ---
 
-**Last Updated: December 19, 2025**
+**Last Updated: December 22, 2025**
 
 **Data Sources:**
 - 🔷 On-chain APIs: Etherscan V2 API, DefiLlama API, Beaconcha.in, Ultrasound.money, Dune Analytics
