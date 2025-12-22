@@ -429,9 +429,9 @@ The Fusaka upgrade represents Ethereum's most significant economic recalibration
 
 [^7]: [CoinLedger - Is Ethereum Still Ultrasound Money](https://coinledger.io/learn/ultrasound-money) - 0.5% annual supply growth, inflation concerns.
 
-[^8]: [Ethereum Foundation Blog - Treasury Policy](https://blog.ethereum.org/2025/06/04/ef-treasury-policy) - June 4, 2025 policy: 15% opex cap, 2.5-year buffer, quarterly reports.
+[^8]: [Ethereum Foundation Blog - Treasury Policy](https://blog.ethereum.org/2025/06/04/ef-treasury-policy) - ⏳ HISTORICAL (June 2025): 15% opex cap, 2.5-year buffer, quarterly reports. Policy document; awaiting Q4 2025 update.
 
-[^9]: [AiCoin - Ethereum Foundation Report 2024](https://www.aicoin.com/en/article/428392) - $970.2M treasury, $134.9M 2023 spending, budget allocation breakdown.
+[^9]: [AiCoin - Ethereum Foundation Report 2024](https://www.aicoin.com/en/article/428392) - ⏳ HISTORICAL (2024): $970.2M treasury, $134.9M 2023 spending, budget allocation breakdown. No newer annual report available as of Dec 2025.
 
 [^10]: Author's analysis aggregating staking rewards, MEV extraction, infrastructure services, and foundation spending across multiple verified sources.
 
@@ -441,7 +441,7 @@ The Fusaka upgrade represents Ethereum's most significant economic recalibration
 
 [^13]: [Ethereum.org - Gas and Fees](https://ethereum.org/developers/docs/gas) - EIP-1559 base fee burn mechanism, 80-90% burned, 10-20% to validators.
 
-[^14]: [ESMA - Maximal Extractable Value Report](https://www.esma.europa.eu/sites/default/files/2025-07/ESMA50-481369926-29744_Maximal_Extractable_Value_Implications_for_crypto_markets.pdf) - Daily MEV $300-500K, sandwich attacks 51.56%, validator share 10-15%.
+[^14]: [ESMA - Maximal Extractable Value Report](https://www.esma.europa.eu/sites/default/files/2025-07/ESMA50-481369926-29744_Maximal_Extractable_Value_Implications_for_crypto_markets.pdf) - ⏳ HISTORICAL (July 2025): Daily MEV $300-500K, sandwich attacks 51.56%, validator share 10-15%. Most authoritative regulatory MEV analysis available.
 
 [^15]: [CoinLaw - Gas Fee Volatility Statistics 2025](https://coinlaw.io/gas-fee-volatility-statistics/) - 95-96% decrease from 2024 peaks, current 2-3 Gwei average.
 
@@ -451,7 +451,7 @@ The Fusaka upgrade represents Ethereum's most significant economic recalibration
 
 [^18]: [Flashbots Documentation](https://docs.flashbots.net/) - BuilderNet launch Nov 2024, v1.2 Feb 2025, Protect 98.5% success rate, 245ms response.
 
-[^19]: [CoinGecko Research - Ethereum Burn Statistics](https://www.coingecko.com/research/publications/ethereum-burn-statistics) - Q1 2024: 333,555 ETH burned, Q2 2024: 107,725 ETH (-67.7%), 2024 total: 465,657 ETH.
+[^19]: [CoinGecko Research - Ethereum Burn Statistics](https://www.coingecko.com/research/publications/ethereum-burn-statistics) - ⏳ HISTORICAL (2024): Q1 2024: 333,555 ETH burned, Q2 2024: 107,725 ETH (-67.7%), 2024 total: 465,657 ETH. Used for historical comparison; no updated 2025 comprehensive burn report available.
 
 [^20]: [CoinLedger - Ultrasound Money Analysis](https://coinledger.io/learn/ultrasound-money) - 4.5M total ETH burned since EIP-1559, 620K net added Apr 2024-Apr 2025.
 
@@ -507,7 +507,7 @@ The Fusaka upgrade represents Ethereum's most significant economic recalibration
 
 [^46]: [Unchained - Lido Competition](https://unchainedcrypto.com/lido-competition-market-share-decline/) - Lido declined 4%, ether.fi 5.3%, Kiln 3.9%.
 
-[^47]: [CoinDesk - Ethereum Staking Shake-Up](https://www.coindesk.com/tech/2025/08/14/figment-outpaces-rivals-in-ether-staking-growth-lido-s-decline-eases-dominance-concerns) - No entity >33%, decentralization improving.
+[^47]: [CoinDesk - Ethereum Staking Shake-Up](https://www.coindesk.com/tech/2025/08/14/figment-outpaces-rivals-in-ether-staking-growth-lido-s-decline-eases-dominance-concerns) - ⏳ HISTORICAL (Aug 2025): No entity >33%, decentralization improving. Trend confirmed by more recent Q3 Lido data.
 
 [^48]: [On-chain Analytics](https://glassnode.com) - Exchange balances at 2016 lows (~8-9% supply).
 
