@@ -1,8 +1,10 @@
 # Sui Money Flow Analysis: Object-Centric Blockchain Economics
 
+**Last Updated: December 22, 2025**
+
 ## Executive Summary
 
-Sui operates as a high-performance Layer 1 blockchain utilizing an object-centric data model powered by the Move programming language, processing up to 17.4 million daily transactions with average fees of 0.002797 SUI ($0.001-0.01) [^1]. The protocol implements a unique dual-fee structure where 70-80% of computation fees flow directly to validators while 20-30% storage fees enter the Storage Fund with 99% rebate capability upon data deletion [^2]. With $1 billion Total Value Locked (TVL) achieved in October 2024 representing 2,700% annual growth, Sui demonstrates exceptional adoption among the fastest-growing blockchains [^3]. The network's innovative gas pricing mechanism surveys 106 validators every 24 hours to establish stable reference prices, creating predictable costs while incentivizing validator efficiency [^4].
+Sui operates as a high-performance Layer 1 blockchain utilizing an object-centric data model powered by the Move programming language, now processing over 7.5 billion transactions annually and surpassing 10 billion cumulative transactions in May 2025 [^1]. 🔷 **HARD DATA**: SUI trades at $1.45 with $5.41 billion market cap, TVL at $936 million (DefiLlama), with institutional momentum building through Bitwise's spot SUI ETF filing (December 18, 2025) and inclusion in the Bitwise 10 Crypto Index ETF [^2][^3]. Bitcoin DeFi (BTCfi) protocols now constitute 10% of Sui's TVL, positioning the network as a critical hub for Bitcoin liquidity [^4]. The Mysticeti v2 consensus upgrade (October 7, 2025) reduced transaction latency by 35%, while DEX volume surged 232% year-over-year to $409 million [^5]. With daily wallet growth of approximately 500,000 new accounts and $23 million in all-time fees, Sui demonstrates strong adoption across gaming, DeFi, and institutional use cases [^6].
 
 ## 1. Protocol Architecture and Economic Model
 
@@ -70,31 +72,32 @@ This model creates deflationary pressure on SUI tokens while aligning validator 
 
 ### Transaction Volume Growth
 
-Sui has demonstrated exceptional growth in transaction processing and network utilization throughout 2024.
+Sui has demonstrated exceptional growth in transaction processing and network utilization.
 
-**Data point:** Daily transactions grew from 3.6 million to 17.4 million as of October 2024
-[^1]
-
-**Data point:** Real-world TPS performance reached 854 in July 2023, ranking among fastest blockchains
+🔷 **HARD DATA**: Over 7.5 billion transactions processed in 2024, outperforming Tron, Polygon, and Ethereum
 [^10]
 
-**Data point:** Network maintains sub-second finality with average latency of 480 milliseconds
+🔷 **HARD DATA**: Surpassed 10 billion cumulative transactions as of May 7, 2025
 [^11]
+
+🔷 **HARD DATA**: Q3 2025 showed 4.7 million average daily transactions (down 4.7% QoQ) with 895,800 average daily active addresses
+[^12]
 
 ### Total Value Locked Expansion
 
-The DeFi ecosystem on Sui has experienced rapid growth, achieving significant milestones in locked value.
+The DeFi ecosystem on Sui has experienced significant growth with Bitcoin integration.
 
-**Data point:** TVL reached $1 billion in October 2024, representing 2,700% growth over 12 months
-[^3]
+🔷 **HARD DATA**: TVL at $936 million (DefiLlama, December 22, 2025); peaked at $2.33 billion during 2025
+[^13]
 
-**Data point:** Sui ranks 8th largest chain by TVL, surpassing Polygon and Optimism
-[^3]
+🔷 **HARD DATA**: Bitcoin DeFi (BTCfi) protocols constitute 10% of Sui TVL, positioning as Bitcoin liquidity hub
+[^4]
 
-**Data point:** Over $400 million in stablecoins with top 10 ranking in weekly DEX trading volume
-[^12]
+🔷 **HARD DATA**: DEX volume surged 232% year-over-year in 2025, reaching $409 million
+[^5]
 
-This growth trajectory positions Sui among the fastest-adopting Layer 1 blockchains by value metrics.
+**Data point:** Daily wallet growth of approximately 500,000 new accounts with TVL nearing annual highs
+[^14]
 
 ## 4. Gas Pricing and Validator Economics
 
@@ -103,26 +106,27 @@ This growth trajectory positions Sui among the fastest-adopting Layer 1 blockcha
 Sui employs a unique validator survey mechanism to establish stable, predictable gas pricing across daily epochs.
 
 **Data point:** 106 active validators across 13 countries participate in daily gas price surveys
-[^4]
+[^15]
 
 **Data point:** Reference price set at 2/3 percentile by stake weight from validator minimum price submissions
-[^13]
+[^16]
 
 **Data point:** System guarantees stable fees for 24-hour periods with at least 66% validator agreement
-[^13]
+[^16]
 
-### Validator Incentive Structure
+### Validator Incentive Structure and Fee Generation
 
-The tallying rule mechanism aligns validator behavior with network efficiency and user experience.
+🔷 **HARD DATA**: 24-hour fees of $7,889; 30-day fees of $353,017; all-time fees of $23.04 million (December 2025)
+[^17]
+
+🔷 **HARD DATA**: Average transaction cost of $0.002, among the lowest in the industry
+[^18]
 
 **Data point:** Validators submitting low price quotes receive boosted staking rewards for competitive pricing
-[^13]
-
-**Data point:** Commission rates typically range from 0-10% on staking rewards
-[^14]
+[^16]
 
 **Data point:** Staking APY ranges from 0.21% to 5.30% depending on platform and validator choice
-[^14]
+[^19]
 
 ## 5. User Fee Distribution Analysis
 
@@ -236,33 +240,48 @@ Low operational costs enable sustainable business models for applications and pr
 **Data point:** Enterprise token ecosystems benefit from financial strain reduction compared to legacy chains
 [^23]
 
-## 9. Mainnet Launch and Funding Background
+## 9. Institutional Developments and ETF Filings
 
-### Network Launch Timeline
+### ETF Race Intensifies
 
-Sui launched in May 2023 following significant development investment and testing phases.
+Multiple asset managers have filed for SUI exchange-traded funds, signaling institutional interest.
 
-**Data point:** Mainnet launched May 3, 2023, with SUI token trading beginning April 23, 2023
+🔷 **HARD DATA**: Bitwise filed S-1 for spot SUI ETF with SEC on December 18, 2025 (file number 333-292227)
 [^24]
 
-**Data point:** Initial token price reached $2.1 before declining 40% to settle around $1.25
-[^24]
-
-**Data point:** Over 200 decentralized applications launched across NFTs, DeFi, social media, and gaming
-[^24]
-
-### Mysten Labs Funding
-
-The development team secured substantial venture capital funding prior to mainnet launch.
-
-**Data point:** Mysten Labs raised $336 million across two funding rounds in 2022
+🔷 **HARD DATA**: SUI included in Bitwise 10 Crypto Index ETF (BITW) since December 10, 2025
 [^25]
 
-**Data point:** Series B round of $300 million led by FTX Ventures valued project over $2 billion
-[^25]
+**Data point:** Canary Capital's "Staked SUI ETF" plans to list on Nasdaq with yield generation through staking
+[^26]
+
+**Data point:** 21Shares launched 2x leveraged SUI ETF (TXXS) following SEC greenlight
+[^27]
+
+**Data point:** Bitwise ETF would use Coinbase as custodian with in-kind creation/redemption mechanism
+[^28]
+
+### Mysticeti v2 Consensus Upgrade
+
+🔷 **HARD DATA**: Mainnet Mysticeti v2 deployed October 7, 2025, reducing transaction latency by 35%
+[^29]
+
+**Data point:** New Transaction Driver sends transactions to single validator instead of all validators
+[^30]
+
+**Data point:** Integration of transaction validation directly into consensus removes redundant steps
+[^30]
+
+### Network Launch Background
+
+**Data point:** ⏳ HISTORICAL (May 2023): Mainnet launched May 3, 2023, with SUI token trading beginning April 23, 2023
+[^31]
+
+**Data point:** ⏳ HISTORICAL (2022): Mysten Labs raised $336 million across two funding rounds, $2 billion valuation
+[^32]
 
 **Data point:** Four former Facebook employees founded company after working on Meta's Novi Financial team
-[^25]
+[^32]
 
 ## 10. Competitive Positioning and Market Analysis
 
@@ -322,68 +341,112 @@ Sui faces competition from other high-performance blockchains in attracting user
 
 ## Conclusion
 
-Sui represents a significant innovation in blockchain economics through its object-centric architecture and dual-fee structure. With $1 billion TVL achieved in 18 months and transaction costs 8,000x cheaper than Ethereum, the network demonstrates strong market fit for high-frequency applications. The Storage Fund's 99% rebate mechanism creates unique economic incentives for efficient data usage while ensuring long-term validator sustainability.
+Sui has emerged as a leading high-performance Layer 1 blockchain with strong institutional momentum. 🔷 **HARD DATA**: With 10+ billion cumulative transactions, $936 million TVL, and DEX volume up 232% year-over-year, the network demonstrates robust adoption across gaming, DeFi, and Bitcoin liquidity integration. The Mysticeti v2 upgrade (October 2025) achieved 35% latency reduction, while multiple ETF filings from Bitwise, Canary Capital, and 21Shares signal growing institutional interest.
 
-The network's validator survey pricing system provides unprecedented fee stability through 24-hour reference prices, benefiting both users and developers planning applications. Parallel execution capabilities naturally reduce MEV opportunities while enabling theoretical throughput exceeding 160,000 TPS. The growing DeFi ecosystem led by protocols like Cetus validates the platform's utility for financial applications.
+The network's validator survey pricing system provides unprecedented fee stability through 24-hour reference prices, with average transaction costs of just $0.002. Bitcoin DeFi protocols now constitute 10% of TVL, positioning Sui as a critical hub for cross-chain Bitcoin liquidity. Daily wallet growth of 500,000 new accounts indicates continued organic adoption.
 
-Critical challenges include expanding developer adoption beyond the Move language learning curve, maintaining Storage Fund sustainability as the network scales, and competing with established ecosystems offering broader tooling and network effects. Success depends on Sui's ability to leverage its technical advantages into sustainable economic value while building the application ecosystem necessary for long-term growth.
+Critical success factors for 2026 include: (1) ETF approval catalyzing institutional inflows, (2) maintaining competitive position against Solana and other high-performance chains, (3) expanding developer adoption beyond the Move language learning curve, and (4) sustaining TVL growth after the 2025 peak of $2.33 billion. The object-centric architecture and 99% storage rebate mechanism provide unique economic differentiation.
 
-The protocol's emphasis on predictable costs, efficient resource usage, and parallel execution positions it well for applications requiring high throughput and low latency, though broader adoption will determine whether these innovations translate into sustained economic success.
+The protocol's emphasis on predictable costs, parallel execution, and institutional-grade infrastructure positions it well for both retail and institutional adoption, with the ETF race potentially marking a inflection point for mainstream access to SUI exposure.
 
 ## Sources and References
 
-[^1]: Suipiens. (October 2024). "Understanding Gas Fees in the Sui Network." Suipiens Blog. Retrieved from https://suipiens.com/blog/understanding-gas-fees-in-the-sui-network/. Documents current transaction volume growth and average fee costs.
+[^1]: [CoinMarketCap - SUI Updates](https://coinmarketcap.com/cmc-ai/sui/latest-updates/) - 7.5 billion transactions in 2024, 10 billion cumulative by May 2025.
 
-[^2]: Sui Documentation. (2024). "Storage Fund." Sui Official Documentation. Retrieved from https://docs.sui.io/concepts/tokenomics/storage-fund. Official documentation of dual-fee structure and storage mechanics.
+[^2]: [CoinGecko - SUI Token](https://www.coingecko.com/en/coins/sui) - 🔷 HARD DATA: SUI $1.45, market cap $5.41B, circulating 3.74B (December 22, 2025).
 
-[^3]: Chainwire. (October 2024). "Sui Breaks $1B in TVL, Surpassing Polygon, Optimism." Chainwire. Retrieved from https://chainwire.org/2024/10/01/sui-breaks-1b-in-tvl-surpassing-polygon-optimism/. Confirms TVL milestone and growth metrics.
+[^3]: [DefiLlama - Sui](https://defillama.com/chain/Sui) - 🔷 HARD DATA: TVL $936 million retrieved via DefiLlama API (December 22, 2025).
 
-[^4]: SuiVision. (2024). "Sui Validators - SuiVision." SuiVision Analytics. Retrieved from https://suivision.xyz/validators. Provides current validator count and geographic distribution data.
+[^4]: [CoinMarketCap - SUI News](https://coinmarketcap.com/cmc-ai/sui/latest-updates/) - Bitcoin DeFi protocols constitute 10% of Sui TVL as of December 2025.
 
-[^5]: Medium - Luganodes. (2024). "A Glance into Sui's Object-Centric Data Model." Luganodes on Medium. Retrieved from https://medium.com/luganodes/a-glance-into-suis-object-centric-data-model-475db3deac9d. Explains object-centric architecture benefits.
+[^5]: [Blockchain News - SUI Price Prediction](https://blockchain.news/news/20251217-price-prediction-sui-targeting-170-210-recovery-by-end) - DEX volume surged 232% YoY to $409 million in 2025.
 
-[^6]: Sui Documentation. (2024). "Move Concepts." Sui Official Documentation. Retrieved from https://docs.sui.io/concepts/sui-move-concepts. Technical documentation of Move language optimizations.
+[^6]: [DefiLlama - Sui Fees](https://defillama.com/fees/sui) - 🔷 HARD DATA: All-time fees $23.04 million; daily fees averaging $7,889.
 
-[^7]: TokenInsight. (2024). "Sui: Testnet Has 100 Globally Distributed Validators, Peak Throughput of Nearly 300,000 TPS." TokenInsight. Retrieved from https://tokeninsight.com/en/news/sui-testnet-has-100-globally-distributed-validators-peak-throughput-of-nearly-300-000-tps. Documents theoretical peak performance capabilities.
+[^7]: [Medium - Luganodes](https://medium.com/luganodes/a-glance-into-suis-object-centric-data-model-475db3deac9d) - Object-centric architecture benefits and parallel processing.
 
-[^8]: Sui Blog. (2024). "Sui's Storage Fund Demystified." Sui Official Blog. Retrieved from https://blog.sui.io/storage-fund-demystified/. Comprehensive explanation of storage fund mechanics and rebate system.
+[^8]: [Sui Documentation - Move](https://docs.sui.io/concepts/sui-move-concepts) - Move programming language and gas optimization.
 
-[^9]: Figment. (2024). "Sui Tokenomics." Figment Insights. Retrieved from https://figment.io/insights/sui-tokenomics/. Analysis of storage fund sustainability and validator economics.
+[^9]: [Sui Blog - Storage Fund](https://blog.sui.io/storage-fund-demystified/) - Storage fund mechanics and 99% rebate system.
 
-[^10]: CoinGecko Research. (2024). "The Fastest Blockchain Processed 91M Transactions in a Day." CoinGecko. Retrieved from https://www.coingecko.com/research/publications/fastest-blockchains. Performance benchmarking across major blockchains.
+[^10]: [CoinMarketCap - SUI](https://coinmarketcap.com/cmc-ai/sui/latest-updates/) - 🔷 HARD DATA: 7.5 billion transactions in 2024, outperforming Tron, Polygon, Ethereum.
 
-[^11]: Mudrex Learn. (2024). "The SUI Network Explained." Mudrex. Retrieved from https://mudrex.com/learn/the-sui-network-explained/. Technical performance specifications and latency metrics.
+[^11]: [The Market Periodical - SUI 10B Transactions](https://themarketperiodical.com/2025/05/08/sui-hits-10b-transactions-targets-4-48-and-7-levels/) - 🔷 HARD DATA: Surpassed 10 billion cumulative transactions May 7, 2025.
 
-[^12]: Sui Blog. (October 2024). "At Over $500 Million TVL, Sui Lands in the DeFi Top 10." Sui Official Blog. Retrieved from https://blog.sui.io/sui-500-million-tvl-top-10/. DeFi ecosystem growth and stablecoin adoption metrics.
+[^12]: [Messari - State of Sui Q3 2025](https://messari.io/report/state-of-sui-q3-2025) - 🔷 HARD DATA: 4.7M avg daily txns (down 4.7% QoQ), 895,800 daily active addresses.
 
-[^13]: Figment. (2024). "Deep Dive: Sui Reference Gas Price." Figment Insights. Retrieved from https://figment.io/insights/deep-dive-sui-reference-gas-price/. Detailed analysis of validator survey pricing mechanism.
+[^13]: [DefiLlama - Sui TVL](https://defillama.com/chain/Sui) - 🔷 HARD DATA: TVL $936 million; peaked at $2.33 billion in 2025.
 
-[^14]: Staking Rewards. (2024). "Sui (SUI) Staking Rewards: Earn ∼2.10%." Staking Rewards. Retrieved from https://www.stakingrewards.com/asset/sui. Current staking APY and validator commission data.
+[^14]: [Blockchain News - SUI](https://blockchain.news/news/20251222-price-prediction-target-sui-170-210-recovery-within-30-days) - 500,000 new accounts daily; TVL nearing annual highs.
 
-[^15]: GasFees.org. (2024). "What Are Sui Gas Fees?" GasFees.org. Retrieved from https://gasfees.org/what-are-sui-gas-fees/. Current transaction fee benchmarks and comparisons.
+[^15]: [SuiVision - Validators](https://suivision.xyz/validators) - 106 active validators across 13 countries.
 
-[^16]: Cointelegraph. (2024). "Exploring Sui's Object-Centric Model and the Move Programming Language." Cointelegraph. Retrieved from https://cointelegraph.com/news/sui-object-centric-model-move-programming-language. Move language gas optimization and programmable transaction blocks.
+[^16]: [Figment - Sui Reference Gas Price](https://figment.io/insights/deep-dive-sui-reference-gas-price/) - Validator survey pricing mechanism with 2/3 percentile.
 
-[^17]: GetBlock.io. (2024). "Best Sui DEXs: Review." GetBlock.io Blog. Retrieved from https://getblock.io/blog/best-sui-dexs/. DeFi protocol fee structures and network cost analysis.
+[^17]: [DefiLlama - Sui Fees](https://defillama.com/fees/sui) - 🔷 HARD DATA: 24h fees $7,889; 30-day $353,017; all-time $23.04M (December 2025).
 
-[^18]: Cetus Protocol. (2024). "Introducing Cetus Plus: Revolutionizing Swaps on the Sui Network." Cetus on Medium. Retrieved from https://medium.com/@CetusProtocol/introducing-cetus-plus-revolutionizing-swaps-on-the-sui-network-0131f279cfc1. Cetus DEX TVL, features, and fee distribution model.
+[^18]: [CoinMarketCap - SUI](https://coinmarketcap.com/cmc-ai/sui/latest-updates/) - Average transaction cost of $0.002.
 
-[^19]: Sui Blog. (2024). "Sui Q3 2024 DeFi Roundup." Sui Official Blog. Retrieved from https://blog.sui.io/q3-2024-defi-roundup/. Q3 DeFi performance including Turbos and Scallop metrics.
+[^19]: [Staking Rewards - SUI](https://www.stakingrewards.com/asset/sui) - Staking APY 0.21% to 5.30% depending on validator.
 
-[^20]: Delphi Digital. (2024). "DeMystifying MEV in Sui." Delphi Digital. Retrieved from https://members.delphidigital.io/feed/demystifying-mev-in-sui. Analysis of MEV resistance through consensus design.
+[^20]: [Cointelegraph - Sui Object Model](https://cointelegraph.com/news/sui-object-centric-model-move-programming-language) - Programmable Transaction Blocks and atomic execution.
 
-[^21]: Stakin. (2024). "Sui Blockchain: A Deep Dive." Stakin Blog. Retrieved from https://stakin.com/blog/sui-blockchain-a-deep-dive. Parallel execution performance and state access parallelization.
+[^21]: [Sui Documentation - Storage Fund](https://docs.sui.io/concepts/tokenomics/storage-fund) - Dual-fee structure with 70-80% computation, 20-30% storage.
 
-[^22]: Oodles Blockchain. (2024). "Building on Sui Blockchain | Here's What You Need to Know." Oodles Blog. Retrieved from https://blockchain.oodles.io/blog/sui-blockchain/. Developer costs and infrastructure requirements.
+[^22]: [Cetus Protocol - Cetus Plus](https://medium.com/@CetusProtocol/introducing-cetus-plus-revolutionizing-swaps-on-the-sui-network-0131f279cfc1) - Cetus DEX with $167M TVL and concentrated liquidity.
 
-[^23]: Vocal Media. (2025). "Why Top Web3 Projects Are Choosing Sui for Token Development in 2025." Vocal Education. Retrieved from https://vocal.media/education/why-top-web3-projects-are-choosing-sui-for-token-development-in-2025. Enterprise cost benefits and transaction pricing.
+[^23]: [Vocal Media - Sui Development](https://vocal.media/education/why-top-web3-projects-are-choosing-sui-for-token-development-in-2025) - Enterprise cost benefits and transaction pricing.
 
-[^24]: CoinMarketCap Academy. (2023). "Sui To Launch Token and Mainnet: What You Need To Know." CoinMarketCap. Retrieved from https://coinmarketcap.com/academy/article/sui-to-launch-mainnet-and-token-what-you-need-to-know. Mainnet launch timeline and initial trading data.
+[^24]: [The Block - Bitwise SUI ETF](https://www.theblock.co/post/383207/bitwise-joins-race-to-launch-sui-etf-with-latest-sec-filing) - 🔷 HARD DATA: Bitwise S-1 filed December 18, 2025 (file 333-292227).
 
-[^25]: Blockworks. (2023). "Mysten Labs Launches Blockchain Platform Sui." Blockworks. Retrieved from https://blockworks.co/news/mysten-labs-launches-blockchain-platform-sui. Funding history and team background information.
+[^25]: [CoinMarketCap - SUI Updates](https://coinmarketcap.com/cmc-ai/sui/latest-updates/) - 🔷 HARD DATA: SUI included in Bitwise 10 Crypto Index ETF since December 10, 2025.
 
-[^26]: Hashlock. (2024). "Understanding TPS: Which Blockchains Are the Fastest?" Hashlock Blog. Retrieved from https://hashlock.com/blog/understanding-tps-which-blockchains-are-the-fastest. TPS performance comparison across major blockchains.
+[^26]: [CryptoNinjas - Bitwise SUI ETF](https://www.cryptoninjas.net/news/bitwise-files-spot-sui-etf-with-sec-offering-direct-exposure-and-staking-yield-to-tap-a-5b-token-market/) - Canary Capital's "Staked SUI ETF" plans for Nasdaq listing.
 
-[^27]: Kraken Learn. (2024). "What is Sui Network? (SUI) How it works, who created it and how it is used." Kraken. Retrieved from https://www.kraken.com/learn/what-is-sui-network-sui. Platform comparison and developer ecosystem analysis.
+[^27]: [CoinMarketCap - SUI](https://coinmarketcap.com/cmc-ai/sui/latest-updates/) - 21Shares 2x leveraged SUI ETF (TXXS) launched following SEC greenlight.
 
-[^28]: Cryptomus. (2024). "SUI vs Solana (SOL): Complete Comparison." Cryptomus Blog. Retrieved from https://cryptomus.com/blog/sui-vs-solana-complete-comparison. Competitive analysis with other high-performance blockchains.
+[^28]: [Bankless Times - Bitwise SUI ETF](https://www.banklesstimes.com/articles/2025/12/19/bitwise-files-an-s-1-with-the-sec-for-a-spot-sui-etf/) - Coinbase custody with in-kind creation/redemption mechanism.
+
+[^29]: [Sui Blog - Mysticeti v2](https://blog.sui.io/mysticeti-v2-sui-consensus/) - 🔷 HARD DATA: Mysticeti v2 deployed October 7, 2025; 35% latency reduction.
+
+[^30]: [Crypto News - Mysticeti v2](https://crypto.news/sui-launches-mysticeti-v2-consensus-upgrade-2025/) - Transaction Driver simplifies submission flow to single validator.
+
+[^31]: [CoinMarketCap Academy - Sui Launch](https://coinmarketcap.com/academy/article/sui-to-launch-mainnet-and-token-what-you-need-to-know) - ⏳ HISTORICAL: Mainnet May 3, 2023; token trading April 23, 2023.
+
+[^32]: [Blockworks - Mysten Labs](https://blockworks.co/news/mysten-labs-launches-blockchain-platform-sui) - ⏳ HISTORICAL (2022): $336M raised, $2B valuation.
+
+[^33]: [Delphi Digital - MEV in Sui](https://members.delphidigital.io/feed/demystifying-mev-in-sui) - DAG-based consensus minimizes MEV opportunities.
+
+[^34]: [Stakin - Sui Deep Dive](https://stakin.com/blog/sui-blockchain-a-deep-dive) - Parallel execution and state access parallelization.
+
+[^35]: [Sui Blog - $2B TVL](https://blog.sui.io/2-billion-tvl-milestone-defi/) - $2 billion TVL milestone with institutional adoption.
+
+[^36]: [Figment - Sui Tokenomics](https://figment.io/insights/sui-tokenomics/) - Storage Fund sustainability and validator economics.
+
+[^37]: [GetBlock - Sui DEXs](https://getblock.io/blog/best-sui-dexs/) - DeFi protocol fee structures and network costs.
+
+[^38]: [Sui Blog - Q3 2024 DeFi](https://blog.sui.io/q3-2024-defi-roundup/) - ⏳ HISTORICAL: Turbos and Scallop metrics.
+
+[^39]: [Oodles Blockchain - Sui Development](https://blockchain.oodles.io/blog/sui-blockchain/) - Developer costs: package deployment $5-50.
+
+[^40]: [TokenInsight - Sui Testnet](https://tokeninsight.com/en/news/sui-testnet-has-100-globally-distributed-validators-peak-throughput-of-nearly-300-000-tps) - Theoretical 297,000 TPS in testnet.
+
+[^41]: [Hashlock - TPS Comparison](https://hashlock.com/blog/understanding-tps-which-blockchains-are-the-fastest) - 120,000 TPS with 390ms completion under load.
+
+[^42]: [Kraken Learn - Sui Network](https://www.kraken.com/learn/what-is-sui-network-sui) - Platform comparison and developer ecosystem.
+
+[^43]: [Cryptomus - SUI vs Solana](https://cryptomus.com/blog/sui-vs-solana-complete-comparison) - Competitive analysis with high-performance chains.
+
+[^44]: [Mudrex - SUI Explained](https://mudrex.com/learn/the-sui-network-explained/) - 480ms average latency and sub-second finality.
+
+[^45]: [GasFees.org - Sui Fees](https://gasfees.org/what-are-sui-gas-fees/) - Transaction fee benchmarks: 0.001266 SUI (~$0.002).
+
+[^46]: [Tangem - Sui 2025](https://tangem.com/en/blog/post/sui-blockchain/) - Ecosystem unlocks and price outlook.
+
+[^47]: [AInvest - SUI Path 2026](https://www.ainvest.com/news/sui-path-major-price-surge-2026-technical-resilience-macro-bullish-catalysts-2512/) - Technical resilience and institutional catalysts.
+
+[^48]: [Messari - State of Sui Q1 2025](https://messari.io/report/state-of-sui-q1-2025) - Q1 2025 network metrics and ecosystem growth.
+
+[^49]: [Sui Blog - Q2 2025 DeFi](https://blog.sui.io/q2-2025-defi-roundup/) - H1 2025: 2.7 billion transactions; peak 30M+ daily.
+
+[^50]: [BSC News - Sui Updates](https://bsc.news/post/sui-network-updates) - Mysticeti v2 and Transaction Driver technical details.
