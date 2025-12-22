@@ -39,6 +39,21 @@ twitter_feed/
 # Case studies - excluded subfolders
 case_studies/chains_l2s_and_l1s_24h_metrics/
 case_studies/token_unlocks/
+case_studies/z_archive/
+
+# Legacy case study folders (will be removed after migration)
+case_studies/chains_l2s_and_l1s/
+case_studies/chains_l2s_and_l1s_refed/
+case_studies/chains_l2s_and_l1s_24h_metrics_refed/
+case_studies/ai_chains_and_protocols/
+case_studies/protocol_case_studies/
+case_studies/oracles_refed/
+case_studies/mev_refed/
+case_studies/rpc_and_infrastructure_providers/
+case_studies/rpc_and_infrastructure_providers_refed/
+case_studies/foundations_refed/
+case_studies/vc_refed/
+case_studies/chain_and_protocol_incentives/
 
 # macOS
 .DS_Store
