@@ -1,8 +1,10 @@
 # zkSync Era Money Flow Analysis: The ZK-Proof Scaling Model
 
+*Last Updated: December 23, 2025*
+
 ## Executive Summary
 
-zkSync Era operates a centralized sequencer model where Matter Labs captures majority transaction fees while transitioning toward decentralized proving through partnerships with Lagrange Labs and Fermah, representing 75% of proof outsourcing commitments over the next two years. With 1.5+ million daily transactions leading all Ethereum Layer 2s, $541 million TVL, and 16.11 average TPS performance, the network demonstrates strong technical execution despite centralized economics. The June 2024 ZK token launch (21 billion supply, $730 million market cap) and planned sequencer decentralization within one year establish foundation for community governance while maintaining ZK-rollup efficiency advantages. zkSync's unique position leverages SNARK-based proof systems, comprehensive DeFi ecosystem led by SyncSwap ($23.7 million TVL), and ambitious 2025 roadmap targeting 10,000+ TPS with $0.0001 transaction costs through elastic chain architecture.
+zkSync Era operates a centralized sequencer model where Matter Labs captures majority transaction fees while transitioning toward decentralized proving through partnerships with Lagrange Labs and Fermah. 🔷 **HARD DATA**: With ZK token trading at $0.027-0.028, TVL approximately $44-56 million (December 2025), and significant 173.08 million ZK token unlock event (December 15-22, 2025), the network achieved major 2025 milestones including the October 2025 "Atlas" upgrade enabling 15,000+ TPS with $0.0001 transaction costs and 1-second finality [^21][^22]. The December 3, 2025 "Fusaka" upgrade enhanced Layer-2 interoperability and transaction efficiency [^23]. zkSync's unique position leverages SNARK-based proof systems, comprehensive DeFi ecosystem, and ambitious roadmap execution while transitioning from June 2024 ZK token launch (21 billion supply, 3.675 billion airdropped to 695,232 wallets) toward sequencer decentralization [^9][^10][^24].
 
 ## 1. Transaction Fee Distribution and Sequencer Economics
 
@@ -362,13 +364,13 @@ https://messari.io/report/state-of-zksync-q4-2024
 
 ## Conclusion
 
-zkSync Era has established strong technical performance leadership through 1.5+ million daily transactions and 16.11 average TPS while operating a centralized sequencer model that captures substantial revenue for Matter Labs development and operations. The June 2024 ZK token launch with 21 billion supply and $730 million market cap, combined with planned sequencer decentralization within one year, positions the network for transition to community governance and validator-based economics.
+zkSync Era achieved major 2025 milestones with the October "Atlas" upgrade enabling 15,000+ TPS and $0.0001 transaction costs with 1-second finality, followed by the December 3, 2025 "Fusaka" upgrade enhancing Layer-2 interoperability [^23][^24]. 🔷 **HARD DATA**: With ZK token trading at $0.027-0.028, TVL at $44-56 million, and 173.08 million ZK token unlock (December 2025), the network continues operating a centralized sequencer model while executing decentralization roadmap [^21][^22][^27].
 
-The comprehensive decentralization strategy beginning with Lagrange Labs proving partnerships (75% outsourcing commitment) and progressing to full sequencer decentralization by 2025 demonstrates commitment to community control while maintaining ZK-rollup efficiency advantages. The $97.1 million DeFi ecosystem led by SyncSwap and strong NFT trading performance (#5 globally) indicate solid foundation for continued growth.
+The comprehensive decentralization strategy through Lagrange Labs proving partnerships (75% outsourcing commitment) and Fermah universal proof market integration demonstrates commitment to community control while maintaining ZK-rollup efficiency advantages [^43][^44]. Despite lower TVL compared to Arbitrum ($2.49B) and Polygon ($1.02B), zkSync's technical achievements position it uniquely in the ZK-rollup category [^27][^51].
 
-Critical success factors include executing the ambitious 2025 roadmap targeting 10,000+ TPS and $0.0001 transaction costs, transitioning $22.24 million annual sequencer profits to validator economics, and competing effectively against Arbitrum's $18 billion and Optimism's $9 billion TVL advantages. The elastic chain architecture and ZK Stack hyperchain infrastructure position zkSync Era for application-specific scaling solutions that differentiate from general-purpose competitors.
+Critical success factors include continuing technical performance leadership through elastic chain architecture, executing sequencer decentralization within the established timeline, and competing effectively for developer and user adoption. The ZK Stack hyperchain infrastructure and application-specific scaling solutions differentiate zkSync Era from general-purpose competitors [^36][^37].
 
-zkSync Era's emphasis on ZK-rollup security, developer-focused infrastructure, and systematic decentralization creates foundation for sustainable blockchain scaling that balances technical performance with community governance, establishing unique competitive position in the evolving Layer 2 landscape through mathematical cryptographic security rather than economic game theory assumptions.
+zkSync Era's emphasis on ZK-rollup security, developer-focused infrastructure, and systematic decentralization creates foundation for sustainable blockchain scaling that balances technical performance with community governance, establishing unique competitive position in the evolving Layer 2 landscape through mathematical cryptographic security rather than economic game theory assumptions [^32][^45][^52].
 
 ## Sources and References
 
@@ -431,3 +433,73 @@ Series C funding round providing development resources for zkSync Era ecosystem 
 
 [^20]: IACR. (2024). "Security Auditing for ZK Systems." IACR ePrint. Retrieved from https://eprint.iacr.org/2024/514
 Specialized security auditing methodologies for zero-knowledge proof systems including vulnerability detection frameworks
+
+[^21]: [CoinGecko - ZKsync](https://www.coingecko.com/en/coins/zksync) - ZK token price $0.027-0.028, market sentiment bearish with Fear & Greed Index at 20 (December 23, 2025). 🔷 HARD DATA
+
+[^22]: [CoinMarketCap - ZKsync](https://coinmarketcap.com/currencies/zksync/) - ZK 24-hour trading volume $17.5M, 173.08M ZK token unlock (December 15-22, 2025) representing 3.26% of total supply. 🔷 HARD DATA
+
+[^23]: [CoinMarketCap AI - ZKsync Updates](https://coinmarketcap.com/cmc-ai/zksync/latest-updates/) - Fusaka Upgrade December 3, 2025 enhancing Layer-2 interoperability; Atlas upgrade October 2025 enabling 15,000+ TPS with 1-second finality
+
+[^24]: [CCN - ZKsync Price Analysis](https://www.ccn.com/analysis/crypto/zksync-zk-price-prediction/) - TVL at $44.5M with ~10k daily addresses, Atlas upgrade achievements including $0.0001 transaction costs
+
+[^25]: [Bitget - ZKsync Price](https://www.bitget.com/price/zksync) - Current ZK price data and market metrics with 24-hour trading analysis (December 2025). 🔷 HARD DATA
+
+[^26]: [CoinCodex - ZKsync Prediction](https://coincodex.com/crypto/zksync/price-prediction/) - ZK forecast $0.024-0.028 range December 2025, 9/30 green days with 14.02% volatility over 30 days
+
+[^27]: [Bitget Academy - ZKsync Analysis](https://www.bitget.com/academy/zkync-zk-price-prediction-2025-2030-forecast-latest-analysis) - TVL at $56.49M comparing unfavorably to Arbitrum ($2.49B) and Polygon ($1.02B)
+
+[^28]: [CryptoNews - ZKsync Prediction](https://cryptonews.com/price-predictions/zksync-price-prediction/) - Technical analysis and Layer-2 competitive positioning for zkSync Era
+
+[^29]: [CoinMarketCap AI - ZK Price Prediction](https://coinmarketcap.com/cmc-ai/zksync/price-prediction/) - AI-powered analysis of ZK token performance and market outlook
+
+[^30]: [CoinDataFlow - ZKsync Forecast](https://coindataflow.com/en/prediction/zksync) - Price prediction models and historical performance analysis for ZK token
+
+[^31]: [DefiLlama - zkSync Era](https://defillama.com/chain/zkSync%20Era) - Real-time TVL tracking, protocol breakdown, and DeFi ecosystem metrics. 🔷 HARD DATA
+
+[^32]: [L2Beat - zkSync Era](https://l2beat.com/scaling/projects/zksync-era) - Risk assessment, TPS metrics, and decentralization status for zkSync Era. 🔷 HARD DATA
+
+[^33]: [Dune Analytics - zkSync Era Stats](https://dune.com/outputlayer/zksync-era-stats) - Community analytics dashboard with on-chain metrics and user activity data
+
+[^34]: [SyncSwap](https://syncswap.xyz/) - Leading DEX on zkSync Era with concentrated liquidity and trading statistics
+
+[^35]: [Matter Labs Official](https://matter-labs.io/) - Official company updates, technical announcements, and development roadmap
+
+[^36]: [zkSync Documentation](https://docs.zksync.io/) - Complete technical documentation including fee mechanism, ZK Stack, and developer resources
+
+[^37]: [zkSync Mirror - 2025 Roadmap](https://zksync.mirror.xyz/) - Official blog with roadmap updates, decentralization timeline, and ecosystem announcements
+
+[^38]: [Berkeley Research - ZK Theory to Practice](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2024/EECS-2024-35.pdf) - Academic research on ZK proof implementation and security practices ⏳ HISTORICAL (2024)
+
+[^39]: [GitHub - zkSync Era](https://github.com/matter-labs/zksync-era) - Open-source codebase with development activity and community contributions
+
+[^40]: [Messari - ZKsync Reports](https://messari.io/asset/zksync) - Professional research reports and quarterly state of zkSync analysis
+
+[^41]: [The Block - zkSync Coverage](https://www.theblock.co/tag/zksync) - Industry news, governance updates, and Matter Labs announcements
+
+[^42]: [CoinDesk - ZKsync News](https://www.coindesk.com/tag/zksync/) - Breaking news and analysis on zkSync ecosystem developments
+
+[^43]: [Fermah - zkSync Proving](https://www.fermah.xyz/blog-posts/how-fermah-proves-for-zksync) - Universal proof market integration and decentralized proving infrastructure
+
+[^44]: [Lagrange Labs Partnership](https://www.lagrange.dev/blog/a-new-era-for-zk) - 75% proof outsourcing commitment over 2 years with P2P, Nethermind, Black Sand participation
+
+[^45]: [ArXiv - ZK Proofs Survey](https://arxiv.org/html/2408.00243v1) - Comprehensive academic survey of zero-knowledge proof systems and applications ⏳ HISTORICAL (August 2024)
+
+[^46]: [TechCrunch - Matter Labs $200M Raise](https://techcrunch.com/2022/11/16/matter-labs-the-company-behind-zksync-raises-200-million-to-scale-ethereum/) - Series C funding providing development runway for ecosystem expansion ⏳ HISTORICAL (November 2022)
+
+[^47]: [NFTScan Q3 2024 Report](https://medium.com/nftscan/q3-2024-nft-market-report-trading-volume-exceeds-1-1-billion-amid-shifting-landscape-a4c94af0a70a) - zkSync Era ranked #5 globally for NFT trading volume ⏳ HISTORICAL (Q3 2024)
+
+[^48]: [ChainPlay - zkSync Games](https://chainplay.gg/chain/zksync/) - Gaming ecosystem rankings and NFT game market cap on zkSync Era
+
+[^49]: [TastyCrypto - Layer 2 Networks](https://www.tastycrypto.com/blog/layer-2-networks/) - ZK-rollup instant finality advantages vs optimistic rollup 7-day withdrawals
+
+[^50]: [Gate.io - MEV Analysis](https://www.gate.com/learn/articles/the-allure-of-mev-why-decentralizing-sequencers-is-hard/1925) - MEV extraction economics and sequencer decentralization challenges
+
+[^51]: [Coin Bureau - Best Layer 2](https://coinbureau.com/analysis/what-is-the-best-layer-2/) - Comparative L2 analysis: zkSync vs Arbitrum ($18B TVL) vs Optimism ($9B TVL)
+
+[^52]: [zkSync Ecosystem](https://ecosystem.zksync.io/) - Official ecosystem directory with DeFi protocols, NFT projects, and gaming applications
+
+[^53]: [Aave on zkSync Era](https://app.aave.com/) - Lending protocol with 261% QoQ growth to $10.9M TVL demonstrating institutional adoption
+
+[^54]: [Venus Protocol](https://venus.io/) - Multi-protocol DeFi with $12.1M TVL and 20% QoQ growth on zkSync Era
+
+[^55]: [zkSync Forum](https://forum.zksync.io/) - Governance discussions, community proposals, and ecosystem development updates
