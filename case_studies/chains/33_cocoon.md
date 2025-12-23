@@ -1,6 +1,8 @@
 # Cocoon Protocol: Comprehensive Analysis
 ## Pavel Durov's Decentralized AI Compute Network on TON Blockchain
 
+*Last Updated: December 23, 2025*
+
 **Research Date:** October 30, 2025
 **Protocol Name:** Cocoon (Confidential Compute Open Network)
 **Founder:** Pavel Durov (Telegram CEO)
@@ -1381,3 +1383,117 @@ The decentralized GPU compute market is nascent but growing rapidly (35-42% CAGR
 ---
 
 *Disclaimer: This analysis is based on publicly available information as of October 30, 2025. Cocoon has not yet officially launched. Market size estimates, competitive positioning, and financial projections are based on industry research and reasonable assumptions but are subject to change. This document is for informational purposes only and does not constitute investment advice.*
+
+---
+
+## Formatted Footnotes
+
+[^1]: [Durov's Code - Cocoon Announcement](https://durovscode.com/pavel-durov-cocoon-ai-blockchain-life-2025) - Primary source for Cocoon protocol announcement at Blockchain Life 2025.
+
+[^2]: [Cointelegraph - Pavel Durov Announces Cocoon](https://cointelegraph.com/news/pavel-durov-cocoon-decentralized-ai-privacy) - Coverage of privacy-focused AI network announcement.
+
+[^3]: [Decrypt - Telegram Launches Cocoon](https://decrypt.co/346645/telegram-launches-cocoon-decentralized-ai-network-pays-gpu-owners-crypto) - Detailed analysis of GPU owner compensation model.
+
+[^4]: [CryptoBriefing - Telegram CEO Unveils Cocoon](https://cryptobriefing.com/telegram-launches-cocoon-network-powered-by-ai-and-ton/) - Technical architecture and TON integration details.
+
+[^5]: [CryptoTimes - Pavel Durov Introduces AI Network Cocoon](https://www.cryptotimes.io/2025/10/29/telegrams-pavel-durov-introduces-ai-network-cocoon-on-ton/) - Launch timeline and participation details.
+
+[^6]: [Yahoo Finance - Telegram Launches Cocoon](https://finance.yahoo.com/news/telegram-launches-cocoon-decentralized-ai-174119502.html) - Mainstream coverage and market implications.
+
+[^7]: [GlobeNewswire - AlphaTON Capital GPU Investment](https://www.globenewswire.com/news-release/2025/10/29/3176629/0/en/AlphaTON-Capital-Announces-Strategic-Investment-in-GPU-Infrastructure-to-Power-Cocoon-Decentralized-AI-Network.html) - Official press release.
+
+[^8]: [MarketScreener - AlphaTON Capital Investment](https://www.marketscreener.com/news/alphaton-capital-announces-strategic-investment-in-gpu-infrastructure-to-power-cocoon-decentralized-ce7d5dd2da8ef522) - Financial analysis.
+
+[^9]: [IndexBox - Cocoon Network Launch Analysis](https://www.indexbox.io/blog/telegram-announces-cocoon-a-decentralized-ai-compute-network/) - Market analysis.
+
+[^10]: [MarketsandMarkets - AI Inference Market Report](https://www.marketsandmarkets.com/Market-Reports/ai-inference-market-189921964.html) - TAM: $76.25B (2024) → $254.98B (2030). 🔷 HARD DATA
+
+[^11]: [Precedence Research - GPU as a Service Market](https://www.precedenceresearch.com/gpu-as-a-service-market) - SAM: $4.31B (2024) → $49.84B (2032). 🔷 HARD DATA
+
+[^12]: [GlobeNewswire - GPU as a Service Market Size](https://www.globenewswire.com/news-release/2025/03/03/3035783/0/en/GPU-As-A-Service-Market-Size-to-Surpass-USD-33-91-Billion-by-2032.html) - Alternative estimate: $33.91B by 2032.
+
+[^13]: [Grand View Research - Data Center GPU Market](https://www.grandviewresearch.com/industry-analysis/data-center-gpu-market-report) - Market size: $14.48B (2024) → $190.10B (2033). 🔷 HARD DATA
+
+[^14]: [Precedence Research - Data Center GPU Market](https://www.precedenceresearch.com/data-center-gpu-market) - Alternative estimate: $16.94B (2024) → $192.68B (2034).
+
+[^15]: [MarketsandMarkets - AI Data Center Market](https://www.marketsandmarkets.com/Market-Reports/ai-data-center-market-267395404.html) - Broader market: $167.76B (2024) → $933.76B (2030).
+
+[^16]: [Business Research Insights - GPU Cloud Computing](https://www.businessresearchinsights.com/market-reports/gpu-cloud-computing-market-119630) - Market: $3.17B (2024) → $47.24B (2033).
+
+[^17]: [TokenInsight - DePIN x AI Overview](https://tokeninsight.com/en/research/analysts-pick/depin-x-ai-an-overview-of-four-decentralized-compute-network) - Comparative analysis: Akash, Render, io.net, Gensyn.
+
+[^18]: [Gate.io Research - DePIN AI Decentralized Computing](https://www.gate.com/learn/articles/depin-ai-overview-of-four-major-decentralized-computing-networks/2662) - Four major network comparison.
+
+[^19]: [CoinGecko - What is io.net](https://www.coingecko.com/learn/what-is-io-net-io-token) - io.net deep dive: 1M+ GPUs, 90% cost savings. 🔷 HARD DATA
+
+[^20]: [Medium (Lithium Digital) - Decentralised GPUs](https://medium.com/lithium-digital/exploring-the-world-of-decentralised-gpus-dffdda602d33) - Market landscape and technology comparison.
+
+[^21]: [Flagship.FYI - Top 6 Decentralized Computing Projects](https://flagship.fyi/outposts/market-insights/top-5-decentralized-gpu-computing-projects-redefining-computational-access/) - Project rankings and analysis.
+
+[^22]: [Spheron Medium - 5 Leading Decentralized Computing Platforms](https://medium.com/spheronfdn/5-leading-decentralized-computing-platforms-transforming-access-to-gpu-computational-power-d9673fe4e40a) - Platform features and use cases.
+
+[^23]: [io.net Blog - Decentralized GPU Networks](https://blog.io.net/article/how-decentralized-gpu-networks-are-powering-the-next-generation-of-ai) - Technical architecture.
+
+[^24]: [Render Network Medium - Meeting AI Demand](https://rendernetwork.medium.com/meeting-ai-demand-with-decentralized-compute-real-use-cases-49b29dfc647e) - Render's AI use cases.
+
+[^25]: [The Block Beasts - Akash Network Deep Dive](https://m.theblockbeats.info/en/news/52238) - Akash protocol analysis.
+
+[^26]: [The Block - Ritual Raises $25M](https://www.theblock.co/post/262114/decentralized-ai-compute-platform-ritual-closes-25-million-fundraise) - Ritual funding.
+
+[^27]: [Medium - Ritual.net: Future of Decentralized AI](https://medium.com/@buraysandro9/ritual-net-weaving-the-future-of-decentralized-ai-54893051430c) - Ritual protocol mechanics.
+
+[^28]: [Hyperbolic Blog - GPU Marketplace Landscape](https://www.hyperbolic.ai/blog/gpu-marketplace-landscape) - Industry overview.
+
+[^29]: [Spheron Blog - State of GPU Marketplace](https://blog.spheron.network/the-state-of-the-gpu-marketplace-what-you-need-to-know) - Market conditions.
+
+[^30]: [DefiLlama - TON Chain Analytics](https://defillama.com/chain/TON) - Real-time TVL and ecosystem metrics. 🔷 HARD DATA
+
+[^31]: [TON Blog - Ecosystem Update March 2025](https://blog.ton.org/ton-ecosystem-update-march-2025) - Official ecosystem statistics.
+
+[^32]: [TON Blog - Ecosystem Update Jan-Feb 2025](https://blog.ton.org/ton-ecosystem-update-jan-feb-2025) - Early 2025 ecosystem performance.
+
+[^33]: [CoinLaw - Toncoin Statistics 2025](https://coinlaw.io/toncoin-statistics/) - Comprehensive TON metrics. 🔷 HARD DATA
+
+[^34]: [DWF Labs Research - TON Key Statistics 2024](https://www.dwf-labs.com/research/491-ton-blockchain-key-statistics-and-milestones-2024) - Historical context.
+
+[^35]: [Gate Research - TON Ecosystem](https://www.gate.com/learn/articles/gate-research-visualizing-the-ton-eco-sys-tem-user-growth-app-landscape-and-future-trends/4647) - User growth and trends.
+
+[^36]: [The Coin Republic - TON TVL Analysis](https://www.thecoinrepublic.com/2025/02/21/ton-coin-tvl-drops-but-staking-gains-momentum/) - TVL decline analysis.
+
+[^37]: [AInvest - TON Ecosystem Projects July 2025](https://www.ainvest.com/news/ton-ecosystem-projects-show-mixed-performance-july-2025-2507/) - Protocol performance.
+
+[^38]: [TON Official Website](https://ton.org/) - Main landing page.
+
+[^39]: [TON Documentation](https://docs.ton.org/) - Developer documentation.
+
+[^40]: [TON GitHub Repository](https://github.com/ton-community/ton-docs) - Open-source documentation.
+
+[^41]: [TON App Channel Directory](https://ton.app/en/channels) - Telegram channels for TON ecosystem.
+
+[^42]: [Value The Markets - Cocoon Network Impact](https://www.valuethemarkets.com/cryptocurrency/news/understanding-telegrams-cocoon-network-and-its-impact-on-ai-and-blockchain) - Impact analysis.
+
+[^43]: [CCN - Cocoon: Pavel Durov's Bold Plan](https://www.ccn.com/education/crypto/pavel-durov-cocoon-ai-gpu-crypto-rewards/) - Educational overview.
+
+[^44]: [Invezz - Telegram CEO Launches Cocoon](https://invezz.com/news/2025/10/29/telegram-ceo-launches-cocoon-decentralized-ai-compute-network-on-ton/) - Investment perspective.
+
+[^45]: [ForkLog - Telegram Decentralized AI Network](https://forklog.com/en/telegram-to-launch-decentralized-ai-network-on-ton/) - Technical implementation.
+
+[^46]: [NewsbtC - 5 Decentralized AI Providers](https://www.newsbtc.com/news/company/5-decentralized-ai-and-web3-gpu-providers-transforming-cloud-infrastructure/) - Market context.
+
+[^47]: [CryptoTimes - Decentralized AI Providers](https://www.cryptotimes.io/2025/02/17/5-decentralized-ai-and-web3-gpu-providers-transforming-cloud/) - Platform comparisons.
+
+[^48]: [DeSpread Research - Blockchain X AI Infrastructure](https://research.despread.io/ai-infra-projects/) - AI infrastructure projects.
+
+[^49]: [Tracxn - Gensyn Company Profile](https://tracxn.com/d/companies/gensyn/__uDVNNeZCuxgVWe5dz_Kt6gt4f4L9kNCEJoLlPsfqclg) - Gensyn funding: $43M Series A.
+
+[^50]: [Tracxn - Ritual Company Profile](https://tracxn.com/d/companies/ritual/__0Q3mZKBw8d-g73u3fOI3D2G1WJjfe2-YQmC8tRMFHKk) - Ritual funding: $25M.
+
+[^51]: [Fortune Crypto - Ritual Raises $25M](https://fortune.com/crypto/2023/11/08/two-former-polychain-partners-fundraise-25-million-ritual-decentralize-ai/) - Fundraise details.
+
+[^52]: [CoinGecko - TON Token](https://www.coingecko.com/en/coins/toncoin) - TON price and market data. 🔷 HARD DATA
+
+[^53]: [CoinMarketCap - Toncoin](https://coinmarketcap.com/currencies/toncoin/) - Token market cap and volume. 🔷 HARD DATA
+
+[^54]: [Telegram Official](https://telegram.org/) - 950M+ user base reference.
+
+[^55]: [AlphaTON Capital - NASDAQ: ATON](https://www.nasdaq.com/market-activity/stocks/aton) - Public company reference. 🔷 HARD DATA

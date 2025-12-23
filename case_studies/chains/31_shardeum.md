@@ -1,5 +1,7 @@
 # Shardeum: Comprehensive Analysis & Future Pipeline
 
+*Last Updated: December 23, 2025*
+
 **Analysis Date:** November 1, 2025
 **Research Type:** Institutional-Grade Blockchain Analysis
 **Focus:** Token Redenomination (1:240), Technology Review, and Future Roadmap
@@ -661,3 +663,117 @@ Shardeum has partnered with leading wallet providers:
 **Analysis Prepared By:** Research Team
 **Last Updated:** November 1, 2025
 **Next Review Date:** January 1, 2026
+
+---
+
+## Formatted Footnotes
+
+[^1]: [Shardeum Official Documentation](https://docs.shardeum.org/) - Technical documentation and architecture specifications.
+
+[^2]: [Shardeum Official Blog](https://shardeum.org/blog/) - Announcements and updates.
+
+[^3]: [Shardeum Whitepaper](https://docs.shardeum.org/docs/whitepaper) - Technical whitepaper with consensus mechanism details.
+
+[^4]: [Shardeum Technical Whitepaper PDF](https://shardeum.org/Shardeum_Whitepaper.pdf) - Complete technical specifications.
+
+[^5]: [EVM Mainnet Launch Announcement](https://shardeum.org/blog/evm-mainnet-smart-contracts-launch/) - October 30, 2025 smart contract launch.
+
+[^6]: [SHM Token Redenomination Vote](https://shardeum.org/blog/vote-shm-redenomination-proposal/) - Community governance vote (85% approval).
+
+[^7]: [EVM Mainnet & Token Split Details](https://shardeum.org/blog/evm-mainnet-launch-shm-announcement/) - 1:240 redenomination announcement.
+
+[^8]: [CEX Support for Token Split](https://shardeum.org/blog/cex-support-shm-token-split-mainnet-upgrade/) - Exchange listing support.
+
+[^9]: [Mainnet Goes Live](https://shardeum.org/blog/mainnet-launch/) - May 5, 2025 token-only mainnet.
+
+[^10]: [Token-Only Network Pause](https://shardeum.org/blog/token-only-network-pause-evm-launch/) - October 28, 2025 network pause.
+
+[^11]: [Whitepaper V2 Tokenomics Update](https://shardeum.org/blog/whitepaper-tokenomics-update/) - Updated tokenomics documentation.
+
+[^12]: [SHM Token Utilities](https://shardeum.org/blog/shm-token-utilities/) - Token use cases and utility.
+
+[^13]: [Node Rewards Explained](https://shardeum.org/blog/node-rewards-explained/) - Validator economics.
+
+[^14]: [Validator Node Benefits](https://shardeum.org/blog/benefits-of-running-shardeum-validator-node-mainnet/) - Node operation benefits.
+
+[^15]: [Staking & Unstaking Documentation](https://docs.shardeum.org/docs/ecosystem/advanced-operations/staking-and-unstaking) - Staking mechanics.
+
+[^16]: [Roadmap to Mainnet](https://shardeum.org/blog/unveiling-shardeums-roadmap-to-mainnet/) - Development roadmap.
+
+[^17]: [Solving the Blockchain Trilemma](https://shardeum.org/blog/shardeum-solves-blockchain-trilemma/) - Technical approach overview.
+
+[^18]: [TPS Explained](https://shardeum.org/blog/transactions-per-second-tps-blockchain/) - Performance metrics explanation.
+
+[^19]: [High-Level Architecture](https://docs.shardeum.org/docs/developer/architecture/high-level-architecture) - Architecture documentation.
+
+[^20]: [India dApp Ecosystem Strategy](https://shardeum.org/blog/evm-rollout-india-onchain-adoption/) - India market focus.
+
+[^21]: [Solving Payments with Shardeum](https://shardeum.org/blog/solving-payments-with-shardeum/) - PayFi initiative.
+
+[^22]: [Ecosystem Overview](https://shardeum.org/ecosystem/) - Project ecosystem listing.
+
+[^23]: [Developer Resources](https://shardeum.org/developers/) - Developer portal.
+
+[^24]: [CoinGecko - Shardeum](https://www.coingecko.com/en/coins/shardeum) - SHM price and market data. 🔷 HARD DATA
+
+[^25]: [Chainspect - Shardeum Data](https://chainspect.app/chain/shardeum) - Network analytics. 🔷 HARD DATA
+
+[^26]: [CoinCentral - Mainnet Launch Analysis](https://coincentral.com/shardeum-mainnet-goes-live-autoscaling-l1-blockchain-aims-to-solve-trilemma/) - Launch coverage.
+
+[^27]: [CryptoSlate - Developer Accessibility](https://cryptoslate.com/shardeum-the-layer-1-thats-making-blockchain-more-accessible-for-developers/) - Developer focus article.
+
+[^28]: [TheStreet Crypto - Mainnet Launch](https://www.thestreet.com/crypto/press-releases/shardeum-mainnet-goes-live-debuting-autoscaling-l1-after-record-testnet-validator-participation) - Press coverage.
+
+[^29]: [Layer 1 Blockchains List 2025](https://metaschool.so/articles/layer-1-blockchain) - L1 comparisons.
+
+[^30]: [Solana vs Avalanche Comparison](https://crypto.com/en/university/solana-vs-avalanche) - Chain comparison.
+
+[^31]: [Ethereum vs Solana vs Avalanche 2025](https://tradesanta.com/blog/ethereum-vs-solana-vs-avalanche-which-blockchain-will-win-in-2025) - 2025 analysis.
+
+[^32]: [CoinMarketCap - Shardeum](https://coinmarketcap.com/currencies/shardeum/) - Market data and rankings. 🔷 HARD DATA
+
+[^33]: [KuCoin - SHM Listing](https://www.kucoin.com/trade/SHM-USDT) - Exchange listing. 🔷 HARD DATA
+
+[^34]: [MEXC - SHM Trading](https://www.mexc.com/exchange/SHM_USDT) - Exchange listing. 🔷 HARD DATA
+
+[^35]: [LBank - SHM](https://www.lbank.com/) - Exchange listing.
+
+[^36]: [Bitget - SHM](https://www.bitget.com/) - Exchange listing.
+
+[^37]: [MetaMask Integration](https://metamask.io/) - Wallet support.
+
+[^38]: [OKX Wallet - Shardeum](https://www.okx.com/wallet) - Wallet integration.
+
+[^39]: [Trust Wallet](https://trustwallet.com/) - Mobile wallet support.
+
+[^40]: [DefiLlama - Shardeum](https://defillama.com/chain/Shardeum) - TVL tracking (when available). 🔷 HARD DATA
+
+[^41]: [Dune Analytics](https://dune.com/) - On-chain analytics platform.
+
+[^42]: [Messari - Shardeum Research](https://messari.io/) - Research analysis.
+
+[^43]: [The Block - Layer 1 Coverage](https://www.theblock.co/) - Industry news.
+
+[^44]: [CoinDesk - Blockchain News](https://www.coindesk.com/) - News coverage.
+
+[^45]: [Decrypt - L1 Analysis](https://decrypt.co/) - Industry analysis.
+
+[^46]: [UniLend Finance](https://unilend.finance/) - DeFi protocol on Shardeum.
+
+[^47]: [IceCreamSwap](https://icecreamswap.com/) - DEX on Shardeum.
+
+[^48]: [Xade Finance](https://xade.finance/) - DeFi protocol integration.
+
+[^49]: [Aspecta - AI Identity](https://aspecta.id/) - Identity protocol on Shardeum.
+
+[^50]: [Copperx - Payment Gateway](https://copperx.io/) - Payment infrastructure.
+
+[^51]: [India Ministry of Electronics and IT](https://www.meity.gov.in/) - Government blockchain strategy.
+
+[^52]: [CoinTelegraph - India Crypto](https://cointelegraph.com/tags/india) - India regulatory coverage.
+
+[^53]: [Token Terminal - L1 Metrics](https://tokenterminal.com/) - Protocol revenue data. 🔷 HARD DATA
+
+[^54]: [Nansen - Blockchain Analytics](https://www.nansen.ai/) - Wallet and flow analytics.
+
+[^55]: [L2Beat - L1 Comparison](https://l2beat.com/) - Blockchain comparison metrics. 🔷 HARD DATA

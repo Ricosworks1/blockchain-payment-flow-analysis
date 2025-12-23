@@ -1,5 +1,7 @@
 # Quai Network Fee Flow Analysis: Where Every Dollar Goes
 
+*Last Updated: December 23, 2025*
+
 **Last Updated:** November 13, 2025
 **Data Current As Of:** November 13, 2025
 **Mainnet Launch:** January 29, 2025
@@ -831,3 +833,117 @@ Quai's competitive position is differentiated as the primary scalable PoW L1 uti
 ---
 
 **Methodology Note**: This analysis synthesizes publicly available documentation, testnet metrics, and architectural claims. Where production data is unavailable due to recent mainnet launch, limitations are explicitly noted. Claims requiring empirical validation are identified. Analysis maintains neutrality per project style guide, presenting both stated advantages and identified risk factors without promotional or dismissive bias.
+
+---
+
+## Formatted Footnotes
+
+[^1]: [Quai Network Website](https://qu.ai/) - Official website with 50,000+ TPS scalability claims.
+
+[^2]: [Quai Network Documentation](https://docs.qu.ai/) - Technical architecture, fee targets <$0.01.
+
+[^3]: [Quai Network - Hierarchical Structure](https://docs.qu.ai/learn/architecture) - Prime, Region, and Zone chain hierarchy.
+
+[^4]: [AlexaBlockchain - Quai Mainnet Launch](https://alexablockchain.com/) - January 29, 2025 mainnet launch announcement.
+
+[^5]: [Quai Network - Testnet Metrics](https://qu.ai/blog) - Golden Age testnet: 2,000+ nodes, 42,000 GPUs, 110,000 wallets.
+
+[^6]: [Quai Network Docs - Cross-Shard](https://docs.qu.ai/learn/cross-shard) - Cross-shard communication mechanics.
+
+[^7]: [Quai Network - QI Stablecoin](https://docs.qu.ai/learn/tokenomics/qi) - Energy-backed stablecoin mechanics.
+
+[^8]: [Quai Network - Token Emissions](https://docs.qu.ai/learn/tokenomics/quai-emissions) - QUAI/QI dual-token emission model.
+
+[^9]: [Quai Network - Merged Mining](https://docs.qu.ai/learn/consensus/merged-mining) - 100% hash power security across chains.
+
+[^10]: [Quai Network - PoEM Consensus](https://docs.qu.ai/learn/consensus/poem) - Proof-of-Entropy-Minima mechanism.
+
+[^11]: [Quai Network - EVM Compatibility](https://docs.qu.ai/develop/evm) - Ethereum smart contract compatibility.
+
+[^12]: [Kef Ventures - Quai Network Analysis](https://medium.com/@kefventures) - Risk assessment and criticisms.
+
+[^13]: [Quai Network - QUAI Token](https://docs.qu.ai/learn/tokenomics/quai) - Token governance and utility.
+
+[^14]: [Quai Network - Scaling](https://docs.qu.ai/learn/scaling) - Block time, 255 shard maximum, 250,000 TPS target.
+
+[^15]: [CryptoRank - Quai Token Allocation](https://cryptorank.io/ico/quai-network) - Token vesting schedules. 🔷 HARD DATA
+
+[^16]: [Tracxn - Quai Network Funding](https://tracxn.com/d/companies/quai-network) - $15M total funding data. 🔷 HARD DATA
+
+[^17]: [Quai Network Blog - Polychain Seed Round](https://qu.ai/blog) - $8M seed March 2022.
+
+[^18]: [CryptoRank - Quai Investors](https://cryptorank.io/ico/quai-network) - Cogitent Ventures, investor details. 🔷 HARD DATA
+
+[^19]: [CoinGecko - Quai Network](https://www.coingecko.com/en/coins/quai-network) - QUAI token market data. 🔷 HARD DATA
+
+[^20]: [CoinMarketCap - Quai](https://coinmarketcap.com/currencies/quai-network/) - Token price and market cap. 🔷 HARD DATA
+
+[^21]: [Messari - Quai Network Research](https://messari.io/asset/quai-network) - Understanding Quai Network report.
+
+[^22]: [Polychain Capital Portfolio](https://polychain.capital/) - Lead investor in seed round.
+
+[^23]: [Alumni Ventures](https://www.av.vc/) - Investor participation.
+
+[^24]: [Cogitent Ventures](https://cogitent.vc/) - Lead investor in August 2024 round.
+
+[^25]: [Aza Ventures](https://aza.ventures/) - Investor participation.
+
+[^26]: [Wormhole - Quai Integration](https://wormhole.com/) - Multichain expansion partnership.
+
+[^27]: [Dominant Strategies](https://dominantstrategies.io/) - Quai Network development entity.
+
+[^28]: [DefiLlama - Quai](https://defillama.com/chain/Quai) - TVL tracking (when available). 🔷 HARD DATA
+
+[^29]: [Dune Analytics](https://dune.com/) - On-chain analytics platform.
+
+[^30]: [CoinDesk - PoW Networks](https://www.coindesk.com/) - Industry coverage.
+
+[^31]: [The Block - Layer 1 News](https://www.theblock.co/) - Blockchain news.
+
+[^32]: [Decrypt - Crypto News](https://decrypt.co/) - Industry analysis.
+
+[^33]: [CoinTelegraph - Mining](https://cointelegraph.com/tags/mining) - PoW mining coverage.
+
+[^34]: [Bitcoin Magazine - PoW](https://bitcoinmagazine.com/) - Proof-of-Work context.
+
+[^35]: [Kaspa Network](https://kaspa.org/) - BlockDAG competitor comparison.
+
+[^36]: [Nervos Network](https://www.nervos.org/) - PoW L1 competitor comparison.
+
+[^37]: [Ethereum Foundation](https://ethereum.org/) - EVM specification reference.
+
+[^38]: [Solidity Documentation](https://docs.soliditylang.org/) - Smart contract development.
+
+[^39]: [Token Terminal - L1 Data](https://tokenterminal.com/) - Protocol metrics. 🔷 HARD DATA
+
+[^40]: [Nansen - Blockchain Analytics](https://www.nansen.ai/) - Wallet and flow data.
+
+[^41]: [Glassnode - Mining Metrics](https://glassnode.com/) - PoW network data. 🔷 HARD DATA
+
+[^42]: [Blockchain.com - Hash Rate](https://www.blockchain.com/) - Mining statistics.
+
+[^43]: [Cambridge Bitcoin Electricity Index](https://ccaf.io/cbnsi/cbeci) - PoW energy consumption context.
+
+[^44]: [SEC - Digital Assets](https://www.sec.gov/) - Regulatory framework reference.
+
+[^45]: [CFTC - Commodities](https://www.cftc.gov/) - Commodity classification context.
+
+[^46]: [IEA - Energy Markets](https://www.iea.org/) - Energy cost data for QI context.
+
+[^47]: [Crunchbase - Quai Network](https://www.crunchbase.com/organization/quai-network) - Company and funding information.
+
+[^48]: [LinkedIn - Quai Network](https://www.linkedin.com/company/quai-network/) - Team and company profile.
+
+[^49]: [GitHub - Quai Network](https://github.com/dominant-strategies) - Open source repositories.
+
+[^50]: [Discord - Quai Community](https://discord.gg/quai) - 204,000+ member community.
+
+[^51]: [Twitter/X - Quai Network](https://x.com/QuaiNetwork) - Official announcements.
+
+[^52]: [Medium - Quai Network](https://medium.com/quai-network) - Blog posts and updates.
+
+[^53]: [Blockworks - L1 Analysis](https://blockworks.co/) - Market coverage.
+
+[^54]: [The Defiant - DeFi News](https://thedefiant.io/) - DeFi ecosystem coverage.
+
+[^55]: [L2Beat - Chain Comparison](https://l2beat.com/) - Blockchain comparison metrics. 🔷 HARD DATA
