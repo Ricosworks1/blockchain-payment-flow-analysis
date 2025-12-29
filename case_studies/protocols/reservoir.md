@@ -12,7 +12,7 @@
 ## Executive Summary
 
 **Key Metrics (Verified, Q4 2025):**
-- **Total Value Locked (TVL):** $526M+ (December 2025)[^2]
+- **Total Value Locked (TVL):** $83M (December 2025)[^2]
 - **srUSD APY:** 7.75% (December 2025)[^2]
 - **Initial Launch APY:** 6% (November 2024)[^13]
 - **Supply Cap:** $25M initial → Expanded based on demand[^13]
@@ -235,23 +235,23 @@ Plus whatever USDC is deployed to
 
 3. Protocol Performance Fee
    - Estimated 10-20% of generated yield
-   - If $500M TVL earning 9% = $45M yield
-   - Protocol fee (15%): $6.75M
-   - To srUSD holders: $38.25M (85%)
+   - If $83M TVL earning 9% = $7.47M yield
+   - Protocol fee (15%): $1.12M
+   - To srUSD holders: $6.35M (85%)
 ```
 
 **Total Protocol Revenue (Estimated):**
 ```
 Assumptions:
-  - TVL: $526M[^2]
+  - TVL: $83M[^2]
   - Collateral yield: 9% average
-  - Total yield generated: $47.34M
+  - Total yield generated: $7.47M
   - Protocol fee: 15%
 
-Annual Protocol Revenue: $7.1M
+Annual Protocol Revenue: $1.1M
 Distribution:
-  - To srUSD/wsrUSD holders: $40.24M (85%)
-  - To DAM token stakers/treasury: $7.1M (15%)
+  - To srUSD/wsrUSD holders: $6.35M (85%)
+  - To DAM token stakers/treasury: $1.1M (15%)
 ```
 
 ---
@@ -325,15 +325,15 @@ Risk: If utilization > 90%, borrow rates spike above srUSD yield
 
 **Potential Revenue Sharing Model (Hypothetical):**
 ```
-Annual Protocol Revenue: $7.1M (estimated)
+Annual Protocol Revenue: $1.1M (estimated at $83M TVL)
 ↓
 Distribution:
-  - 50% → DAM stakers: $3.55M
-  - 30% → Treasury: $2.13M
-  - 20% → Ecosystem incentives: $1.42M
+  - 50% → DAM stakers: $550K
+  - 30% → Treasury: $330K
+  - 20% → Ecosystem incentives: $220K
 ↓
 If DAM market cap = $50M:
-  - Staking yield: $3.55M / $50M = 7.1% APY
+  - Staking yield: $550K / $50M = 1.1% APY
 ```
 
 **Note:** Actual revenue sharing model not yet implemented as of Q4 2025.
@@ -433,11 +433,11 @@ If borrow rate = 8%: $5,760 cost → $1,215 net = 2.43% APY
 ```
 November 11, 2024: Launch with $25M cap[^13]
    ↓
-January 2025: Cap expanded, ~$100M TVL
+Cap expanded based on demand
    ↓
-December 2025: $526M+ TVL[^2]
+December 2025: $83M TVL[^2]
    ↓
-13-month growth: 2,004% (20x initial cap)
+13-month growth: 232% (3.3x initial cap)
 ```
 
 **Growth Drivers:**
@@ -490,7 +490,7 @@ December 2025: $526M+ TVL[^2]
 ✅ **Competitive Yield:** 7.75% APY on stablecoins (top tier)[^2]
 ✅ **No Lock-Ups:** Withdraw anytime (major UX advantage)[^13]
 ✅ **DeFi Composability:** wsrUSD designed for integrations[^1]
-✅ **Rapid Growth:** $25M → $526M+ in 13 months (20x)[^2][^13]
+✅ **Steady Growth:** $25M → $83M in 13 months (3.3x)[^2][^13]
 ✅ **Institutional Backing:** $14M Series A validates model[^25]
 
 ### Weaknesses
@@ -508,7 +508,7 @@ Reservoir generates revenue from:
 - Collateral management yields (4-15% on various assets)
 - Micro burn fees on srUSD redemptions[^1]
 - Estimated 15% performance fee on yields
-- **Total:** ~$7M annual (at $526M TVL)
+- **Total:** ~$1.1M annual (at $83M TVL)
 
 **Payment Flow Efficiency:** ✅ **User-Friendly**
 
