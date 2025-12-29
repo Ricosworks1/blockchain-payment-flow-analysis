@@ -11,13 +11,18 @@
 
 ## Executive Summary
 
-**Key Metrics (Verified, Q4 2025):**
-- **Total Value Locked (TVL):** $83M (December 2025)[^2]
-- **srUSD APY:** 7.75% (December 2025)[^2]
+**Key Metrics (Verified via DefiLlama API, December 29, 2025):**
+- **Total Value Locked (TVL):** $83.5M[^2]
+  - Ethereum: $65.8M
+  - Base: $17.7M
+  - Other chains: <$1K
+- **Peak TVL:** $293.5M (Ethereum, August 2024)[^2]
+- **srUSD APY:** 7.75% (December 2025)
 - **Initial Launch APY:** 6% (November 2024)[^13]
 - **Supply Cap:** $25M initial → Expanded based on demand[^13]
 - **Integration:** Morpho Blue, Steakhouse rUSD vault[^17]
 - **Funding:** $14M raised (Series A, February 2025)[^25]
+- **Security Audits:** 2 completed (Halborn)[^11]
 
 ### Core Innovation
 
@@ -535,7 +540,7 @@ Reservoir generates revenue from:
 
 [^1]: [Reservoir Documentation](https://docs.reservoir.xyz/) - Official protocol documentation covering rUSD, srUSD, wsrUSD, trUSD, and lending markets. 🔷 HARD DATA
 
-[^2]: [Reservoir Protocol - DefiLlama](https://defillama.com/protocol/reservoir-protocol) - Total Value Locked and protocol metrics tracking. 🔷 HARD DATA
+[^2]: [Reservoir Protocol - DefiLlama](https://defillama.com/protocol/reservoir-protocol) - TVL: $83.5M total (Ethereum $65.8M, Base $17.7M), Peak: $293.5M (Aug 2024). Retrieved via DefiLlama API (December 29, 2025). 🔷 HARD DATA
 
 [^3]: [CoinGecko - Reservoir rUSD](https://www.coingecko.com/en/coins/reservoir-rusd) - rUSD stablecoin market data, price $0.999, market cap tracking. 🔷 HARD DATA
 
