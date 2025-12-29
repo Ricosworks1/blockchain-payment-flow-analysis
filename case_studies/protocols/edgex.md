@@ -1,3 +1,5 @@
+**Last Updated: December 29, 2025**
+
 # EdgeX Protocol Case Study: Comprehensive Analysis (December 2025)
 
 ## Executive Summary

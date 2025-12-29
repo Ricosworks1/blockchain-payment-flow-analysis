@@ -1,3 +1,5 @@
+**Last Updated: December 29, 2025**
+
 # f(x) Protocol: Comprehensive Deep Dive Analysis
 ## Leveraged ETH Positions & Delta-Neutral Stablecoins
 

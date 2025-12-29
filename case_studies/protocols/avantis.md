@@ -1,10 +1,11 @@
+**Last Updated: December 29, 2025**
+
 # Avantis: Payment Flow Analysis
 
 **Protocol Type:** Decentralized Perpetuals DEX + Liquidity Vaults
 **Launch Year:** 2024
 **Token:** AVNT
 **Chain:** Arbitrum, Base (multi-chain)
-**Last Updated:** October 26, 2025
 
 ---
 

@@ -1,3 +1,5 @@
+**Last Updated: December 29, 2025**
+
 # Axiom Protocol Case Study: Dollar Distribution Analysis
 
 ## Overview

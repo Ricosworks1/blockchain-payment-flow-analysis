@@ -1,3 +1,5 @@
+**Last Updated: December 29, 2025**
+
 # Protocol Fee Distribution: Where Every Dollar Goes
 
 ## Overview

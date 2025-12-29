@@ -1,3 +1,5 @@
+**Last Updated: December 29, 2025**
+
 # Prediction Markets: Comprehensive Analysis
 
 **Date:** October 26, 2025

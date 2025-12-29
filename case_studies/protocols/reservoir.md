@@ -1,10 +1,11 @@
+**Last Updated: December 29, 2025**
+
 # Reservoir Protocol: Payment Flow Analysis
 
 **Protocol Type:** Stablecoin Protocol with Yield-Bearing Products
 **Launch Year:** 2024
 **Token:** DAM (Reservoir governance token)
 **Products:** rUSD (stablecoin), srUSD (savings), wsrUSD (wrapped savings)
-**Last Updated:** October 26, 2025
 
 ---
 

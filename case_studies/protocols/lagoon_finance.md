@@ -1,3 +1,5 @@
+**Last Updated: December 29, 2025**
+
 # Lagoon Finance Protocol Case Study: Dollar Distribution Analysis
 
 ## Overview

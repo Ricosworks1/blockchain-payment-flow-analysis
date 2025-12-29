@@ -1,3 +1,5 @@
+**Last Updated: December 29, 2025**
+
 # Vault & Lending Protocols: Comprehensive Payment Flow Summary
 
 **Analysis Date:** October 26, 2025

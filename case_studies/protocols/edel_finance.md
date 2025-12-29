@@ -1,3 +1,5 @@
+**Last Updated: December 29, 2025**
+
 # Edel Finance Protocol Analysis
 ## Research Analysis: Technology, Innovation & Market Potential
 

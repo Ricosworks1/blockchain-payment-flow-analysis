@@ -1,9 +1,10 @@
+**Last Updated: December 29, 2025**
+
 # Maple Finance: Payment Flow Analysis
 
 **Protocol Type:** Institutional On-Chain Credit / Lending Protocol
 **Launch Year:** 2021
 **Token:** SYRUP (formerly MPL, rebrand 2024)
-**Last Updated:** October 26, 2025
 
 ---
 

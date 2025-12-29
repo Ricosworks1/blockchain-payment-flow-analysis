@@ -1,9 +1,10 @@
+**Last Updated: December 29, 2025**
+
 # Morpho: Payment Flow Analysis
 
 **Protocol Type:** Lending Optimizer / Decentralized Lending Network
 **Launch Year:** 2021 (Morpho Optimizer) → 2024 (Morpho Blue V2)
 **Current Version:** Morpho Blue (V2)
-**Last Updated:** October 26, 2025
 
 ---
 
