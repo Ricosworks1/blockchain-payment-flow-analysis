@@ -323,6 +323,24 @@ Risk: If utilization > 90%, borrow rates spike above srUSD yield
 
 ### DAM Token (Reservoir Governance Token)
 
+**Token Metrics (Verified via CoinGecko API, December 29, 2025):**[^4]
+
+| Metric | Value |
+|--------|-------|
+| **Price** | $0.0249 |
+| **Market Cap** | $4.99M |
+| **Market Cap Rank** | #2,093 |
+| **Fully Diluted Valuation** | $24.9M |
+| **24h Trading Volume** | $1.98M |
+| **Circulating Supply** | 200M DAM (20%) |
+| **Total Supply** | 1B DAM |
+| **24h Change** | +3.01% |
+| **7d Change** | +43.95% |
+| **30d Change** | +15.63% |
+| **All-Time High** | $0.149 (Sep 19, 2025) |
+| **All-Time Low** | $0.016 (Dec 18, 2025) |
+| **ATH Decline** | -83.2% from ATH |
+
 **Token Utility:**
 1. **Governance:** Vote on collateral types, yield strategies, fee rates
 2. **Revenue Sharing:** Future plans to distribute protocol fees to DAM stakers
@@ -337,11 +355,29 @@ Distribution:
   - 30% → Treasury: $330K
   - 20% → Ecosystem incentives: $220K
 ↓
-If DAM market cap = $50M:
-  - Staking yield: $550K / $50M = 1.1% APY
+At current DAM market cap = $4.99M:
+  - Staking yield: $550K / $4.99M = 11.0% APY
 ```
 
 **Note:** Actual revenue sharing model not yet implemented as of Q4 2025.
+
+### rUSD Stablecoin Peg Status
+
+**rUSD Metrics (Verified via CoinGecko API, December 29, 2025):**[^3]
+
+| Metric | Value |
+|--------|-------|
+| **Price** | $0.998 (0.2% depeg) |
+| **Market Cap** | $896K |
+| **Market Cap Rank** | #3,881 |
+| **Circulating Supply** | ~897K rUSD |
+| **24h Change** | -0.05% |
+| **7d Change** | +0.20% |
+| **All-Time High** | $2.00 (Jun 21, 2025) |
+| **All-Time Low** | $0.972 (Jul 14, 2025) |
+| **Max Deviation from Peg** | -2.8% (to ATL) |
+
+**Peg Assessment:** ✅ **Stable** - Currently trading at $0.998, within acceptable 0.2% deviation from $1 peg. Historical worst deviation was 2.8% to the downside (July 2025), which recovered quickly.
 
 ---
 
@@ -542,9 +578,9 @@ Reservoir generates revenue from:
 
 [^2]: [Reservoir Protocol - DefiLlama](https://defillama.com/protocol/reservoir-protocol) - TVL: $83.5M total (Ethereum $65.8M, Base $17.7M), Peak: $293.5M (Aug 2024). Retrieved via DefiLlama API (December 29, 2025). 🔷 HARD DATA
 
-[^3]: [CoinGecko - Reservoir rUSD](https://www.coingecko.com/en/coins/reservoir-rusd) - rUSD stablecoin market data, price $0.999, market cap tracking. 🔷 HARD DATA
+[^3]: [CoinGecko - Reservoir rUSD](https://www.coingecko.com/en/coins/reservoir-rusd) - rUSD stablecoin market data: Price $0.998, Market Cap $896K, Circulating Supply 897K rUSD, ATH $2.00 (Jun 21, 2025), ATL $0.972 (Jul 14, 2025). Retrieved via CoinGecko API (December 29, 2025). 🔷 HARD DATA
 
-[^4]: [CoinGecko - Reservoir DAM](https://www.coingecko.com/en/coins/reservoir) - DAM governance token market data, 200M circulating supply. 🔷 HARD DATA
+[^4]: [CoinGecko - Reservoir DAM](https://www.coingecko.com/en/coins/reservoir) - DAM governance token: Price $0.0249, Market Cap $4.99M, FDV $24.9M, 24h Volume $1.98M, Circulating 200M/1B, ATH $0.149 (Sep 19, 2025), ATL $0.016 (Dec 18, 2025). Retrieved via CoinGecko API (December 29, 2025). 🔷 HARD DATA
 
 [^5]: [Etherscan - rUSD Token Contract](https://etherscan.io/token/0x09d4214c03d01f49544c0448dbe3a27f768f2b34) - On-chain rUSD contract: 77M+ supply, 1,125+ holders. 🔷 HARD DATA
 
