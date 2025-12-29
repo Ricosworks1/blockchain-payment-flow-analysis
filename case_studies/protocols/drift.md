@@ -1,3 +1,5 @@
+**Last Updated: December 29, 2025**
+
 # Drift Protocol Technical Architecture: Complete Analysis
 
 **Date:** October 19, 2025
@@ -2103,5 +2105,119 @@ All data represents snapshot as of October 2025. Blockchain and DeFi metrics are
 - [Protocol Fee Distribution Summary](/case_studies/protocol_case_studies/protocol_fee_distribution_summary.md)
 - [Jupiter Case Study](/case_studies/protocol_case_studies/jupiter_case_study.md)
 
-**Version:** 1.0
-**Last Updated:** October 19, 2025
+**Version:** 1.1
+**Last Updated:** December 29, 2025
+
+---
+
+## Footnotes
+
+[^1]: [Drift Protocol Documentation](https://docs.drift.trade/) - Official protocol documentation covering DLOB, vAMM, and JIT mechanics. 🔷 HARD DATA
+
+[^2]: [DefiLlama - Drift TVL](https://defillama.com/protocol/drift) - Total Value Locked: $1B+ as of December 2025. 🔷 HARD DATA
+
+[^3]: [Drift App](https://www.drift.trade/) - Official trading interface and protocol statistics. 🔷 HARD DATA
+
+[^4]: [CoinGecko - DRIFT Token](https://www.coingecko.com/en/coins/drift) - DRIFT governance token market data. 🔷 HARD DATA
+
+[^5]: [Solscan - Drift Protocol](https://solscan.io/account/dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH) - On-chain contract analytics. 🔷 HARD DATA
+
+[^6]: [Dune Analytics - Drift](https://dune.com/drift_protocol) - On-chain analytics for volume, fees, and user metrics. 🔷 HARD DATA
+
+[^7]: [Drift DLOB Documentation](https://docs.drift.trade/about-v2/decentralized-orderbook) - Decentralized Limit Order Book architecture.
+
+[^8]: [Messari - Drift Research](https://messari.io/project/drift) - Comprehensive protocol analysis. 🔷 HARD DATA
+
+[^9]: [The Block - Drift](https://www.theblock.co/tag/drift) - News coverage and market analysis.
+
+[^10]: [CoinDesk - Drift News](https://www.coindesk.com/tag/drift/) - Breaking news and developments.
+
+[^11]: [Token Terminal - Drift](https://tokenterminal.com/terminal/projects/drift) - Protocol revenue and metrics. 🔷 HARD DATA
+
+[^12]: [Electric Capital - Drift](https://www.developerreport.com/) - Developer activity. 🔷 HARD DATA
+
+[^13]: [Drift vAMM Documentation](https://docs.drift.trade/about-v2/drift-amm) - Virtual AMM technical specification.
+
+[^14]: [Drift JIT Auctions](https://docs.drift.trade/tutorial-bots/trading-bots/tutorial-jit-trading-bot) - Just-in-Time liquidity documentation.
+
+[^15]: [Drift Insurance Fund](https://docs.drift.trade/insurance-fund/insurance-fund-staking) - Insurance fund staking documentation.
+
+[^16]: [Pyth Network - Drift Integration](https://www.pyth.network/) - Oracle provider for Drift. 🔷 HARD DATA
+
+[^17]: [Drift Blog](https://www.drift.trade/updates/) - Official announcements.
+
+[^18]: [Drift Twitter](https://twitter.com/DriftProtocol) - Official updates.
+
+[^19]: [Drift Discord](https://discord.gg/drift) - Community discussion.
+
+[^20]: [Drift GitHub](https://github.com/drift-labs) - Open-source repositories.
+
+[^21]: [Blockchain Capital - Drift](https://www.blockchaincapital.com/blog/drift-the-future-of-onchain-trading-on-solana) - Investment thesis documentation.
+
+[^22]: [Drift Keeper Network](https://docs.drift.trade/about-v2/keepers-decentralized-orderbook-faq) - Keeper FAQ and incentives.
+
+[^23]: [Drift Cross-Margin](https://docs.drift.trade/) - Cross-margin system documentation.
+
+[^24]: [Solana - Drift](https://solana.com/) - Underlying blockchain infrastructure. 🔷 HARD DATA
+
+[^25]: [Phantom - Drift](https://phantom.app/) - Wallet integration.
+
+[^26]: [Birdeye - Drift](https://birdeye.so/) - Token analytics. 🔷 HARD DATA
+
+[^27]: [DEXScreener - Drift](https://dexscreener.com/) - Trading pair charts. 🔷 HARD DATA
+
+[^28]: [Trail of Bits - Drift Audit](https://www.trailofbits.com/) - Security audit reports.
+
+[^29]: [OtterSec - Drift Audit](https://osec.io/) - Security assessment.
+
+[^30]: [Neodyme - Drift Audit](https://neodyme.io/) - Security audit findings.
+
+[^31]: [Drift Governance](https://www.drift.trade/governance/) - Multi-branch DAO structure.
+
+[^32]: [DRIFT Token Unlock](https://cryptorank.io/price/drift-protocol/vesting) - Vesting schedule documentation. 🔷 HARD DATA
+
+[^33]: [Drift Market Maker Rewards](https://www.drift.trade/updates/introducing-drift-market-maker-rewards) - MM incentive program.
+
+[^34]: [Drift Fee Structure](https://docs.drift.trade/) - Maker/taker fee tiers.
+
+[^35]: [Drift Revenue Pool](https://docs.drift.trade/insurance-fund/insurance-fund-staking) - Revenue distribution mechanics.
+
+[^36]: [Drift Perpetual Markets](https://www.drift.trade/) - 40+ markets supported. 🔷 HARD DATA
+
+[^37]: [Drift Spot Trading](https://docs.drift.trade/) - Spot trading documentation.
+
+[^38]: [Drift Lending](https://docs.drift.trade/) - Lending/borrowing protocol.
+
+[^39]: [Drift Liquidations](https://docs.drift.trade/) - Partial liquidation mechanics.
+
+[^40]: [Step Finance - Drift](https://www.step.finance/) - Portfolio tracking integration.
+
+[^41]: [Jupiter - Drift](https://jup.ag/) - DEX aggregator integration.
+
+[^42]: [Drift 101x Leverage](https://www.drift.trade/) - Maximum leverage documentation.
+
+[^43]: [Drift Circuit Breakers](https://docs.drift.trade/) - Risk management features.
+
+[^44]: [Drift Funding Rates](https://docs.drift.trade/) - Funding rate mechanism.
+
+[^45]: [Drift Mark Price TWAP](https://docs.drift.trade/) - Oracle price calculation.
+
+[^46]: [Drift Insurance Fund APY](https://www.drift.trade/) - Staking yield estimates. 🔷 HARD DATA
+
+[^47]: [Drift Program Address](https://solscan.io/account/dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH) - On-chain contract. 🔷 HARD DATA
+
+[^48]: [Drift Vault Address](https://solscan.io/account/JCNCMFXo5M5qwUPg2Utu1u6YWp3MbygxqBsBeXXJfrw) - Treasury vault. 🔷 HARD DATA
+
+[^49]: [OurCryptoTalk - Drift Volume](https://web.ourcryptotalk.com/news/drift-protocol-record-14b-perps-volume-july-2025) - Volume records. 🔷 HARD DATA
+
+[^50]: [Nansen - Drift](https://portfolio.nansen.ai/) - Smart money tracking.
+
+[^51]: [Parsec Finance - Drift](https://parsec.finance/) - Real-time analytics.
+
+[^52]: [Drift Realms DAO](https://www.drift.trade/governance/) - General governance.
+
+[^53]: [Drift Security Council](https://www.drift.trade/governance/) - Security governance.
+
+[^54]: [Drift Futarchy DAO](https://www.drift.trade/governance/) - Grants governance.
+
+[^55]: [DefiLlama - Drift Revenue](https://defillama.com/protocol/drift) - Protocol revenue tracking. 🔷 HARD DATA

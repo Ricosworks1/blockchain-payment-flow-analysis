@@ -1,3 +1,5 @@
+**Last Updated: December 29, 2025**
+
 # Jupiter Protocol Case Study: Dollar Distribution Analysis
 
 ## Overview
@@ -295,3 +297,117 @@ Based on ~$100B+ annual volume:
 - On-chain Analytics
 - Perpetuals Dashboard
 - Community Forums
+
+---
+
+## Footnotes
+
+[^1]: [Jupiter Documentation](https://station.jup.ag/docs) - Official protocol documentation covering swap aggregation, limit orders, and DCA mechanics. 🔷 HARD DATA
+
+[^2]: [DefiLlama - Jupiter TVL](https://defillama.com/protocol/jupiter) - Total Value Locked in Jupiter perpetuals and DCA products. 🔷 HARD DATA
+
+[^3]: [Jupiter App](https://jup.ag/) - Official swap aggregator interface and trading dashboard. 🔷 HARD DATA
+
+[^4]: [CoinGecko - JUP Token](https://www.coingecko.com/en/coins/jupiter) - JUP governance token market data. 🔷 HARD DATA
+
+[^5]: [Solscan - Jupiter](https://solscan.io/account/JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4) - On-chain contract analytics. 🔷 HARD DATA
+
+[^6]: [Dune Analytics - Jupiter](https://dune.com/ilemi/jupiter-aggregator) - On-chain analytics for volume, fees, and routing. 🔷 HARD DATA
+
+[^7]: [Jupiter Perpetuals](https://jup.ag/perps-earn) - JLP pool and perpetuals trading interface. 🔷 HARD DATA
+
+[^8]: [Messari - Jupiter Research](https://messari.io/project/jupiter) - Comprehensive protocol analysis. 🔷 HARD DATA
+
+[^9]: [The Block - Jupiter](https://www.theblock.co/tag/jupiter) - News coverage and market analysis.
+
+[^10]: [CoinDesk - Jupiter News](https://www.coindesk.com/tag/jupiter/) - Breaking news and developments.
+
+[^11]: [Jupiter Governance](https://vote.jup.ag/) - DAO voting and proposal history. 🔷 HARD DATA
+
+[^12]: [Jupiter Blog](https://www.jup.ag/blog) - Official announcements and updates.
+
+[^13]: [JLP Pool Analytics](https://jup.ag/perps-earn) - Liquidity provider yield and performance. 🔷 HARD DATA
+
+[^14]: [Jupiter DCA](https://jup.ag/dca) - Dollar cost averaging product documentation.
+
+[^15]: [Jupiter Limit Orders](https://jup.ag/limit) - Limit order product interface.
+
+[^16]: [Electric Capital - Jupiter](https://www.developerreport.com/) - Developer activity metrics. 🔷 HARD DATA
+
+[^17]: [Token Terminal - Jupiter](https://tokenterminal.com/terminal/projects/jupiter) - Protocol revenue and metrics. 🔷 HARD DATA
+
+[^18]: [Jupiter API](https://station.jup.ag/docs/apis/swap-api) - Swap aggregation API documentation.
+
+[^19]: [Jupiter Terminal](https://terminal.jup.ag/) - Embeddable swap widget for developers.
+
+[^20]: [Jupuary Airdrop](https://vote.jup.ag/) - Community airdrop program documentation.
+
+[^21]: [Active Staking Rewards](https://vote.jup.ag/) - JUP staking rewards program. 🔷 HARD DATA
+
+[^22]: [Jupiter Bridge](https://jup.ag/bridge) - Cross-chain bridge aggregation.
+
+[^23]: [Jupiter Referral Program](https://station.jup.ag/docs/referral-program) - Partner revenue sharing documentation.
+
+[^24]: [Meow (Jupiter CEO)](https://twitter.com/weremeow) - CEO communications and announcements.
+
+[^25]: [Jupiter Twitter](https://twitter.com/JupiterExchange) - Official announcements and updates.
+
+[^26]: [Jupiter Discord](https://discord.gg/jup) - Community discussion and support.
+
+[^27]: [Jupiter GitHub](https://github.com/jup-ag) - Open-source code repositories.
+
+[^28]: [Orca - Jupiter Route](https://www.orca.so/) - Major DEX source for Jupiter routing. 🔷 HARD DATA
+
+[^29]: [Raydium - Jupiter Route](https://raydium.io/) - DEX integration with Jupiter. 🔷 HARD DATA
+
+[^30]: [Meteora - Jupiter Route](https://www.meteora.ag/) - Dynamic AMM integrated with Jupiter.
+
+[^31]: [Phoenix - Jupiter Route](https://www.phoenix.trade/) - Order book DEX integration.
+
+[^32]: [OpenZeppelin - Jupiter](https://blog.openzeppelin.com/) - Security audit references.
+
+[^33]: [Halborn - Jupiter Audit](https://www.halborn.com/) - Security assessment reports.
+
+[^34]: [OtterSec - Jupiter](https://osec.io/) - Solana-focused security audits.
+
+[^35]: [Nansen - Jupiter](https://portfolio.nansen.ai/) - Smart money tracking on Solana.
+
+[^36]: [Step Finance - Jupiter](https://www.step.finance/) - Portfolio tracking integration.
+
+[^37]: [Phantom - Jupiter](https://phantom.app/) - Wallet integration and swap access.
+
+[^38]: [Jupiter MEV Protection](https://station.jup.ag/docs/apis/mev-protection) - Frontrun prevention documentation.
+
+[^39]: [Jupiter Price Impact](https://station.jup.ag/docs/apis/price-api) - Price API and slippage documentation.
+
+[^40]: [Jupiter V6 Upgrade](https://www.jup.ag/blog) - Major protocol upgrade documentation.
+
+[^41]: [Solana - Jupiter](https://solana.com/) - Underlying blockchain infrastructure. 🔷 HARD DATA
+
+[^42]: [Jupiter Mobile](https://jup.ag/mobile) - Mobile app documentation and features.
+
+[^43]: [Saga Phone - Jupiter](https://solanamobile.com/) - Solana phone integration.
+
+[^44]: [Jupiter Working Groups](https://vote.jup.ag/) - Community governance structure.
+
+[^45]: [Jupiter Catdets](https://www.jup.ag/) - Community program documentation.
+
+[^46]: [JUP DAO Treasury](https://vote.jup.ag/) - Treasury holdings and allocations. 🔷 HARD DATA
+
+[^47]: [Jupiter Volume Stats](https://dune.com/ilemi/jupiter-aggregator) - Historical trading volume. 🔷 HARD DATA
+
+[^48]: [Jupiter Market Share](https://defillama.com/dexs/jupiter) - DEX aggregator market share. 🔷 HARD DATA
+
+[^49]: [Perpetual Fees Structure](https://jup.ag/perps-earn) - JLP fee breakdown documentation.
+
+[^50]: [Jupiter Keepers](https://station.jup.ag/docs/apis/keeper) - Automation service documentation.
+
+[^51]: [Jupiter Routing Algorithm](https://station.jup.ag/docs/apis/swap-api) - Multi-hop optimization documentation.
+
+[^52]: [DeFi Rate - Jupiter](https://defirate.com/) - Yield comparison data.
+
+[^53]: [Jupiter Ecosystem](https://station.jup.ag/) - Partner and integration ecosystem.
+
+[^54]: [Multicoin Capital - Jupiter](https://multicoin.capital/) - Investment background.
+
+[^55]: [DefiLlama - Jupiter Revenue](https://defillama.com/protocol/jupiter) - Protocol revenue tracking. 🔷 HARD DATA

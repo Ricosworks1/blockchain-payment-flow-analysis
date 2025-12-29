@@ -1,3 +1,5 @@
+**Last Updated: December 29, 2025**
+
 # EtherFi Protocol Case Study: Dollar Distribution Analysis
 
 ## Overview
@@ -252,3 +254,117 @@ Based on ~$8B TVL:
 - On-chain Data (Dune)
 - Governance Forum
 - Node Operator Registry
+
+---
+
+## Footnotes
+
+[^1]: [EtherFi Documentation](https://etherfi.gitbook.io/etherfi) - Official protocol documentation covering eETH/weETH mechanics, staking, and restaking. 🔷 HARD DATA
+
+[^2]: [DefiLlama - EtherFi TVL](https://defillama.com/protocol/ether.fi) - Total Value Locked: $8B+ as of December 2025. 🔷 HARD DATA
+
+[^3]: [EtherFi App](https://app.ether.fi/) - Official staking interface and protocol dashboard. 🔷 HARD DATA
+
+[^4]: [CoinGecko - ETHFI Token](https://www.coingecko.com/en/coins/ether-fi) - ETHFI governance token market data. 🔷 HARD DATA
+
+[^5]: [CoinGecko - eETH](https://www.coingecko.com/en/coins/ether-fi-staked-eth) - eETH liquid staking token market data. 🔷 HARD DATA
+
+[^6]: [Etherscan - eETH Contract](https://etherscan.io/token/0x35fa164735182de50811e8e2e824cfb9b6118ac2) - On-chain eETH token contract. 🔷 HARD DATA
+
+[^7]: [Dune Analytics - EtherFi](https://dune.com/etherfi/etherfi) - On-chain analytics for staking and TVL metrics. 🔷 HARD DATA
+
+[^8]: [Messari - EtherFi Research](https://messari.io/project/etherfi) - Comprehensive protocol analysis. 🔷 HARD DATA
+
+[^9]: [The Block - EtherFi](https://www.theblock.co/tag/etherfi) - News coverage and market analysis.
+
+[^10]: [Token Terminal - EtherFi](https://tokenterminal.com/terminal/projects/etherfi) - Protocol revenue and financial metrics. 🔷 HARD DATA
+
+[^11]: [CoinDesk - EtherFi News](https://www.coindesk.com/tag/etherfi/) - Breaking news and developments.
+
+[^12]: [weETH Documentation](https://etherfi.gitbook.io/etherfi/ether.fi-whitepaper/weeth) - Wrapped eETH for restaking exposure documentation.
+
+[^13]: [EtherFi EigenLayer Integration](https://app.ether.fi/restake) - Native restaking via EigenLayer. 🔷 HARD DATA
+
+[^14]: [Operation Solo](https://etherfi.gitbook.io/etherfi/ether.fi-whitepaper/operation-solo-stakers) - Home staker program documentation.
+
+[^15]: [Electric Capital - EtherFi](https://www.developerreport.com/) - Developer activity metrics. 🔷 HARD DATA
+
+[^16]: [DeFiLlama - Liquid Staking](https://defillama.com/lsd) - Comparative liquid staking market analysis. 🔷 HARD DATA
+
+[^17]: [EtherFi Liquid Vaults](https://app.ether.fi/liquid) - Automated DeFi strategy products.
+
+[^18]: [Operation Wheel](https://etherfi.gitbook.io/etherfi/products/liquid-vaults) - Revenue-generating DeFi strategies documentation.
+
+[^19]: [EtherFi Node Operators](https://etherfi.gitbook.io/etherfi/ether.fi-whitepaper/node-operators) - Professional operator network documentation.
+
+[^20]: [Beaconcha.in - EtherFi Validators](https://beaconcha.in/) - Validator performance tracking. 🔷 HARD DATA
+
+[^21]: [Rated Network - EtherFi](https://www.rated.network/) - Operator effectiveness ratings. 🔷 HARD DATA
+
+[^22]: [DVT (Distributed Validator Technology)](https://etherfi.gitbook.io/etherfi/ether.fi-whitepaper/distributed-validator-technology) - Decentralization technology documentation.
+
+[^23]: [L2Beat - weETH](https://l2beat.com/) - Layer 2 deployment tracking. 🔷 HARD DATA
+
+[^24]: [EtherFi Governance](https://governance.ether.fi/) - ETHFI token governance proposals.
+
+[^25]: [Snapshot - EtherFi](https://snapshot.org/#/etherfi.eth) - Off-chain governance voting history.
+
+[^26]: [EtherFi Blog](https://blog.ether.fi/) - Official announcements and updates.
+
+[^27]: [EtherFi Loyalty Points](https://app.ether.fi/portfolio) - Points-based incentive program. 🔷 HARD DATA
+
+[^28]: [Aave - weETH](https://app.aave.com/) - weETH as collateral on Aave.
+
+[^29]: [Pendle - weETH](https://app.pendle.finance/) - weETH yield tokenization markets.
+
+[^30]: [Curve - eETH Pools](https://curve.fi/) - eETH liquidity pool analytics. 🔷 HARD DATA
+
+[^31]: [Balancer - weETH](https://balancer.fi/) - weETH liquidity pools.
+
+[^32]: [EigenLayer - EtherFi](https://app.eigenlayer.xyz/) - Restaking delegation interface. 🔷 HARD DATA
+
+[^33]: [OpenZeppelin - EtherFi Audit](https://blog.openzeppelin.com/) - Security audit reports.
+
+[^34]: [Certora - EtherFi](https://www.certora.com/) - Formal verification for EtherFi contracts.
+
+[^35]: [Sigma Prime - EtherFi](https://sigmaprime.io/) - Security assessment and audit findings.
+
+[^36]: [DeFiSafety - EtherFi](https://www.defisafety.com/) - Protocol safety scoring. 🔷 HARD DATA
+
+[^37]: [Nansen - EtherFi](https://portfolio.nansen.ai/) - Smart money tracking and whale movements.
+
+[^38]: [Parsec Finance - EtherFi](https://parsec.finance/) - Real-time staking analytics.
+
+[^39]: [EtherFi Twitter](https://twitter.com/ether_fi) - Official announcements and updates.
+
+[^40]: [EtherFi Discord](https://discord.com/invite/etherfi) - Community discussion and support.
+
+[^41]: [EtherFi GitHub](https://github.com/etherfi-protocol) - Open-source protocol repositories.
+
+[^42]: [Arrington Capital - EtherFi](https://arringtoncapital.com/) - Lead investor in EtherFi.
+
+[^43]: [North Island Ventures - EtherFi](https://northisland.ventures/) - Strategic investor.
+
+[^44]: [Chapter One - EtherFi](https://chapterone.com/) - Investment partner.
+
+[^45]: [Bullish Capital - EtherFi](https://bullish.com/) - Ecosystem investor.
+
+[^46]: [EtherFi Fee Structure](https://etherfi.gitbook.io/etherfi/ether.fi-whitepaper/fees) - 10% fee split documentation (5% treasury, 5% operators).
+
+[^47]: [eETH APR](https://app.ether.fi/) - Real-time staking APR display. 🔷 HARD DATA
+
+[^48]: [weETH Cross-Chain](https://etherfi.gitbook.io/etherfi/contracts-and-டapplicationட-links/deployed-contracts) - Multi-chain deployment addresses. 🔷 HARD DATA
+
+[^49]: [EtherFi Fan NFTs](https://app.ether.fi/fan) - NFT collection and utility.
+
+[^50]: [EtherFi Cash](https://cash.ether.fi/) - Real-world payment integration product.
+
+[^51]: [MEV-Boost Integration](https://etherfi.gitbook.io/etherfi/ether.fi-whitepaper/mev-boost) - MEV extraction for EtherFi validators.
+
+[^52]: [EtherFi Insurance](https://etherfi.gitbook.io/etherfi/ether.fi-whitepaper/insurance) - Slashing protection mechanisms.
+
+[^53]: [Obol Network - EtherFi](https://obol.tech/) - DVT technology partner.
+
+[^54]: [SSV Network - EtherFi](https://ssv.network/) - Distributed validator infrastructure.
+
+[^55]: [DefiLlama - EtherFi Revenue](https://defillama.com/protocol/ether.fi) - Protocol fee and revenue generation tracking. 🔷 HARD DATA

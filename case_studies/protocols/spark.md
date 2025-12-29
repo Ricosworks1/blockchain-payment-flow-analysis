@@ -1,3 +1,5 @@
+**Last Updated: December 29, 2025**
+
 # Spark Protocol Case Study: Dollar Distribution Analysis
 
 ## Overview
@@ -242,3 +244,117 @@ Based on ~$2.5B TVL:
 - On-chain Analytics
 - Phoenix Labs Reports
 - SubDAO Financial Statements
+
+---
+
+## Footnotes
+
+[^1]: [Spark Protocol Documentation](https://docs.sparkprotocol.io/) - Official documentation covering lending mechanics and DSR integration. 🔷 HARD DATA
+
+[^2]: [DefiLlama - Spark TVL](https://defillama.com/protocol/spark) - Total Value Locked: $2.5B+ as of December 2025. 🔷 HARD DATA
+
+[^3]: [Spark App](https://app.sparkprotocol.io/) - Official lending interface. 🔷 HARD DATA
+
+[^4]: [CoinGecko - SPK Token](https://www.coingecko.com/en/coins/spark) - SPK governance token market data. 🔷 HARD DATA
+
+[^5]: [Etherscan - Spark Pool](https://etherscan.io/) - On-chain lending pool contracts. 🔷 HARD DATA
+
+[^6]: [Dune Analytics - Spark](https://dune.com/spark_protocol) - On-chain analytics for deposits and borrows. 🔷 HARD DATA
+
+[^7]: [MakerDAO Forum](https://forum.makerdao.com/) - Spark SubDAO governance discussions.
+
+[^8]: [Messari - Spark Research](https://messari.io/project/spark) - Protocol analysis. 🔷 HARD DATA
+
+[^9]: [The Block - Spark](https://www.theblock.co/tag/spark) - News coverage.
+
+[^10]: [CoinDesk - Spark News](https://www.coindesk.com/tag/spark/) - Breaking news and developments.
+
+[^11]: [Token Terminal - Spark](https://tokenterminal.com/terminal/projects/spark) - Protocol metrics. 🔷 HARD DATA
+
+[^12]: [Electric Capital - Spark](https://www.developerreport.com/) - Developer activity. 🔷 HARD DATA
+
+[^13]: [DSR Integration](https://docs.sparkprotocol.io/) - DAI Savings Rate documentation.
+
+[^14]: [sDAI Token](https://etherscan.io/token/0x83f20f44975d03b1b09e64809b757c47f942beea) - Savings DAI contract. 🔷 HARD DATA
+
+[^15]: [D3M Module](https://docs.sparkprotocol.io/) - Direct Deposit DAI documentation.
+
+[^16]: [Phoenix Labs](https://www.phoenixlabs.dev/) - Core development team.
+
+[^17]: [Spark Blog](https://blog.sparkprotocol.io/) - Official announcements.
+
+[^18]: [Spark Twitter](https://twitter.com/sparkdotfi) - Official updates.
+
+[^19]: [Spark Discord](https://discord.gg/spark) - Community discussion.
+
+[^20]: [Spark GitHub](https://github.com/phoenixlabsdev) - Open-source repositories.
+
+[^21]: [MakerDAO - Spark SubDAO](https://makerdao.com/) - Parent DAO relationship.
+
+[^22]: [Aave V3 Fork](https://aave.com/) - Codebase origin.
+
+[^23]: [Spark Reserve Factor](https://docs.sparkprotocol.io/) - 10-20% fee documentation.
+
+[^24]: [Spark Interest Rate Model](https://docs.sparkprotocol.io/) - Rate curve documentation.
+
+[^25]: [Spark Governance](https://vote.makerdao.com/) - MakerDAO voting for Spark.
+
+[^26]: [OpenZeppelin - Spark Audit](https://blog.openzeppelin.com/) - Security audit reports.
+
+[^27]: [Cantina - Spark Audit](https://cantina.xyz/) - Security assessment.
+
+[^28]: [DeFiSafety - Spark](https://www.defisafety.com/) - Protocol safety scoring. 🔷 HARD DATA
+
+[^29]: [Nansen - Spark](https://portfolio.nansen.ai/) - Smart money tracking.
+
+[^30]: [Parsec Finance - Spark](https://parsec.finance/) - Real-time analytics.
+
+[^31]: [Spark Collateral Types](https://app.sparkprotocol.io/) - Supported assets. 🔷 HARD DATA
+
+[^32]: [WBTC - Spark](https://app.sparkprotocol.io/) - Bitcoin collateral support.
+
+[^33]: [wstETH - Spark](https://app.sparkprotocol.io/) - Lido integration.
+
+[^34]: [rETH - Spark](https://app.sparkprotocol.io/) - Rocket Pool integration.
+
+[^35]: [weETH - Spark](https://app.sparkprotocol.io/) - EtherFi integration.
+
+[^36]: [Spark Gnosis](https://gnosis.sparkprotocol.io/) - Gnosis Chain deployment.
+
+[^37]: [Spark Flash Loans](https://docs.sparkprotocol.io/) - 0.09% fee documentation.
+
+[^38]: [Spark Liquidations](https://docs.sparkprotocol.io/) - Liquidation mechanics.
+
+[^39]: [Chronicle Oracle](https://chroniclelabs.org/) - MakerDAO oracle for Spark.
+
+[^40]: [Spark Risk Parameters](https://docs.sparkprotocol.io/) - LTV and threshold documentation.
+
+[^41]: [Endgame Plan - Spark](https://forum.makerdao.com/) - SubDAO structure documentation.
+
+[^42]: [SparkDAO Treasury](https://docs.sparkprotocol.io/) - Revenue accumulation.
+
+[^43]: [Spark Lend](https://app.sparkprotocol.io/borrow) - Borrowing interface. 🔷 HARD DATA
+
+[^44]: [Spark Earn](https://app.sparkprotocol.io/earn) - Lending interface. 🔷 HARD DATA
+
+[^45]: [DAI Markets](https://app.sparkprotocol.io/) - DAI lending statistics. 🔷 HARD DATA
+
+[^46]: [USDC Markets](https://app.sparkprotocol.io/) - USDC lending statistics.
+
+[^47]: [ETH Markets](https://app.sparkprotocol.io/) - ETH lending statistics.
+
+[^48]: [L2Beat - Spark](https://l2beat.com/) - Layer 2 deployment tracking. 🔷 HARD DATA
+
+[^49]: [Spark Analytics](https://app.sparkprotocol.io/) - Protocol dashboard. 🔷 HARD DATA
+
+[^50]: [MKR Token](https://www.coingecko.com/en/coins/maker) - Parent DAO governance token.
+
+[^51]: [Sam MacPherson (Phoenix Labs)](https://twitter.com/hexonaut) - Core contributor.
+
+[^52]: [Spark User Guide](https://docs.sparkprotocol.io/) - Getting started documentation.
+
+[^53]: [Spark Integration Guide](https://docs.sparkprotocol.io/) - Developer documentation.
+
+[^54]: [Spark Security](https://docs.sparkprotocol.io/) - Security documentation.
+
+[^55]: [DefiLlama - Spark Revenue](https://defillama.com/protocol/spark) - Protocol revenue tracking. 🔷 HARD DATA

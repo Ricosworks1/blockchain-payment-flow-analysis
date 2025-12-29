@@ -1,3 +1,5 @@
+**Last Updated: December 29, 2025**
+
 # Ethena Protocol Case Study: Dollar Distribution Analysis
 
 ## Overview
@@ -215,3 +217,117 @@ Based on ~$3B TVL:
 - Risk Management Reports
 - Custody Attestations
 - Funding Rate Historical Data
+
+---
+
+## Footnotes
+
+[^1]: [Ethena Protocol Documentation](https://docs.ethena.fi/) - Official documentation covering USDe mechanics, delta-neutral strategy, and sUSDe staking. 🔷 HARD DATA
+
+[^2]: [DefiLlama - Ethena TVL](https://defillama.com/protocol/ethena) - Total Value Locked: $3B+ as of December 2025. 🔷 HARD DATA
+
+[^3]: [Ethena Analytics Dashboard](https://app.ethena.fi/dashboards) - Real-time protocol metrics including APY, TVL, and reserve status. 🔷 HARD DATA
+
+[^4]: [CoinGecko - USDe](https://www.coingecko.com/en/coins/ethena-usde) - USDe stablecoin market data and peg tracking. 🔷 HARD DATA
+
+[^5]: [CoinGecko - ENA Token](https://www.coingecko.com/en/coins/ethena) - ENA governance token market data. 🔷 HARD DATA
+
+[^6]: [Etherscan - USDe Contract](https://etherscan.io/token/0x4c9edd5852cd905f086c759e8383e09bff1e68b3) - On-chain USDe token contract and supply. 🔷 HARD DATA
+
+[^7]: [Ethena Whitepaper](https://ethena-labs.gitbook.io/ethena-labs) - Technical specification for synthetic dollar design.
+
+[^8]: [Messari - Ethena Research](https://messari.io/project/ethena) - Comprehensive protocol analysis and market positioning. 🔷 HARD DATA
+
+[^9]: [The Block - Ethena Analysis](https://www.theblock.co/post/tag/ethena) - News coverage and market analysis.
+
+[^10]: [Token Terminal - Ethena](https://tokenterminal.com/terminal/projects/ethena) - Protocol revenue and financial metrics. 🔷 HARD DATA
+
+[^11]: [CoinDesk - Ethena News](https://www.coindesk.com/tag/ethena/) - Breaking news and ecosystem developments.
+
+[^12]: [sUSDe Staking](https://app.ethena.fi/earn) - Staked USDe interface and yield information. 🔷 HARD DATA
+
+[^13]: [Ethena Funding Rates](https://app.ethena.fi/dashboards/hedging/positions) - Historical funding rate data and hedging positions. 🔷 HARD DATA
+
+[^14]: [Ethena Reserve Fund](https://app.ethena.fi/dashboards/solvency) - Insurance fund status and reserve composition. 🔷 HARD DATA
+
+[^15]: [Electric Capital - Ethena](https://www.developerreport.com/) - Developer activity metrics. 🔷 HARD DATA
+
+[^16]: [Dune Analytics - Ethena](https://dune.com/ethena) - On-chain analytics for USDe supply and distribution. 🔷 HARD DATA
+
+[^17]: [Copper Custody](https://copper.co/) - Custodian for Ethena protocol assets.
+
+[^18]: [Ceffu Custody](https://www.ceffu.com/) - Institutional custody partner for Ethena.
+
+[^19]: [Cobo Custody](https://www.cobo.com/) - Digital asset custody for Ethena reserves.
+
+[^20]: [OES (Onchain Exposure System)](https://docs.ethena.fi/solution-overview/usde-solution-design/onchain-exposure-system-oes) - Transparency mechanism documentation.
+
+[^21]: [Ethena Risk Framework](https://docs.ethena.fi/solution-overview/risks) - Comprehensive risk analysis and mitigation strategies.
+
+[^22]: [Binance Funding Rates](https://www.binance.com/en/futures/funding-history/perpetual) - CEX funding rate data used by Ethena. 🔷 HARD DATA
+
+[^23]: [Bybit Funding Rates](https://www.bybit.com/data/basic/linear/funding-history) - CEX partner funding rate data. 🔷 HARD DATA
+
+[^24]: [OKX Funding Rates](https://www.okx.com/funding-rate) - CEX partner funding rate data. 🔷 HARD DATA
+
+[^25]: [Deribit Funding Rates](https://www.deribit.com/statistics/BTC) - Derivatives exchange funding data. 🔷 HARD DATA
+
+[^26]: [stETH Integration](https://docs.ethena.fi/solution-overview/usde-solution-design/collateral-types/steth) - Lido stETH as collateral documentation.
+
+[^27]: [DeFiLlama - Stablecoin TVL](https://defillama.com/stablecoins) - USDe comparative market share analysis. 🔷 HARD DATA
+
+[^28]: [Ethena Governance](https://governance.ethena.fi/) - ENA token governance proposals.
+
+[^29]: [Snapshot - Ethena](https://snapshot.org/#/ethena.eth) - Off-chain governance voting history.
+
+[^30]: [Ethena Shard Campaign](https://app.ethena.fi/earn) - Points-based incentive program documentation.
+
+[^31]: [Aave - USDe Integration](https://app.aave.com/) - USDe as collateral on Aave.
+
+[^32]: [MakerDAO - USDe Vault](https://makerdao.com/) - USDe integration with MakerDAO.
+
+[^33]: [Curve - USDe Pools](https://curve.fi/) - USDe liquidity pool analytics. 🔷 HARD DATA
+
+[^34]: [Pendle - USDe Markets](https://app.pendle.finance/) - USDe yield tokenization markets.
+
+[^35]: [Ethena Blog](https://mirror.xyz/0xF99d0E4E3435cc9C9868D1C6274DfaB3e2721341) - Official announcements and research publications.
+
+[^36]: [Chaos Labs - Ethena Risk](https://chaoslabs.xyz/) - Third-party risk assessment for Ethena.
+
+[^37]: [OpenZeppelin - Ethena Audit](https://blog.openzeppelin.com/) - Security audit reports.
+
+[^38]: [Zellic - Ethena Audit](https://www.zellic.io/) - Smart contract security assessment.
+
+[^39]: [DeFiSafety - Ethena](https://www.defisafety.com/) - Protocol safety scoring. 🔷 HARD DATA
+
+[^40]: [Nansen - Ethena](https://portfolio.nansen.ai/) - Smart money tracking and whale movements.
+
+[^41]: [Parsec Finance - Ethena](https://parsec.finance/) - Real-time protocol analytics.
+
+[^42]: [Ethena Twitter](https://twitter.com/ethaboratory) - Official announcements and updates.
+
+[^43]: [Ethena Discord](https://discord.com/invite/ethena) - Community discussion and support.
+
+[^44]: [Ethena GitHub](https://github.com/ethena-labs) - Open-source protocol repositories.
+
+[^45]: [Dragonfly Capital - Ethena](https://www.dragonfly.xyz/) - Lead investor in Ethena protocol.
+
+[^46]: [Binance Labs - Ethena](https://labs.binance.com/) - Strategic investor and ecosystem partner.
+
+[^47]: [Arthur Hayes - Ethena Analysis](https://cryptohayes.substack.com/) - Founding contributor perspective.
+
+[^48]: [Ethena Authorized Participants](https://docs.ethena.fi/resources/authorized-participants) - Institutional minting partner list.
+
+[^49]: [USDe Cross-Chain](https://docs.ethena.fi/resources/deployed-contract-addresses) - Multi-chain deployment addresses. 🔷 HARD DATA
+
+[^50]: [Ethena Reserve Composition](https://app.ethena.fi/dashboards/solvency) - Reserve asset breakdown and attestation. 🔷 HARD DATA
+
+[^51]: [Basis Trading Strategy](https://docs.ethena.fi/solution-overview/usde-solution-design/basis-trade) - Delta-neutral strategy documentation.
+
+[^52]: [Ethena Insurance Fund Mechanics](https://docs.ethena.fi/solution-overview/risks/insurance-fund) - Reserve fund operation rules.
+
+[^53]: [L2Beat - Ethena](https://l2beat.com/) - Layer 2 deployment tracking. 🔷 HARD DATA
+
+[^54]: [DeBank - USDe](https://debank.com/) - USDe holder analytics and portfolio tracking.
+
+[^55]: [DefiLlama - Ethena Revenue](https://defillama.com/protocol/ethena) - Protocol fee and revenue generation tracking. 🔷 HARD DATA

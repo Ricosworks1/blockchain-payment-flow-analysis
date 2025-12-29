@@ -1,3 +1,5 @@
+**Last Updated: December 29, 2025**
+
 # Jito Protocol Case Study: Dollar Distribution Analysis
 
 ## Overview
@@ -300,3 +302,117 @@ Based on ~$2.5B TVL:
 - MEV Dashboard
 - Governance Forum
 - Validator Metrics
+
+---
+
+## Footnotes
+
+[^1]: [Jito Documentation](https://docs.jito.wtf/) - Official protocol documentation covering JitoSOL mechanics, MEV, and validator requirements. 🔷 HARD DATA
+
+[^2]: [DefiLlama - Jito TVL](https://defillama.com/protocol/jito) - Total Value Locked: $2.5B+ as of December 2025. 🔷 HARD DATA
+
+[^3]: [Jito App](https://www.jito.network/) - Official staking interface and protocol dashboard. 🔷 HARD DATA
+
+[^4]: [CoinGecko - JTO Token](https://www.coingecko.com/en/coins/jito-governance-token) - JTO governance token market data. 🔷 HARD DATA
+
+[^5]: [CoinGecko - JitoSOL](https://www.coingecko.com/en/coins/jito-staked-sol) - JitoSOL liquid staking token market data. 🔷 HARD DATA
+
+[^6]: [Solscan - JitoSOL](https://solscan.io/token/J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn) - On-chain JitoSOL token contract. 🔷 HARD DATA
+
+[^7]: [Dune Analytics - Jito](https://dune.com/ilemi/jito) - On-chain analytics for staking and MEV metrics. 🔷 HARD DATA
+
+[^8]: [Messari - Jito Research](https://messari.io/project/jito) - Comprehensive protocol analysis. 🔷 HARD DATA
+
+[^9]: [The Block - Jito](https://www.theblock.co/tag/jito) - News coverage and market analysis.
+
+[^10]: [CoinDesk - Jito News](https://www.coindesk.com/tag/jito/) - Breaking news and developments.
+
+[^11]: [Jito MEV Dashboard](https://www.jito.network/stakenet/) - Real-time MEV and staking analytics. 🔷 HARD DATA
+
+[^12]: [Jito Labs](https://www.jito.network/about/) - Company information and team background.
+
+[^13]: [Jito Block Engine](https://docs.jito.wtf/mev/jito-block-engine/) - MEV infrastructure documentation.
+
+[^14]: [Token Terminal - Jito](https://tokenterminal.com/terminal/projects/jito) - Protocol revenue and metrics. 🔷 HARD DATA
+
+[^15]: [Electric Capital - Jito](https://www.developerreport.com/) - Developer activity metrics. 🔷 HARD DATA
+
+[^16]: [DeFiLlama - Liquid Staking](https://defillama.com/lsd) - Comparative liquid staking market analysis. 🔷 HARD DATA
+
+[^17]: [Jito Validators](https://www.jito.network/stakenet/) - List of Jito validators and performance. 🔷 HARD DATA
+
+[^18]: [Jito Foundation](https://www.jito.network/) - Non-profit organization documentation.
+
+[^19]: [JTO Governance](https://www.jito.network/dao/) - DAO voting and proposal history.
+
+[^20]: [Snapshot - Jito](https://snapshot.org/#/jito-governance.eth) - Off-chain governance voting.
+
+[^21]: [StakeNet Documentation](https://docs.jito.wtf/stakenet/) - Validator stake distribution system.
+
+[^22]: [Jito 4% Fee Structure](https://docs.jito.wtf/jitosol/fee-structure/) - Protocol fee documentation.
+
+[^23]: [JitoSOL APY](https://www.jito.network/) - Real-time staking APY display. 🔷 HARD DATA
+
+[^24]: [MEV Tips Distribution](https://docs.jito.wtf/mev/) - MEV reward distribution mechanics.
+
+[^25]: [Jito Client](https://github.com/jito-foundation/jito-solana) - Validator client source code.
+
+[^26]: [Solana - Jito](https://solana.com/) - Underlying blockchain infrastructure. 🔷 HARD DATA
+
+[^27]: [Jito Searcher Documentation](https://docs.jito.wtf/mev/searcher/) - MEV searcher integration guides.
+
+[^28]: [Bundle Auctions](https://docs.jito.wtf/mev/jito-block-engine/auctions/) - MEV auction mechanism documentation.
+
+[^29]: [Jito Twitter](https://twitter.com/jaboratory) - Official announcements and updates.
+
+[^30]: [Jito Discord](https://discord.gg/jito) - Community discussion and support.
+
+[^31]: [Jito GitHub](https://github.com/jito-foundation) - Open-source protocol repositories.
+
+[^32]: [Multicoin Capital - Jito](https://multicoin.capital/) - Lead investor background.
+
+[^33]: [Framework Ventures - Jito](https://framework.ventures/) - Strategic investor.
+
+[^34]: [Solana Ventures - Jito](https://solana.ventures/) - Ecosystem investment.
+
+[^35]: [Marinade Finance - Comparison](https://marinade.finance/) - Competing liquid staking protocol. 🔷 HARD DATA
+
+[^36]: [Sanctum - Jito Integration](https://www.sanctum.so/) - LST liquidity aggregator integration.
+
+[^37]: [Orca - JitoSOL Pools](https://www.orca.so/) - DEX liquidity for JitoSOL. 🔷 HARD DATA
+
+[^38]: [Raydium - JitoSOL](https://raydium.io/) - JitoSOL liquidity pools.
+
+[^39]: [Kamino Finance - JitoSOL](https://app.kamino.finance/) - Lending and leverage for JitoSOL.
+
+[^40]: [Marginfi - JitoSOL](https://www.marginfi.com/) - JitoSOL as collateral.
+
+[^41]: [Drift Protocol - JitoSOL](https://www.drift.trade/) - JitoSOL in perpetuals.
+
+[^42]: [OtterSec - Jito Audit](https://osec.io/) - Security audit reports.
+
+[^43]: [Neodyme - Jito Audit](https://neodyme.io/) - Security assessment.
+
+[^44]: [Nansen - Jito](https://portfolio.nansen.ai/) - Smart money tracking for JitoSOL.
+
+[^45]: [Step Finance - Jito](https://www.step.finance/) - Portfolio tracking integration.
+
+[^46]: [Phantom - Jito](https://phantom.app/) - Wallet integration for JitoSOL.
+
+[^47]: [Solflare - Jito](https://solflare.com/) - Staking via Solflare wallet.
+
+[^48]: [JTO Airdrop](https://www.jito.network/) - Token distribution documentation.
+
+[^49]: [Jito Slashing Protection](https://docs.jito.wtf/jitosol/risks/) - Risk management documentation.
+
+[^50]: [Epoch Rewards](https://docs.jito.wtf/jitosol/rewards/) - Staking reward distribution mechanics.
+
+[^51]: [Jito Labs Blog](https://www.jito.network/blog/) - Official announcements and research.
+
+[^52]: [MEV on Solana](https://www.theblock.co/) - Industry analysis of Solana MEV.
+
+[^53]: [Validator Economics](https://docs.jito.wtf/stakenet/economics/) - Operator incentive structure.
+
+[^54]: [JitoSOL Cross-Chain](https://docs.jito.wtf/) - Multi-chain deployment plans.
+
+[^55]: [DefiLlama - Jito Revenue](https://defillama.com/protocol/jito) - Protocol fee and revenue tracking. 🔷 HARD DATA

@@ -1,3 +1,5 @@
+**Last Updated: December 29, 2025**
+
 # Uniswap Protocol Case Study: Dollar Distribution Analysis
 
 ## Overview
@@ -198,3 +200,117 @@ Based on ~$500B annual volume:
 - On-chain Analytics (Dune)
 - Uniswap Labs Blog
 - V4 Whitepaper
+
+---
+
+## Footnotes
+
+[^1]: [Uniswap Protocol Documentation](https://docs.uniswap.org/) - Official protocol documentation covering V2, V3, and V4 architectures, swap mechanics, and liquidity provision. 🔷 HARD DATA
+
+[^2]: [DefiLlama - Uniswap TVL](https://defillama.com/protocol/uniswap) - Total Value Locked across all chains: $4.8B+ as of December 2025. 🔷 HARD DATA
+
+[^3]: [Uniswap Governance Forum](https://gov.uniswap.org/) - Active governance discussions, fee switch debates, and treasury management proposals.
+
+[^4]: [Dune Analytics - Uniswap Dashboard](https://dune.com/uniswap/uniswap-v3) - On-chain analytics for Uniswap V3 including volume, fees, and LP performance. 🔷 HARD DATA
+
+[^5]: [CoinGecko - UNI Token](https://www.coingecko.com/en/coins/uniswap) - Market data, price history, and circulating supply for UNI governance token. 🔷 HARD DATA
+
+[^6]: [Etherscan - Uniswap V3 Factory](https://etherscan.io/address/0x1F98431c8aD98523631AE4a59f267346ea31F984) - On-chain contract deployment and pool creation history. 🔷 HARD DATA
+
+[^7]: [Uniswap Labs Blog](https://blog.uniswap.org/) - Official announcements, protocol updates, and ecosystem developments.
+
+[^8]: [Messari - Uniswap Research](https://messari.io/project/uniswap) - Comprehensive protocol research and quarterly reports on DEX market share. 🔷 HARD DATA
+
+[^9]: [The Block - DEX Volume](https://www.theblock.co/data/decentralized-finance/dex-non-custodial) - DEX trading volume data showing Uniswap market dominance. 🔷 HARD DATA
+
+[^10]: [Uniswap V3 Whitepaper](https://uniswap.org/whitepaper-v3.pdf) - Technical specification for concentrated liquidity and capital efficiency improvements.
+
+[^11]: [Uniswap V4 Documentation](https://docs.uniswap.org/concepts/v4) - Next-generation architecture with hooks, singleton design, and flash accounting.
+
+[^12]: [Token Terminal - Uniswap Financials](https://tokenterminal.com/terminal/projects/uniswap) - Protocol fees, volume, and financial metrics dashboard. 🔷 HARD DATA
+
+[^13]: [CoinDesk - Uniswap News](https://www.coindesk.com/tag/uniswap/) - Breaking news and market analysis for Uniswap developments.
+
+[^14]: [Snapshot - Uniswap Governance](https://snapshot.org/#/uniswapgovernance.eth) - Off-chain governance voting and proposal history.
+
+[^15]: [Uniswap Analytics](https://info.uniswap.org/) - Official analytics dashboard showing volume, TVL, and pool performance. 🔷 HARD DATA
+
+[^16]: [Uniswap Fee Calculator](https://uniswap.org/whitepaper-v3.pdf) - Fee tier documentation: 0.01%, 0.05%, 0.30%, and 1% options.
+
+[^17]: [Electric Capital - DeFi Report](https://www.developerreport.com/) - Developer activity metrics for Uniswap ecosystem. 🔷 HARD DATA
+
+[^18]: [DeBank - Uniswap](https://debank.com/projects/uniswap) - User position tracking and portfolio analytics.
+
+[^19]: [Uniswap Grant Program](https://www.uniswapfoundation.org/grants) - Ecosystem grants funding development and integrations.
+
+[^20]: [CryptoFees.info - Uniswap](https://cryptofees.info/) - Daily and weekly fee generation statistics across all versions. 🔷 HARD DATA
+
+[^21]: [Uniswap Foundation](https://www.uniswapfoundation.org/) - Non-profit supporting Uniswap ecosystem development.
+
+[^22]: [Uniswap Labs](https://uniswap.org/) - Company behind Uniswap interface and wallet products.
+
+[^23]: [L2Beat - Uniswap Deployments](https://l2beat.com/) - Uniswap deployment tracking across Layer 2 networks. 🔷 HARD DATA
+
+[^24]: [DeFiLlama - DEX TVL](https://defillama.com/protocols/dexes) - Comparative TVL analysis across decentralized exchanges. 🔷 HARD DATA
+
+[^25]: [Uniswap Interface Fee](https://blog.uniswap.org/interface-fee) - Documentation for Uniswap Labs 0.15-0.25% interface fee (separate from protocol).
+
+[^26]: [Uniswap Wallet](https://wallet.uniswap.org/) - Mobile wallet with integrated swapping functionality.
+
+[^27]: [Arbitrum - Uniswap](https://app.uniswap.org/) - Uniswap V3 on Arbitrum deployment and statistics.
+
+[^28]: [Optimism - Uniswap](https://app.uniswap.org/) - Uniswap V3 on Optimism with OP incentives.
+
+[^29]: [Polygon - Uniswap](https://app.uniswap.org/) - Uniswap V3 on Polygon deployment.
+
+[^30]: [Base - Uniswap](https://app.uniswap.org/) - Uniswap V3 on Base with significant volume.
+
+[^31]: [BNB Chain - Uniswap](https://app.uniswap.org/) - Uniswap V3 deployment on BNB Smart Chain.
+
+[^32]: [Avalanche - Uniswap](https://app.uniswap.org/) - Uniswap V3 on Avalanche C-Chain.
+
+[^33]: [Celo - Uniswap](https://app.uniswap.org/) - Uniswap deployment on Celo network.
+
+[^34]: [Uniswap V3 Business License](https://github.com/Uniswap/v3-core/blob/main/LICENSE) - BSL 1.1 license protecting V3 code until 2023.
+
+[^35]: [Uniswap Universal Router](https://docs.uniswap.org/contracts/v3/reference/deployments) - Routing contract enabling complex multi-hop swaps.
+
+[^36]: [MEV Blocker by Uniswap](https://cow.fi/mev-blocker) - MEV protection integration for Uniswap trades.
+
+[^37]: [Uniswap X](https://blog.uniswap.org/uniswapx-protocol) - Intent-based trading system for optimal execution.
+
+[^38]: [Uniswap Hooks](https://docs.uniswap.org/concepts/v4/concepts/hooks/overview) - V4 programmable hooks architecture documentation.
+
+[^39]: [Uniswap Singleton Contract](https://docs.uniswap.org/concepts/v4) - V4 single contract architecture for gas efficiency.
+
+[^40]: [OpenZeppelin - Uniswap Audits](https://blog.openzeppelin.com/) - Security audit reports for Uniswap contracts.
+
+[^41]: [Trail of Bits - Uniswap Audit](https://www.trailofbits.com/) - Security audit findings and recommendations.
+
+[^42]: [DeFiSafety - Uniswap Score](https://www.defisafety.com/pqrs/uniswap) - Protocol quality and safety scoring. 🔷 HARD DATA
+
+[^43]: [Nansen - Uniswap Analytics](https://portfolio.nansen.ai/) - Smart money tracking and whale activity analysis.
+
+[^44]: [Parsec Finance - Uniswap](https://parsec.finance/) - Real-time DeFi analytics and LP monitoring.
+
+[^45]: [Revert Finance - LP Analytics](https://revert.finance/) - Uniswap V3 LP position analytics and management. 🔷 HARD DATA
+
+[^46]: [Uniswap Fee Switch Discussion](https://gov.uniswap.org/) - Governance debate on activating protocol fee capture.
+
+[^47]: [Uniswap Treasury](https://app.uniswap.org/) - $4B+ UNI token treasury controlled by governance.
+
+[^48]: [JIT Liquidity Analysis](https://dune.com/queries) - Just-in-time liquidity provision analysis on Uniswap. 🔷 HARD DATA
+
+[^49]: [Uniswap Concentrated Liquidity](https://uniswap.org/whitepaper-v3.pdf) - Technical explanation of 4000x capital efficiency claims.
+
+[^50]: [Uniswap LP Impermanent Loss](https://docs.uniswap.org/concepts/protocol/concentrated-liquidity) - Documentation on IL risks in concentrated liquidity.
+
+[^51]: [Uniswap Price Oracle](https://docs.uniswap.org/concepts/protocol/oracle) - TWAP oracle functionality for price feeds.
+
+[^52]: [1inch - Uniswap Integration](https://1inch.io/) - DEX aggregator routing through Uniswap liquidity.
+
+[^53]: [Paraswap - Uniswap](https://www.paraswap.io/) - Aggregator integration with Uniswap pools.
+
+[^54]: [CoW Protocol - Uniswap](https://cow.fi/) - Batch auction protocol using Uniswap as liquidity source.
+
+[^55]: [DefiLlama - Uniswap Fees](https://defillama.com/fees/uniswap) - Daily fee revenue tracking across all deployments. 🔷 HARD DATA

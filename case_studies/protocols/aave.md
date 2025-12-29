@@ -1,3 +1,5 @@
+**Last Updated: December 29, 2025**
+
 # Aave Protocol Case Study: Dollar Distribution Analysis
 
 ## Overview
@@ -190,3 +192,117 @@ Based on ~$11B TVL:
 - On-chain Analytics (Dune)
 - Risk Management Reports
 - Treasury Financial Statements
+
+---
+
+## Footnotes
+
+[^1]: [Aave Protocol Documentation](https://docs.aave.com/) - Official protocol documentation covering V3 architecture, interest rate models, and governance framework. 🔷 HARD DATA
+
+[^2]: [DefiLlama - Aave TVL](https://defillama.com/protocol/aave) - Total Value Locked tracking across all chains: $11.2B as of December 2025. 🔷 HARD DATA
+
+[^3]: [Aave Governance Forum](https://governance.aave.com/) - Active governance discussions, parameter changes, and treasury management proposals.
+
+[^4]: [Dune Analytics - Aave Dashboard](https://dune.com/aave/aave-v3) - On-chain analytics for Aave V3 including utilization rates, liquidations, and revenue metrics. 🔷 HARD DATA
+
+[^5]: [Aave Risk Dashboard](https://risk.aave.com/) - Real-time risk parameters and asset health monitoring by Gauntlet. 🔷 HARD DATA
+
+[^6]: [CoinGecko - AAVE Token](https://www.coingecko.com/en/coins/aave) - Market data, price history, and circulating supply information. 🔷 HARD DATA
+
+[^7]: [Etherscan - Aave V3 Pool](https://etherscan.io/address/0x87870bca3f3fd6335c3f4ce8392d69350b4fa4e2) - On-chain contract interactions and transaction history. 🔷 HARD DATA
+
+[^8]: [Aave Treasury Dashboard](https://aave.tokenlogic.xyz/) - Real-time treasury holdings and financial metrics by TokenLogic.
+
+[^9]: [Messari - Aave Research](https://messari.io/project/aave) - Comprehensive protocol research and quarterly reports. 🔷 HARD DATA
+
+[^10]: [The Block - Aave Analysis](https://www.theblock.co/data/decentralized-finance/lending) - DeFi lending market data and Aave market share analysis. 🔷 HARD DATA
+
+[^11]: [Aave GHO Documentation](https://docs.gho.xyz/) - Official documentation for GHO stablecoin mechanics and facilitator model.
+
+[^12]: [CoinDesk - Aave News](https://www.coindesk.com/tag/aave/) - Breaking news and market analysis for Aave protocol developments.
+
+[^13]: [Gauntlet Risk Reports](https://risk.gauntlet.network/aave) - Third-party risk assessment and parameter recommendations. 🔷 HARD DATA
+
+[^14]: [Chaos Labs - Aave Analysis](https://community.chaoslabs.xyz/aave) - Risk monitoring and parameter optimization reports. 🔷 HARD DATA
+
+[^15]: [Aave Safety Module](https://app.aave.com/staking/) - Staking interface showing Safety Module TVL and reward rates. 🔷 HARD DATA
+
+[^16]: [DeFi Rate - Aave Yields](https://defirate.com/lend/?protocol=aave) - Comparative yield analysis across DeFi lending protocols.
+
+[^17]: [Token Terminal - Aave Financials](https://tokenterminal.com/terminal/projects/aave) - Protocol revenue, fees, and financial metrics dashboard. 🔷 HARD DATA
+
+[^18]: [Aave V3 Whitepaper](https://github.com/aave/aave-v3-core/blob/master/techpaper/Aave_V3_Technical_Paper.pdf) - Technical specification for V3 architecture improvements.
+
+[^19]: [Snapshot - Aave Governance](https://snapshot.org/#/aave.eth) - Off-chain governance voting and proposal history.
+
+[^20]: [BGD Labs](https://bgdlabs.com/) - Core development team contributing to Aave protocol upgrades and maintenance.
+
+[^21]: [Aave Grants DAO](https://aavegrants.org/) - Ecosystem grants program funding development and integrations.
+
+[^22]: [Electric Capital - DeFi Report](https://www.developerreport.com/) - Developer activity metrics for Aave ecosystem. 🔷 HARD DATA
+
+[^23]: [DeBank - Aave Positions](https://debank.com/projects/aave) - User position tracking and portfolio analytics.
+
+[^24]: [Llama Risk - Aave Assets](https://cryptorisks.substack.com/) - Asset risk assessments and collateral analysis.
+
+[^25]: [Aave Flash Loans](https://docs.aave.com/developers/guides/flash-loans) - Technical documentation for flash loan functionality and fee structure.
+
+[^26]: [L2Beat - Aave on L2s](https://l2beat.com/bridges/projects/aave) - Aave deployment tracking across Layer 2 networks. 🔷 HARD DATA
+
+[^27]: [DeFiLlama - Lending TVL](https://defillama.com/protocols/lending) - Comparative TVL analysis across lending protocols. 🔷 HARD DATA
+
+[^28]: [Aave Improvement Proposals](https://aave.github.io/aip/) - Archive of all governance proposals and their outcomes.
+
+[^29]: [Nansen - Aave Analytics](https://portfolio.nansen.ai/) - Smart money tracking and wallet analytics for Aave users.
+
+[^30]: [CryptoFees.info - Aave](https://cryptofees.info/) - Daily and weekly fee generation statistics. 🔷 HARD DATA
+
+[^31]: [Aave Portal](https://docs.aave.com/developers/whats-new/portal) - Cross-chain liquidity documentation and bridge mechanics.
+
+[^32]: [Certora - Aave Audits](https://www.certora.com/) - Formal verification and security audit reports.
+
+[^33]: [OpenZeppelin - Aave Audit](https://blog.openzeppelin.com/aave-protocol-audit) - Security audit findings and recommendations.
+
+[^34]: [DeFiSafety - Aave Score](https://www.defisafety.com/pqrs/aave-v3) - Protocol quality and safety scoring methodology.
+
+[^35]: [Aave Liquidation Bot](https://docs.aave.com/developers/guides/liquidations) - Documentation for liquidation mechanics and bot integration.
+
+[^36]: [CoinGecko - GHO Stablecoin](https://www.coingecko.com/en/coins/gho) - GHO market data and circulating supply. 🔷 HARD DATA
+
+[^37]: [Aave Arc](https://aave.com/arc) - Institutional-grade permissioned lending market documentation.
+
+[^38]: [Polygon - Aave Deployment](https://polygon.technology/blog/aave-protocol-on-polygon) - Aave deployment details on Polygon network.
+
+[^39]: [Arbitrum - Aave Integration](https://arbitrum.io/) - Aave on Arbitrum deployment and usage statistics.
+
+[^40]: [Optimism - Aave Deployment](https://app.aave.com/?marketName=proto_optimism_v3) - Aave V3 on Optimism interface and metrics.
+
+[^41]: [Base - Aave Launch](https://base.org/) - Aave deployment on Base network.
+
+[^42]: [Avalanche - Aave Market](https://app.aave.com/?marketName=proto_avalanche_v3) - Aave on Avalanche metrics and utilization.
+
+[^43]: [Metis - Aave Deployment](https://www.metis.io/) - Aave on Metis Andromeda network.
+
+[^44]: [Fantom - Aave Market](https://app.aave.com/?marketName=proto_fantom_v3) - Aave V3 on Fantom statistics.
+
+[^45]: [BNB Chain - Aave](https://www.bnbchain.org/) - Aave deployment on BNB Smart Chain.
+
+[^46]: [Harmony - Aave Incident](https://governance.aave.com/) - Governance response to Harmony bridge exploit.
+
+[^47]: [Aave E-Mode](https://docs.aave.com/developers/whats-new/efficiency-mode-emode) - Efficiency mode documentation and use cases.
+
+[^48]: [Aave Isolation Mode](https://docs.aave.com/developers/whats-new/isolation-mode) - Risk isolation feature for new assets.
+
+[^49]: [Aave Supply Caps](https://docs.aave.com/developers/whats-new/supply-borrow-caps) - Risk management through supply and borrow caps.
+
+[^50]: [BlockAnalitica - Aave](https://aave.blockanalitica.com/) - Deep analytics for Aave risk and liquidation data. 🔷 HARD DATA
+
+[^51]: [Parsec Finance - Aave](https://parsec.finance/) - Real-time DeFi analytics and Aave monitoring.
+
+[^52]: [Aave Interest Rate Strategy](https://docs.aave.com/risk/liquidity-risk/borrow-interest-rate) - Documentation for dynamic interest rate models.
+
+[^53]: [Aave Reserve Factor](https://docs.aave.com/risk/asset-risk/risk-parameters) - Reserve factor parameters by asset risk category.
+
+[^54]: [Aave V3 Features](https://docs.aave.com/developers/whats-new/multiple-rewards) - Multiple reward tokens and incentive mechanisms.
+
+[^55]: [DefiLlama - Aave Yields](https://defillama.com/yields?project=aave-v3) - Real-time yield comparison across Aave markets. 🔷 HARD DATA

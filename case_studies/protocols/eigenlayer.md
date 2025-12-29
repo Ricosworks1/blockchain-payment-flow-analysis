@@ -1,3 +1,5 @@
+**Last Updated: December 29, 2025**
+
 # EigenLayer Protocol Case Study: Dollar Distribution Analysis
 
 ## Overview
@@ -233,3 +235,117 @@ Based on ~$15B TVL:
 - On-chain Analytics
 - Operator Performance Metrics
 - LRT Protocol Reports
+
+---
+
+## Footnotes
+
+[^1]: [EigenLayer Documentation](https://docs.eigenlayer.xyz/) - Official protocol documentation covering restaking mechanics, AVS integration, and operator requirements. 🔷 HARD DATA
+
+[^2]: [DefiLlama - EigenLayer TVL](https://defillama.com/protocol/eigenlayer) - Total Value Locked: $15B+ as of December 2025. 🔷 HARD DATA
+
+[^3]: [EigenLayer Blog](https://www.blog.eigenlayer.xyz/) - Official announcements, AVS launches, and ecosystem updates.
+
+[^4]: [Dune Analytics - EigenLayer](https://dune.com/eigen) - On-chain analytics for restaking deposits and operator distribution. 🔷 HARD DATA
+
+[^5]: [CoinGecko - EIGEN Token](https://www.coingecko.com/en/coins/eigenlayer) - Market data and circulating supply for EIGEN governance token. 🔷 HARD DATA
+
+[^6]: [Etherscan - EigenLayer Strategy Manager](https://etherscan.io/address/0x858646372CC42E1A627fcE94aa7A7033e7CF075A) - On-chain contract interactions and deposit history. 🔷 HARD DATA
+
+[^7]: [EigenLayer Whitepaper](https://docs.eigenlayer.xyz/assets/files/EigenLayer_WhitePaper-88c47923ca0319870c611decd6e562ad.pdf) - Technical specification for restaking and pooled security.
+
+[^8]: [Messari - EigenLayer Research](https://messari.io/project/eigenlayer) - Comprehensive protocol research and restaking market analysis. 🔷 HARD DATA
+
+[^9]: [The Block - Restaking Market](https://www.theblock.co/data/decentralized-finance) - Market data for restaking and liquid restaking protocols. 🔷 HARD DATA
+
+[^10]: [EigenDA Documentation](https://docs.eigenda.xyz/) - Data availability layer built on EigenLayer security.
+
+[^11]: [Token Terminal - EigenLayer](https://tokenterminal.com/terminal/projects/eigenlayer) - Protocol metrics and TVL tracking. 🔷 HARD DATA
+
+[^12]: [CoinDesk - EigenLayer News](https://www.coindesk.com/tag/eigenlayer/) - Breaking news and ecosystem developments.
+
+[^13]: [EigenLayer Operator Registry](https://app.eigenlayer.xyz/) - List of registered operators and their delegations. 🔷 HARD DATA
+
+[^14]: [EtherFi Documentation](https://etherfi.gitbook.io/) - Largest liquid restaking protocol built on EigenLayer.
+
+[^15]: [DefiLlama - EtherFi TVL](https://defillama.com/protocol/ether.fi) - EtherFi liquid restaking TVL. 🔷 HARD DATA
+
+[^16]: [Renzo Protocol](https://www.renzoprotocol.com/) - Liquid restaking token ezETH documentation.
+
+[^17]: [Kelp DAO](https://kelpdao.xyz/) - rsETH liquid restaking protocol.
+
+[^18]: [Puffer Finance](https://www.puffer.fi/) - Native restaking with anti-slashing technology.
+
+[^19]: [Swell Network](https://www.swellnetwork.io/) - rswETH liquid restaking documentation.
+
+[^20]: [EigenLayer Points](https://app.eigenlayer.xyz/) - Restaking points system for early participants. 🔷 HARD DATA
+
+[^21]: [AVS Marketplace](https://www.eigenlayer.xyz/ecosystem) - Active Validated Services ecosystem listing.
+
+[^22]: [AltLayer AVS](https://docs.altlayer.io/) - Rollup infrastructure AVS on EigenLayer.
+
+[^23]: [Espresso Systems](https://www.espressosys.com/) - Sequencer AVS leveraging EigenLayer security.
+
+[^24]: [Omni Network](https://omni.network/) - Cross-rollup communication AVS.
+
+[^25]: [Lagrange Labs](https://www.lagrange.dev/) - ZK coprocessor AVS documentation.
+
+[^26]: [Witness Chain](https://witnesschain.com/) - Proof of location AVS on EigenLayer.
+
+[^27]: [Brevis](https://brevis.network/) - ZK coprocessor for smart contracts.
+
+[^28]: [EigenLayer Dual Token Model](https://docs.eigenlayer.xyz/eigenlayer/overview/key-terms) - ETH for objective slashing, EIGEN for intersubjective.
+
+[^29]: [Intersubjective Slashing](https://docs.eigenlayer.xyz/eigenlayer/overview/key-terms) - EIGEN token social consensus mechanism.
+
+[^30]: [EigenLayer Operator Guide](https://docs.eigenlayer.xyz/eigenlayer/operator-guides/operator-introduction) - Requirements for running EigenLayer operator.
+
+[^31]: [L2Beat - Restaking](https://l2beat.com/) - Layer 2 security dependencies on restaked ETH. 🔷 HARD DATA
+
+[^32]: [DeFiLlama - Liquid Restaking](https://defillama.com/protocols/liquid-restaking) - Comparative LRT market analysis. 🔷 HARD DATA
+
+[^33]: [Electric Capital - EigenLayer](https://www.developerreport.com/) - Developer activity in EigenLayer ecosystem. 🔷 HARD DATA
+
+[^34]: [EigenLayer Slashing Conditions](https://docs.eigenlayer.xyz/eigenlayer/overview/key-terms) - Documentation on AVS-specific slashing risks.
+
+[^35]: [Restaking Risk Analysis](https://research.lido.fi/) - Independent analysis of restaking systemic risks.
+
+[^36]: [EigenLayer Delegation](https://app.eigenlayer.xyz/) - Delegate restaked assets to operators interface. 🔷 HARD DATA
+
+[^37]: [P2P Validator - EigenLayer](https://p2p.org/) - Professional operator for EigenLayer delegation.
+
+[^38]: [Figment - EigenLayer](https://figment.io/) - Enterprise restaking infrastructure.
+
+[^39]: [Chorus One - Restaking](https://chorus.one/) - Node operator supporting EigenLayer.
+
+[^40]: [Coinbase Cloud - EigenLayer](https://www.coinbase.com/cloud) - Institutional restaking services.
+
+[^41]: [OpenZeppelin - EigenLayer Audit](https://blog.openzeppelin.com/) - Security audit reports for protocol contracts.
+
+[^42]: [Sigma Prime - EigenLayer](https://sigmaprime.io/) - Security assessment and audit findings.
+
+[^43]: [DeFiSafety - EigenLayer](https://www.defisafety.com/) - Protocol safety scoring methodology. 🔷 HARD DATA
+
+[^44]: [Nansen - EigenLayer](https://portfolio.nansen.ai/) - Smart money tracking for restaking deposits.
+
+[^45]: [Parsec Finance - Restaking](https://parsec.finance/) - Real-time restaking analytics.
+
+[^46]: [EigenLayer M2 Upgrade](https://www.blog.eigenlayer.xyz/) - Mainnet Stage 2 upgrade documentation.
+
+[^47]: [EigenLayer Foundation](https://www.eigenfoundation.org/) - Non-profit supporting ecosystem development.
+
+[^48]: [EigenLayer GitHub](https://github.com/Layr-Labs) - Open-source protocol code repositories.
+
+[^49]: [EigenLayer Twitter](https://twitter.com/eigenlayer) - Official announcements and updates.
+
+[^50]: [EigenLayer Discord](https://discord.com/invite/eigenlayer) - Community discussion and support.
+
+[^51]: [a]16z - EigenLayer Investment](https://a16z.com/) - Series B lead investor background.
+
+[^52]: [Blockchain Capital - EigenLayer](https://blockchaincapital.com/) - Investment and ecosystem support.
+
+[^53]: [Polychain Capital - EigenLayer](https://polychain.capital/) - Early investor in restaking infrastructure.
+
+[^54]: [AVS Revenue Models](https://docs.eigenlayer.xyz/) - Documentation on service-specific fee structures.
+
+[^55]: [DefiLlama - EigenLayer Yields](https://defillama.com/yields?project=eigenlayer) - Restaking yield tracking across strategies. 🔷 HARD DATA

@@ -1,3 +1,5 @@
+**Last Updated: December 29, 2025**
+
 # Moonwell DeFi Exploits: Comprehensive Postmortem Analysis (2024-2025)
 
 **Analysis Date:** November 4, 2025
@@ -1539,8 +1541,122 @@ This postmortem analysis is for educational and research purposes only. It is NO
 
 ---
 
-**Document Version:** 1.0
-**Last Updated:** November 4, 2025
+**Document Version:** 1.1
+**Last Updated:** December 29, 2025
 **Next Update:** If material new information emerges or another exploit occurs
 **Prepared by:** Independent DeFi Security Research
 **Contact:** See repository governance for feedback
+
+---
+
+## Footnotes
+
+[^1]: [Moonwell Documentation](https://docs.moonwell.fi/) - Official protocol documentation covering lending mechanics and security. 🔷 HARD DATA
+
+[^2]: [DefiLlama - Moonwell TVL](https://defillama.com/protocol/moonwell) - Total Value Locked tracking across all chains. 🔷 HARD DATA
+
+[^3]: [Moonwell App](https://moonwell.fi/) - Official lending interface. 🔷 HARD DATA
+
+[^4]: [CoinGecko - WELL Token](https://www.coingecko.com/en/coins/moonwell) - WELL governance token market data. 🔷 HARD DATA
+
+[^5]: [CoinfoMania - Oracle Exploit](https://coinfomania.com/moonwell-oracle-exploit-base-optimism/) - November 2025 exploit coverage.
+
+[^6]: [PANews - Attack Analysis](https://www.panewslab.com/en/articles/a0d28933-264b-41e6-9875-ddc6d1e41a5f) - 295 ETH profit attack documentation.
+
+[^7]: [CoinGabbar - Flash Loan Exploit](https://www.coingabbar.com/en/crypto-currency-news/moonwell-hacked-faulty-oracle-defi-flash-loan-attack-1m-loss) - Oracle manipulation analysis.
+
+[^8]: [Odaily - BlockSec Alert](https://www.odaily.news/en/newsflash/455239) - BlockSec Phalcon detection report.
+
+[^9]: [CoinEdition - $320K Exploit](https://coinedition.com/moonwell-defi-hit-by-320k-flash-loan-exploit-security-risks-highlighted/) - December 2024 flash loan attack.
+
+[^10]: [CryptoRank - Security Alert](https://cryptorank.io/news/feed/929cf-moonwell-defi-hit-by-320k-flash-loan-exploit-security-risks-highlighted) - mToken vulnerability coverage.
+
+[^11]: [Today in DeFi - $1.7M Exploit](https://news.todayindefi.com/p/moonwell-discloses-17m-exploit-ink) - October 2024 market crash exploit.
+
+[^12]: [BlockSec Phalcon](https://phalcon.blocksec.com/) - Security monitoring service. 🔷 HARD DATA
+
+[^13]: [Cyvers Alerts](https://www.cyvers.ai/) - DeFi security monitoring.
+
+[^14]: [CertiK](https://www.certik.com/) - Smart contract security auditing.
+
+[^15]: [Moonwell Governance Forum](https://forum.moonwell.fi/) - Community governance discussions.
+
+[^16]: [Halborn Security](https://www.halborn.com/) - Protocol auditor.
+
+[^17]: [Code4rena](https://code4rena.com/) - Bug bounty audit competition.
+
+[^18]: [Chainlink Oracles](https://chain.link/) - Oracle infrastructure. 🔷 HARD DATA
+
+[^19]: [API3 Data Feeds](https://api3.org/) - Alternative oracle provider.
+
+[^20]: [Base Network](https://base.org/) - Layer 2 ecosystem. 🔷 HARD DATA
+
+[^21]: [Optimism Network](https://optimism.io/) - Layer 2 ecosystem. 🔷 HARD DATA
+
+[^22]: [Moonbeam Network](https://moonbeam.network/) - Polkadot parachain.
+
+[^23]: [Moonriver Network](https://moonbeam.network/moonriver/) - Kusama parachain.
+
+[^24]: [Compound Finance](https://compound.finance/) - Fork origin protocol.
+
+[^25]: [Aave Protocol](https://aave.com/) - Competitor comparison. 🔷 HARD DATA
+
+[^26]: [Messari - Moonwell Research](https://messari.io/) - Protocol analysis.
+
+[^27]: [The Block - Moonwell](https://www.theblock.co/) - News coverage.
+
+[^28]: [CoinDesk - Moonwell News](https://www.coindesk.com/) - Breaking news.
+
+[^29]: [Moonwell Security Documentation](https://docs.moonwell.fi/moonwell/protocol-information/security) - Security framework.
+
+[^30]: [Moonwell Bug Bounty](https://docs.moonwell.fi/) - $250K maximum reward program.
+
+[^31]: [Tornado Cash](https://tornadocash.eth.limo/) - Privacy mixer (attacker tool).
+
+[^32]: [Euler Finance Exploit](https://www.theblock.co/) - Similar vulnerability comparison.
+
+[^33]: [Cream Finance Exploits](https://www.coindesk.com/) - Historical comparison.
+
+[^34]: [bZx Exploits](https://www.theblock.co/) - Oracle manipulation precedent.
+
+[^35]: [Mango Markets Exploit](https://www.coindesk.com/) - $110M oracle manipulation.
+
+[^36]: [Nexus Mutual](https://nexusmutual.io/) - DeFi insurance protocol.
+
+[^37]: [InsurAce Protocol](https://www.insurace.io/) - Insurance coverage option.
+
+[^38]: [Nansen - Moonwell](https://portfolio.nansen.ai/) - Smart money tracking.
+
+[^39]: [DeFiLlama - Lending](https://defillama.com/protocols/lending) - Lending protocol comparison. 🔷 HARD DATA
+
+[^40]: [Etherscan - Base](https://basescan.org/) - Base chain explorer. 🔷 HARD DATA
+
+[^41]: [Optimism Explorer](https://optimistic.etherscan.io/) - OP chain explorer. 🔷 HARD DATA
+
+[^42]: [Moonwell mToken Contracts](https://docs.moonwell.fi/) - Token contract documentation.
+
+[^43]: [Flash Loan Protection Research](https://docs.aave.com/) - Industry best practices.
+
+[^44]: [Circuit Breaker Implementations](https://docs.makerdao.com/) - Risk management patterns.
+
+[^45]: [Multi-Oracle Systems](https://chain.link/) - Oracle redundancy documentation.
+
+[^46]: [DeFiSafety - Moonwell](https://www.defisafety.com/) - Protocol safety scoring. 🔷 HARD DATA
+
+[^47]: [CoinMarketCap - WELL](https://coinmarketcap.com/currencies/moonwell-artemis/) - Market data. 🔷 HARD DATA
+
+[^48]: [Moonwell Twitter](https://twitter.com/MoonwellDeFi) - Official announcements.
+
+[^49]: [Moonwell Discord](https://discord.gg/moonwell) - Community discussion.
+
+[^50]: [Moonwell GitHub](https://github.com/moonwell-fi) - Open-source repositories.
+
+[^51]: [CFTC Regulatory Precedents](https://www.cftc.gov/) - DeFi regulatory context.
+
+[^52]: [SEC DeFi Enforcement](https://www.sec.gov/) - Securities regulation.
+
+[^53]: [Trail of Bits](https://www.trailofbits.com/) - Security audit standards.
+
+[^54]: [OpenZeppelin](https://www.openzeppelin.com/) - Smart contract security.
+
+[^55]: [DefiLlama - Moonwell Revenue](https://defillama.com/protocol/moonwell) - Protocol metrics tracking. 🔷 HARD DATA

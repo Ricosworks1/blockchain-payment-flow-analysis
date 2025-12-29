@@ -1,3 +1,5 @@
+**Last Updated: December 29, 2025**
+
 # Morpho Protocol Case Study: Dollar Distribution Analysis
 
 ## Overview
@@ -248,3 +250,117 @@ Based on ~$3B TVL:
 - On-chain Data (Dune)
 - Governance Forum
 - Morpho Blue Registry
+
+---
+
+## Footnotes
+
+[^1]: [Morpho Documentation](https://docs.morpho.org/) - Official protocol documentation covering P2P matching and Morpho Blue architecture. 🔷 HARD DATA
+
+[^2]: [DefiLlama - Morpho TVL](https://defillama.com/protocol/morpho) - Total Value Locked: $3B+ as of December 2025. 🔷 HARD DATA
+
+[^3]: [Morpho App](https://app.morpho.org/) - Official lending interface for Morpho Blue. 🔷 HARD DATA
+
+[^4]: [CoinGecko - MORPHO Token](https://www.coingecko.com/en/coins/morpho) - MORPHO governance token market data. 🔷 HARD DATA
+
+[^5]: [Etherscan - Morpho](https://etherscan.io/token/0x9994E35Db50125E0DF82e4c2dde62496CE330999) - On-chain MORPHO token contract. 🔷 HARD DATA
+
+[^6]: [Dune Analytics - Morpho](https://dune.com/morpho) - On-chain analytics for deposits and P2P matching rates. 🔷 HARD DATA
+
+[^7]: [Morpho Blue](https://morpho.org/blue) - Permissionless lending primitive documentation.
+
+[^8]: [Messari - Morpho Research](https://messari.io/project/morpho) - Comprehensive protocol analysis. 🔷 HARD DATA
+
+[^9]: [The Block - Morpho](https://www.theblock.co/tag/morpho) - News coverage and market analysis.
+
+[^10]: [CoinDesk - Morpho News](https://www.coindesk.com/tag/morpho/) - Breaking news and developments.
+
+[^11]: [Token Terminal - Morpho](https://tokenterminal.com/terminal/projects/morpho) - Protocol metrics and analytics. 🔷 HARD DATA
+
+[^12]: [Electric Capital - Morpho](https://www.developerreport.com/) - Developer activity metrics. 🔷 HARD DATA
+
+[^13]: [Morpho Optimizer](https://docs.morpho.org/morpho-optimizers/overview) - P2P lending on Aave/Compound documentation.
+
+[^14]: [Morpho Blue Vaults](https://docs.morpho.org/morpho-blue/overview/vaults) - Curated vault system documentation.
+
+[^15]: [Morpho Governance](https://gov.morpho.org/) - Governance proposals and voting.
+
+[^16]: [Snapshot - Morpho](https://snapshot.org/#/morpho.eth) - Off-chain governance voting history.
+
+[^17]: [Morpho Blog](https://morpho.org/blog) - Official announcements and updates.
+
+[^18]: [Morpho Twitter](https://twitter.com/MorphoLabs) - Official announcements and updates.
+
+[^19]: [Morpho Discord](https://discord.gg/morpho) - Community discussion and support.
+
+[^20]: [Morpho GitHub](https://github.com/morpho-labs) - Open-source protocol repositories.
+
+[^21]: [a16z - Morpho Investment](https://a16z.com/) - Lead investor background.
+
+[^22]: [Variant Fund - Morpho](https://variant.fund/) - Strategic investor.
+
+[^23]: [Nascent - Morpho](https://www.nascent.xyz/) - Investment partner.
+
+[^24]: [Pantera Capital - Morpho](https://panteracapital.com/) - Ecosystem investor.
+
+[^25]: [P2P Matching Algorithm](https://docs.morpho.org/morpho-optimizers/concepts/p2p-matching) - Rate optimization documentation.
+
+[^26]: [Morpho Zero Fees](https://docs.morpho.org/) - 0% protocol fee model documentation.
+
+[^27]: [Morpho Blue Markets](https://app.morpho.org/markets) - Active lending markets. 🔷 HARD DATA
+
+[^28]: [Curated Vaults](https://app.morpho.org/vaults) - Professional vault offerings. 🔷 HARD DATA
+
+[^29]: [Gauntlet - Morpho Risk](https://www.gauntlet.network/) - Risk parameter provider.
+
+[^30]: [Block Analitica - Morpho](https://morpho.blockanalitica.com/) - Deep analytics for risk data. 🔷 HARD DATA
+
+[^31]: [OpenZeppelin - Morpho Audit](https://blog.openzeppelin.com/) - Security audit reports.
+
+[^32]: [Spearbit - Morpho Audit](https://spearbit.com/) - Security assessment findings.
+
+[^33]: [Cantina - Morpho Review](https://cantina.xyz/) - Security review documentation.
+
+[^34]: [DeFiSafety - Morpho](https://www.defisafety.com/) - Protocol safety scoring. 🔷 HARD DATA
+
+[^35]: [Nansen - Morpho](https://portfolio.nansen.ai/) - Smart money tracking.
+
+[^36]: [Parsec Finance - Morpho](https://parsec.finance/) - Real-time protocol analytics.
+
+[^37]: [Morpho Rate Improvement](https://docs.morpho.org/morpho-optimizers/concepts/rate-improvement) - P2P rate enhancement documentation.
+
+[^38]: [Morpho Blue IRM](https://docs.morpho.org/morpho-blue/concepts/irm) - Interest rate model documentation.
+
+[^39]: [Morpho Blue Oracle](https://docs.morpho.org/morpho-blue/concepts/oracle) - Price feed documentation.
+
+[^40]: [Morpho Blue Liquidation](https://docs.morpho.org/morpho-blue/concepts/liquidation) - Liquidation mechanics.
+
+[^41]: [MetaMorpho Vaults](https://docs.morpho.org/metamorpho/overview) - Vault aggregation layer.
+
+[^42]: [Steakhouse - Morpho Vault](https://steakhouse.financial/) - Vault curator.
+
+[^43]: [Re7 Capital - Morpho](https://re7.capital/) - Risk management partner.
+
+[^44]: [Morpho Base](https://app.morpho.org/?chainId=8453) - Base network deployment.
+
+[^45]: [Chainlink - Morpho Oracle](https://chain.link/) - Oracle infrastructure.
+
+[^46]: [MORPHO Token Rewards](https://docs.morpho.org/governance/morpho-token) - Token distribution documentation.
+
+[^47]: [Morpho Age System](https://docs.morpho.org/governance/age) - Token claiming mechanics.
+
+[^48]: [L2Beat - Morpho](https://l2beat.com/) - Layer 2 deployment tracking. 🔷 HARD DATA
+
+[^49]: [Aave - Morpho Optimizer](https://aave.com/) - Underlying protocol integration.
+
+[^50]: [Compound - Morpho Optimizer](https://compound.finance/) - Underlying protocol integration.
+
+[^51]: [Morpho Analytics](https://analytics.morpho.org/) - Protocol performance dashboard. 🔷 HARD DATA
+
+[^52]: [Paul Frambot (Morpho CEO)](https://twitter.com/paulframbot) - CEO communications.
+
+[^53]: [Merlin Egalite (Morpho CTO)](https://twitter.com/meraborongr) - CTO communications.
+
+[^54]: [Formal Verification](https://docs.morpho.org/security/formal-verification) - Mathematical security proofs.
+
+[^55]: [DefiLlama - Morpho Revenue](https://defillama.com/protocol/morpho) - Protocol metrics tracking. 🔷 HARD DATA

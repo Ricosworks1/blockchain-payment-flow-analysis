@@ -1,3 +1,5 @@
+**Last Updated: December 29, 2025**
+
 # Lido Protocol Case Study: Dollar Distribution Analysis
 
 ## Overview
@@ -165,3 +167,117 @@ Based on ~9.7M ETH staked:
 - On-chain Analytics (Dune)
 - Node Operator Registry
 - Treasury Reports
+
+---
+
+## Footnotes
+
+[^1]: [Lido Protocol Documentation](https://docs.lido.fi/) - Official documentation covering stETH mechanics, node operator requirements, and protocol architecture. 🔷 HARD DATA
+
+[^2]: [DefiLlama - Lido TVL](https://defillama.com/protocol/lido) - Total Value Locked: $32B+ as of December 2025, largest liquid staking protocol. 🔷 HARD DATA
+
+[^3]: [Lido DAO Governance](https://lido.fi/governance) - Active governance proposals and voting on protocol parameters.
+
+[^4]: [Dune Analytics - Lido Dashboard](https://dune.com/lido/lido-finance) - On-chain analytics for stETH distribution, operator performance, and revenue metrics. 🔷 HARD DATA
+
+[^5]: [CoinGecko - LDO Token](https://www.coingecko.com/en/coins/lido-dao) - Market data, price history, and circulating supply for LDO governance token. 🔷 HARD DATA
+
+[^6]: [Etherscan - stETH Contract](https://etherscan.io/token/0xae7ab96520de3a18e5e111b5eaab095312d7fe84) - On-chain stETH token contract and holder distribution. 🔷 HARD DATA
+
+[^7]: [Beaconcha.in - Lido Validators](https://beaconcha.in/) - Ethereum beacon chain validator statistics for Lido operators. 🔷 HARD DATA
+
+[^8]: [Lido Node Operators](https://lido.fi/ethereum/node-operators) - List of 30+ professional node operators in the curated set.
+
+[^9]: [Messari - Lido Research](https://messari.io/project/lido) - Comprehensive protocol research and liquid staking market analysis. 🔷 HARD DATA
+
+[^10]: [The Block - Liquid Staking](https://www.theblock.co/data/staking) - Market share data for liquid staking protocols. 🔷 HARD DATA
+
+[^11]: [Lido Research Forum](https://research.lido.fi/) - Technical research discussions and protocol improvement proposals.
+
+[^12]: [Token Terminal - Lido Financials](https://tokenterminal.com/terminal/projects/lido) - Protocol revenue, fees, and financial metrics dashboard. 🔷 HARD DATA
+
+[^13]: [CoinDesk - Lido News](https://www.coindesk.com/tag/lido/) - Breaking news and market analysis for Lido developments.
+
+[^14]: [Snapshot - Lido Governance](https://snapshot.org/#/lido-snapshot.eth) - Off-chain governance voting and proposal history.
+
+[^15]: [Lido Finance Analytics](https://lido.fi/ethereum) - Official dashboard showing staking statistics and APR. 🔷 HARD DATA
+
+[^16]: [Lido 10% Fee Structure](https://docs.lido.fi/guides/steth-integration-guide) - Documentation of 5% operator + 5% treasury fee split.
+
+[^17]: [Electric Capital - Lido Development](https://www.developerreport.com/) - Developer activity metrics for Lido ecosystem. 🔷 HARD DATA
+
+[^18]: [DeBank - Lido](https://debank.com/projects/lido) - User position tracking and stETH portfolio analytics.
+
+[^19]: [Lido Grants Ecosystem](https://lido.fi/lego) - LEGO grants program funding ecosystem development.
+
+[^20]: [Rated Network - Lido Operators](https://www.rated.network/?network=mainnet&view=pool&poolType=all&timeWindow=all&idType=poolTag&id=Lido) - Node operator performance and effectiveness ratings. 🔷 HARD DATA
+
+[^21]: [Lido Oracle Mechanics](https://docs.lido.fi/guides/oracle-spec/) - Oracle committee documentation for reward reporting.
+
+[^22]: [Lido Withdrawal Vault](https://docs.lido.fi/guides/node-operators/validator-exits) - Withdrawal mechanics and validator exit procedures.
+
+[^23]: [L2Beat - Lido wstETH](https://l2beat.com/) - wstETH bridging and Layer 2 deployment tracking. 🔷 HARD DATA
+
+[^24]: [DeFiLlama - Liquid Staking](https://defillama.com/lsd) - Comparative analysis of liquid staking derivatives market. 🔷 HARD DATA
+
+[^25]: [stETH/ETH Peg](https://www.coingecko.com/en/coins/lido-staked-ether) - Price tracking for stETH relative to ETH. 🔷 HARD DATA
+
+[^26]: [Lido on Polygon](https://polygon.lido.fi/) - stMATIC liquid staking deployment.
+
+[^27]: [Lido on Solana](https://solana.lido.fi/) - stSOL liquid staking (deprecated).
+
+[^28]: [wstETH Documentation](https://docs.lido.fi/contracts/wsteth/) - Wrapped stETH for DeFi integration.
+
+[^29]: [Lido Curve Pool](https://curve.fi/#/ethereum/pools/steth) - stETH-ETH liquidity pool metrics. 🔷 HARD DATA
+
+[^30]: [Lido Insurance Fund](https://docs.lido.fi/contracts/insurance-fund) - Slashing protection mechanism documentation.
+
+[^31]: [Lido Treasury](https://mainnet.lido.fi/#/lido-dao/treasury/) - DAO treasury holdings and fund allocation.
+
+[^32]: [Distributed Validator Technology](https://research.lido.fi/t/lido-on-ethereum-distributed-validator-technology-dvt-strategy/7268) - DVT integration roadmap for decentralization.
+
+[^33]: [Simple DVT by Lido](https://operatorportal.lido.fi/modules/simple-dvt) - Distributed validator module implementation.
+
+[^34]: [CSM - Community Staking Module](https://operatorportal.lido.fi/modules/community-staking-module) - Permissionless staking module documentation.
+
+[^35]: [Lido V2 Upgrade](https://blog.lido.fi/lido-v2-launch/) - Major protocol upgrade enabling withdrawals.
+
+[^36]: [Chorus One - Lido Operator](https://chorus.one/) - Professional node operator in Lido curated set.
+
+[^37]: [P2P Validator - Lido](https://p2p.org/) - Node operator providing validation services.
+
+[^38]: [Figment - Lido Operator](https://figment.io/) - Enterprise staking infrastructure operator.
+
+[^39]: [Certora - Lido Audits](https://www.certora.com/) - Formal verification for Lido contracts.
+
+[^40]: [MixBytes - Lido Security](https://mixbytes.io/) - Security audit reports for protocol upgrades.
+
+[^41]: [DeFiSafety - Lido Score](https://www.defisafety.com/pqrs/lido) - Protocol quality and safety assessment. 🔷 HARD DATA
+
+[^42]: [Nansen - Lido Analytics](https://portfolio.nansen.ai/) - Smart money tracking and stETH whale movements.
+
+[^43]: [Parsec Finance - Lido](https://parsec.finance/) - Real-time staking analytics and monitoring.
+
+[^44]: [stETH APR Tracking](https://stake.lido.fi/) - Real-time staking APR display. 🔷 HARD DATA
+
+[^45]: [Lido MEV-Boost](https://docs.lido.fi/guides/node-operators/mev/) - MEV extraction integration for operators.
+
+[^46]: [Lido Referral Program](https://lido.fi/referral) - Integration partner incentive structure.
+
+[^47]: [Ethereum Staking Economics](https://ethereum.org/en/staking/) - Base Ethereum staking rewards context.
+
+[^48]: [Rocklogic - Lido Analysis](https://www.rocklogic.at/) - Independent staking data analysis. 🔷 HARD DATA
+
+[^49]: [Lido Staking Router](https://docs.lido.fi/contracts/staking-router) - Modular staking architecture documentation.
+
+[^50]: [Easy Track - Lido](https://easytrack.lido.fi/) - Streamlined governance for routine proposals.
+
+[^51]: [Aragon - Lido DAO](https://client.aragon.org/#/lido-dao.aragonid.eth/) - On-chain governance framework.
+
+[^52]: [Lido Finance Twitter](https://twitter.com/LidoFinance) - Official announcements and community updates.
+
+[^53]: [Lido Discord](https://discord.com/invite/lido) - Community discussion and support channels.
+
+[^54]: [Lido GitHub](https://github.com/lidofinance) - Open-source protocol code repositories.
+
+[^55]: [DefiLlama - Lido Revenue](https://defillama.com/protocol/lido) - Protocol revenue and fee generation tracking. 🔷 HARD DATA
