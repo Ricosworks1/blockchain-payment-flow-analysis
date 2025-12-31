@@ -525,7 +525,7 @@ The machine economy thesis—75 billion connected devices requiring secure, veri
 
 [^19]: [Berlin Deep Tech](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - "Staex originated as a management buyout from Deutsche Telekom."
 
-[^20]: Social media analysis - No token announcements as of December 2025.
+[^20]: [Twitter @Staex_io](https://twitter.com/Staex_io) - Social media analysis confirms no token announcements as of December 2025.
 
 [^21]: [Breaking DePIN 2025](https://www.breakingdepin.ch/schedule.html) - Staex presenting "Trusted Data Networks: Building the Backbone of DePIN and Physical AI" at Physical AI UnConference, Zurich, September 2025. Physical AI category confirmed via interview with Staex CEO by Maze2 SA CEO.
 
@@ -545,13 +545,13 @@ The machine economy thesis—75 billion connected devices requiring secure, veri
 
 [^27]: [Chainwire](https://chainwire.org/2024/01/25/staex-joins-peaq-as-a-networking-and-indexing-layer-for-depin/) - "75 billion machine connections by 2030."
 
-[^28]: [Staex Official](https://staex.io) - Machine economy vision.
+[^28]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - Machine economy vision: "global machine-to-machine economy."
 
-[^29]: [Staex Official](https://staex.io) - "Trusted, verifiable data."
+[^29]: [Chainwire](https://chainwire.org/2024/01/25/staex-joins-peaq-as-a-networking-and-indexing-layer-for-depin/) - "Trusted, verifiable data" for DePIN applications.
 
-[^30]: [Staex Overview](https://staex.io) - "Machines can align on shared truths for coordination."
+[^30]: [Berlin Deep Tech Interview](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - Machines aligning on shared truths for coordination.
 
-[^31]: [Staex Technology](https://staex.io) - Autonomous decision-making capability.
+[^31]: [DFINITY Forum - VTS](https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723) - Autonomous decision-making capability for IoT devices.
 
 [^32]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - Machine-to-machine value transactions.
 
@@ -631,13 +631,13 @@ The machine economy thesis—75 billion connected devices requiring secure, veri
 
 [^58c]: Interview with Staex CEO Dr. Alexandra Mikityuk by Maze2 SA CEO (December 2025) - Angel investor information provided directly by CEO.
 
-[^61]: [Staex Official](https://staex.io) - Three-layer architecture description.
+[^61]: [Berlin Deep Tech Interview](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - Two-layer architecture (Connectivity + Security/Identity). Smart Billing layer was disposed of per CEO interview (Dec 2025).
 
-[^62]: [Staex Technology](https://staex.io) - EU SIM/eSIM support.
+[^62]: [Berlin Deep Tech Interview](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - EU SIM/eSIM connectivity support.
 
-[^63]: [Staex Technology](https://staex.io) - Multi-network roaming.
+[^63]: [Berlin Deep Tech Interview](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - Multi-network roaming capabilities.
 
-[^64]: [Staex Technology](https://staex.io) - Redundancy features.
+[^64]: [Berlin Deep Tech Interview](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - Multi-network redundancy for reliability.
 
 [^65]: [Berlin Deep Tech](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - "Multi-hop architecture for complex topologies."
 
@@ -645,19 +645,11 @@ The machine economy thesis—75 billion connected devices requiring secure, veri
 
 [^67]: [peaq Blog](https://www.peaq.network/blog/staex-adds-peaq-ids-and-role-based-access-control-to-its-network) - peaq IDs integration.
 
-[^68]: [Staex Official](https://staex.io) - "Peer-to-peer secure communication."
+[^68]: [Berlin Deep Tech Interview](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - Peer-to-peer encrypted tunnels for secure communication.
 
-[^69]: [Staex Technology](https://staex.io) - "Tamper-proof logging."
+[^69]: [Berlin Deep Tech Interview](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - Tamper-proof logging via blockchain integration.
 
 [^70]: [Berlin Deep Tech](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - "Clients retain private keys."
-
-[^71]: [Staex Technology](https://staex.io) - "Granular usage tracking."
-
-[^72]: [Staex Technology](https://staex.io) - "Automated policies."
-
-[^73]: [Staex Technology](https://staex.io) - "Transparent cost management."
-
-[^74]: [VTS Forum](https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723) - On-chain invoicing capability.
 
 [^75]: [Berlin Deep Tech](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - "Encryption of outdated communication protocols."
 
@@ -739,15 +731,13 @@ The machine economy thesis—75 billion connected devices requiring secure, veri
 
 [^114]: [Tower Exchange](https://www.towerxchange.com/article/2dcq12ehr996dmaszte68/monetising-towers-as-drone-delivery-platforms) - "Secretary of State Dr. Fissher."
 
-[^115]: [Staex NEXA](https://www.staex.io/nexa) - Nine consortium partners.
+[^115]: [Staex NEXA](https://www.staex.io/nexa) - Eight consortium partners (Chirp removed per CEO interview Dec 2025).
 
 [^116]: [Vantage Towers](https://www.vantagetowers.com/en) - "84,600 sites across Europe."
 
 [^117]: [Staex NEXA](https://www.staex.io/nexa) - paymenttools (REWE Group).
 
 [^118]: [Staex NEXA](https://www.staex.io/nexa) - Berlin Partner involvement.
-
-[^119]: [Chirp Medium](https://chirpiot.medium.com/chirp-teams-up-with-staex-and-joins-nexa-consortium-to-lead-web3-innovations-in-germany-82379b3de2b1) - Chirp joins NEXA.
 
 [^120]: [Lisk Year Recap](https://lisk.com/blog/posts/2024-recap/) - Lisk NEXA participation.
 
@@ -783,26 +773,6 @@ The machine economy thesis—75 billion connected devices requiring secure, veri
 
 [^136]: [Staex MINT](https://www.staex.io/mint) - Technical implementation details.
 
-[^137]: [Staex PANTER](https://www.staex.io/panter) - PANTER platform description.
-
-[^138]: [Staex PANTER](https://www.staex.io/panter) - "Real-time data capture."
-
-[^139]: [Staex PANTER](https://www.staex.io/panter) - "Machine-to-machine transactions."
-
-[^140]: [Staex PANTER](https://www.staex.io/panter) - "Automated invoicing, auditing, certification."
-
-[^141]: [Staex PANTER](https://www.staex.io/panter) - "New business models and revenue streams."
-
-[^142]: [TechBullion](https://techbullion.com/chirp-partners-with-staex-to-deploy-iot-connectivity-across-200000-municipal-buses/) - Chirp partnership scale.
-
-[^143]: [TechBullion](https://techbullion.com/chirp-partners-with-staex-to-deploy-iot-connectivity-across-200000-municipal-buses/) - "Up to 200,000 municipal buses."
-
-[^144]: [TechBullion](https://techbullion.com/chirp-partners-with-staex-to-deploy-iot-connectivity-across-200000-municipal-buses/) - "Up to 12 IoT devices per vehicle."
-
-[^145]: [TechBullion](https://techbullion.com/chirp-partners-with-staex-to-deploy-iot-connectivity-across-200000-municipal-buses/) - Data types collected.
-
-[^146]: [Chirp Token](https://chirptoken.io/) - Chirp network statistics.
-
 [^147]: [VTS Forum](https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723) - VTS capabilities.
 
 [^148]: [VTS Forum](https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723) - "Trusted, transparent infrastructure."
@@ -812,8 +782,6 @@ The machine economy thesis—75 billion connected devices requiring secure, veri
 [^150]: [VTS Forum](https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723) - "On-chain contract agreements."
 
 [^151]: [VTS Forum](https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723) - "Automated invoice generation."
-
-[^152]: [VTS Forum](https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723) - "Remote vehicle functionality control."
 
 [^153]: [VTS Forum](https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723) - "Proof of concept complete."
 
@@ -839,29 +807,27 @@ The machine economy thesis—75 billion connected devices requiring secure, veri
 
 [^164]: [Unmanned Airspace](https://www.unmannedairspace.info/latest-news-and-information/staex-and-eva-to-build-first-web3-operated-drone-delivery-corridor-in-berlin/) - "Songbird drone filmed the event."
 
-[^165]: [Staex Official](https://staex.io) - Target verticals.
+[^165]: [Chainwire](https://chainwire.org/2024/01/25/staex-joins-peaq-as-a-networking-and-indexing-layer-for-depin/) - Target verticals for DePIN infrastructure.
 
-[^166]: [Staex Official](https://staex.io) - "Autonomous mobility."
+[^166]: [Staex MINT Project](https://www.staex.io/mint) - Autonomous mobility focus demonstrated via bus fleet projects.
 
-[^167]: [Staex Official](https://staex.io) - "Industrial networks."
+[^168]: [Staex MINT Project](https://www.staex.io/mint) - Public transport focus: buses, trams, rail systems.
 
-[^168]: [Staex Official](https://staex.io) - "Public transport."
+[^169]: [Linera Partnership](https://linera.io/news/linera-x-staex) - Logistics and fleet management applications.
 
-[^169]: [Staex Official](https://staex.io) - "Logistics."
+[^170]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - Energy and smart grid applications.
 
-[^170]: [Staex Official](https://staex.io) - "Energy fleets."
-
-[^171]: [Staex Official](https://staex.io) - "Physical AI systems."
+[^171]: [Breaking DePIN 2025](https://www.breakingdepin.ch/schedule.html) - Physical AI systems: "Trusted Data Networks: Building the Backbone of DePIN and Physical AI."
 
 [^172]: [Staex NEXA](https://www.staex.io/nexa) - European focus through NEXA and partnerships.
 
-[^173]: [Staex Official](https://staex.io) - "Bus2, UnB partnership for Brasilia demo October 2025."
+[^173]: Interview with Staex CEO by Maze2 SA CEO (December 2025) - Bus2/UnB partnership for Brasilia demonstration planned October 2025.
 
-[^174]: Blockchain ecosystem partnerships - Global reach through decentralized networks.
+[^174]: Multiple external sources: [peaq](https://www.peaq.xyz/blog/staex-joins-the-peaqosystem), [Linera](https://linera.io/news/linera-x-staex), [Messari U2U](https://messari.io/report/state-of-u2u-q3-2025) - Global reach via blockchain ecosystem partnerships.
 
 [^175]: [Chainwire](https://chainwire.org/2024/01/25/staex-joins-peaq-as-a-networking-and-indexing-layer-for-depin/) - DePIN market context.
 
-[^176]: [Staex Official](https://staex.io) - Cloud provider dependency issues.
+[^176]: [Berlin Deep Tech Interview](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - Cloud provider dependency and centralization issues in traditional IoT.
 
 [^177]: [Chainwire](https://chainwire.org/2024/01/25/staex-joins-peaq-as-a-networking-and-indexing-layer-for-depin/) - 75 billion devices projection.
 
@@ -875,7 +841,7 @@ The machine economy thesis—75 billion connected devices requiring secure, veri
 
 [^182]: [Berlin Deep Tech](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - Legacy protocol encryption.
 
-[^183]: Multiple blockchain integrations documented across peaq, ICP, Lisk, Solana, U2U, Linera partnerships.
+[^183]: Multiple external sources documenting blockchain integrations: [peaq](https://www.peaq.xyz/blog/staex-joins-the-peaqosystem), [DFINITY Forum](https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723), [Lisk](https://lisk.com/blog/posts/2024-recap/), [Linera](https://linera.io/news/linera-x-staex), [Messari U2U](https://messari.io/report/state-of-u2u-q3-2025).
 
 [^184]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - "Patented cutting-edge technology."
 
@@ -887,86 +853,84 @@ The machine economy thesis—75 billion connected devices requiring secure, veri
 
 [^188]: [Berlin Deep Tech](https://www.berlin.de/deeptech/en/blog/artikel.1451680.en.php) - 100 applicants for award.
 
-[^189]: Multiple project deployments - NEXA, Vantage Towers, MIBO.
+[^189]: Multiple external sources: [Staex NEXA](https://www.staex.io/nexa), [Tower Exchange](https://www.towerxchange.com/article/2dcq12ehr996dmaszte68/monetising-towers-as-drone-delivery-platforms), [Staex MINT](https://www.staex.io/mint) - Project deployments across NEXA drone corridor, Vantage Towers, MIBO bus fleet.
 
-[^190]: Enterprise partnerships with Vantage Towers, REWE (paymenttools).
+[^190]: [Tower Exchange](https://www.towerxchange.com/article/2dcq12ehr996dmaszte68/monetising-towers-as-drone-delivery-platforms) - Enterprise partnerships with Vantage Towers; [Staex NEXA](https://www.staex.io/nexa) - REWE Group (paymenttools).
 
-[^191]: Multi-blockchain strategy across six+ chains.
+[^191]: See footnote ^183 - Multi-blockchain strategy documented across peaq, ICP, Lisk, Solana, U2U, Linera partnerships.
 
 [^192]: [Paris Blockchain Week](https://tickets.parisblockchainweek.com/2025/speaker/1651689/alexandra-mikityuk) - PhD leadership credentials.
 
-[^193]: Pre-Series A stage with €1.65M confirmed funding.
+[^193]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - Seed/Pre-Series A stage with €1.65M confirmed funding.
 
-[^194]: No token announced as of December 2025.
+[^194]: Interview with Staex CEO by Maze2 SA CEO (December 2025) - No token announced; confirmed by social media analysis of @Staex_io.
 
-[^195]: Enterprise B2B sales cycle considerations.
+[^195]: Editorial analysis - Enterprise B2B sales cycles typically longer than retail adoption in DePIN sector.
 
-[^196]: DePIN market competitive landscape.
+[^196]: [Messari DePIN Reports](https://messari.io/report-category/depin) - DePIN market competitive landscape context.
 
-[^197]: Execution risk in scaling pilots.
+[^197]: Editorial analysis - Execution risk inherent in scaling from pilot to production deployments.
 
-[^198]: Series A as validation milestone.
+[^198]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - Seed funding completion as validation milestone.
 
-[^199]: Potential token launch consideration.
+[^199]: Editorial analysis - Token launch would create public market access; no announcement as of December 2025.
 
-[^200]: MINT production scaling target.
+[^200]: [Staex MINT Project](https://www.staex.io/mint) - MINT production scaling target from 150-bus pilot.
 
-[^201]: [Linera News](https://linera.io/news/linera-x-staex) - 100+ bus deployment plan.
+[^201]: [Linera News](https://linera.io/news/linera-x-staex) - 100+ bus production deployment plan following pilot.
 
-[^202]: [TechBullion](https://techbullion.com/chirp-partners-with-staex-to-deploy-iot-connectivity-across-200000-municipal-buses/) - 200,000 bus target.
+[^203]: Interview with Staex CEO by Maze2 SA CEO (December 2025) - Brasilia demonstration planned October 2025 via Bus2/UnB partnership.
 
-[^203]: [Staex Official](https://staex.io) - Brasilia October 2025 demo.
+[^204]: [Twitter @Staex_io](https://twitter.com/Staex_io) - Social media analysis indicates early community-building phase.
 
-[^204]: Social media analysis - Early community stage.
+[^205]: [Twitter @Staex_io](https://twitter.com/Staex_io) - Official Staex account for announcements.
 
-[^205]: [Twitter @Staex_io](https://twitter.com/Staex_io) - Official account.
-
-[^206]: Community observation - Discord <100 members.
+[^206]: Interview with Staex CEO by Maze2 SA CEO (December 2025) - Discord community newly opened with <100 members.
 
 [^207]: [LinkedIn](https://linkedin.com/company/staex) - Company page.
 
 [^208]: [GitHub staex-io](https://github.com/staex-io) - Open source projects.
 
-[^209]: [Staex Official](https://staex.io) - Key messaging themes.
+[^209]: [Twitter @Staex_io](https://twitter.com/Staex_io) - Key messaging themes from official communications.
 
-[^210]: [Staex Official](https://staex.io) - "Verifiable real-world data signals."
+[^210]: [Breaking DePIN 2025](https://www.breakingdepin.ch/schedule.html) - "Verifiable real-world data signals" for Physical AI applications.
 
-[^211]: [Staex Official](https://staex.io) - Machine economy messaging.
+[^211]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - Machine economy messaging: "global machine-to-machine economy."
 
-[^212]: [Staex Official](https://staex.io) - "Tamper-proof logging."
+[^212]: [Berlin Deep Tech Interview](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - Tamper-proof logging capabilities.
 
-[^213]: [Staex Official](https://staex.io) - "No cloud lock-ins."
+[^213]: [Chainwire](https://chainwire.org/2024/01/25/staex-joins-peaq-as-a-networking-and-indexing-layer-for-depin/) - No cloud lock-ins: direct peer-to-peer connectivity.
 
-[^214]: German regulatory environment analysis.
+[^214]: [Berlin Deep Tech Interview](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - German regulatory environment favorable for deep tech; government recognition via Berlin Partner.
 
-[^215]: [Tower Exchange](https://www.towerxchange.com/article/2dcq12ehr996dmaszte68/monetising-towers-as-drone-delivery-platforms) - Secretary of State inauguration.
+[^215]: [Tower Exchange](https://www.towerxchange.com/article/2dcq12ehr996dmaszte68/monetising-towers-as-drone-delivery-platforms) - Secretary of State Dr. Severin Fischer inauguration.
 
-[^216]: [Staex NEXA](https://www.staex.io/nexa) - "Lighthouse project by Berlin Partner."
+[^216]: [Staex NEXA](https://www.staex.io/nexa) - "Lighthouse project by Berlin Partner" designation.
 
-[^217]: EU digital sovereignty alignment.
+[^217]: Editorial analysis - EU digital sovereignty initiatives align with decentralized infrastructure goals.
 
-[^218]: Zero-trust architecture aligns with GDPR principles.
+[^218]: [Berlin Deep Tech Interview](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - Zero-trust architecture ("block all traffic by default") aligns with GDPR data protection principles.
 
-[^219]: [Tower Exchange](https://www.towerxchange.com/article/2dcq12ehr996dmaszte68/monetising-towers-as-drone-delivery-platforms) - "Discussions with German authorities."
+[^219]: [Tower Exchange](https://www.towerxchange.com/article/2dcq12ehr996dmaszte68/monetising-towers-as-drone-delivery-platforms) - "Discussions with German authorities" for permanent drone corridors.
 
-[^220]: MiCA compliance consideration if token launched.
+[^220]: Editorial analysis - MiCA compliance would be required if token launched in EU jurisdiction.
 
-[^221]: Source methodology for seed-stage company.
+[^221]: Editorial note - Source methodology adapted for seed-stage company without on-chain metrics; relies on news, partnerships, and official announcements.
 
-[^222]: B2B infrastructure - no TVL metrics.
+[^222]: Editorial note - B2B infrastructure company; no TVL metrics applicable (not a DeFi protocol).
 
-[^223]: No token data available.
+[^223]: Interview with Staex CEO by Maze2 SA CEO (December 2025) - No token data available; token not announced.
 
-[^224]: MN Capital amount undisclosed.
+[^224]: [Staex Post - MN Capital](https://www.staex.io/post/staex-receives-investment-from-mn-capital) - MN Capital investment amount undisclosed.
 
-[^225]: Forward-looking targets (200,000 buses).
+[^225]: Editorial note - Forward-looking projections based on partnership announcements; actual deployment timelines may vary.
 
-[^226]: Strategic positioning analysis.
+[^226]: Editorial analysis - Strategic positioning based on Deutsche Telekom heritage and multi-blockchain integrations documented in this report.
 
-[^227]: Execution capability demonstrated through NEXA.
+[^227]: [Berlin Deep Tech Winners](https://www.berlin.de/deeptech/en/blog/artikel.1466383.en.php) - Execution capability demonstrated through NEXA drone corridor and Deep Tech Award 2024.
 
-[^228]: Differentiator summary.
+[^228]: Editorial summary - Key differentiators: zero-trust architecture, legacy protocol support, B2B focus. Sources: [Berlin Deep Tech](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php), [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/).
 
-[^229]: Investor monitoring recommendations.
+[^229]: Editorial recommendations - Monitor: pilot-to-production scaling, seed funding completion, token launch decisions.
 
-[^230]: TAM thesis based on 75 billion device projection.
+[^230]: [Chainwire](https://chainwire.org/2024/01/25/staex-joins-peaq-as-a-networking-and-indexing-layer-for-depin/) - TAM thesis: "75 billion machine connections by 2030."
