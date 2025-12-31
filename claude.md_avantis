@@ -1,0 +1,253 @@
+# Claude Context: Avantis Protocol
+
+**Purpose**: Protocol-specific context for Avantis report updates. Contains verified data sources, common mistakes to avoid, and key facts.
+
+**Last Verified**: December 31, 2025
+**Report Version**: 1.0 (needs upgrade to 55+ footnotes, all cited in body)
+
+---
+
+## CRITICAL: Use ALL Free APIs
+
+### API Endpoints for Avantis
+
+| API | Endpoint | Slug/Notes |
+|-----|----------|------------|
+| DefiLlama TVL | `https://api.llama.fi/protocol/avantis` | avantis |
+| DefiLlama Fees | `https://api.llama.fi/summary/fees/avantis` | Includes revenue |
+| CoinGecko Token | `https://api.coingecko.com/api/v3/coins/avantis` | AVNT token |
+
+### Contract Addresses
+
+| Item | Address | Chain |
+|------|---------|-------|
+| avUSDC Vault | Check Avantis docs | Base |
+| AVNT Token | Check CoinGecko | Base/Arbitrum |
+
+**Note:** Avantis is primarily on Base chain now (after unified vault transition).
+
+---
+
+## Latest Verified Data (December 31, 2025)
+
+### From DefiLlama API (`api.llama.fi/protocol/avantis`)
+
+| Metric | Value |
+|--------|-------|
+| **Total TVL** | $102.9M |
+| **Base TVL** | $102.9M |
+| **Category** | Derivatives |
+| **Audits** | 2 (Zellic) |
+
+### From DefiLlama Fees API (`api.llama.fi/summary/fees/avantis`)
+
+| Metric | Value |
+|--------|-------|
+| **24h Fees** | $95K |
+| **7d Fees** | $687K |
+| **30d Fees** | $1.85M |
+| **All-Time Fees** | $16.55M |
+
+### From CoinGecko API (`api.coingecko.com/api/v3/coins/avantis`)
+
+| Metric | Value |
+|--------|-------|
+| **AVNT Price** | $0.365 |
+| **Market Cap** | $94.4M |
+| **FDV** | $365.5M |
+| **24h Volume** | $49.1M |
+| **Circulating Supply** | 258.2M AVNT |
+| **Total Supply** | 1B AVNT |
+| **24h Change** | -6.61% |
+| **7d Change** | -1.45% |
+| **ATH** | $2.64 |
+| **ATL** | $0.188 |
+
+---
+
+## Key Protocol Facts
+
+### What Avantis Is
+- **Type**: Perpetual DEX with unified liquidity vault
+- **Chain**: Base (primary), previously Arbitrum
+- **Launch**: 2024
+- **Model Change**: October 14, 2025 - Dual vault → Unified avUSDC vault
+
+### Major Pivot (October 2025)
+**From Dual-Vault to Unified Vault:**
+
+OLD MODEL (Pre-Oct 2025):
+- Senior Vault: Lower risk, lower returns, first-loss protection
+- Junior Vault: Higher risk, higher returns, absorbed losses first
+- Fee split: 60% to LPs, 40% to treasury
+
+NEW MODEL (Post-Oct 2025):
+- Single avUSDC vault
+- All liquidity providers equal treatment
+- 100% of trading fees → vault LPs
+
+### Fee Structure
+- **Trading Fee**: 0.06% per trade (6 basis points)
+- **Fee Distribution**: 100% to avUSDC vault LPs
+- **Protocol Revenue**: $0 currently (all to LPs)
+
+### Products
+1. **Perpetual Futures** - Crypto, RWA (gold, oil), forex
+2. **avUSDC Vault** - Unified liquidity provider vault
+3. **AVNT Token** - Governance (no revenue share currently)
+
+---
+
+## Revenue Calculation (SHOW YOUR WORK)
+
+**Current Calculation (at $102.9M TVL, $1.85M 30d fees):**
+
+```
+Step 1: Fees from DefiLlama API
+  - 30-day fees: $1.85M
+  - Annualized: $1.85M × 12 = $22.2M
+
+Step 2: Revenue distribution
+  - 100% of fees go to avUSDC vault LPs
+  - Protocol treasury: $0 (all to LPs)
+
+Step 3: LP Yield calculation
+  - Annual fee yield: $22.2M / $102.9M TVL = 21.6% APY
+  - Plus net P&L from trader positions (variable)
+  - Total estimated APY: 25-35%
+
+RESULT: ~21.6% APY from fees alone, 25-35% total estimated
+```
+
+**Note:** Actual LP returns vary based on trader P&L. When traders lose, LPs gain additional returns.
+
+---
+
+## CRITICAL: ALWAYS VERIFY TRAINING DATA
+
+**LLM training data may be stale. ALWAYS fetch live data via APIs before using any metric.**
+
+For Avantis specifically:
+1. **DefiLlama API** → `api.llama.fi/protocol/avantis` for TVL
+2. **DefiLlama Fees** → `api.llama.fi/summary/fees/avantis` for fees/revenue
+3. **CoinGecko API** → `api.coingecko.com/api/v3/coins/avantis` for AVNT token
+
+**Never use LLM memory for:** TVL, token price, market cap, fees, trading volume
+
+**If API is unavailable:** Use WebSearch/WebFetch to cross-reference, flag with ⚠️ UNVERIFIED
+
+---
+
+## MISTAKES TO AVOID
+
+### 1. TVL Source Error
+**What happened**: Old report cited $85M TVL (peak 2024), current is $102.9M
+**Root cause**: Using outdated/cached data
+**Fix**: ALWAYS fetch from DefiLlama API first
+
+### 2. Old Vault Model Confusion
+**What happened**: Describing junior/senior vault when model has changed
+**Root cause**: Not accounting for October 2025 unified vault transition
+**Fix**: Clearly note OLD MODEL vs NEW MODEL (post-Oct 2025)
+
+### 3. Fee Distribution Error
+**What happened**: Saying 60/40 split when it's now 100% to LPs
+**Root cause**: Using pre-October 2025 information
+**Fix**: Current model is 100% of fees to avUSDC vault
+
+### 4. Chain Confusion
+**What happened**: Saying "Arbitrum + Base" when Avantis is now Base-only
+**Root cause**: Historical multi-chain deployment
+**Fix**: Verify current chain via DefiLlama `currentChainTvls`
+
+---
+
+## Update Checklist
+
+Before publishing any Avantis update:
+
+1. **Fetch from DefiLlama API:**
+   - [ ] `api.llama.fi/protocol/avantis` for TVL
+   - [ ] `api.llama.fi/summary/fees/avantis` for fees/revenue
+   - Extract: TVL by chain, 24h/7d/30d fees, all-time fees
+
+2. **Fetch from CoinGecko API:**
+   - [ ] `api.coingecko.com/api/v3/coins/avantis` for AVNT token
+   - Extract: Price, market cap, FDV, volume, supply, ATH/ATL
+
+3. **Update report metrics:**
+   - [ ] TVL (currently $102.9M on Base)
+   - [ ] Fee data (24h, 7d, 30d, all-time)
+   - [ ] AVNT token price and market cap
+   - [ ] Recalculate LP yield estimates
+
+4. **Update footnotes:**
+   - [ ] Note "retrieved via [API name] API" for all API data
+   - [ ] Add 🔷 HARD DATA markers
+
+5. **Citation check:**
+   - [ ] Every footnote `[^N]:` has at least one `[^N]` reference in body
+   - [ ] Run: `grep -o '\[\^[0-9]*\]' avantis.md | sort -u | wc -l`
+   - [ ] Result should be 55+ (matching footnote count)
+
+6. **Quality check:**
+   - [ ] All numbers consistent across report
+   - [ ] Unified vault model (not dual vault) correctly described
+   - [ ] 100% fee to LPs noted (not 60/40 split)
+
+---
+
+## Official Resources
+
+- **Website**: https://www.avantis.fi/
+- **Documentation**: https://docs.avantis.fi/
+- **Twitter**: @AvantisLabs
+- **GitHub**: https://github.com/Avantis-Labs
+
+---
+
+## Key Partnerships & Integrations
+
+| Partner | Type | Details |
+|---------|------|---------|
+| **Base** | Primary Chain | Exclusive deployment post-Oct 2025 |
+| **Chainlink** | Oracle | Price feeds for perpetuals |
+| **Zellic** | Security | 2 audits completed |
+
+---
+
+## Competitive Landscape
+
+| Protocol | Fee | LP Fee Share | Model |
+|----------|-----|--------------|-------|
+| **Avantis** | 0.06% | 100% | Unified vault |
+| **GMX** | 0.10% | 70% | GLP pool |
+| **dYdX** | 0.05-0.20% | N/A | Order book |
+| **Gains Network** | 0.08% | 90% | DAI vault |
+
+---
+
+## Report History
+
+| Version | Date | Changes |
+|---------|------|---------|
+| 1.0 | Dec 29, 2025 | Initial report (5 footnotes, no inline citations) |
+| 2.0 | (Pending) | Add 55+ footnotes with inline citations |
+
+---
+
+## Source Ratings
+
+| Source | Rating | Notes |
+|--------|--------|-------|
+| DefiLlama API | ⭐⭐⭐⭐⭐ | Official on-chain TVL/fees data |
+| CoinGecko API | ⭐⭐⭐⭐⭐ | Official market data |
+| Avantis Docs | ⭐⭐⭐⭐⭐ | Official protocol documentation |
+| Zellic Audit | ⭐⭐⭐⭐⭐ | Security audit reports |
+| Invezz | ⭐⭐⭐ | News coverage |
+| Phemex Academy | ⭐⭐⭐ | Educational content |
+| Binance Academy | ⭐⭐⭐⭐ | Educational content |
+
+---
+
+*This file is gitignored and stays local. Update after each report revision.*

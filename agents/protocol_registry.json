@@ -25,6 +25,19 @@
       "notes": "Token not launched (TGE pending Q4 2025), no CoinGecko data yet"
     },
     {
+      "name": "Avantis",
+      "slug": "avantis",
+      "context_file": "claude.md_avantis",
+      "report_file": "case_studies/protocols/avantis.md",
+      "apis": {
+        "defillama_tvl": "https://api.llama.fi/protocol/avantis",
+        "defillama_fees": "https://api.llama.fi/summary/fees/avantis",
+        "coingecko": "https://api.coingecko.com/api/v3/coins/avantis"
+      },
+      "enabled": true,
+      "notes": "Unified vault model (Oct 2025), Base-only deployment"
+    },
+    {
       "name": "Aave",
       "slug": "aave",
       "context_file": "claude.md_aave",
