@@ -136,6 +136,19 @@
       "notes": "Solana DEX with DLMM (Dynamic Liquidity Market Maker), Dynamic Vaults, and Memecoin Launchpad. TVL $544M."
     },
     {
+      "name": "Spark",
+      "slug": "spark",
+      "context_file": "claude.md_spark",
+      "report_file": "case_studies/protocols/spark.md",
+      "apis": {
+        "defillama_tvl": "https://api.llama.fi/protocol/spark",
+        "defillama_fees": "https://api.llama.fi/summary/fees/spark",
+        "coingecko_spk": "https://api.coingecko.com/api/v3/coins/spark-2"
+      },
+      "enabled": true,
+      "notes": "Sky (MakerDAO) lending protocol. Aave v3 fork with Sky integration. TVL $7.3B across 7 chains. CRITICAL: Use spark-2 for CoinGecko."
+    },
+    {
       "name": "Aave",
       "slug": "aave",
       "context_file": "claude.md_aave",
