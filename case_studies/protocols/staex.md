@@ -142,9 +142,9 @@ Generative Ventures, the early-stage venture firm specializing in the machine ec
 
 ## Technology Architecture
 
-### Three-Layer Stack
+### Two-Layer Stack
 
-Staex's production-ready connectivity stack is structured in three layers[^61]:
+Staex's production-ready connectivity stack is structured in two layers[^61]:
 
 #### 1. Connectivity Layer
 
@@ -165,19 +165,10 @@ Staex's production-ready connectivity stack is structured in three layers[^61]:
 | **Tamper-Proof Logging** | Verifiable, immutable event records[^69] |
 | **On-Device Signing** | Private keys remain on device[^70] |
 
-#### 3. Smart Billing Layer
-
-| Feature | Description |
-|---------|-------------|
-| **Usage Tracking** | Granular metering of connectivity[^71] |
-| **Automated Policies** | Rule-based billing automation[^72] |
-| **Transparent Costs** | Clear cost management[^73] |
-| **On-Chain Invoicing** | Blockchain-based invoice settlement[^74] |
-
 ### Key Technical Differentiators
 
 1. **Legacy Protocol Encryption**: Secures outdated IoT protocols that can't be updated[^75]
-2. **5x Lower Footprint**: More lightweight than Kubernetes alternatives[^76]
+2. **5x Lower Footprint**: More lightweight than standard container orchestration alternatives[^76]
 3. **VPN Alternative**: Works with devices that can't run VPNs (smart meters, IP cameras, EV chargers)[^77]
 4. **Master-less Architecture**: No central point of failure[^78]
 5. **Privacy-First**: Only public keys stored on-chain; private keys stay with device owners[^79]
@@ -266,16 +257,15 @@ NEXA is a pioneering public-private partnership demonstrating machine-to-machine
 | **Location** | Marienpark, Berlin[^113] |
 | **Inaugurated by** | Dr. Severin Fischer, German Secretary of State[^114] |
 
-**NEXA Partners** (9 organizations)[^115]:
+**NEXA Partners** (8 organizations)[^115]:
 1. Vantage Towers - Europe's leading tower operator (84,000+ sites)[^116]
 2. paymenttools (REWE Group) - Payment infrastructure[^117]
 3. Berlin Partner - Economic development agency[^118]
-4. Chirp Wireless - DePIN network (50+ countries)[^119]
-5. Lisk - Blockchain infrastructure[^120]
-6. Internet Computer (ICP) - Decentralized compute[^121]
-7. Germandrones - Drone hardware[^122]
-8. The Drivery - Mobility innovation hub[^123]
-9. Marienpark - Launch venue[^124]
+4. Lisk - Blockchain infrastructure[^120]
+5. Internet Computer (ICP) - Decentralized compute[^121]
+6. Germandrones - Drone hardware[^122]
+7. The Drivery - Mobility innovation hub[^123]
+8. Marienpark - Launch venue[^124]
 
 **Achievement**: World's first Web3-operated drone corridor[^125]. During the demonstration, a Songbird drone filmed the event, with the video instantly available for purchase and authenticity verified via Lisk blockchain[^126].
 
@@ -298,26 +288,6 @@ The MINT project brings trusted telemetry to public transport[^130]:
 - Metadata (passenger count, CO2 values) stored on decentralized ledger
 - Immutable, manipulation-proof record keeping
 
-### PANTER Platform
-
-PANTER enables new business models for transport operators[^137]:
-
-- Real-time data capture from vehicles and infrastructure[^138]
-- Secure machine-to-machine transactions[^139]
-- Automated invoicing, auditing, and certification[^140]
-- Revenue stream unlocking for public and commercial transport[^141]
-
-### Chirp Partnership (200,000 Buses)
-
-Staex partnered with Chirp for one of the largest decentralized infrastructure deployments globally[^142]:
-
-| Metric | Value |
-|--------|-------|
-| **Target Scale** | Up to 200,000 municipal buses[^143] |
-| **Devices per Vehicle** | Up to 12 IoT sensors[^144] |
-| **Data Collected** | Air quality, temperature, humidity, movement[^145] |
-| **Chirp Network** | 50+ countries, 476+ Blackbird Miners, 1.2M+ IoT devices[^146] |
-
 ### Vehicle Tracking System (VTS)
 
 Built on Internet Computer, VTS provides[^147]:
@@ -326,7 +296,6 @@ Built on Internet Computer, VTS provides[^147]:
 - Decentralized telemetry signing and storage[^149]
 - On-chain contract agreements between parties[^150]
 - Automated invoice generation via ICP canisters[^151]
-- Remote vehicle functionality control based on payment status[^152]
 
 **Current Status**: Proof of concept complete, proceeding to hardware integration and customer testing[^153].
 
@@ -366,11 +335,10 @@ Strategic partnership for drone integration[^162]:
 Staex targets sectors requiring secure, verifiable machine communication[^165]:
 
 1. **Autonomous Mobility**: Self-driving vehicles, delivery robots[^166]
-2. **Industrial Networks**: Factory automation, IIoT[^167]
-3. **Public Transport**: Buses, trams, rail systems[^168]
-4. **Logistics**: Fleet management, supply chain[^169]
-5. **Energy**: Smart grids, EV charging infrastructure[^170]
-6. **Physical AI**: AI systems interfacing with real-world machines[^171]
+2. **Public Transport**: Buses, trams, rail systems[^168]
+3. **Logistics**: Fleet management, supply chain[^169]
+4. **Energy**: Smart grids, EV charging infrastructure[^170]
+5. **Physical AI**: AI systems interfacing with real-world machines[^171]
 
 ### Geographic Focus
 
@@ -394,7 +362,7 @@ The Decentralized Physical Infrastructure Network (DePIN) sector addresses real-
 
 | Advantage | Description |
 |-----------|-------------|
-| **Deutsche Telekom Heritage** | Technology proven in major telco R&D before spinout[^179] |
+| **Deutsche Telekom Heritage** | Technology proven in major telco R&D before management buyout[^179] |
 | **Zero-Trust Architecture** | Security-first design, not bolted on afterward[^180] |
 | **B2B Focus** | Enterprise customers (Vantage Towers), not retail[^181] |
 | **Legacy Protocol Support** | Can secure devices that can't be updated[^182] |
@@ -431,12 +399,11 @@ The Decentralized Physical Infrastructure Network (DePIN) sector addresses real-
 
 ### Milestones to Watch
 
-1. **Series A Funding**: Will validate market traction and extend runway[^198]
+1. **Seed Funding Completion**: Will validate market traction and extend runway[^198]
 2. **Token Launch**: If announced, creates public market access[^199]
 3. **MINT Production**: Moving from 150-bus pilot to scale deployment[^200]
 4. **Linera Production**: 100+ bus deployment following pilot[^201]
-5. **Chirp Scale**: Progress toward 200,000 bus target[^202]
-6. **Brasilia Demo**: Latin America expansion (October 2025)[^203]
+5. **Brasilia Demo**: Latin America expansion (October 2025)[^203]
 
 ---
 
@@ -512,7 +479,7 @@ This report relies on the following source types (Staex has no API data availabl
 
 Staex represents a compelling play on DePIN infrastructure with unique advantages from its Deutsche Telekom heritage and multi-blockchain integration strategy[^226]. While still at seed stage with limited public funding data, the company has demonstrated execution capability through the NEXA drone corridor, strategic partnerships with Vantage Towers and major blockchain ecosystems, and recognition from German government and deep tech award programs[^227].
 
-Key differentiators include the zero-trust security architecture, ability to secure legacy IoT protocols, and enterprise B2B focus rather than retail speculation[^228]. Investors and ecosystem participants should monitor the company's progression from pilot deployments (MINT, Linera) to production scale, Series A funding timeline, and potential token launch decisions[^229].
+Key differentiators include the zero-trust security architecture, ability to secure legacy IoT protocols, and enterprise B2B focus rather than retail speculation[^228]. Investors and ecosystem participants should monitor the company's progression from pilot deployments (MINT, Linera) to production scale, seed funding completion, and potential token launch decisions[^229].
 
 The machine economy thesis—75 billion connected devices requiring secure, verifiable communication by 2030—provides a substantial TAM if Staex can capture meaningful market share in enterprise DePIN infrastructure[^230].
 
