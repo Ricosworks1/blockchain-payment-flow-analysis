@@ -4,7 +4,7 @@
 
 ## Executive Summary
 
-Staex is a Berlin-based deep tech company building decentralized infrastructure for the machine economy[^1]. Originally developed at Deutsche Telekom Innovation Labs (T-Labs)[^2], Staex was spun out as an independent venture in 2021[^3] and has since established itself as a leading provider of secure, zero-trust networking for IoT devices and Decentralized Physical Infrastructure Networks (DePIN)[^4]. The platform enables machines to communicate securely, produce verifiable data, and execute autonomous transactions without cloud dependencies[^5].
+Staex is a Potsdam-based deep tech company building decentralized infrastructure for Physical AI and the machine economy[^1]. Originally developed at Deutsche Telekom Innovation Labs (T-Labs)[^2], Staex was acquired through a management buyout in 2021[^3] and has since established itself as a leading provider of secure, zero-trust networking for IoT devices, Physical AI systems, and Decentralized Physical Infrastructure Networks (DePIN)[^4]. The platform enables machines to communicate securely, produce verifiable data, and execute autonomous transactions without cloud dependencies[^5].
 
 With strategic partnerships spanning major blockchain ecosystems including peaq[^6], Internet Computer (ICP)[^7], Lisk[^8], Solana[^9], U2U Network[^10], and Linera[^11], Staex is positioning itself at the intersection of industrial IoT and Web3 infrastructure[^12]. The company led the NEXA consortium that deployed the world's first Web3-operated drone corridor in Berlin in May 2024[^13], winning the Berlin Deep Tech Award 2024 in the Web3 category[^14].
 
@@ -17,11 +17,12 @@ With strategic partnerships spanning major blockchain ecosystems including peaq[
 | **Company Stage** | Seed / Pre-Series A | [^15] |
 | **Total Funding** | €1.65M+ (pre-seed confirmed) | [^16] |
 | **Founded** | 2021 | [^17] |
-| **Headquarters** | Berlin, Germany | [^18] |
-| **Origin** | Deutsche Telekom T-Labs spinout | [^19] |
+| **Headquarters** | Potsdam, Germany | [^18] |
+| **Origin** | Deutsche Telekom T-Labs management buyout | [^19] |
 | **Token Status** | No token announced | [^20] |
-| **Category** | DePIN / IoT Infrastructure | [^21] |
+| **Category** | Physical AI / DePIN / IoT Infrastructure | [^21] |
 | **Key Recognition** | Berlin Deep Tech Award 2024 | [^22] |
+| **Webthreepedia Report** | [Staex Analysis](https://webthreepedia.com) | [^22a] |
 
 **Note**: Staex is a seed-stage B2B infrastructure company. Unlike DeFi protocols, there is no TVL, token market cap, or on-chain trading metrics to report. Data sources are primarily news, partnerships, and official announcements.
 
@@ -33,7 +34,7 @@ With strategic partnerships spanning major blockchain ecosystems including peaq[
 
 Staex's technology development began in 2017 at Deutsche Telekom Innovation Laboratories (T-Labs)[^23], the R&D arm of Europe's largest telecommunications company. The founding team spent four years developing secure, blockchain-integrated networking solutions for IoT devices before executing a management buyout in 2021 to form Staex GmbH[^24].
 
-The company is headquartered in Berlin and operates from The Drivery co-working space[^25], a mobility-focused innovation hub. This origin story provides Staex with unique credibility—the core technology was validated within one of Europe's largest telcos before becoming an independent venture[^26].
+The company is headquartered in Potsdam, Germany[^25]. Previously, Staex operated from The Drivery co-working space in Berlin, a mobility-focused innovation hub that has since closed[^25a]. This origin story provides Staex with unique credibility—the core technology was validated within one of Europe's largest telcos before becoming an independent venture through management buyout[^26].
 
 ### Vision: The Machine Economy
 
@@ -57,9 +58,9 @@ Dr. Mikityuk brings deep expertise in cryptography and distributed systems[^34]:
 | Background | Details |
 |------------|---------|
 | **Education** | PhD from TU Berlin[^35] |
-| **Academic Role** | Professor of Cryptography at Flensburg University of Applied Sciences[^36] |
+| **Academic Role** | Professor for Computer Science of Communication Technology at HTW Berlin[^36] |
 | **Deutsche Telekom** | Head of Blockchain Group at T-Labs (2017-2021)[^37] |
-| **Focus Areas** | Decentralized systems, blockchain, security[^38] |
+| **Focus Areas** | Decentralized systems, blockchain, security, Physical AI[^38] |
 
 ### Philip Toepffer - CFO & Co-Founder
 
@@ -524,23 +525,27 @@ The machine economy thesis—75 billion connected devices requiring secure, veri
 
 [^17]: [Crunchbase](https://www.crunchbase.com/person/alexandra-mikityuk) - Founded 2021.
 
-[^18]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - "Berlin-based Staex."
+[^18]: Interview with Staex CEO Dr. Alexandra Mikityuk by Maze2 SA CEO (December 2025) - Headquarters confirmed as Potsdam, Germany.
 
 [^19]: [Berlin Deep Tech](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - "Staex originated as a management buyout from Deutsche Telekom."
 
 [^20]: Social media analysis - No token announcements as of December 2025.
 
-[^21]: [peaq Blog](https://www.peaq.xyz/blog/staex-joins-the-peaqosystem) - DePIN infrastructure provider classification.
+[^21]: [Breaking DePIN 2025](https://www.breakingdepin.ch/schedule.html) - Staex presenting "Trusted Data Networks: Building the Backbone of DePIN and Physical AI" at Physical AI UnConference, Zurich, September 2025. Physical AI category confirmed via interview with Staex CEO by Maze2 SA CEO.
 
 [^22]: [Berlin Deep Tech Winners](https://www.berlin.de/deeptech/en/blog/artikel.1466383.en.php) - Deep Tech Award 2024 winner in Web3 category.
+
+[^22a]: Interview with Staex CEO Dr. Alexandra Mikityuk by Maze2 SA CEO (December 2025) - Report published on webthreepedia.com.
 
 [^23]: [Staex VTS Forum](https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723) - "Staex's technology development started in 2017 in Telekom Innovation Laboratories."
 
 [^24]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - Management buyout from Deutsche Telekom.
 
-[^25]: [Berlin Deep Tech Interview](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - Operates from The Drivery co-working space.
+[^25]: Interview with Staex CEO Dr. Alexandra Mikityuk by Maze2 SA CEO (December 2025) - Headquarters confirmed as Potsdam, Germany.
 
-[^26]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - "Product is based on a patented cutting-edge technology."
+[^25a]: Interview with Staex CEO by Maze2 SA CEO (December 2025) - The Drivery co-working space in Berlin has closed; Staex was always headquartered in Potsdam but previously operated from The Drivery.
+
+[^26]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - "Product is based on a patented cutting-edge technology." Management buyout confirmed.
 
 [^27]: [Chainwire](https://chainwire.org/2024/01/25/staex-joins-peaq-as-a-networking-and-indexing-layer-for-depin/) - "75 billion machine connections by 2030."
 
@@ -560,7 +565,7 @@ The machine economy thesis—75 billion connected devices requiring secure, veri
 
 [^35]: [Best of Blockchain](https://bestofblockchain.io/en/team/dr-alexandra-mikityuk-2/) - "PhD at TU Berlin."
 
-[^36]: [StartUp Days Lübeck](https://startup-days.de/speaker/prof-dr-alexandra-mikityuk/) - "Professor of Cryptography at Flensburg University."
+[^36]: [HTW Berlin Faculty Page](https://www.htw-berlin.de/hochschule/personen/person/?eid=15015) - Dr.-Ing. Alexandra Mikityuk, Professor for Computer Science of Communication Technology, Faculty of Engineering Sciences - Energy and Information. Research focus: Security, Blockchain and Web3.
 
 [^37]: [AI Berlin](https://ai-berlin.com/blog/article/paksy-plackis-cheng-founder-impactmania-chief-strategy-officer-co-founder-staex) - "Led the Blockchain Group at Deutsche Telekom Innovation Labs."
 
