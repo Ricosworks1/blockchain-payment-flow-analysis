@@ -71,6 +71,23 @@
       "notes": "Industry analysis covering CEX/DEX launchpads, Pump.fun, Jupiter LFG, Raydium, DAO Maker, Polkastarter, Seedify"
     },
     {
+      "name": "Prediction Markets",
+      "slug": "prediction_markets",
+      "context_file": "claude.md_prediction_markets",
+      "report_file": "case_studies/protocols/prediction_markets.md",
+      "apis": {
+        "defillama_polymarket_tvl": "https://api.llama.fi/protocol/polymarket",
+        "defillama_polymarket_fees": "https://api.llama.fi/summary/fees/polymarket",
+        "defillama_azuro_tvl": "https://api.llama.fi/protocol/azuro",
+        "defillama_azuro_fees": "https://api.llama.fi/summary/fees/azuro",
+        "coingecko_gno": "https://api.coingecko.com/api/v3/coins/gnosis",
+        "coingecko_rep": "https://api.coingecko.com/api/v3/coins/augur",
+        "coingecko_azur": "https://api.coingecko.com/api/v3/coins/azuro-protocol"
+      },
+      "enabled": true,
+      "notes": "Industry analysis covering Polymarket, Kalshi, Gnosis, Azuro, Augur prediction markets"
+    },
+    {
       "name": "Aave",
       "slug": "aave",
       "context_file": "claude.md_aave",
