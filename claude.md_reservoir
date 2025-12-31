@@ -1,0 +1,264 @@
+# Claude Context: Reservoir Protocol
+
+**Purpose**: Protocol-specific context for Reservoir report updates. Contains verified data sources, common mistakes to avoid, and key facts.
+
+**Last Verified**: December 30, 2025
+**Report Version**: 2.2 (60 footnotes, all cited in body)
+
+---
+
+## CRITICAL: Use ALL Free APIs
+
+### API Endpoints for Reservoir
+
+| API | Endpoint | CoinGecko ID / Slug |
+|-----|----------|---------------------|
+| DefiLlama TVL | `https://api.llama.fi/protocol/reservoir-protocol` | reservoir-protocol |
+| CoinGecko DAM | `https://api.coingecko.com/api/v3/coins/reservoir` | reservoir |
+| CoinGecko rUSD | `https://api.coingecko.com/api/v3/coins/reservoir-rusd` | reservoir-rusd |
+| Etherscan rUSD Supply | See contract address below | - |
+
+### Contract Addresses (for Etherscan API)
+
+| Token | Contract | Chain |
+|-------|----------|-------|
+| rUSD | `0x09d4214c03d01f49544c0448dbe3a27f768f2b34` | Ethereum |
+| srUSD | `0x738d1115B90efa71AE468F1287fc864775e23a31` | Ethereum |
+| wsrUSD | `0xd3fd63209fa2d55b07a0f6db36c2f43900be3094` | Ethereum |
+| DAM | `0x0FedbA9178b70e8b54e2Af08eBffcf28A1e5A43B` | Ethereum |
+
+---
+
+## Latest Verified Data (December 29, 2025)
+
+### From DefiLlama API (`api.llama.fi/protocol/reservoir-protocol`)
+
+| Metric | Value |
+|--------|-------|
+| **Total TVL** | $83.5M |
+| **Ethereum TVL** | $65.8M |
+| **Base TVL** | $17.7M |
+| **Peak TVL** | $293.5M (Ethereum, Aug 2024) |
+| **Audits** | 2 (Halborn) |
+| **Category** | CDP |
+| **Listed** | November 11, 2024 |
+
+### From CoinGecko API - DAM Token (`api.coingecko.com/api/v3/coins/reservoir`)
+
+| Metric | Value |
+|--------|-------|
+| **Price** | $0.0249 |
+| **Market Cap** | $4.99M |
+| **Market Cap Rank** | #2,093 |
+| **FDV** | $24.9M |
+| **24h Volume** | $1.98M |
+| **Circulating Supply** | 200M DAM |
+| **Total Supply** | 1B DAM |
+| **24h Change** | +3.01% |
+| **7d Change** | +43.95% |
+| **30d Change** | +15.63% |
+| **ATH** | $0.149 (Sep 19, 2025) |
+| **ATL** | $0.016 (Dec 18, 2025) |
+| **ATH Decline** | -83.2% |
+
+### From CoinGecko API - rUSD Token (`api.coingecko.com/api/v3/coins/reservoir-rusd`)
+
+| Metric | Value |
+|--------|-------|
+| **Price** | $0.998 (stable peg) |
+| **Market Cap** | $896K |
+| **Market Cap Rank** | #3,881 |
+| **Circulating Supply** | 897K rUSD |
+| **24h Change** | -0.05% |
+| **7d Change** | +0.20% |
+| **ATH** | $2.00 (Jun 21, 2025) |
+| **ATL** | $0.972 (Jul 14, 2025) |
+
+### From Etherscan API
+
+| Metric | Value |
+|--------|-------|
+| **rUSD Total Supply** | ~897,641 rUSD (897,641,296... wei / 10^18) |
+
+---
+
+## Revenue Calculation (SHOW YOUR WORK)
+
+**Current Calculation (at $83.5M TVL):**
+
+```
+Step 1: TVL from DefiLlama API
+  - Total TVL: $83.5M
+
+Step 2: Estimate collateral yield
+  - Average collateral yield assumption: 9%
+  - Based on mix of T-bills (4-5%), DeFi lending (6-10%), strategies (10-15%)
+
+Step 3: Calculate total yield generated
+  - Total yield = $83.5M × 9% = $7.515M annually
+
+Step 4: Apply protocol fee (estimated 15%)
+  - Protocol revenue = $7.515M × 15% = $1.127M annually
+  - To srUSD/wsrUSD holders = $7.515M × 85% = $6.388M annually
+
+RESULT: ~$1.1M annual protocol revenue at $83.5M TVL
+```
+
+**Note:** This is an ESTIMATE. Actual fee % and yield vary. Update when official fee documentation available.
+
+---
+
+## ⚠️ CRITICAL: ALWAYS VERIFY TRAINING DATA
+
+**LLM training data may be stale. ALWAYS fetch live data via APIs before using any metric.**
+
+For Reservoir specifically:
+1. **DefiLlama API** → `api.llama.fi/protocol/reservoir-protocol` for TVL
+2. **CoinGecko API** → `api.coingecko.com/api/v3/coins/reservoir` for DAM token
+3. **CoinGecko API** → `api.coingecko.com/api/v3/coins/reservoir-rusd` for rUSD
+
+**Never use LLM memory for:** TVL, prices, market caps, token supplies, APY rates, user counts
+
+**If API is unavailable:** Use WebSearch/WebFetch to cross-reference, flag with ⚠️ UNVERIFIED
+
+---
+
+## MISTAKES TO AVOID
+
+### 1. TVL Verification Error (December 2025)
+
+**What happened**: Report stated $526M TVL, actual was $83M
+
+**Root cause**: Web search returned results citing Boxmining blog (low-quality source)
+
+**Fix**: ALWAYS fetch TVL via DefiLlama API first
+
+### 2. Two Different "Reservoir" Projects
+
+| Project | Type | Tokens | CoinGecko ID |
+|---------|------|--------|--------------|
+| **Reservoir Protocol (THIS ONE)** | Stablecoin | rUSD, srUSD, DAM | `reservoir`, `reservoir-rusd` |
+| **Reservoir (NFT)** | NFT Infrastructure | - | Different |
+
+### 3. Website vs API Access
+
+- `defillama.com` → 403 Forbidden (blocked)
+- `api.llama.fi` → Works (free, no auth)
+- `api.coingecko.com` → Works (free, 30/min)
+
+### 4. rUSD Supply Confusion
+
+CoinGecko shows ~897K rUSD in circulation, but this seems low given $83.5M TVL. Cross-reference with:
+- Etherscan token page for holder count
+- DefiLlama for TVL breakdown
+- Official app for current stats
+
+### 5. GitHub Footnote Rendering Issue (December 29, 2025)
+
+**What happened**: GitHub release only showed 10 footnotes when report had 60
+
+**Root cause**: GitHub only renders footnotes that are REFERENCED in the body text with `[^N]`
+
+**Fix**:
+- Added `[^N]` citations to EVERY factual claim in the body text
+- All 60 footnotes now referenced at least once
+- Verified with: `grep -o '\[\^[0-9]*\]' reservoir.md | sort -u | wc -l`
+
+**Result**: Report v2.2 has all 60 footnotes rendering correctly
+
+---
+
+## Update Checklist
+
+Before publishing any Reservoir update:
+
+1. **Fetch from DefiLlama API:**
+   - [ ] `api.llama.fi/protocol/reservoir-protocol`
+   - Extract: TVL total, TVL by chain, peak TVL, audits
+
+2. **Fetch from CoinGecko API:**
+   - [ ] `api.coingecko.com/api/v3/coins/reservoir` (DAM token)
+   - [ ] `api.coingecko.com/api/v3/coins/reservoir-rusd` (rUSD)
+   - Extract: Price, market cap, supply, volume, ATH/ATL
+
+3. **Update report metrics:**
+   - [ ] TVL total and by chain
+   - [ ] DAM token price and market cap
+   - [ ] rUSD peg status
+   - [ ] Recalculate revenue estimates with new TVL
+
+4. **Update footnotes:**
+   - [ ] Note "retrieved via [API name] API" for all API data
+   - [ ] Include exact values in footnote descriptions
+
+5. **Citation check:**
+   - [ ] Every footnote `[^N]:` has at least one `[^N]` reference in body
+   - [ ] Run: `grep -o '\[\^[0-9]*\]' reservoir.md | sort -u | wc -l`
+   - [ ] Result should be 60 (matching footnote count)
+
+6. **Quality check:**
+   - [ ] All numbers consistent across report
+   - [ ] Growth calculations updated
+   - [ ] No confusion with NFT Reservoir
+
+---
+
+## Official Resources
+
+- **Documentation**: https://docs.reservoir.xyz/
+- **App**: https://www.reservoir.xyz/
+- **Blog**: https://reservoir.beehiiv.com/
+- **GitHub**: https://github.com/reservoir-protocol/reservoir
+- **Twitter**: @reservoir_xyz (stablecoin) vs @reservoir0x (NFT - different)
+
+---
+
+## Key Partnerships & Integrations
+
+| Partner | Type | Details |
+|---------|------|---------|
+| **Morpho Blue** | DeFi Integration | Steakhouse rUSD vault, $92M+ TVL |
+| **Steakhouse Financial** | Vault Curator | RWA-backed strategy |
+| **Hilbert Capital** | Collateral Partner | V1 fund tokenized as rUSD collateral (Oct 2024) |
+| **World Liberty Financial** | USD1 Integration | LibertyVoir 1:1 rUSD↔USD1 minting (Sep 2025) |
+| **Halborn** | Security | 2 audits completed (May 2024) |
+
+---
+
+## Report History
+
+| Version | Date | Changes |
+|---------|------|---------|
+| 1.0 | Dec 28, 2025 | Initial report |
+| 2.0 | Dec 29, 2025 | Fixed TVL ($526M→$83M), added DAM/rUSD metrics |
+| 2.1 | Dec 29, 2025 | Added 60 footnotes with real source data |
+| 2.2 | Dec 29, 2025 | Added inline citations throughout body for accountability |
+
+---
+
+## Source Ratings (To Be Completed)
+
+**Rate sources used in this report for future quality improvement:**
+
+| Source | Rating | Notes |
+|--------|--------|-------|
+| DefiLlama API | ⭐⭐⭐⭐⭐ | Official on-chain TVL data |
+| CoinGecko API | ⭐⭐⭐⭐⭐ | Official market data |
+| Reservoir Docs | ⭐⭐⭐⭐⭐ | Official protocol documentation |
+| Halborn Audits | ⭐⭐⭐⭐⭐ | Security audit reports |
+| Messari | ⭐⭐⭐⭐ | Research reports |
+| CoinDesk | ⭐⭐⭐⭐ | News coverage |
+| Etherscan | ⭐⭐⭐⭐⭐ | On-chain contract data |
+| RootData | ⭐⭐⭐ | Project analytics |
+| JuCoin Blog | ⭐⭐ | Secondary source, verify claims |
+| Cryptohopper | ⭐⭐⭐ | Trading data aggregator |
+
+**To add:** Rate each of the 60 sources in the report based on:
+- Accuracy track record
+- Editorial standards
+- Primary vs secondary source
+- Verifiability of claims
+
+---
+
+*This file is gitignored and stays local. Update after each report revision.*

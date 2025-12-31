@@ -1,0 +1,84 @@
+{
+  "protocols": [
+    {
+      "name": "Reservoir",
+      "slug": "reservoir",
+      "context_file": "claude.md_reservoir",
+      "report_file": "case_studies/protocols/reservoir.md",
+      "apis": {
+        "defillama": "https://api.llama.fi/protocol/reservoir-protocol",
+        "coingecko_main": "https://api.coingecko.com/api/v3/coins/reservoir",
+        "coingecko_stablecoin": "https://api.coingecko.com/api/v3/coins/reservoir-rusd"
+      },
+      "enabled": true
+    },
+    {
+      "name": "EdgeX",
+      "slug": "edgex",
+      "context_file": "claude.md_edgex",
+      "report_file": "case_studies/protocols/edgex.md",
+      "apis": {
+        "defillama_tvl": "https://api.llama.fi/protocol/edgex",
+        "defillama_fees": "https://api.llama.fi/summary/fees/edgex"
+      },
+      "enabled": true,
+      "notes": "Token not launched (TGE pending Q4 2025), no CoinGecko data yet"
+    },
+    {
+      "name": "Aave",
+      "slug": "aave",
+      "context_file": "claude.md_aave",
+      "report_file": "case_studies/protocols/aave.md",
+      "apis": {
+        "defillama": "https://api.llama.fi/protocol/aave",
+        "coingecko_main": "https://api.coingecko.com/api/v3/coins/aave"
+      },
+      "enabled": false,
+      "notes": "Context file needs creation"
+    },
+    {
+      "name": "Uniswap",
+      "slug": "uniswap",
+      "context_file": "claude.md_uniswap",
+      "report_file": "case_studies/protocols/uniswap.md",
+      "apis": {
+        "defillama": "https://api.llama.fi/protocol/uniswap",
+        "coingecko_main": "https://api.coingecko.com/api/v3/coins/uniswap"
+      },
+      "enabled": false,
+      "notes": "Context file needs creation"
+    },
+    {
+      "name": "Lido",
+      "slug": "lido",
+      "context_file": "claude.md_lido",
+      "report_file": "case_studies/protocols/lido.md",
+      "apis": {
+        "defillama": "https://api.llama.fi/protocol/lido",
+        "coingecko_main": "https://api.coingecko.com/api/v3/coins/lido-dao"
+      },
+      "enabled": false,
+      "notes": "Context file needs creation"
+    }
+  ],
+  "chains": [
+    {
+      "name": "Ethereum",
+      "slug": "ethereum",
+      "context_file": "claude.md_ethereum",
+      "report_file": "case_studies/chains/01_ethereum.md",
+      "apis": {
+        "defillama": "https://api.llama.fi/v2/chains",
+        "coingecko": "https://api.coingecko.com/api/v3/coins/ethereum",
+        "etherscan": "https://api.etherscan.io/api"
+      },
+      "enabled": false,
+      "notes": "Context file needs creation"
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "created": "2025-12-30",
+    "description": "Registry of protocols and chains for automated updates"
+  }
+}

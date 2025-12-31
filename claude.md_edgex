@@ -1,0 +1,244 @@
+# Claude Context: EdgeX Protocol
+
+**Purpose**: Protocol-specific context for EdgeX report updates. Contains verified data sources, common mistakes to avoid, and key facts.
+
+**Last Verified**: December 30, 2025
+**Report Version**: 1.0 (needs upgrade to 55+ footnotes, all cited in body)
+
+---
+
+## CRITICAL: Use ALL Free APIs
+
+### API Endpoints for EdgeX
+
+| API | Endpoint | Slug/Notes |
+|-----|----------|------------|
+| DefiLlama TVL | `https://api.llama.fi/protocol/edgex` | edgex |
+| DefiLlama Fees | `https://api.llama.fi/summary/fees/edgex` | Includes revenue |
+| CoinGecko Token | N/A | Token not launched (TGE pending Q4 2025) |
+
+### Contract Addresses
+
+| Item | Address | Chain |
+|------|---------|-------|
+| StarkEx Verifier | Check L2BEAT | Ethereum |
+| EdgeX Program | See edgex.exchange | StarkEx L2 |
+
+**Note:** EdgeX uses StarkEx (ZK-rollup), so contracts are different from typical EVM protocols.
+
+---
+
+## Latest Verified Data (December 30, 2025)
+
+### From DefiLlama API (`api.llama.fi/protocol/edgex`)
+
+| Metric | Value |
+|--------|-------|
+| **Total TVL** | $362.3M |
+| **Ethereum TVL** | $343.7M |
+| **Arbitrum TVL** | $18.5M |
+| **BSC TVL** | $189K |
+
+### From DefiLlama Fees API (`api.llama.fi/summary/fees/edgex`)
+
+| Metric | Value |
+|--------|-------|
+| **24h Fees** | $577K |
+| **7d Fees** | $3.99M |
+| **30d Fees** | $39.05M |
+| **All-Time Fees** | $222.6M |
+
+### From CoinGecko API
+
+| Metric | Value |
+|--------|-------|
+| **Token** | Not launched (TGE pending) |
+| **Symbol** | Expected: EX (unconfirmed) |
+| **Expected FDV** | $2-2.4B (speculated) |
+
+---
+
+## Key Protocol Facts
+
+### What EdgeX Is
+- **Type**: High-performance perpetual DEX
+- **Technology**: StarkEx ZK-rollup (Layer 2)
+- **Backed By**: Amber Group ($5B AUM, $628M+ funding)
+- **Launch**: Mainnet September 2024
+- **Performance**: 200,000 orders/sec, <10ms latency
+
+### Market Position
+- Part of "F4" top perp DEXs (Hyperliquid, Aster, Lighter, EdgeX)
+- ~5.5-12% market share
+- Focus: Institutional traders, Asia market
+
+### Products
+1. **Perpetual Futures** - 70+ markets, up to 100x leverage
+2. **eLP Vault** - Liquidity provider vault (~57% APY)
+3. **EdgeX Leverage** - Stocks, forex, commodities
+4. **EdgeX Insurance** - 2x compensation liquidation protection
+5. **EdgeX Lend** - Aave/Compound integration
+
+### Token Economics (Pending TGE)
+- **Expected TGE**: Q4 2025
+- **Points Program**: 1 point per $1 traded, converts 1:1 to tokens
+- **No VC pre-allocation** (community-first model)
+- **Expected allocation to points holders**: 20-35% of supply
+
+---
+
+## Revenue Calculation (SHOW YOUR WORK)
+
+**Current Calculation (at $362M TVL, $39M 30d fees):**
+
+```
+Step 1: Fees from DefiLlama API
+  - 30-day fees: $39.05M
+  - Annualized: $39.05M × 12 = $468.6M
+
+Step 2: Revenue split (estimated)
+  - DefiLlama shows ~70% of fees go to revenue
+  - 30-day revenue estimate: $39.05M × 0.7 = $27.3M
+  - Annualized revenue: $27.3M × 12 = $327.6M
+
+Step 3: Distribution (estimated)
+  - Protocol Treasury: 40-60% = $131-197M annually
+  - Liquidity Providers (eLP): 30-40% = $98-131M annually
+  - Insurance Fund: 5-10% = $16-33M annually
+
+RESULT: ~$130-200M annual protocol revenue at current volumes
+```
+
+**Note:** These are ESTIMATES based on fee data. Actual splits may vary.
+
+---
+
+## ⚠️ CRITICAL: ALWAYS VERIFY TRAINING DATA
+
+**LLM training data may be stale. ALWAYS fetch live data via APIs before using any metric.**
+
+For EdgeX specifically:
+1. **DefiLlama API** → `api.llama.fi/protocol/edgex` for TVL
+2. **DefiLlama Fees** → `api.llama.fi/summary/fees/edgex` for fees/revenue
+3. **No CoinGecko** → Token not launched yet
+
+**Never use LLM memory for:** TVL, volume, fees, revenue, market share
+
+**If API is unavailable:** Use WebSearch/WebFetch to cross-reference, flag with ⚠️ UNVERIFIED
+
+---
+
+## MISTAKES TO AVOID
+
+### 1. Token Data Error
+**What happened**: Trying to fetch token price when TGE hasn't happened
+**Root cause**: Assuming all protocols have tokens
+**Fix**: Check TGE status first; EdgeX token expected Q4 2025
+
+### 2. TVL vs Trading Volume Confusion
+**What happened**: Confusing TVL ($362M) with trading volume ($170B+ monthly)
+**Root cause**: Both are large numbers, easy to mix up
+**Fix**: TVL = locked value, Volume = traded amount. Different metrics.
+
+### 3. "F4" Market Share
+**What happened**: EdgeX share varies widely in reports (5.5% to 12%)
+**Root cause**: Different metrics (OI share vs volume share)
+**Fix**: Specify which metric when citing market share
+
+### 4. StarkEx vs StarkNet
+**What happened**: Confusing EdgeX's technology stack
+**Root cause**: Both are StarkWare products
+**Fix**: EdgeX uses StarkEx (app-specific rollup), NOT StarkNet (general L2)
+
+---
+
+## Update Checklist
+
+Before publishing any EdgeX update:
+
+1. **Fetch from DefiLlama API:**
+   - [ ] `api.llama.fi/protocol/edgex` for TVL
+   - [ ] `api.llama.fi/summary/fees/edgex` for fees/revenue
+   - Extract: TVL by chain, 24h/7d/30d fees, all-time fees
+
+2. **Check TGE status:**
+   - [ ] Has token launched? (Expected Q4 2025)
+   - [ ] If yes, fetch from CoinGecko
+   - [ ] If no, note "TGE pending"
+
+3. **Update report metrics:**
+   - [ ] TVL total and by chain
+   - [ ] Fee/revenue data (24h, 7d, 30d, all-time)
+   - [ ] Market position vs Hyperliquid, Aster, Lighter
+   - [ ] eLP vault performance if available
+
+4. **Update footnotes:**
+   - [ ] Note "retrieved via DefiLlama API" for all API data
+   - [ ] Add 🔷 HARD DATA markers
+
+5. **Citation check:**
+   - [ ] Every footnote `[^N]:` has at least one `[^N]` reference in body
+   - [ ] Run: `grep -o '\[\^[0-9]*\]' edgex.md | sort -u | wc -l`
+   - [ ] Result should be 55+ (matching footnote count)
+
+6. **Quality check:**
+   - [ ] All numbers consistent across report
+   - [ ] No confusion between TVL and volume
+   - [ ] StarkEx (not StarkNet) mentioned correctly
+
+---
+
+## Official Resources
+
+- **Website**: https://www.edgex.exchange/
+- **Documentation**: https://edgex-1.gitbook.io/edgeX-documentation
+- **Twitter**: @edgeX_exchange
+- **GitHub**: https://github.com/edgex-Tech
+
+---
+
+## Key Partnerships & Integrations
+
+| Partner | Type | Details |
+|---------|------|---------|
+| **Amber Group** | Incubator | $5B AUM, $628M+ funding |
+| **StarkWare** | Technology | StarkEx ZK-rollup |
+| **Polymarket** | Partnership | Prediction market integration |
+| **Aave/Compound** | Integration | EdgeX Lend product |
+
+---
+
+## Competitive Landscape
+
+| Protocol | OI Share | Key Differentiator |
+|----------|----------|-------------------|
+| Hyperliquid | ~50% | First-mover, largest liquidity |
+| Aster | ~20% | Binance-backed |
+| Lighter | ~10% | Volume leader |
+| **EdgeX** | ~5-12% | Institutional focus, StarkEx |
+
+---
+
+## Report History
+
+| Version | Date | Changes |
+|---------|------|---------|
+| 1.0 | Dec 29, 2025 | Initial report (no inline citations) |
+| 2.0 | (Pending) | Add 55+ footnotes with inline citations |
+
+---
+
+## Source Ratings
+
+| Source | Rating | Notes |
+|--------|--------|-------|
+| DefiLlama API | ⭐⭐⭐⭐⭐ | Official on-chain TVL/fees data |
+| L2BEAT | ⭐⭐⭐⭐⭐ | StarkEx technical data |
+| EdgeX Docs | ⭐⭐⭐⭐⭐ | Official protocol documentation |
+| PANews | ⭐⭐⭐ | Perp DEX analysis |
+| CoinBureau | ⭐⭐⭐ | Exchange reviews |
+| DropsTab | ⭐⭐⭐ | Airdrop tracking |
+
+---
+
+*This file is gitignored and stays local. Update after each report revision.*
