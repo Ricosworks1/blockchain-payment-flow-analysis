@@ -123,6 +123,19 @@
       "notes": "Solana perpetual futures DEX with hybrid DLOB + vAMM + JIT architecture. TVL $696M, 101x leverage, 40+ markets."
     },
     {
+      "name": "Meteora",
+      "slug": "meteora",
+      "context_file": "claude.md_meteora",
+      "report_file": "case_studies/protocols/meteora.md",
+      "apis": {
+        "defillama_tvl": "https://api.llama.fi/protocol/meteora",
+        "defillama_fees": "https://api.llama.fi/summary/fees/meteora",
+        "coingecko_met": "https://api.coingecko.com/api/v3/coins/meteora"
+      },
+      "enabled": true,
+      "notes": "Solana DEX with DLMM (Dynamic Liquidity Market Maker), Dynamic Vaults, and Memecoin Launchpad. TVL $544M."
+    },
+    {
       "name": "Aave",
       "slug": "aave",
       "context_file": "claude.md_aave",
