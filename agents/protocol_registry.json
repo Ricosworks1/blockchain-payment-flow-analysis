@@ -97,6 +97,19 @@
       "notes": "Seed-stage Physical AI/DePIN/IoT infrastructure company. No token, no TVL. Manual research required. Deutsche Telekom management buyout. HQ: Potsdam."
     },
     {
+      "name": "Moonwell",
+      "slug": "moonwell",
+      "context_file": "claude.md_moonwell",
+      "report_file": "case_studies/protocols/moonwell.md",
+      "apis": {
+        "defillama_tvl": "https://api.llama.fi/protocol/moonwell",
+        "defillama_fees": "https://api.llama.fi/summary/fees/moonwell",
+        "coingecko_well": "https://api.coingecko.com/api/v3/coins/moonwell-artemis"
+      },
+      "enabled": true,
+      "notes": "Compound v2 fork lending protocol on Base, Optimism, Moonbeam, Moonriver. CRITICAL: Use moonwell-artemis for WELL token (NOT moonwell which is deprecated MFAM). Existing report is exploits postmortem analysis."
+    },
+    {
       "name": "Aave",
       "slug": "aave",
       "context_file": "claude.md_aave",

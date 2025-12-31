@@ -1,0 +1,237 @@
+# Claude Context: Moonwell Protocol
+
+**Purpose**: Protocol-specific context for Moonwell report updates. Contains verified data sources, common mistakes to avoid, and key facts.
+
+**Last Verified**: December 31, 2025
+**Report Version**: 1.0 (Exploits postmortem analysis)
+
+---
+
+## CRITICAL: Use ALL Free APIs
+
+### API Endpoints for Moonwell
+
+| API | Endpoint | CoinGecko ID / Slug |
+|-----|----------|---------------------|
+| DefiLlama TVL | `https://api.llama.fi/protocol/moonwell` | moonwell |
+| DefiLlama Fees | `https://api.llama.fi/summary/fees/moonwell` | moonwell |
+| CoinGecko WELL | `https://api.coingecko.com/api/v3/coins/moonwell-artemis` | moonwell-artemis |
+| CoinGecko MFAM | `https://api.coingecko.com/api/v3/coins/moonwell` | moonwell (old token) |
+
+### Contract Addresses
+
+| Token | Contract | Chain |
+|-------|----------|-------|
+| WELL (Base) | `0xa88594d404727625a9437c3f886c7643872296ae` | Base |
+| WELL (Moonbeam) | `0x511ab53f793683763e5a8829738301368a2411e3` | Moonbeam |
+| MFAM (Moonriver) | `0xbb8d88bcd9749636bc4d2be22aac4bb3b01a58f1` | Moonriver |
+
+---
+
+## Latest Verified Data (December 31, 2025)
+
+### From DefiLlama API (`api.llama.fi/protocol/moonwell`)
+
+| Metric | Value |
+|--------|-------|
+| **Total TVL** | ~$145.3M |
+| **Base TVL** | $140.3M |
+| **Optimism TVL** | $3.6M |
+| **Moonbeam TVL** | $1.4M |
+| **Base Staking** | $7.3M |
+| **Borrowed** | $63.0M |
+| **Category** | Lending/Borrowing |
+| **Chains** | Base, Optimism, Moonbeam, Moonriver |
+
+### From DefiLlama Fees API (`api.llama.fi/summary/fees/moonwell`)
+
+| Metric | Value |
+|--------|-------|
+| **24h Fees** | ~$12.5K |
+| **7d Fees** | ~$36K |
+| **30d Fees** | ~$48K |
+| **All-Time Fees** | ~$15.1M |
+
+### From CoinGecko API - WELL Token (`api.coingecko.com/api/v3/coins/moonwell-artemis`)
+
+| Metric | Value |
+|--------|-------|
+| **Price** | $0.00718 |
+| **Market Cap** | $32.7M |
+| **Market Cap Rank** | #842 |
+| **FDV** | $36.1M |
+| **24h Volume** | ~$2.4M |
+| **Circulating Supply** | ~4.55B WELL |
+| **Total Supply** | ~5.02B WELL |
+| **24h Change** | -2.02% |
+| **7d Change** | -2.54% |
+| **30d Change** | -12.76% |
+| **ATH** | $0.299 (Jun 23, 2022) |
+| **ATL** | $0.00298 (Dec 21, 2022) |
+| **ATH Decline** | -97.57% |
+
+---
+
+## Protocol Overview
+
+**Moonwell** is an open lending and borrowing DeFi protocol operating across multiple chains:
+
+| Chain | Launch | Status |
+|-------|--------|--------|
+| **Base** | Aug 2023 | Primary chain, highest TVL |
+| **Optimism** | Aug 2024 | Growing |
+| **Moonbeam** | Jun 2022 | Original deployment |
+| **Moonriver** | 2022 | Kusama parachain |
+
+### Protocol Architecture
+
+- **Fork Origin**: Compound v2 / Benqi
+- **mTokens**: Receipt tokens for deposits (e.g., mUSDC, mETH)
+- **Governance**: WELL token holders via Snapshot
+- **Oracles**: Chainlink, API3, Redstone
+- **Auditors**: Halborn, Code4rena
+
+---
+
+## Security History (CRITICAL)
+
+### Three Major Exploits in 13 Months
+
+| Date | Type | Network | Loss | Root Cause |
+|------|------|---------|------|------------|
+| **Oct 10, 2024** | Oracle-DEX arbitrage | Base | $1.7M | Oracle price gap during market crash |
+| **Dec 2024** | Flash loan attack | Optimism | $320K | mToken contract vulnerability |
+| **Nov 4, 2025** | Oracle manipulation | Base + Optimism | $1.0M+ | Faulty rsETH/ETH price feed |
+| **TOTAL** | | | **$3.02M+** | Oracle & smart contract issues |
+
+### Key Security Issues
+
+1. **Oracle Vulnerability**: 90% of losses from oracle failures
+2. **Flash Loan Enabled**: All exploits used flash loans
+3. **No Circuit Breakers**: Protocol continued during absurd pricing
+4. **Zero Recovery**: No funds recovered from any exploit
+5. **Multi-Chain Risk**: Exploits on 3 of 4 chains
+
+---
+
+## MISTAKES TO AVOID
+
+### 1. Two Different WELL Tokens
+
+| Token | CoinGecko ID | Chain | Notes |
+|-------|--------------|-------|-------|
+| **WELL (Artemis)** | `moonwell-artemis` | Base, Moonbeam | Current main token |
+| **MFAM (Apollo)** | `moonwell` | Moonriver | Old token, deprecated |
+
+**Fix**: Always use `moonwell-artemis` for current WELL token data.
+
+### 2. TVL Confusion
+
+DefiLlama shows multiple TVL types:
+- `currentChainTvls.Base` = $140M (lending TVL)
+- `currentChainTvls.Base-staking` = $7.3M (staked WELL)
+- `currentChainTvls.Base-borrowed` = $56M (borrowed value)
+
+**Fix**: Report lending TVL separately from staking.
+
+### 3. Historical vs Current Report
+
+The existing report (`case_studies/protocols/moonwell.md`) is an **exploits postmortem analysis**, not a standard protocol report. It focuses on:
+- Security incident analysis
+- Attack mechanics
+- Technical recommendations
+
+**Fix**: If creating a new standard protocol report, note the existing report's focus.
+
+### 4. Website vs API Access
+
+- `defillama.com` → 403 Forbidden (CloudFlare blocked)
+- `api.llama.fi` → Works (free, no auth)
+- `api.coingecko.com` → Works (free, 30/min)
+
+---
+
+## Update Checklist
+
+Before publishing any Moonwell update:
+
+1. **Fetch from DefiLlama API:**
+   - [ ] `api.llama.fi/protocol/moonwell` (TVL by chain, borrowed)
+   - [ ] `api.llama.fi/summary/fees/moonwell` (fees, revenue)
+
+2. **Fetch from CoinGecko API:**
+   - [ ] `api.coingecko.com/api/v3/coins/moonwell-artemis` (WELL token)
+   - Extract: Price, market cap, supply, volume, ATH/ATL
+
+3. **Update report metrics:**
+   - [ ] TVL total and by chain
+   - [ ] WELL token price and market cap
+   - [ ] Fee generation metrics
+   - [ ] Any new security incidents
+
+4. **Citation check:**
+   - [ ] Every footnote `[^N]:` has at least one `[^N]` reference in body
+   - [ ] All sources have human-readable URLs
+
+---
+
+## Official Resources
+
+- **Website**: https://moonwell.fi
+- **Documentation**: https://docs.moonwell.fi
+- **Governance Forum**: https://forum.moonwell.fi
+- **GitHub**: https://github.com/moonwell-fi
+- **Twitter**: @MoonwellDeFi
+- **Discord**: discord.com/invite/moonwellfi
+- **Medium**: moonwell.medium.com
+
+---
+
+## Key Partnerships & Integrations
+
+| Partner | Type | Details |
+|---------|------|---------|
+| **Halborn Security** | Auditor | Continuous monitoring, multiple audits |
+| **Code4rena** | Auditor | Bug bounty competitions |
+| **Chainlink** | Oracle | Price feeds on Base, Optimism |
+| **API3** | Oracle | Price feeds on Moonbeam |
+| **Immunefi** | Bug Bounty | $250K max rewards |
+| **Coinbase Ventures** | Investor | Portfolio company |
+
+---
+
+## Competitive Landscape
+
+| Protocol | TVL | Chains | 2024-2025 Exploits | Notes |
+|----------|-----|--------|-------------------|-------|
+| **Aave** | $10B+ | 7+ | 0 | Industry leader |
+| **Compound** | $2B+ | 2 | 0 | Original Compound |
+| **Moonwell** | $145M | 4 | 3 ($3M+) | Fork, security issues |
+| **Morpho** | $1B+ | 2 | 0 | Meta-lending |
+
+---
+
+## Source Ratings
+
+| Source | Rating | Notes |
+|--------|--------|-------|
+| DefiLlama API | High | Official on-chain TVL data |
+| CoinGecko API | High | Official market data |
+| Moonwell Docs | High | Official protocol documentation |
+| Halborn Audits | High | Security audit reports |
+| BlockSec Phalcon | High | Exploit detection |
+| CoinfoMania | Medium | News coverage |
+| PANews | Medium | News coverage |
+
+---
+
+## Report History
+
+| Version | Date | Changes |
+|---------|------|---------|
+| 1.0 | Nov 4, 2025 | Exploits postmortem analysis |
+| 1.1 | Dec 29, 2025 | Updated with latest exploit data |
+
+---
+
+*This file is gitignored and stays local. Update after each report revision.*

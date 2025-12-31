@@ -1,4 +1,4 @@
-**Last Updated: December 29, 2025**
+**Last Updated: December 31, 2025**
 
 # Moonwell DeFi Exploits: Comprehensive Postmortem Analysis (2024-2025)
 
@@ -57,8 +57,14 @@ Moonwell is an **open lending and borrowing DeFi protocol** forked from Compound
 - Interest rates determined algorithmically based on supply/demand
 - Governance via WELL token (previously MFAM)
 
-**Key Metrics (Pre-Exploit):**
-- TVL: ~$300M+ (peaked at $400M+)
+**Key Metrics (December 2025):** 🔷 HARD DATA
+- **Total TVL:** $145.3M (down from $300M+ peak)[^2]
+  - Base: $140.3M (96% of TVL)
+  - Moonbeam: $1.4M
+  - Optimism: $3.6M
+- **Total Borrowed:** $56.2M (Base)[^2]
+- **WELL Token:** $0.00724 | Market Cap: $32.8M | FDV: $36.2M[^4]
+- **24h Fees:** $12.5K | All-Time Fees: $15.1M[^55]
 - Launched: 2022
 - Auditors: Halborn, Code4rena (multiple audits)
 - Governance: Decentralized (WELL token holders)
@@ -1557,7 +1563,7 @@ This postmortem analysis is for educational and research purposes only. It is NO
 
 [^3]: [Moonwell App](https://moonwell.fi/) - Official lending interface. 🔷 HARD DATA
 
-[^4]: [CoinGecko - WELL Token](https://www.coingecko.com/en/coins/moonwell) - WELL governance token market data. 🔷 HARD DATA
+[^4]: [CoinGecko - WELL Token](https://www.coingecko.com/en/coins/moonwell-artemis) - WELL governance token market data (note: use moonwell-artemis, not moonwell which is deprecated MFAM). 🔷 HARD DATA
 
 [^5]: [CoinfoMania - Oracle Exploit](https://coinfomania.com/moonwell-oracle-exploit-base-optimism/) - November 2025 exploit coverage.
 
