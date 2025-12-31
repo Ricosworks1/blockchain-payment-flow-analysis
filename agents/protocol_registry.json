@@ -52,6 +52,25 @@
       "notes": "SYRUP token (2024 rebrand from MPL), syrupUSDC yield-bearing stablecoin"
     },
     {
+      "name": "Crypto Launchpads",
+      "slug": "launchpads",
+      "context_file": "claude.md_launchpads",
+      "report_file": "case_studies/protocols/launchpads.md",
+      "apis": {
+        "defillama_pumpfun": "https://api.llama.fi/summary/fees/pump.fun",
+        "defillama_raydium_tvl": "https://api.llama.fi/protocol/raydium",
+        "defillama_raydium_fees": "https://api.llama.fi/summary/fees/raydium",
+        "defillama_jupiter": "https://api.llama.fi/protocol/jupiter",
+        "coingecko_jup": "https://api.coingecko.com/api/v3/coins/jupiter-exchange-solana",
+        "coingecko_ray": "https://api.coingecko.com/api/v3/coins/raydium",
+        "coingecko_sfund": "https://api.coingecko.com/api/v3/coins/seedify-fund",
+        "coingecko_pols": "https://api.coingecko.com/api/v3/coins/polkastarter",
+        "coingecko_dao": "https://api.coingecko.com/api/v3/coins/dao-maker"
+      },
+      "enabled": true,
+      "notes": "Industry analysis covering CEX/DEX launchpads, Pump.fun, Jupiter LFG, Raydium, DAO Maker, Polkastarter, Seedify"
+    },
+    {
       "name": "Aave",
       "slug": "aave",
       "context_file": "claude.md_aave",
