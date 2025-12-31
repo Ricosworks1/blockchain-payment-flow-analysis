@@ -88,6 +88,15 @@
       "notes": "Industry analysis covering Polymarket, Kalshi, Gnosis, Azuro, Augur prediction markets"
     },
     {
+      "name": "Staex",
+      "slug": "staex",
+      "context_file": "claude.md_staex",
+      "report_file": "case_studies/protocols/staex.md",
+      "apis": {},
+      "enabled": true,
+      "notes": "Seed-stage DePIN/IoT infrastructure company. No token, no TVL. Manual research required. Deutsche Telekom spinout."
+    },
+    {
       "name": "Aave",
       "slug": "aave",
       "context_file": "claude.md_aave",
