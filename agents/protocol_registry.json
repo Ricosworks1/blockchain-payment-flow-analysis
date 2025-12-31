@@ -149,6 +149,19 @@
       "notes": "Sky (MakerDAO) lending protocol. Aave v3 fork with Sky integration. TVL $7.3B across 7 chains. CRITICAL: Use spark-2 for CoinGecko."
     },
     {
+      "name": "Morpho",
+      "slug": "morpho",
+      "context_file": "claude.md_morpho",
+      "report_file": "case_studies/protocols/morpho.md",
+      "apis": {
+        "defillama_tvl": "https://api.llama.fi/protocol/morpho",
+        "defillama_fees": "https://api.llama.fi/summary/fees/morpho",
+        "coingecko_morpho": "https://api.coingecko.com/api/v3/coins/morpho"
+      },
+      "enabled": true,
+      "notes": "Permissionless lending protocol. Morpho Blue (immutable base) + MetaMorpho (curated vaults). TVL ~$6B+ across 20+ chains."
+    },
+    {
       "name": "Aave",
       "slug": "aave",
       "context_file": "claude.md_aave",
