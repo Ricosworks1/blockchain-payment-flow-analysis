@@ -88,26 +88,55 @@ Paksy brings global strategy and policy expertise[^43]:
 
 ## Funding History
 
+**Total Funding**: $1.81M+ across multiple rounds[^49]
+
 ### Pre-Seed Round (April 2022)
 
-Staex raised €1.65 million in its pre-seed round[^49]:
+Staex raised €1.65 million in its pre-seed round[^49a]:
 
 | Investor | Type | Notes |
 |----------|------|-------|
 | **Brandenburg Kapital** | Lead investor | Subsidiary of Investitionsbank des Landes Brandenburg[^50] |
 | **Blockwall Capital** | Co-lead | European blockchain-focused VC[^51] |
 | **Andreas Möller** | Angel investor | Experienced business angel[^52] |
-| **Additional angels** | Various | Undisclosed[^53] |
 
-The funding was designated for product development and team expansion to bring Staex's Web3 stack for IoT to market[^54].
+The funding was designated for product development and team expansion to bring Staex's Web3 stack for IoT to market[^53].
 
-### MN Capital Investment (2024)
+### Follow-on Investments (2024-2025)
 
-Staex received a follow-on investment from MN Capital[^55], a venture capital firm specializing in Web3 startups founded by crypto analyst Michaël van de Poppe[^56]. The investment amount was not disclosed but will support[^57]:
+#### Moonrock Capital (April 2024)
 
-- Further development of network solutions for mobility and energy sectors[^58]
-- Building the first DePIN public transport network[^59]
-- Advancing product development and network capabilities[^60]
+Moonrock Capital invested in Staex with ongoing support from Brandenburg Kapital[^54]:
+- Recognized "the need of a decentralized network realizing machine-to-machine economy"[^54a]
+- Focus on clean-tech software enabling distributed IT networks[^54b]
+
+#### The Drivery (2024)
+
+The Drivery GmbH, Europe's largest marketplace for mobility innovators, made an early-stage investment[^55]:
+- Reflects belief in Staex's innovative approach to IoT management[^55a]
+- Sebastian Leber, Director of Innovation Programs: "We see strong market validation through numerous projects"[^55b]
+
+#### MN Capital (2024)
+
+MN Capital, a VC firm founded by crypto analyst Michaël van de Poppe, invested to support[^56]:
+- Development of network solutions for mobility and energy sectors[^56a]
+- Building the first DePIN public transport network[^56b]
+
+#### Generative Ventures (January 2025)
+
+Generative Ventures, the early-stage venture firm specializing in the machine economy, announced its investment[^57]:
+- Lex Sokolin, Partner at GV: "Staex is tackling one of the most significant challenges in the evolution of the internet"[^57a]
+- Partnership aims to address scalability and security challenges in DePIN[^57b]
+
+### Notable Angel Investors
+
+| Investor | Background |
+|----------|------------|
+| **EV3 Labs** | Affiliate of Escape Velocity (EV3) focusing on DePIN development, including AR, AI, and IoT solutions. Invests via EV3 Ventures; builds community tools like DePIN Ninja analytics and DePIN Summit[^58] |
+| **Sean Carey** | Co-founder and former CTO of Helium Systems and BlockJoy; 25+ years in tech; Lead Partner at Borderless Capital focusing on DePIN investments; deep expertise in distributed systems and scalability[^58a] |
+| **Christoph Jentzsch** | Theoretical physicist; former core developer of Ethereum (2014/15); co-founder of slock.it and author of TheDAO; CEO of Tokenize.it; Capital Magazine's Top 40 Under 40; Best Regulatory Innovation in Blockchain 2024[^58b] |
+
+**Source for angel investors**: Interview with Staex CEO Dr. Alexandra Mikityuk by Maze2 SA CEO (December 2025)[^58c]
 
 ---
 
@@ -591,7 +620,9 @@ The machine economy thesis—75 billion connected devices requiring secure, veri
 
 [^48]: [impactmania](https://www.impactmania.com/im/about/) - Founder of impactmania.
 
-[^49]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - "€1.65 million pre-seed funding."
+[^49]: [PitchBook Staex Profile](https://pitchbook.com/profiles/company/495000-46) - Total funding $1.81M across multiple rounds.
+
+[^49a]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - "€1.65 million pre-seed funding."
 
 [^50]: [Brandenburg Kapital](https://www.brandenburg-kapital.de/en/bk/news/newsdetailseite_1979904.html) - Lead investor details.
 
@@ -599,21 +630,39 @@ The machine economy thesis—75 billion connected devices requiring secure, veri
 
 [^52]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - "Including Andreas Möller."
 
-[^53]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - "Highly experienced business angels."
+[^53]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - Use of funds for product development.
 
-[^54]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - Use of funds for product development.
+[^54]: [Brandenburg Kapital - Moonrock Capital Investment](https://www.brandenburg-kapital.de/en/bk/news/newsdetailseite_119.html) - Moonrock Capital investment in Staex (April 2024).
 
-[^55]: [Staex Post](https://www.staex.io/post/staex-receives-investment-from-mn-capital) - "MN Capital investment announcement."
+[^54a]: [Brandenburg Kapital](https://www.brandenburg-kapital.de/en/bk/news/newsdetailseite_119.html) - "The need of a decentralized network realizing machine-to-machine economy."
 
-[^56]: [Staex Post](https://www.staex.io/post/staex-receives-investment-from-mn-capital) - "Michaël van de Poppe's venture capital firm."
+[^54b]: [Brandenburg Kapital](https://www.brandenburg-kapital.de/en/bk/news/newsdetailseite_119.html) - Clean-tech software enabling distributed IT networks.
 
-[^57]: [Staex Post](https://www.staex.io/post/staex-receives-investment-from-mn-capital) - Investment purposes.
+[^55]: [Staex News - The Drivery Investment](https://staex.io/news/the-drivery-invests-in-staex-supporting-future-mobility-innovations) - The Drivery GmbH early-stage investment announcement.
 
-[^58]: [Staex Post](https://www.staex.io/post/staex-receives-investment-from-mn-capital) - "Mobility and energy sectors."
+[^55a]: [Staex News](https://staex.io/news/the-drivery-invests-in-staex-supporting-future-mobility-innovations) - "Reflects their belief in Staex's innovative approach."
 
-[^59]: [Staex Post](https://www.staex.io/post/staex-receives-investment-from-mn-capital) - "First DePIN public transport network."
+[^55b]: [Staex News](https://staex.io/news/the-drivery-invests-in-staex-supporting-future-mobility-innovations) - Quote from Sebastian Leber, Director of Innovation Programs.
 
-[^60]: [Staex Post](https://www.staex.io/post/staex-receives-investment-from-mn-capital) - Product development and network capabilities.
+[^56]: [Staex Post - MN Capital](https://www.staex.io/post/staex-receives-investment-from-mn-capital) - MN Capital investment announcement.
+
+[^56a]: [Staex Post](https://www.staex.io/post/staex-receives-investment-from-mn-capital) - "Mobility and energy sectors."
+
+[^56b]: [Staex Post](https://www.staex.io/post/staex-receives-investment-from-mn-capital) - "First DePIN public transport network."
+
+[^57]: [Staex Post - Generative Ventures](https://www.staex.io/post/https-staex-io-blog-staex-generative-ventures-investment) - Generative Ventures investment announcement (January 2025).
+
+[^57a]: [Staex Post](https://www.staex.io/post/https-staex-io-blog-staex-generative-ventures-investment) - Quote from Lex Sokolin, Partner at Generative Ventures.
+
+[^57b]: [Staex Post](https://www.staex.io/post/https-staex-io-blog-staex-generative-ventures-investment) - Partnership focus on scalability and security in DePIN.
+
+[^58]: Interview with Staex CEO Dr. Alexandra Mikityuk by Maze2 SA CEO (December 2025) - EV3 Labs investor profile: DePIN development, AR, AI, IoT solutions; DePIN Ninja analytics; DePIN Summit.
+
+[^58a]: Interview with Staex CEO by Maze2 SA CEO (December 2025) - Sean Carey investor profile: Co-founder/CTO of Helium Systems and BlockJoy; Lead Partner at Borderless Capital.
+
+[^58b]: Interview with Staex CEO by Maze2 SA CEO (December 2025) - Christoph Jentzsch investor profile: Ethereum core developer (2014/15); co-founder slock.it; author of TheDAO; CEO Tokenize.it; Best Regulatory Innovation in Blockchain 2024.
+
+[^58c]: Interview with Staex CEO Dr. Alexandra Mikityuk by Maze2 SA CEO (December 2025) - Angel investor information provided directly by CEO.
 
 [^61]: [Staex Official](https://staex.io) - Three-layer architecture description.
 
