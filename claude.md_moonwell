@@ -32,43 +32,54 @@
 
 ### From DefiLlama API (`api.llama.fi/protocol/moonwell`)
 
-| Metric | Value |
-|--------|-------|
-| **Total TVL** | ~$145.3M |
-| **Base TVL** | $140.3M |
-| **Optimism TVL** | $3.6M |
-| **Moonbeam TVL** | $1.4M |
-| **Base Staking** | $7.3M |
-| **Borrowed** | $63.0M |
-| **Category** | Lending/Borrowing |
-| **Chains** | Base, Optimism, Moonbeam, Moonriver |
+| Metric | Value | Notes |
+|--------|-------|-------|
+| **Total TVL** | $144.5M | Sum of lending TVL (excludes staking/borrowed) |
+| **Base TVL** | $139.6M | 96.6% of total |
+| **Optimism TVL** | $3.6M | Growing deployment |
+| **Moonbeam TVL** | $1.4M | Original deployment |
+| **Base Staking** | $7.2M | WELL staked on Base |
+| **Total Borrowed** | $63.2M | Cross-chain |
+| **Base Borrowed** | $56.4M | Largest market |
+| **OP Borrowed** | $6.5M | Second market |
+| **Category** | Lending/Borrowing | Compound v2 fork |
+| **Chains** | Base, Optimism, Moonbeam, Moonriver | 4 chains active |
 
 ### From DefiLlama Fees API (`api.llama.fi/summary/fees/moonwell`)
 
-| Metric | Value |
-|--------|-------|
-| **24h Fees** | ~$12.5K |
-| **7d Fees** | ~$36K |
-| **30d Fees** | ~$48K |
-| **All-Time Fees** | ~$15.1M |
+| Metric | Value | Notes |
+|--------|-------|-------|
+| **24h Fees** | $12,518 | Interest earned by lenders |
+| **7d Fees** | $35,978 | Weekly fees |
+| **30d Fees** | $47,739 | Monthly fees |
+| **All-Time Fees** | $15.1M | Since tracking began |
+| **Annualized (30d)** | ~$573K | Projected annual |
 
 ### From CoinGecko API - WELL Token (`api.coingecko.com/api/v3/coins/moonwell-artemis`)
 
-| Metric | Value |
-|--------|-------|
-| **Price** | $0.00718 |
-| **Market Cap** | $32.7M |
-| **Market Cap Rank** | #842 |
-| **FDV** | $36.1M |
-| **24h Volume** | ~$2.4M |
-| **Circulating Supply** | ~4.55B WELL |
-| **Total Supply** | ~5.02B WELL |
-| **24h Change** | -2.02% |
-| **7d Change** | -2.54% |
-| **30d Change** | -12.76% |
-| **ATH** | $0.299 (Jun 23, 2022) |
-| **ATL** | $0.00298 (Dec 21, 2022) |
-| **ATH Decline** | -97.57% |
+| Metric | Value | Notes |
+|--------|-------|-------|
+| **Price** | $0.00720 | -97.6% from ATH |
+| **Market Cap** | $32.7M | Rank #842 |
+| **FDV** | $36.1M | At 5B supply |
+| **24h Volume** | $2.5M | Active trading |
+| **Circulating Supply** | 4.53B WELL | 90.6% of total |
+| **Total Supply** | 5.0B WELL | Fixed |
+| **24h Change** | -1.32% | Short-term |
+| **7d Change** | -2.0% | Weekly |
+| **30d Change** | -11.1% | Monthly |
+| **ATH** | $0.299 | Jun 23, 2022 |
+| **ATL** | $0.00299 | Dec 21, 2022 |
+| **ATH Decline** | -97.58% | Significant |
+
+### Key Ratios & Derived Metrics
+
+| Metric | Calculation | Value |
+|--------|-------------|-------|
+| **Utilization Rate** | Borrowed / (TVL + Borrowed) | 30.4% |
+| **TVL/Market Cap** | $144.5M / $32.7M | 4.4x |
+| **Fee Yield (Annual)** | Fees / TVL | ~0.4% |
+| **Borrowed/TVL** | $63.2M / $144.5M | 43.7% |
 
 ---
 
@@ -169,9 +180,42 @@ Before publishing any Moonwell update:
    - [ ] Fee generation metrics
    - [ ] Any new security incidents
 
-4. **Citation check:**
+4. **Citation check (CRITICAL):**
    - [ ] Every footnote `[^N]:` has at least one `[^N]` reference in body
+   - [ ] EVERY factual claim has an inline `[^N]` citation
    - [ ] All sources have human-readable URLs
+   - [ ] Run: `grep -o '\[\^[0-9]*\]' moonwell.md | sort -u | wc -l` (should match footnote count)
+
+5. **Quality Standards (match Reservoir):**
+   - [ ] 55+ footnotes minimum with working links
+   - [ ] Every paragraph has at least 1-2 inline citations
+   - [ ] API data attributed with "retrieved via [API] API"
+   - [ ] 🔷 HARD DATA markers for API-verified data
+   - [ ] Security claims sourced to BlockSec, Cyvers, or exploit reports
+
+---
+
+## INLINE CITATION REQUIREMENTS
+
+**CRITICAL**: GitHub only renders footnotes that are REFERENCED in the body with `[^N]`.
+
+### Good Example (Reservoir-quality):
+```markdown
+Moonwell is a decentralized lending protocol[^1] operating across Base, Optimism, Moonbeam, and Moonriver[^20][^21][^22][^23]. The protocol has suffered **three major exploits** totaling $3.02M+[^5][^6][^7].
+
+**Key Metrics (December 2025):** 🔷 HARD DATA
+- **Total TVL:** $144.5M[^2]
+- **WELL Token:** $0.00720 | Market Cap: $32.7M[^4]
+```
+
+### Bad Example (Current Moonwell):
+```markdown
+Moonwell is a decentralized lending protocol operating across multiple chains.
+The protocol has suffered three major exploits.
+- Total TVL: $144.5M
+```
+
+**Rule**: Every number, every claim, every fact needs `[^N]` citation.
 
 ---
 
