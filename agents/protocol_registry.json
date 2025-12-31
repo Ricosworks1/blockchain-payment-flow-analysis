@@ -110,6 +110,19 @@
       "notes": "Compound v2 fork lending protocol on Base, Optimism, Moonbeam, Moonriver. CRITICAL: Use moonwell-artemis for WELL token (NOT moonwell which is deprecated MFAM). Existing report is exploits postmortem analysis."
     },
     {
+      "name": "Drift",
+      "slug": "drift",
+      "context_file": "claude.md_drift",
+      "report_file": "case_studies/protocols/drift.md",
+      "apis": {
+        "defillama_tvl": "https://api.llama.fi/protocol/drift",
+        "defillama_fees": "https://api.llama.fi/summary/fees/drift",
+        "coingecko_drift": "https://api.coingecko.com/api/v3/coins/drift-protocol"
+      },
+      "enabled": true,
+      "notes": "Solana perpetual futures DEX with hybrid DLOB + vAMM + JIT architecture. TVL $696M, 101x leverage, 40+ markets."
+    },
+    {
       "name": "Aave",
       "slug": "aave",
       "context_file": "claude.md_aave",
