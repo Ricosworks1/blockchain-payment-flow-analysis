@@ -1,4 +1,4 @@
-**Last Updated: December 30, 2025**
+**Last Updated: December 31, 2025**
 
 # EdgeX Protocol Case Study: Comprehensive Analysis (December 2025)
 
@@ -457,21 +457,21 @@ edgeX aims to become a **financial settlement chain** offering:
 
 [^7]: [L2BEAT - EdgeX](https://l2beat.com/scaling/projects/edgex) - ZK-rollup self-custody architecture details.
 
-[^8]: [DefiLlama - EdgeX TVL](https://defillama.com/protocol/edgex) - 🔷 HARD DATA: Total TVL $362.3M retrieved via DefiLlama API (December 30, 2025).
+[^8]: [DefiLlama - EdgeX TVL](https://defillama.com/protocol/edgex) - 🔷 HARD DATA: Total TVL $362.3M retrieved via DefiLlama API (December 31, 2025).
 
-[^9]: [DefiLlama - EdgeX TVL](https://defillama.com/protocol/edgex) - 🔷 HARD DATA: Ethereum TVL $343.7M retrieved via DefiLlama API (December 30, 2025).
+[^9]: [DefiLlama - EdgeX TVL](https://defillama.com/protocol/edgex) - 🔷 HARD DATA: Ethereum TVL $343.7M retrieved via DefiLlama API (December 31, 2025).
 
-[^10]: [DefiLlama - EdgeX TVL](https://defillama.com/protocol/edgex) - 🔷 HARD DATA: Arbitrum TVL $18.5M retrieved via DefiLlama API (December 30, 2025).
+[^10]: [DefiLlama - EdgeX TVL](https://defillama.com/protocol/edgex) - 🔷 HARD DATA: Arbitrum TVL $18.5M retrieved via DefiLlama API (December 31, 2025).
 
-[^11]: [DefiLlama - EdgeX TVL](https://defillama.com/protocol/edgex) - 🔷 HARD DATA: BSC TVL $189K retrieved via DefiLlama API (December 30, 2025).
+[^11]: [DefiLlama - EdgeX TVL](https://defillama.com/protocol/edgex) - 🔷 HARD DATA: BSC TVL $189K retrieved via DefiLlama API (December 31, 2025).
 
-[^12]: [DefiLlama - EdgeX Fees](https://defillama.com/fees/edgex) - 🔷 HARD DATA: 24-hour fees $577K retrieved via DefiLlama API (December 30, 2025).
+[^12]: [DefiLlama - EdgeX Fees](https://defillama.com/fees/edgex) - 🔷 HARD DATA: 24-hour fees $577K retrieved via DefiLlama API (December 31, 2025).
 
-[^13]: [DefiLlama - EdgeX Fees](https://defillama.com/fees/edgex) - 🔷 HARD DATA: 7-day fees $3.99M retrieved via DefiLlama API (December 30, 2025).
+[^13]: [DefiLlama - EdgeX Fees](https://defillama.com/fees/edgex) - 🔷 HARD DATA: 7-day fees $3.99M retrieved via DefiLlama API (December 31, 2025).
 
-[^14]: [DefiLlama - EdgeX Fees](https://defillama.com/fees/edgex) - 🔷 HARD DATA: 30-day fees $39.05M retrieved via DefiLlama API (December 30, 2025).
+[^14]: [DefiLlama - EdgeX Fees](https://defillama.com/fees/edgex) - 🔷 HARD DATA: 30-day fees $39.05M retrieved via DefiLlama API (December 31, 2025).
 
-[^15]: [DefiLlama - EdgeX Fees](https://defillama.com/fees/edgex) - 🔷 HARD DATA: All-time fees $222.6M retrieved via DefiLlama API (December 30, 2025).
+[^15]: [DefiLlama - EdgeX Fees](https://defillama.com/fees/edgex) - 🔷 HARD DATA: All-time fees $222.6M retrieved via DefiLlama API (December 31, 2025).
 
 [^16]: [DropsTab - EdgeX TGE](https://dropstab.com/coins/edgex-exchange) - Token Generation Event expected Q4 2025, not yet on CoinGecko.
 
@@ -723,4 +723,4 @@ edgeX aims to become a **financial settlement chain** offering:
 
 ---
 
-*Last Updated: December 30, 2025*
+*Last Updated: December 31, 2025*
