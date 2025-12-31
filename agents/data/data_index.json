@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "description": "Indexed storage of all API data fetched for protocol/chain reports",
+    "created": "2025-12-30",
+    "last_updated": "2025-12-30T00:00:00Z",
+    "version": "1.0"
+  },
+  "protocols": {
+    "reservoir": {
+      "name": "Reservoir Protocol",
+      "last_fetched": "2025-12-30",
+      "apis": {
+        "defillama": {
+          "endpoint": "https://api.llama.fi/protocol/reservoir-protocol",
+          "data": {
+            "tvl": 83500000,
+            "tvl_ethereum": 65800000,
+            "tvl_base": 17700000,
+            "peak_tvl": 293500000,
+            "audits": 2
+          },
+          "retrieved": "2025-12-30"
+        },
+        "coingecko_dam": {
+          "endpoint": "https://api.coingecko.com/api/v3/coins/reservoir",
+          "data": {
+            "price_usd": 0.0249,
+            "market_cap": 4990000,
+            "fdv": 24900000,
+            "volume_24h": 1980000,
+            "circulating_supply": 200000000,
+            "total_supply": 1000000000,
+            "change_24h": 3.01,
+            "change_7d": 43.95,
+            "change_30d": 15.63,
+            "ath": 0.149,
+            "atl": 0.016
+          },
+          "retrieved": "2025-12-29"
+        },
+        "coingecko_rusd": {
+          "endpoint": "https://api.coingecko.com/api/v3/coins/reservoir-rusd",
+          "data": {
+            "price_usd": 0.998,
+            "market_cap": 896000,
+            "circulating_supply": 897000,
+            "change_24h": -0.05,
+            "change_7d": 0.20,
+            "ath": 2.00,
+            "atl": 0.972
+          },
+          "retrieved": "2025-12-29"
+        }
+      },
+      "contracts": {
+        "rusd": "0x09d4214c03d01f49544c0448dbe3a27f768f2b34",
+        "srusd": "0x738d1115B90efa71AE468F1287fc864775e23a31",
+        "wsrusd": "0xd3fd63209fa2d55b07a0f6db36c2f43900be3094",
+        "dam": "0x0FedbA9178b70e8b54e2Af08eBffcf28A1e5A43B"
+      }
+    },
+    "edgex": {
+      "name": "EdgeX Protocol",
+      "last_fetched": "2025-12-30",
+      "apis": {
+        "defillama_tvl": {
+          "endpoint": "https://api.llama.fi/protocol/edgex",
+          "data": {
+            "tvl": 362300000,
+            "tvl_ethereum": 343700000,
+            "tvl_arbitrum": 18500000,
+            "tvl_bsc": 189000
+          },
+          "retrieved": "2025-12-30"
+        },
+        "defillama_fees": {
+          "endpoint": "https://api.llama.fi/summary/fees/edgex",
+          "data": {
+            "fees_24h": 577000,
+            "fees_7d": 3990000,
+            "fees_30d": 39050000,
+            "fees_all_time": 222600000
+          },
+          "retrieved": "2025-12-30"
+        },
+        "coingecko": {
+          "endpoint": "N/A",
+          "data": {
+            "status": "TGE_PENDING",
+            "expected_tge": "Q4 2025",
+            "expected_symbol": "EX"
+          },
+          "retrieved": "2025-12-30"
+        }
+      },
+      "contracts": {
+        "starkex_verifier": "Check L2BEAT for current address",
+        "chain": "StarkEx L2 on Ethereum"
+      }
+    }
+  },
+  "chains": {},
+  "sources": {
+    "defillama": {
+      "base_url": "https://api.llama.fi",
+      "rate_limit": "unlimited",
+      "auth_required": false,
+      "reliability": 5
+    },
+    "coingecko": {
+      "base_url": "https://api.coingecko.com/api/v3",
+      "rate_limit": "30 calls/min",
+      "auth_required": false,
+      "reliability": 5
+    },
+    "etherscan": {
+      "base_url": "https://api.etherscan.io/api",
+      "rate_limit": "5 calls/sec",
+      "auth_required": true,
+      "api_key": "4RYI32MZTWTWYHVAV3WHRVXYYZQTMSC8HI",
+      "reliability": 5
+    }
+  }
+}

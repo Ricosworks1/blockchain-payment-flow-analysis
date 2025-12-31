@@ -6,8 +6,38 @@ This directory contains automated update agents for webthreepedia.com reports.
 
 | Agent | File | What It Does |
 |-------|------|--------------|
+| Orchestrator | `orchestrator.sh` | Runs all enabled protocol agents |
 | Reservoir Update | `update_reservoir.sh` | Fetches API data, generates Claude prompt |
-| Reservoir Full Auto | `update_reservoir_full.sh` | Fetches data + calls Claude Code automatically |
+| EdgeX Update | `update_edgex.sh` | Fetches EdgeX API data (TVL + Fees) |
+| Data Index Updater | `update_data_index.sh` | Updates centralized data_index.json |
+
+## Protocol Registry
+
+All protocols are registered in `protocol_registry.json`. Enable/disable protocols there.
+
+## Data Index System
+
+All fetched API data is stored in `data/data_index.json` for:
+- Historical reference
+- Cross-protocol comparison
+- Audit trail of data sources
+- Quick lookup without re-fetching
+
+### View current data:
+```bash
+cat agents/data/data_index.json | jq '.protocols.edgex'
+```
+
+### Update all protocol data:
+```bash
+./agents/update_data_index.sh
+```
+
+### Update specific protocol:
+```bash
+./agents/update_data_index.sh edgex
+./agents/update_data_index.sh reservoir
+```
 
 ## How to Use
 
@@ -38,13 +68,18 @@ crontab -e
 
 ```
 agents/
-├── README.md              # This file
-├── update_reservoir.sh    # Semi-auto (generates prompt)
-├── update_reservoir_full.sh # Full auto (calls Claude)
-├── data/                  # Raw API data + prompts
-│   └── reservoir_YYYYMMDD.json
-└── logs/                  # Execution logs
-    └── reservoir_YYYYMMDD.log
+├── README.md                 # This file
+├── orchestrator.sh           # Master agent (runs all protocols)
+├── protocol_registry.json    # Protocol configuration
+├── update_reservoir.sh       # Reservoir update agent
+├── update_edgex.sh           # EdgeX update agent
+├── update_data_index.sh      # Data index updater
+├── data/                     # Stored API data
+│   ├── data_index.json       # Centralized data index (all protocols)
+│   ├── reservoir_*.json      # Raw API responses
+│   └── edgex_*.json          # Raw API responses
+└── logs/                     # Execution logs
+    └── *.log
 ```
 
 ## Adding New Protocols
