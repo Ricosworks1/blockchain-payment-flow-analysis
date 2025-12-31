@@ -38,6 +38,20 @@
       "notes": "Unified vault model (Oct 2025), Base-only deployment"
     },
     {
+      "name": "Maple Finance",
+      "slug": "maple",
+      "context_file": "claude.md_maple",
+      "report_file": "case_studies/protocols/maple_finance.md",
+      "apis": {
+        "defillama_tvl": "https://api.llama.fi/protocol/maple",
+        "defillama_fees": "https://api.llama.fi/summary/fees/maple",
+        "coingecko_syrup": "https://api.coingecko.com/api/v3/coins/syrup",
+        "coingecko_syrupusdc": "https://api.coingecko.com/api/v3/coins/syrupusdc"
+      },
+      "enabled": true,
+      "notes": "SYRUP token (2024 rebrand from MPL), syrupUSDC yield-bearing stablecoin"
+    },
+    {
       "name": "Aave",
       "slug": "aave",
       "context_file": "claude.md_aave",

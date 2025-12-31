@@ -1,0 +1,277 @@
+# Claude Context: Maple Finance
+
+**Purpose**: Protocol-specific context for Maple Finance report updates. Contains verified data sources, common mistakes to avoid, and key facts.
+
+**Last Verified**: December 31, 2025
+**Report Version**: 1.0 (needs upgrade to 55+ footnotes, all cited in body)
+
+---
+
+## CRITICAL: Use ALL Free APIs
+
+### API Endpoints for Maple
+
+| API | Endpoint | ID/Slug |
+|-----|----------|---------|
+| DefiLlama TVL | `https://api.llama.fi/protocol/maple` | maple |
+| DefiLlama Fees | `https://api.llama.fi/summary/fees/maple` | maple |
+| CoinGecko SYRUP | `https://api.coingecko.com/api/v3/coins/syrup` | syrup |
+| CoinGecko syrupUSDC | `https://api.coingecko.com/api/v3/coins/syrupusdc` | syrupusdc |
+| CoinGecko syrupUSDT | `https://api.coingecko.com/api/v3/coins/syrupusdt` | syrupusdt |
+
+### Contract Addresses
+
+| Token | Contract | Chain |
+|-------|----------|-------|
+| SYRUP | `0x643C4E15d7d62Ad0aBeC4A9BD4b001aA3Ef52d58` | Ethereum |
+| syrupUSDC | `0x80ac24aA929eaF5013f6436cdA2a7ba190f5Cc0b` | Ethereum |
+| MPL (deprecated) | `0x33349B282065b0284d756F0577FB39c158F935e6` | Ethereum |
+
+**Note:** MPL was the old governance token (deprecated). SYRUP is the current token (2024 rebrand).
+
+---
+
+## Latest Verified Data (December 31, 2025)
+
+### From DefiLlama API (`api.llama.fi/protocol/maple`)
+
+| Metric | Value |
+|--------|-------|
+| **Total TVL** | $2.56B |
+| **Ethereum TVL** | $2.56B |
+| **Borrowed Amount** | $1.81B |
+| **Staking TVL** | $86.4M |
+| **Category** | Lending |
+| **Chains** | Ethereum (Solana discontinued) |
+
+### From DefiLlama Fees API (`api.llama.fi/summary/fees/maple`)
+
+| Metric | Value |
+|--------|-------|
+| **24h Fees** | $200K |
+| **7d Fees** | $491K |
+| **30d Fees** | $9.24M |
+| **All-Time Fees** | $59.46M |
+
+### From CoinGecko API (`api.coingecko.com/api/v3/coins/syrup`)
+
+| Metric | Value |
+|--------|-------|
+| **SYRUP Price** | $0.327 |
+| **Market Cap** | $375.6M |
+| **FDV** | $397.3M |
+| **24h Volume** | $17.3M |
+| **Circulating Supply** | 1.15B SYRUP |
+| **Total Supply** | 1.22B SYRUP |
+| **24h Change** | +1.68% |
+| **7d Change** | +6.74% |
+| **ATH** | $0.653 |
+| **ATL** | $0.085 |
+
+### From CoinGecko API (`api.coingecko.com/api/v3/coins/syrupusdc`)
+
+| Metric | Value |
+|--------|-------|
+| **syrupUSDC Price** | $1.14 |
+| **syrupUSDC Market Cap** | $1.29B |
+| **Circulating Supply** | 1.13B syrupUSDC |
+
+---
+
+## Key Protocol Facts
+
+### What Maple Finance Is
+- **Type**: Institutional on-chain credit / lending protocol
+- **Chain**: Ethereum (primary), Solana (discontinued)
+- **Launch**: 2021
+- **Token Rebrand**: MPL → SYRUP (2024)
+
+### Products
+1. **syrupUSDC**: Permissionless yield-bearing stablecoin (~7% APY)
+2. **syrupUSDT**: USDT-based yield product
+3. **Institutional Pools**: KYC-required lending pools
+4. **High Yield Products**: 9.2% APY (institutional)
+5. **BTC Yield Products**: 5.2% APY
+
+### Fee Structure
+- **Origination Fee**: 1-3% of loan principal
+- **Management Fee**: 0.5-1% of AUM annually
+- **Performance Fee**: 10-20% of interest paid
+- **SYRUP Buybacks**: 20% of all protocol revenue
+
+### Major Integrations
+- **Spark Protocol (Sky/MakerDAO)**: $400M+ syrupUSD
+- **Morpho Protocol**: $150M+ syrupUSD
+- **Total DeFi Composability**: 50+ protocols
+
+---
+
+## Revenue Calculation (SHOW YOUR WORK)
+
+**Current Calculation (at $2.56B TVL, $9.24M 30d fees):**
+
+```
+Step 1: Fees from DefiLlama API
+  - 30-day fees: $9.24M
+  - Annualized: $9.24M × 12 = $110.9M
+
+Step 2: Revenue vs Fees distinction
+  - Fees = Total interest collected
+  - Revenue = Protocol's cut (~10-20%)
+  - Estimated protocol revenue: $110.9M × 15% = $16.6M/year
+
+Step 3: Token buybacks
+  - 20% of protocol revenue → SYRUP buybacks
+  - Annual buybacks: $16.6M × 20% = $3.3M
+
+Step 4: Yield calculations
+  - syrupUSDC APY: ~7% (from yield on loans minus protocol fees)
+  - Institutional pools: 9.2% High Yield, 5.2% BTC Yield
+
+RESULT: ~$110M annualized fees, ~$16-20M protocol revenue
+```
+
+---
+
+## CRITICAL: ALWAYS VERIFY TRAINING DATA
+
+**LLM training data may be stale. ALWAYS fetch live data via APIs before using any metric.**
+
+For Maple specifically:
+1. **DefiLlama API** → `api.llama.fi/protocol/maple` for TVL
+2. **DefiLlama Fees** → `api.llama.fi/summary/fees/maple` for fees
+3. **CoinGecko API** → `api.coingecko.com/api/v3/coins/syrup` for SYRUP token
+4. **CoinGecko API** → `api.coingecko.com/api/v3/coins/syrupusdc` for syrupUSDC
+
+**Never use LLM memory for:** TVL, token price, market cap, fees, AUM figures
+
+**If API is unavailable:** Use WebSearch/WebFetch to cross-reference, flag with UNVERIFIED
+
+---
+
+## MISTAKES TO AVOID
+
+### 1. Token Confusion (MPL vs SYRUP)
+**What happened**: Old report might reference MPL token
+**Root cause**: MPL was deprecated in 2024, rebranded to SYRUP
+**Fix**: Always use SYRUP for current token, note MPL is deprecated
+
+### 2. AUM vs TVL Confusion
+**What happened**: Mixing up AUM ($2.6B claimed) with TVL ($2.56B on DefiLlama)
+**Root cause**: Marketing materials vs on-chain data
+**Fix**: Use DefiLlama TVL for on-chain data, note difference if citing AUM
+
+### 3. Outdated "Surpassed BlackRock" Claim
+**What happened**: Q2 2025 claim that Maple surpassed BlackRock
+**Root cause**: One-time snapshot that may not be current
+**Fix**: Verify current comparison, flag as historical if old
+
+### 4. syrupUSDC Price Not $1
+**What happened**: syrupUSDC trades at $1.14 not $1.00
+**Root cause**: Yield-bearing token, value accrues over time
+**Fix**: Show current syrupUSDC price from CoinGecko
+
+### 5. Solana Status
+**What happened**: Saying Maple is on Solana
+**Root cause**: Solana deployment discontinued/inactive
+**Fix**: Note Ethereum-only or clarify Solana status (TVL = $0)
+
+---
+
+## Update Checklist
+
+Before publishing any Maple update:
+
+1. **Fetch from DefiLlama API:**
+   - [ ] `api.llama.fi/protocol/maple` for TVL
+   - [ ] `api.llama.fi/summary/fees/maple` for fees
+   - Extract: TVL, borrowed amount, staking TVL, fee metrics
+
+2. **Fetch from CoinGecko API:**
+   - [ ] `api.coingecko.com/api/v3/coins/syrup` for SYRUP token
+   - [ ] `api.coingecko.com/api/v3/coins/syrupusdc` for syrupUSDC
+   - Extract: Prices, market caps, supply, ATH/ATL
+
+3. **Update report metrics:**
+   - [ ] TVL (currently $2.56B)
+   - [ ] Borrowed amount ($1.81B)
+   - [ ] Fee data (24h, 7d, 30d, all-time)
+   - [ ] SYRUP token price and market cap
+   - [ ] syrupUSDC price and TVL
+
+4. **Update footnotes:**
+   - [ ] Note "retrieved via [API name] API" for all API data
+   - [ ] Add HARD DATA markers
+
+5. **Citation check:**
+   - [ ] Every footnote `[^N]:` has at least one `[^N]` reference in body
+   - [ ] Run: `grep -o '\[\^[0-9]*\]' maple_finance.md | sort -u | wc -l`
+   - [ ] Result should be 55+ (matching footnote count)
+
+6. **Quality check:**
+   - [ ] All numbers consistent across report
+   - [ ] SYRUP token (not MPL) used throughout
+   - [ ] Fee calculations shown with assumptions
+
+---
+
+## Official Resources
+
+- **Website**: https://maple.finance/
+- **Documentation**: https://maplefinance.gitbook.io/maple/
+- **App**: https://app.maple.finance/
+- **Blog**: https://maple.finance/blog
+- **Twitter**: @maboroshi_maple / @SyrupFi
+- **GitHub**: https://github.com/maple-labs
+
+---
+
+## Key Partnerships & Integrations
+
+| Partner | Type | Details |
+|---------|------|---------|
+| **Spark Protocol** | DeFi Integration | $400M+ syrupUSD deposited |
+| **Morpho Protocol** | DeFi Integration | $150M+ syrupUSD, up to 24% leveraged yield |
+| **Chainlink** | Oracle | Price feeds for lending |
+| **Block Analitica** | Credit Assessment | Risk analytics partner |
+| **Trail of Bits** | Security | Multiple audits |
+
+---
+
+## Competitive Landscape
+
+| Protocol | TVL | Category | Key Differentiator |
+|----------|-----|----------|-------------------|
+| **Maple Finance** | $2.56B | Institutional Lending | Undercollateralized, KYC borrowers |
+| **Aave** | $25B+ | DeFi Lending | Overcollateralized, permissionless |
+| **Compound** | $3B+ | DeFi Lending | Overcollateralized, permissionless |
+| **Goldfinch** | $100M | Real World Credit | Emerging market focus |
+| **Centrifuge** | $300M | RWA Lending | Asset tokenization |
+
+---
+
+## Report History
+
+| Version | Date | Changes |
+|---------|------|---------|
+| 1.0 | Dec 29, 2025 | Initial report (3 footnotes, basic structure) |
+| 2.0 | (Pending) | Add 55+ footnotes with inline citations |
+
+---
+
+## Source Ratings
+
+| Source | Rating | Notes |
+|--------|--------|-------|
+| DefiLlama API | Official on-chain TVL/fees data |
+| CoinGecko API | Official market data |
+| Maple Docs | Official protocol documentation |
+| Maple Blog | Official announcements |
+| Trail of Bits Audit | Security audit reports |
+| PANews | News coverage |
+| The Block | News coverage |
+| CoinDesk | News coverage |
+
+---
+
+*This file is gitignored and stays local. Update after each report revision.*
