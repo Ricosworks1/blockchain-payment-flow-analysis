@@ -574,125 +574,125 @@ Reservoir generates revenue from:[^39][^21]
 
 ## Footnotes
 
-[^1]: [Reservoir Documentation](https://docs.reservoir.xyz/) - Official protocol documentation covering rUSD, srUSD, wsrUSD, trUSD, and lending markets. 🔷 HARD DATA
+[^1]: Reservoir. (2024). Official protocol documentation: rUSD, srUSD, wsrUSD, trUSD, and lending markets. docs.reservoir.xyz, https://docs.reservoir.xyz/ 🔷 HARD DATA
 
-[^2]: [Reservoir Protocol - DefiLlama](https://defillama.com/protocol/reservoir-protocol) - TVL: $83.5M total (Ethereum $65.8M, Base $17.7M), Peak: $293.5M (Aug 2024). Retrieved via DefiLlama API (December 29, 2025). 🔷 HARD DATA
+[^2]: DefiLlama. (2025, December 29). Reservoir Protocol TVL: $83.5M total (Ethereum $65.8M, Base $17.7M), Peak: $293.5M (Aug 2024). defillama.com, https://defillama.com/protocol/reservoir-protocol 🔷 HARD DATA
 
-[^3]: [CoinGecko - Reservoir rUSD](https://www.coingecko.com/en/coins/reservoir-rusd) - rUSD stablecoin market data: Price $0.998, Market Cap $896K, Circulating Supply 897K rUSD, ATH $2.00 (Jun 21, 2025), ATL $0.972 (Jul 14, 2025). Retrieved via CoinGecko API (December 29, 2025). 🔷 HARD DATA
+[^3]: CoinGecko. (2025, December 29). Reservoir rUSD stablecoin: Price $0.998, Market Cap $896K, Circulating Supply 897K rUSD, ATH $2.00 (Jun 21, 2025), ATL $0.972 (Jul 14, 2025). coingecko.com, https://www.coingecko.com/en/coins/reservoir-rusd 🔷 HARD DATA
 
-[^4]: [CoinGecko - Reservoir DAM](https://www.coingecko.com/en/coins/reservoir) - DAM governance token: Price $0.0249, Market Cap $4.99M, FDV $24.9M, 24h Volume $1.98M, Circulating 200M/1B, ATH $0.149 (Sep 19, 2025), ATL $0.016 (Dec 18, 2025). Retrieved via CoinGecko API (December 29, 2025). 🔷 HARD DATA
+[^4]: CoinGecko. (2025, December 29). Reservoir DAM governance token: Price $0.0249, Market Cap $4.99M, FDV $24.9M, 24h Volume $1.98M, Circulating 200M/1B, ATH $0.149 (Sep 19, 2025), ATL $0.016 (Dec 18, 2025). coingecko.com, https://www.coingecko.com/en/coins/reservoir 🔷 HARD DATA
 
-[^5]: [Etherscan - rUSD Token Contract](https://etherscan.io/token/0x09d4214c03d01f49544c0448dbe3a27f768f2b34) - On-chain rUSD contract: 77M+ supply, 1,125+ holders. 🔷 HARD DATA
+[^5]: Etherscan. (2025). rUSD Token Contract: 77M+ supply, 1,125+ holders. etherscan.io, https://etherscan.io/token/0x09d4214c03d01f49544c0448dbe3a27f768f2b34 🔷 HARD DATA
 
-[^6]: [Etherscan - srUSD Token Contract](https://etherscan.io/token/0x738d1115B90efa71AE468F1287fc864775e23a31) - On-chain srUSD savings token contract. 🔷 HARD DATA
+[^6]: Etherscan. (2025). srUSD Token Contract: On-chain savings token. etherscan.io, https://etherscan.io/token/0x738d1115B90efa71AE468F1287fc864775e23a31 🔷 HARD DATA
 
-[^7]: [Etherscan - wsrUSD Token Contract](https://etherscan.io/token/0xd3fd63209fa2d55b07a0f6db36c2f43900be3094) - On-chain wrapped srUSD contract. 🔷 HARD DATA
+[^7]: Etherscan. (2025). wsrUSD Token Contract: On-chain wrapped srUSD. etherscan.io, https://etherscan.io/token/0xd3fd63209fa2d55b07a0f6db36c2f43900be3094 🔷 HARD DATA
 
-[^8]: [Etherscan - DAM Token Contract](https://etherscan.io/token/0x0FedbA9178b70e8b54e2Af08eBffcf28A1e5A43B) - On-chain DAM governance token contract. 🔷 HARD DATA
+[^8]: Etherscan. (2025). DAM Token Contract: On-chain governance token. etherscan.io, https://etherscan.io/token/0x0FedbA9178b70e8b54e2Af08eBffcf28A1e5A43B 🔷 HARD DATA
 
-[^9]: [GitHub - reservoir-protocol/reservoir](https://github.com/reservoir-protocol/reservoir) - Smart contract repository: 3 stars, 0 forks, 3 contributors, MIT license, 100% Solidity, 50 commits on master branch. Core functionality: decentralized bank issuing rUSD, srUSD, trUSD stablecoins backed by RWAs and on-chain yield. 🔷 HARD DATA
+[^9]: GitHub. (2025). reservoir-protocol/reservoir: 3 stars, 0 forks, 3 contributors, MIT license, 100% Solidity, 50 commits. Decentralized bank issuing rUSD, srUSD, trUSD stablecoins backed by RWAs and on-chain yield. github.com, https://github.com/reservoir-protocol/reservoir 🔷 HARD DATA
 
-[^10]: [Reservoir Smart Contract Addresses](https://docs.reservoir.xyz/security-and-compliance/smart-contract-addresses) - Official contract deployment addresses on Ethereum.
+[^10]: Reservoir. (2024). Smart Contract Addresses: Official deployment addresses on Ethereum. docs.reservoir.xyz, https://docs.reservoir.xyz/security-and-compliance/smart-contract-addresses
 
-[^11]: [Reservoir Security Audits](https://docs.reservoir.xyz/security-and-compliance/audits) - Four audits completed by Halborn security firm.
+[^11]: Reservoir. (2024). Security Audits: Four audits completed by Halborn security firm. docs.reservoir.xyz, https://docs.reservoir.xyz/security-and-compliance/audits
 
-[^12]: [Halborn - Reservoir Audit Report](https://www.halborn.com/audits/fortunafi/reservoir-updated) - Security assessment May 13-31, 2024 for FortunaFi/Reservoir. Scope: rUSD minting, srUSD/trUSD yield tokens, Peg Stability Module, governance-controlled asset adapters. All identified issues addressed by team. 🔷 HARD DATA
+[^12]: Halborn. (2024, May 13-31). Reservoir Audit Report: Security assessment for FortunaFi/Reservoir covering rUSD minting, srUSD/trUSD yield tokens, Peg Stability Module, governance-controlled asset adapters. All identified issues addressed. halborn.com, https://www.halborn.com/audits/fortunafi/reservoir-updated 🔷 HARD DATA
 
-[^13]: [Reservoir srUSD Blog Announcement](https://reservoir.beehiiv.com/p/srusd-live) - November 7, 2024 launch announcement: 6% APY, $25M cap, no lock-up.
+[^13]: Reservoir. (2024, November 7). srUSD Live announcement: 6% APY, $25M cap, no lock-up. reservoir.beehiiv.com, https://reservoir.beehiiv.com/p/srusd-live
 
-[^14]: [Reservoir Overview - Architecture](https://docs.reservoir.xyz/protocol-architecture/architecture-overview) - Protocol architecture documentation.
+[^14]: Reservoir. (2024). Protocol Architecture Overview documentation. docs.reservoir.xyz, https://docs.reservoir.xyz/protocol-architecture/architecture-overview
 
-[^15]: [Reservoir Risk Factors](https://docs.reservoir.xyz/security-and-compliance/risk-factors) - Official risk disclosure documentation.
+[^15]: Reservoir. (2024). Risk Factors: Official risk disclosure documentation. docs.reservoir.xyz, https://docs.reservoir.xyz/security-and-compliance/risk-factors
 
-[^16]: [Reservoir FAQ](https://docs.reservoir.xyz/security-and-compliance/faq) - Frequently asked questions and protocol mechanics.
+[^16]: Reservoir. (2024). FAQ: Frequently asked questions and protocol mechanics. docs.reservoir.xyz, https://docs.reservoir.xyz/security-and-compliance/faq
 
-[^17]: [Morpho - Steakhouse rUSD Vault](https://app.morpho.org/ethereum/vault/0xBeEf11eCb698f4B5378685C05A210bdF71093521/steakhouse-rusd) - Steakhouse rUSD vault on Morpho, $92M+ TVL. 🔷 HARD DATA
+[^17]: Morpho. (2025). Steakhouse rUSD Vault: $92M+ TVL. app.morpho.org, https://app.morpho.org/ethereum/vault/0xBeEf11eCb698f4B5378685C05A210bdF71093521/steakhouse-rusd 🔷 HARD DATA
 
-[^18]: [Morpho - srUSD/rUSD Market](https://app.morpho.org/ethereum/market/0xc84cdb5a63207d8c2e7251f758a435c6bd10b4eaefdaf36d7650159bf035962e/srusd-rusd) - Lending market for srUSD collateral/rUSD borrowing. 🔷 HARD DATA
+[^18]: Morpho. (2025). srUSD/rUSD Market: Lending market for srUSD collateral/rUSD borrowing. app.morpho.org, https://app.morpho.org/ethereum/market/0xc84cdb5a63207d8c2e7251f758a435c6bd10b4eaefdaf36d7650159bf035962e/srusd-rusd 🔷 HARD DATA
 
-[^19]: [CoinDesk - World Liberty Financial USD1](https://www.coindesk.com/markets/2025/12/18/world-liberty-financial-proposes-using-treasury-funds-to-boost-usd1-stablecoin-growth) - USD1 stablecoin coverage, Reservoir integration context.
+[^19]: CoinDesk. (2025, December 18). World Liberty Financial proposes using treasury funds to boost USD1 stablecoin growth. coindesk.com, https://www.coindesk.com/markets/2025/12/18/world-liberty-financial-proposes-using-treasury-funds-to-boost-usd1-stablecoin-growth
 
-[^20]: [Dune Analytics](https://dune.com/) - On-chain analytics platform. Reservoir metrics available but require custom queries for protocol-specific data. 🔷 HARD DATA
+[^20]: Dune Analytics. (2025). On-chain analytics platform: Reservoir metrics available via custom queries. dune.com, https://dune.com/ 🔷 HARD DATA
 
-[^21]: [Token Terminal - Reservoir](https://tokenterminal.com/terminal/projects/reservoir) - Infrastructure protocol tracking: Active on Arbitrum, Base, Berachain, Blast, Ethereum, Optimism. Earliest data May 4, 2022. Metrics: active addresses, developers, code commits, gas usage, transactions. 🔷 HARD DATA
+[^21]: Token Terminal. (2025). Reservoir infrastructure tracking: Active on Arbitrum, Base, Berachain, Blast, Ethereum, Optimism. Earliest data May 4, 2022. tokenterminal.com, https://tokenterminal.com/terminal/projects/reservoir 🔷 HARD DATA
 
-[^22]: [Reservoir Official Website](https://www.reservoir.xyz/) - Main protocol interface and product access. 🔷 HARD DATA
+[^22]: Reservoir. (2025). Official Website: Main protocol interface and product access. reservoir.xyz, https://www.reservoir.xyz/ 🔷 HARD DATA
 
-[^23]: [CoinMarketCap - Reservoir DAM](https://coinmarketcap.com/currencies/reservoir/) - DAM token: Price $0.02486, Market Cap $4.97M (#1306 rank), 24h Volume $2.14M, Circulating 199.99M/1B max supply, 1,975 holders. Security scores: CertiK 82.58, Cyberscope 55. Tags: DeFi, Ethereum Ecosystem, Binance Alpha. 🔷 HARD DATA
+[^23]: CoinMarketCap. (2025, December 29). Reservoir DAM: Price $0.02486, Market Cap $4.97M (#1306 rank), 24h Volume $2.14M, Circulating 199.99M/1B max, 1,975 holders. Security scores: CertiK 82.58, Cyberscope 55. coinmarketcap.com, https://coinmarketcap.com/currencies/reservoir/ 🔷 HARD DATA
 
-[^24]: [The Block - Fortunafi Funding](https://www.theblock.co/post/297416/fortunafi-tokenization-raises-funding-valuation-stablecoin-protocol-reservoir) - Fortunafi raised $9.51M total at $48M valuation (May 2024), unveiling Reservoir stablecoin protocol. 10 employees, native rUSD integration across chains, backed by digital + RWA assets. 🔷 HARD DATA
+[^24]: The Block. (2024, May). Fortunafi raises $9.51M at $48M valuation, unveiling Reservoir stablecoin protocol. 10 employees, native rUSD integration across chains, backed by digital + RWA assets. theblock.co, https://www.theblock.co/post/297416/fortunafi-tokenization-raises-funding-valuation-stablecoin-protocol-reservoir 🔷 HARD DATA
 
-[^25]: [Crunchbase - Reservoir Series A](https://www.crunchbase.com/funding_round/reservoir-b407-series-a--a622f73a) - $14M Series A funding round details, February 2025.
+[^25]: Crunchbase. (2025, February). Reservoir Series A: $14M funding round details. crunchbase.com, https://www.crunchbase.com/funding_round/reservoir-b407-series-a--a622f73a
 
-[^26]: [Stablewatch](https://www.stablewatch.io/) - Real-time stablecoin analytics: APY tracking, TVL, RWA backing across 60+ yield-bearing stablecoins including srUSD. 🔷 HARD DATA
+[^26]: Stablewatch. (2025). Real-time stablecoin analytics: APY tracking, TVL, RWA backing across 60+ yield-bearing stablecoins including srUSD. stablewatch.io, https://www.stablewatch.io/ 🔷 HARD DATA
 
-[^27]: [Delphi Digital - Reservoir Analysis](https://members.delphidigital.io/feed/reservoir-building-the-next-generation-stablecoin) - Research coverage: "Reservoir - Building the Next Generation Stablecoin" analyzing protocol architecture, yield mechanisms, and competitive positioning.
+[^27]: Delphi Digital. (2024). Reservoir - Building the Next Generation Stablecoin: Protocol architecture, yield mechanisms, and competitive positioning. delphidigital.io, https://members.delphidigital.io/feed/reservoir-building-the-next-generation-stablecoin
 
-[^28]: [Steakhouse Financial - Morpho Vaults](https://www.steakhouse.financial/docs/products/steakhouse-financial-products/morpho-vaults) - Vault curation methodology: Steakhouse curates rUSD vault on Morpho with RWA-backed flagship strategy, risk management, and yield optimization.
+[^28]: Steakhouse Financial. (2024). Morpho Vaults: Vault curation methodology with RWA-backed flagship strategy, risk management, and yield optimization. steakhouse.financial, https://www.steakhouse.financial/docs/products/steakhouse-financial-products/morpho-vaults
 
-[^29]: [Morpho Governance Forum - Steakhouse Vault](https://forum.morpho.org/t/steakhouse-financial-rwa-backed-flagship-usdc-metamorpho-vault-whitlisting/375) - Governance proposal for Steakhouse vault whitelisting.
+[^29]: Morpho Forum. (2024). Steakhouse Financial RWA-backed flagship USDC MetaMorpho vault whitelisting proposal. forum.morpho.org, https://forum.morpho.org/t/steakhouse-financial-rwa-backed-flagship-usdc-metamorpho-vault-whitlisting/375
 
-[^30]: [Fortunafi Introduction to Reservoir](https://fortunafi.beehiiv.com/p/hello-reservoir) - "Introducing Reservoir: The Next Gen Stablecoin Protocol" - founding announcement detailing rUSD permissionless design, RWA + crypto asset backing, and Fortunafi incubation synergies.
+[^30]: Fortunafi. (2024). Introducing Reservoir: The Next Gen Stablecoin Protocol - rUSD permissionless design, RWA + crypto asset backing, Fortunafi incubation synergies. fortunafi.beehiiv.com, https://fortunafi.beehiiv.com/p/hello-reservoir
 
-[^31]: [Reservoir Mirror - Protocol Introduction](https://reservoir.mirror.xyz/cW3-xUuLpqpfYmTMZhfTowOrJssEL_iSThuNoUmMpxE) - Original protocol introduction article.
+[^31]: Reservoir. (2024). Protocol Introduction on Mirror. reservoir.mirror.xyz, https://reservoir.mirror.xyz/cW3-xUuLpqpfYmTMZhfTowOrJssEL_iSThuNoUmMpxE
 
-[^32]: [Berascan - rUSD on Berachain](https://berascan.com/address/0x09d4214c03d01f49544c0448dbe3a27f768f2b34) - rUSD deployment on Berachain network. 🔷 HARD DATA
+[^32]: Berascan. (2025). rUSD deployment on Berachain network. berascan.com, https://berascan.com/address/0x09d4214c03d01f49544c0448dbe3a27f768f2b34 🔷 HARD DATA
 
-[^33]: [Ethplorer - rUSD Token Analytics](https://ethplorer.io/address/0x09d4214c03d01f49544c0448dbe3a27f768f2b34) - Token holder distribution and transfer analytics. 🔷 HARD DATA
+[^33]: Ethplorer. (2025). rUSD Token Analytics: Token holder distribution and transfer analytics. ethplorer.io, https://ethplorer.io/address/0x09d4214c03d01f49544c0448dbe3a27f768f2b34 🔷 HARD DATA
 
-[^34]: [CryptoRank - Reservoir Stablecoin](https://cryptorank.io/price/reservoir-stablecoin) - rUSD price tracking and market data. 🔷 HARD DATA
+[^34]: CryptoRank. (2025). Reservoir Stablecoin: rUSD price tracking and market data. cryptorank.io, https://cryptorank.io/price/reservoir-stablecoin 🔷 HARD DATA
 
-[^35]: [CoinCodex - DAM Price Prediction](https://coincodex.com/crypto/reservoir/price-prediction/) - Market analysis and price forecasting.
+[^35]: CoinCodex. (2025). DAM Price Prediction: Market analysis and price forecasting. coincodex.com, https://coincodex.com/crypto/reservoir/price-prediction/
 
-[^36]: [Blockworks](https://blockworks.co/) - DeFi institutional news: Stablecoin market analysis, protocol funding coverage, regulatory developments affecting yield-bearing stablecoins.
+[^36]: Blockworks. (2025). DeFi institutional news: Stablecoin market analysis, protocol funding coverage, regulatory developments. blockworks.co, https://blockworks.co/
 
-[^37]: [Decrypt](https://decrypt.co/) - Cryptocurrency news coverage: DeFi protocol launches, stablecoin market trends, regulatory impacts on CDP protocols.
+[^37]: Decrypt. (2025). Cryptocurrency news coverage: DeFi protocol launches, stablecoin market trends, regulatory impacts. decrypt.co, https://decrypt.co/
 
-[^38]: [Messari](https://messari.io/) - Crypto research platform: Protocol fundamentals, token metrics, quarterly research reports on stablecoin sector and RWA integration.
+[^38]: Messari. (2025). Crypto research platform: Protocol fundamentals, token metrics, quarterly research reports on stablecoin sector and RWA integration. messari.io, https://messari.io/
 
-[^39]: [DefiLlama - Fees](https://defillama.com/fees) - Protocol fee generation tracking across DeFi. 🔷 HARD DATA
+[^39]: DefiLlama. (2025). Fees dashboard: Protocol fee generation tracking across DeFi. defillama.com, https://defillama.com/fees 🔷 HARD DATA
 
-[^40]: [DefiLlama - Stablecoins](https://defillama.com/stablecoins) - Stablecoin market cap and peg tracking. 🔷 HARD DATA
+[^40]: DefiLlama. (2025). Stablecoins dashboard: Stablecoin market cap and peg tracking. defillama.com, https://defillama.com/stablecoins 🔷 HARD DATA
 
-[^41]: [Chainlink](https://chain.link/) - Oracle infrastructure potentially used for price feeds.
+[^41]: Chainlink. (2025). Oracle infrastructure potentially used for price feeds. chain.link, https://chain.link/
 
-[^42]: [Gnosis Safe](https://safe.global/) - Multisig wallet used for Reservoir protocol custody.
+[^42]: Gnosis Safe. (2025). Multisig wallet used for Reservoir protocol custody. safe.global, https://safe.global/
 
-[^43]: [Reservoir Terms of Service](https://docs.reservoir.xyz/security-and-compliance/terms-of-service) - Legal terms and compliance documentation.
+[^43]: Reservoir. (2024). Terms of Service: Legal terms and compliance documentation. docs.reservoir.xyz, https://docs.reservoir.xyz/security-and-compliance/terms-of-service
 
-[^44]: [Uniswap V3 - rUSD Pools](https://app.uniswap.org/) - Primary DEX for rUSD trading. 🔷 HARD DATA
+[^44]: Uniswap. (2025). Uniswap V3 rUSD Pools: Primary DEX for rUSD trading. app.uniswap.org, https://app.uniswap.org/ 🔷 HARD DATA
 
-[^45]: [World Liberty Financial - USD1](https://worldlibertyfinancial.com/usd1) - USD1 stablecoin ($2B+ circulation on Binance, Coinbase). September 29, 2025: "LibertyVoir" integration enabling 1:1 slippage-free rUSD ↔ USD1 minting/redemption - first protocol integration for USD1. 🔷 HARD DATA
+[^45]: World Liberty Financial. (2025, September 29). USD1 stablecoin ($2B+ circulation). LibertyVoir integration enabling 1:1 slippage-free rUSD ↔ USD1 minting/redemption - first protocol integration for USD1. worldlibertyfinancial.com, https://worldlibertyfinancial.com/usd1 🔷 HARD DATA
 
-[^46]: [Wikipedia - World Liberty Financial](https://en.wikipedia.org/wiki/World_Liberty_Financial) - USD1 issuer background: $3B+ market cap (Dec 2025), 60% Trump entity ownership, 75% revenue to Trump businesses. USD1 backed by US Treasuries, dollars, cash equivalents. 🔷 HARD DATA
+[^46]: Wikipedia. (2025, December). World Liberty Financial: USD1 issuer with $3B+ market cap, 60% Trump entity ownership, 75% revenue to Trump businesses. USD1 backed by US Treasuries, dollars, cash equivalents. wikipedia.org, https://en.wikipedia.org/wiki/World_Liberty_Financial 🔷 HARD DATA
 
-[^47]: [Cointelegraph - Reservoir Coverage](https://cointelegraph.com/news/reservoir-nft-infrastructure-coinbase-metamask-funding) - News coverage of Reservoir ecosystem.
+[^47]: Cointelegraph. (2025). Reservoir news coverage. cointelegraph.com, https://cointelegraph.com/news/reservoir-nft-infrastructure-coinbase-metamask-funding
 
-[^48]: [Investing.com - Reservoir News](https://www.investing.com/news/cryptocurrency-news/reservoir-secures-14m-to-boost-nft-infrastructure-93CH-3851478) - Financial news coverage.
+[^48]: Investing.com. (2025). Reservoir secures $14M to boost NFT infrastructure. investing.com, https://www.investing.com/news/cryptocurrency-news/reservoir-secures-14m-to-boost-nft-infrastructure-93CH-3851478
 
-[^49]: [Blockchain Reporter - TVL Growth](https://blockchainreporter.net/izumi-finance-izi-leads-the-top-projects-by-weekly-tvl-growth) - TVL growth rankings including Reservoir.
+[^49]: Blockchain Reporter. (2025). TVL growth rankings including Reservoir. blockchainreporter.net, https://blockchainreporter.net/izumi-finance-izi-leads-the-top-projects-by-weekly-tvl-growth
 
-[^50]: [AMBCrypto - DeFi Analysis](https://ambcrypto.com/) - DeFi news and analysis platform.
+[^50]: AMBCrypto. (2025). DeFi news and analysis platform. ambcrypto.com, https://ambcrypto.com/
 
-[^51]: [BeInCrypto - Stablecoin Coverage](https://beincrypto.com/) - Cryptocurrency news and stablecoin analysis.
+[^51]: BeInCrypto. (2025). Cryptocurrency news and stablecoin analysis. beincrypto.com, https://beincrypto.com/
 
-[^52]: [Cryptopolitan - DeFi News](https://www.cryptopolitan.com/) - Cryptocurrency and DeFi news coverage.
+[^52]: Cryptopolitan. (2025). Cryptocurrency and DeFi news coverage. cryptopolitan.com, https://www.cryptopolitan.com/
 
-[^53]: [DL News - DeFi Coverage](https://www.dlnews.com/) - Decentralized finance news and analysis.
+[^53]: DL News. (2025). Decentralized finance news and analysis. dlnews.com, https://www.dlnews.com/
 
-[^54]: [Steakhouse Kitchen - USDC Guardian Report](https://kitchen.steakhouse.financial/p/steakusdc-guardian-report) - Risk management and vault security reporting.
+[^54]: Steakhouse Kitchen. (2024). USDC Guardian Report: Risk management and vault security reporting. kitchen.steakhouse.financial, https://kitchen.steakhouse.financial/p/steakusdc-guardian-report
 
-[^55]: [Morpho Documentation](https://docs.morpho.org/) - Morpho protocol documentation for lending integration.
+[^55]: Morpho. (2025). Protocol documentation for lending integration. docs.morpho.org, https://docs.morpho.org/
 
-[^56]: [IQ.wiki - Reservoir srUSD](https://iq.wiki/wiki/reservoir-srusd) - srUSD encyclopedia entry: Launched Nov 11, 2024 at 6% APY with $25M cap. Yield from US Treasuries, DeFi strategies, market-neutral crypto. 7.75% APY as of Oct 2025. No lock-up, instant redemptions via PSM. 🔷 HARD DATA
+[^56]: IQ.wiki. (2025). Reservoir srUSD: Launched Nov 11, 2024 at 6% APY with $25M cap. Yield from US Treasuries, DeFi strategies, market-neutral crypto. 7.75% APY as of Oct 2025. No lock-up, instant redemptions via PSM. iq.wiki, https://iq.wiki/wiki/reservoir-srusd 🔷 HARD DATA
 
-[^57]: [Hilbert Capital - Reservoir Partnership](https://hilbert.group/en/hilbert-capital-selected-by-us-stablecoin-issuer-reservoir-as-collateral-source/) - Oct 2, 2024: Hilbert V1 fund tokenized as rUSD collateral. Reservoir targets $500M+ market cap. Bernstein projects $5T stablecoin market in 5 years. 🔷 HARD DATA
+[^57]: Hilbert Capital. (2024, October 2). Reservoir Partnership: Hilbert V1 fund tokenized as rUSD collateral. Reservoir targets $500M+ market cap. Bernstein projects $5T stablecoin market in 5 years. hilbert.group, https://hilbert.group/en/hilbert-capital-selected-by-us-stablecoin-issuer-reservoir-as-collateral-source/ 🔷 HARD DATA
 
-[^58]: [RootData - Reservoir](https://www.rootdata.com/Projects/detail/Reservoir?k=MTQxNzA%3D) - Project analytics: Funding rounds, investors, team composition, ecosystem partnerships, TVL tracking.
+[^58]: RootData. (2025). Reservoir project analytics: Funding rounds, investors, team composition, ecosystem partnerships, TVL tracking. rootdata.com, https://www.rootdata.com/Projects/detail/Reservoir?k=MTQxNzA%3D
 
-[^59]: [JuCoin - Reservoir DAM Tokenomics](https://blog.jucoin.com/reservoir-dam-stablecoin-tokenomics/) - DAM token analysis: 1B max supply, governance utility, DAM token launched August 2025.
+[^59]: JuCoin. (2025). Reservoir DAM Tokenomics: 1B max supply, governance utility, DAM token launched August 2025. blog.jucoin.com, https://blog.jucoin.com/reservoir-dam-stablecoin-tokenomics/
 
-[^60]: [Cryptohopper - Reservoir rUSD](https://www.cryptohopper.com/currencies/detail?currency=RUSD) - rUSD trading data and price tracking. 🔷 HARD DATA
+[^60]: Cryptohopper. (2025). Reservoir rUSD: Trading data and price tracking. cryptohopper.com, https://www.cryptohopper.com/currencies/detail?currency=RUSD 🔷 HARD DATA
 
 ---
 
