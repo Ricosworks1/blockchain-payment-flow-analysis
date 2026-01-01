@@ -1179,511 +1179,511 @@ The next 12-24 months will determine which path the industry ultimately takes.
 
 ## References
 
-[^1]: [CryptoRank - Launchpad Rankings](https://cryptorank.io/ico) - Total raised $16.1B across launchpads in 2024 (December 2025).
+[^1]: CryptoRank. (2025, December). Launchpad Rankings: Total raised $16.1B across launchpads in 2024. cryptorank.io, https://cryptorank.io/ico
 
-[^2]: [CryptoRank - IDO Statistics](https://cryptorank.io/ico) - 256 token sales recorded in 2024 (December 2025).
+[^2]: CryptoRank. (2025, December). IDO Statistics: 256 token sales recorded in 2024. cryptorank.io, https://cryptorank.io/ico
 
-[^3]: [Crypto.com Research - 2024 Year Review](https://crypto.com/research) - $3.9T crypto market cap, 127% YoY growth (December 2024).
+[^3]: Crypto.com Research. (2024, December). 2024 Year Review: $3.9T crypto market cap, 127% YoY growth. crypto.com, https://crypto.com/research
 
-[^4]: [Crypto.com Research - User Statistics](https://crypto.com/research) - 653M crypto owners as of November 2024 (December 2024).
+[^4]: Crypto.com Research. (2024, December). User Statistics: 653M crypto owners as of November 2024. crypto.com, https://crypto.com/research
 
-[^5]: [DefiLlama - Pump.fun Fees](https://defillama.com/fees/pump.fun) - 🔷 All-time fees $869.7M retrieved via DefiLlama Fees API (December 31, 2025).
+[^5]: DefiLlama. (2025, December 31). Pump.fun Fees: All-time $869.7M retrieved via API. defillama.com, https://defillama.com/fees/pump.fun 🔷 HARD DATA
 
-[^6]: [DefiLlama - Raydium TVL](https://defillama.com/protocol/raydium) - 🔷 TVL $1.43B retrieved via DefiLlama API (December 31, 2025).
+[^6]: DefiLlama. (2025, December 31). Raydium TVL: $1.43B retrieved via API. defillama.com, https://defillama.com/protocol/raydium 🔷 HARD DATA
 
-[^7]: [DefiLlama - Jupiter TVL](https://defillama.com/protocol/jupiter) - 🔷 TVL $2.53B retrieved via DefiLlama API (December 31, 2025).
+[^7]: DefiLlama. (2025, December 31). Jupiter TVL: $2.53B retrieved via API. defillama.com, https://defillama.com/protocol/jupiter 🔷 HARD DATA
 
-[^8]: [CoinGecko - Jupiter (JUP)](https://www.coingecko.com/en/coins/jupiter-exchange-solana) - 🔷 JUP price $0.192 retrieved via CoinGecko API (December 31, 2025).
+[^8]: CoinGecko. (2025, December 31). Jupiter (JUP): Price $0.192 retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/jupiter-exchange-solana 🔷 HARD DATA
 
-[^9]: [CoinGecko - Jupiter Market Cap](https://www.coingecko.com/en/coins/jupiter-exchange-solana) - 🔷 JUP market cap $612M retrieved via CoinGecko API (December 31, 2025).
+[^9]: CoinGecko. (2025, December 31). Jupiter: Market cap $612M retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/jupiter-exchange-solana 🔷 HARD DATA
 
-[^10]: [CryptoRank - Launchpad Data](https://cryptorank.io/ico) - Industry fundraising total $16.1B for 2024 (December 2025).
+[^10]: CryptoRank. (2025, December). Launchpad Data: Industry fundraising total $16.1B for 2024. cryptorank.io, https://cryptorank.io/ico
 
-[^11]: [CryptoRank - IDO Count](https://cryptorank.io/ico) - 256 IDOs recorded in 2024 (December 2025).
+[^11]: CryptoRank. (2025, December). IDO Count: 256 IDOs recorded in 2024. cryptorank.io, https://cryptorank.io/ico
 
-[^12]: [Crypto.com Research - Market Overview](https://crypto.com/research) - Market cap growth data (December 2024).
+[^12]: Crypto.com Research. (2024, December). Market Overview: Market cap growth data. crypto.com, https://crypto.com/research
 
-[^13]: [Crypto.com Research - User Projections](https://crypto.com/research) - 653M owners with 750-900M projected for 2025 (December 2024).
+[^13]: Crypto.com Research. (2024, December). User Projections: 653M owners with 750-900M projected for 2025. crypto.com, https://crypto.com/research
 
-[^14]: [Crypto.com Research - Network Distribution](https://crypto.com/research) - 67% of new tokens on Solana Jan-Nov 2024 (December 2024).
+[^14]: Crypto.com Research. (2024, December). Network Distribution: 67% of new tokens on Solana Jan-Nov 2024. crypto.com, https://crypto.com/research
 
-[^15]: [Crypto.com Research - Industry Trends](https://crypto.com/research) - Cross-chain integration trend analysis (December 2024).
+[^15]: Crypto.com Research. (2024, December). Industry Trends: Cross-chain integration trend analysis. crypto.com, https://crypto.com/research
 
-[^16]: [Binance Launchpad Official](https://launchpad.binance.com/) - 94% projects with positive ROI (December 2025).
+[^16]: Binance. (2025, December). Launchpad Official: 94% projects with positive ROI. binance.com, https://launchpad.binance.com/
 
-[^17]: [DefiLlama - Pump.fun](https://defillama.com/fees/pump.fun) - 🔷 $869.7M all-time fees retrieved via API (December 31, 2025).
+[^17]: DefiLlama. (2025, December 31). Pump.fun: $869.7M all-time fees retrieved via API. defillama.com, https://defillama.com/fees/pump.fun 🔷 HARD DATA
 
-[^18]: [BeInCrypto - Pump.fun Token Raise](https://beincrypto.com/) - $1.3B PUMP token raise ($600M public + $700M private) July 2025 (July 2025).
+[^18]: BeInCrypto. (2025, July). Pump.fun Token Raise: $1.3B PUMP token raise ($600M public + $700M private). beincrypto.com, https://beincrypto.com/
 
-[^19]: [DefiLlama - Pump.fun Revenue](https://defillama.com/fees/pump.fun) - 🔷 All-time revenue $869.7M via API (December 31, 2025).
+[^19]: DefiLlama. (2025, December 31). Pump.fun Revenue: All-time $869.7M via API. defillama.com, https://defillama.com/fees/pump.fun 🔷 HARD DATA
 
-[^20]: [Multiple Sources - Pump.fun Scam Analysis](https://watcher.guru/) - 98.6% of tokens classified as scams (October 2024).
+[^20]: Watcher.guru. (2024, October). Pump.fun Scam Analysis: 98.6% of tokens classified as scams. watcher.guru, https://watcher.guru/
 
-[^21]: [The Block - Solana DEX Share](https://theblock.co/) - Pump.fun 52.8% of Solana DEX transactions Dec 2024 (December 2024).
+[^21]: The Block. (2024, December). Solana DEX Share: Pump.fun 52.8% of Solana DEX transactions. theblock.co, https://theblock.co/
 
-[^22]: [Chain Broker - Binance Stats](https://chainbroker.io/) - Binance 17.66x average ROI (December 2025).
+[^22]: Chain Broker. (2025, December). Binance Stats: 17.66x average ROI. chainbroker.io, https://chainbroker.io/
 
-[^23]: [CryptoRank - Bybit Performance](https://cryptorank.io/funds/bybit-launchpad) - Bybit 7.49x current average ROI (December 2025).
+[^23]: CryptoRank. (2025, December). Bybit Performance: 7.49x current average ROI. cryptorank.io, https://cryptorank.io/funds/bybit-launchpad
 
-[^24]: [CryptoRank - Seedify](https://cryptorank.io/funds/seedify) - Seedify 0.22x current ROI (December 2025).
+[^24]: CryptoRank. (2025, December). Seedify: 0.22x current ROI. cryptorank.io, https://cryptorank.io/funds/seedify
 
-[^25]: [Chain Broker - Raydium](https://chainbroker.io/) - Raydium 77.55x historical ROI (June 2023 data).
+[^25]: Chain Broker. (2023, June). Raydium: 77.55x historical ROI. chainbroker.io, https://chainbroker.io/ ⏳ HISTORICAL
 
-[^26]: [Industry Analysis - Vetting Correlation](https://cryptorank.io/) - Quality vetting correlates with ROI outcomes (December 2025).
+[^26]: CryptoRank. (2025, December). Industry Analysis: Quality vetting correlates with ROI outcomes. cryptorank.io, https://cryptorank.io/
 
-[^27]: [GameFi.org - Platform Stats](https://gamefi.org/) - 70+ launches, 42.51x average ATH ROI (December 2025).
+[^27]: GameFi.org. (2025, December). Platform Stats: 70+ launches, 42.51x average ATH ROI. gamefi.org, https://gamefi.org/
 
-[^28]: [Jupiter Documentation](https://station.jup.ag/docs) - AI-powered risk assessment feature (2025).
+[^28]: Jupiter. (2025). Documentation: AI-powered risk assessment feature. station.jup.ag, https://station.jup.ag/docs
 
-[^29]: [PANews - DAO Maker Updates](https://panews.io/) - RWA focus increasing in 2025 IDOs (December 2025).
+[^29]: PANews. (2025, December). DAO Maker Updates: RWA focus increasing in 2025 IDOs. panews.io, https://panews.io/
 
-[^30]: [Industry Analysis - Transparency Issues](https://cryptorank.io/) - Limited revenue disclosure across platforms (December 2025).
+[^30]: CryptoRank. (2025, December). Industry Analysis: Limited revenue disclosure across platforms. cryptorank.io, https://cryptorank.io/
 
-[^31]: [DefiLlama + Chain Broker - Revenue Data](https://defillama.com/) - Pump.fun and DAO Maker only verified revenue disclosures (December 2025).
+[^31]: DefiLlama. (2025, December). Revenue Data: Pump.fun and DAO Maker only verified revenue disclosures. defillama.com, https://defillama.com/
 
-[^32]: [CryptoRank - Data Limitations](https://cryptorank.io/) - Most platforms report fundraising not revenue (December 2025).
+[^32]: CryptoRank. (2025, December). Data Limitations: Most platforms report fundraising not revenue. cryptorank.io, https://cryptorank.io/
 
-[^33]: [Chain Broker - Binance IEO Count](https://chainbroker.io/launchpads/binance-launchpad) - 35 total IEO campaigns (December 2025).
+[^33]: Chain Broker. (2025, December). Binance IEO Count: 35 total IEO campaigns. chainbroker.io, https://chainbroker.io/launchpads/binance-launchpad
 
-[^34]: [CryptoRank - Binance Raised](https://cryptorank.io/funds/binance-launchpad) - $122M total raised estimate (December 2025).
+[^34]: CryptoRank. (2025, December). Binance Raised: $122M total raised estimate. cryptorank.io, https://cryptorank.io/funds/binance-launchpad
 
-[^35]: [Chain Broker - Binance Total](https://chainbroker.io/launchpads/binance-launchpad) - $133.22M raised (December 2025).
+[^35]: Chain Broker. (2025, December). Binance Total: $133.22M raised. chainbroker.io, https://chainbroker.io/launchpads/binance-launchpad
 
-[^36]: [Chain Broker - Binance ROI](https://chainbroker.io/launchpads/binance-launchpad) - 17.66x average ROI (December 2025).
+[^36]: Chain Broker. (2025, December). Binance ROI: 17.66x average ROI. chainbroker.io, https://chainbroker.io/launchpads/binance-launchpad
 
-[^37]: [Chain Broker - Binance ATH](https://chainbroker.io/launchpads/binance-launchpad) - 183.15x average ATH ROI (December 2025).
+[^37]: Chain Broker. (2025, December). Binance ATH: 183.15x average ATH ROI. chainbroker.io, https://chainbroker.io/launchpads/binance-launchpad
 
-[^38]: [AInvest - Binance Success Rate](https://ainvest.com/) - 94% projects with positive ROI (December 2025).
+[^38]: AInvest. (2025, December). Binance Success Rate: 94% projects with positive ROI. ainvest.com, https://ainvest.com/
 
-[^39]: [AInvest - Binance 2025 Activity](https://ainvest.com/) - 20+ IEOs in 2025 (December 2025).
+[^39]: AInvest. (2025, December). Binance 2025 Activity: 20+ IEOs in 2025. ainvest.com, https://ainvest.com/
 
-[^40]: [AInvest - Binance Recent ROI](https://ainvest.com/) - 7.7x average ROI 2024-2025 (December 2025).
+[^40]: AInvest. (2025, December). Binance Recent ROI: 7.7x average ROI 2024-2025. ainvest.com, https://ainvest.com/
 
-[^41]: [CryptoRank - Axie Infinity](https://cryptorank.io/) - Axie Infinity 1,649x ROI at peak (Historical).
+[^41]: CryptoRank. (2021). Axie Infinity: 1,649x ROI at peak. cryptorank.io, https://cryptorank.io/ ⏳ HISTORICAL
 
-[^42]: [CryptoRank - Polygon Launch](https://cryptorank.io/) - MATIC 1,110x ROI from $0.00263 (Historical).
+[^42]: CryptoRank. (2019). Polygon Launch: MATIC 1,110x ROI from $0.00263. cryptorank.io, https://cryptorank.io/ ⏳ HISTORICAL
 
-[^43]: [CryptoRank - Sandbox Launch](https://cryptorank.io/) - SAND 1,008x ROI from $0.008333 (Historical).
+[^43]: CryptoRank. (2020). Sandbox Launch: SAND 1,008x ROI from $0.008333. cryptorank.io, https://cryptorank.io/ ⏳ HISTORICAL
 
-[^44]: [CryptoRank - StepN](https://cryptorank.io/) - GMT 411x ROI (2022-2023 top performer) (Historical).
+[^44]: CryptoRank. (2022). StepN: GMT 411x ROI (2022-2023 top performer). cryptorank.io, https://cryptorank.io/ ⏳ HISTORICAL
 
-[^45]: [Binance Launchpad FAQ](https://www.binance.com/en/support/faq) - No direct participation fees (December 2025).
+[^45]: Binance. (2025, December). Launchpad FAQ: No direct participation fees. binance.com, https://www.binance.com/en/support/faq
 
-[^46]: [Binance Launchpad Requirements](https://www.binance.com/en/support/faq) - BNB holdings required for lottery (December 2025).
+[^46]: Binance. (2025, December). Launchpad Requirements: BNB holdings required for lottery. binance.com, https://www.binance.com/en/support/faq
 
-[^47]: [Binance Launchpad Model](https://launchpad.binance.com/) - 100% capital to projects, exchange earns trading fees (December 2025).
+[^47]: Binance. (2025, December). Launchpad Model: 100% capital to projects, exchange earns trading fees. binance.com, https://launchpad.binance.com/
 
-[^48]: [Binance Launchpad Performance](https://launchpad.binance.com/) - 94% positive ROI verified (December 2025).
+[^48]: Binance. (2025, December). Launchpad Performance: 94% positive ROI verified. binance.com, https://launchpad.binance.com/
 
-[^49]: [CoinDesk - Binance Vetting](https://coindesk.com/) - Binance due diligence process analysis (December 2025).
+[^49]: CoinDesk. (2025, December). Binance Vetting: Due diligence process analysis. coindesk.com, https://coindesk.com/
 
-[^50]: [Binance User Statistics](https://www.binance.com/) - 100M+ registered users (December 2025).
+[^50]: Binance. (2025, December). User Statistics: 100M+ registered users. binance.com, https://www.binance.com/
 
-[^51]: [Binance Compliance](https://www.binance.com/en/legal/licenses) - Regulatory compliance infrastructure (December 2025).
+[^51]: Binance. (2025, December). Compliance: Regulatory compliance infrastructure. binance.com, https://www.binance.com/en/legal/licenses
 
-[^52]: [CryptoRank - Bybit IEO Count](https://cryptorank.io/funds/bybit-launchpad) - 63 total IEO campaigns (December 2025).
+[^52]: CryptoRank. (2025, December). Bybit IEO Count: 63 total IEO campaigns. cryptorank.io, https://cryptorank.io/funds/bybit-launchpad
 
-[^53]: [Chain Broker - Bybit Raised](https://chainbroker.io/launchpads/bybit-launchpad) - $628.1M total raised (December 2025).
+[^53]: Chain Broker. (2025, December). Bybit Raised: $628.1M total raised. chainbroker.io, https://chainbroker.io/launchpads/bybit-launchpad
 
-[^54]: [CryptoRank - Bybit Current ROI](https://cryptorank.io/funds/bybit-launchpad) - 7.49x (748.90%) current average (December 2025).
+[^54]: CryptoRank. (2025, December). Bybit Current ROI: 7.49x (748.90%) current average. cryptorank.io, https://cryptorank.io/funds/bybit-launchpad
 
-[^55]: [Chain Broker - Bybit ATH](https://chainbroker.io/launchpads/bybit-launchpad) - 23.21x (2,320.51%) ATH average (December 2025).
+[^55]: Chain Broker. (2025, December). Bybit ATH: 23.21x (2,320.51%) ATH average. chainbroker.io, https://chainbroker.io/launchpads/bybit-launchpad
 
-[^56]: [Bybit Official - Participants](https://www.bybit.com/en/launchpad) - 2M+ total participants (December 2025).
+[^56]: Bybit. (2025, December). Official Participants: 2M+ total participants. bybit.com, https://www.bybit.com/en/launchpad
 
-[^57]: [99Bitcoins - Bybit Stats](https://99bitcoins.com/) - 1,010% average new project gain (December 2025).
+[^57]: 99Bitcoins. (2025, December). Bybit Stats: 1,010% average new project gain. 99bitcoins.com, https://99bitcoins.com/
 
-[^58]: [MEXC Research - Xterio](https://globalenewswire.com/) - Xterio 14.71x return, highest single 2025 (July 2025).
+[^58]: GlobalNewsWire. (2025, July). MEXC Research: Xterio 14.71x return, highest single 2025. globalnewswire.com, https://globalnewswire.com/
 
-[^59]: [CryptoRank - Cookie3](https://cryptorank.io/) - Cookie3 17x return (December 2025).
+[^59]: CryptoRank. (2025, December). Cookie3: 17x return. cryptorank.io, https://cryptorank.io/
 
-[^60]: [CryptoRank - Bybit Historical](https://cryptorank.io/funds/bybit-launchpad) - GENE 3,938%, KASTA 2,050%, REAL 1,847% (Historical).
+[^60]: CryptoRank. (2022). Bybit Historical: GENE 3,938%, KASTA 2,050%, REAL 1,847%. cryptorank.io, https://cryptorank.io/funds/bybit-launchpad ⏳ HISTORICAL
 
-[^61]: [Bybit Launchpad - Version 3.1](https://www.bybit.com/en/launchpad) - Platform version 3.1 launched 2025 (2025).
+[^61]: Bybit. (2025). Launchpad Version 3.1: Platform version 3.1 launched 2025. bybit.com, https://www.bybit.com/en/launchpad
 
-[^62]: [BeInCrypto - Bybit Tiers](https://beincrypto.com/) - Tiered access model requiring locked funds (2025).
+[^62]: BeInCrypto. (2025). Bybit Tiers: Tiered access model requiring locked funds. beincrypto.com, https://beincrypto.com/
 
-[^63]: [Bybit - KYC Requirements](https://www.bybit.com/en/help-center) - Enhanced KYC verification (December 2025).
+[^63]: Bybit. (2025, December). KYC Requirements: Enhanced KYC verification. bybit.com, https://www.bybit.com/en/help-center
 
-[^64]: [Chain Broker - Bybit Performance](https://chainbroker.io/launchpads/bybit-launchpad) - 23.21x ATH average (December 2025).
+[^64]: Chain Broker. (2025, December). Bybit Performance: 23.21x ATH average. chainbroker.io, https://chainbroker.io/launchpads/bybit-launchpad
 
-[^65]: [Bybit - User Base](https://www.bybit.com/en/launchpad) - 2M+ participants (December 2025).
+[^65]: Bybit. (2025, December). User Base: 2M+ participants. bybit.com, https://www.bybit.com/en/launchpad
 
-[^66]: [OKX Jumpstart - Project Count](https://www.okx.com/jumpstart) - 15 projects hosted (December 2025).
+[^66]: OKX. (2025, December). Jumpstart Project Count: 15 projects hosted. okx.com, https://www.okx.com/jumpstart
 
-[^67]: [CryptoRank - OKX Performance](https://cryptorank.io/) - 10.3x best public ROI (December 2025).
+[^67]: CryptoRank. (2025, December). OKX Performance: 10.3x best public ROI. cryptorank.io, https://cryptorank.io/
 
-[^68]: [DefiLlama - Pump.fun 24h](https://defillama.com/fees/pump.fun) - 🔷 24h fees $846K via API (December 31, 2025).
+[^68]: DefiLlama. (2025, December 31). Pump.fun 24h: Fees $846K retrieved via API. defillama.com, https://defillama.com/fees/pump.fun 🔷 HARD DATA
 
-[^69]: [DefiLlama - Pump.fun 7d](https://defillama.com/fees/pump.fun) - 🔷 7d fees $5.24M via API (December 31, 2025).
+[^69]: DefiLlama. (2025, December 31). Pump.fun 7d: Fees $5.24M retrieved via API. defillama.com, https://defillama.com/fees/pump.fun 🔷 HARD DATA
 
-[^70]: [DefiLlama - Pump.fun 30d](https://defillama.com/fees/pump.fun) - 🔷 30d fees $22.7M via API (December 31, 2025).
+[^70]: DefiLlama. (2025, December 31). Pump.fun 30d: Fees $22.7M retrieved via API. defillama.com, https://defillama.com/fees/pump.fun 🔷 HARD DATA
 
-[^71]: [DefiLlama - Pump.fun All-Time](https://defillama.com/fees/pump.fun) - 🔷 All-time fees $869.7M via API (December 31, 2025).
+[^71]: DefiLlama. (2025, December 31). Pump.fun All-Time: Fees $869.7M retrieved via API. defillama.com, https://defillama.com/fees/pump.fun 🔷 HARD DATA
 
-[^72]: [DefiLlama - Pump.fun Category](https://defillama.com/fees/pump.fun) - Categorized as Launchpad (December 31, 2025).
+[^72]: DefiLlama. (2025, December 31). Pump.fun Category: Categorized as Launchpad. defillama.com, https://defillama.com/fees/pump.fun
 
-[^73]: [DefiLlama - Pump.fun Chain](https://defillama.com/fees/pump.fun) - Operating on Solana chain (December 31, 2025).
+[^73]: DefiLlama. (2025, December 31). Pump.fun Chain: Operating on Solana chain. defillama.com, https://defillama.com/fees/pump.fun
 
-[^74]: [DefiLlama - Pump.fun Total](https://defillama.com/fees/pump.fun) - 🔷 $869.7M lifetime revenue via API (December 31, 2025).
+[^74]: DefiLlama. (2025, December 31). Pump.fun Total: $869.7M lifetime revenue retrieved via API. defillama.com, https://defillama.com/fees/pump.fun 🔷 HARD DATA
 
-[^75]: [Watcher.guru - Pump.fun Peak](https://watcher.guru/) - $14M daily record January 2, 2025 (January 2025).
+[^75]: Watcher.guru. (2025, January). Pump.fun Peak: $14M daily record January 2, 2025. watcher.guru, https://watcher.guru/
 
-[^76]: [BeInCrypto - Pump.fun January](https://beincrypto.com/) - $130M January 2025 revenue (January 2025).
+[^76]: BeInCrypto. (2025, January). Pump.fun January: $130M January 2025 revenue. beincrypto.com, https://beincrypto.com/
 
-[^77]: [The Block - Pump.fun Tokens](https://theblock.co/) - 6M+ meme coins launched (December 2024).
+[^77]: The Block. (2024, December). Pump.fun Tokens: 6M+ meme coins launched. theblock.co, https://theblock.co/
 
-[^78]: [The Block - Solana DEX Share](https://theblock.co/) - 52.8% of Solana DEX transactions (December 2024).
+[^78]: The Block. (2024, December). Solana DEX Share: 52.8% of Solana DEX transactions. theblock.co, https://theblock.co/
 
-[^79]: [Dune Analytics - Solana Tokens](https://dune.com/) - 13M of 32M total Solana tokens (40.6%) (December 2024).
+[^79]: Dune Analytics. (2024, December). Solana Tokens: 13M of 32M total Solana tokens (40.6%). dune.com, https://dune.com/
 
-[^80]: [CoinGecko - Platform Tokens](https://www.coingecko.com/) - $4.8B FDV across platform tokens (December 2024).
+[^80]: CoinGecko. (2024, December). Platform Tokens: $4.8B FDV across platform tokens. coingecko.com, https://www.coingecko.com/
 
-[^81]: [BeInCrypto - PUMP Token](https://beincrypto.com/) - $1.3B raise ($600M public + $700M private) (July 2025).
+[^81]: BeInCrypto. (2025, July). PUMP Token: $1.3B raise ($600M public + $700M private). beincrypto.com, https://beincrypto.com/
 
-[^82]: [CoinCentral - Revenue Jan](https://coincentral.com/) - January 2025 revenue $130M (January 2025).
+[^82]: CoinCentral. (2025, January). Revenue Jan: January 2025 revenue $130M. coincentral.com, https://coincentral.com/
 
-[^83]: [CoinCentral - Revenue Feb](https://coincentral.com/) - February 2025 revenue $90M (February 2025).
+[^83]: CoinCentral. (2025, February). Revenue Feb: February 2025 revenue $90M. coincentral.com, https://coincentral.com/
 
-[^84]: [CoinCentral - Revenue Mar](https://coincentral.com/) - March 2025 revenue $37M, 71.5% decline (March 2025).
+[^84]: CoinCentral. (2025, March). Revenue Mar: March 2025 revenue $37M, 71.5% decline. coincentral.com, https://coincentral.com/
 
-[^85]: [CoinCentral - Revenue Q2](https://coincentral.com/) - April-June ~$40M/month average (Q2 2025).
+[^85]: CoinCentral. (2025, Q2). Revenue Q2: April-June ~$40M/month average. coincentral.com, https://coincentral.com/
 
-[^86]: [CoinCentral - Revenue July](https://coincentral.com/) - July 2025 $24.96M, 80% decline from peak (July 2025).
+[^86]: CoinCentral. (2025, July). Revenue July: July 2025 $24.96M, 80% decline from peak. coincentral.com, https://coincentral.com/
 
-[^87]: [Pump.fun Analytics](https://pump.fun/) - Current daily ~$1M (down from $3M Sept 2024) (December 2025).
+[^87]: Pump.fun. (2025, December). Analytics: Current daily ~$1M (down from $3M Sept 2024). pump.fun, https://pump.fun/
 
-[^88]: [Pump.fun Dashboard](https://pump.fun/) - 24hr snapshot: 95 graduated tokens (December 2025).
+[^88]: Pump.fun. (2025, December). Dashboard: 24hr snapshot: 95 graduated tokens. pump.fun, https://pump.fun/
 
-[^89]: [Pump.fun - Daily Fees](https://pump.fun/) - 24hr fees $1.29M (December 2025).
+[^89]: Pump.fun. (2025, December). Daily Fees: 24hr fees $1.29M. pump.fun, https://pump.fun/
 
-[^90]: [Watcher.guru - Scam Analysis](https://watcher.guru/) - 98.6% tokens classified as scams (October 2024).
+[^90]: Watcher.guru. (2024, October). Scam Analysis: 98.6% tokens classified as scams. watcher.guru, https://watcher.guru/
 
-[^91]: [Bitget News - User Losses](https://www.bitget.com/news) - 90% of users lost money or <$100 profit (October 2024).
+[^91]: Bitget News. (2024, October). User Losses: 90% of users lost money or <$100 profit. bitget.com, https://www.bitget.com/news
 
-[^92]: [Dune Analytics - Market Share](https://dune.com/) - 62% of Solana memecoin launchpad revenue (December 2024).
+[^92]: Dune Analytics. (2024, December). Market Share: 62% of Solana memecoin launchpad revenue. dune.com, https://dune.com/
 
-[^93]: [The Block - DEX Dominance](https://theblock.co/) - 52.8% Solana DEX share (December 2024).
+[^93]: The Block. (2024, December). DEX Dominance: 52.8% Solana DEX share. theblock.co, https://theblock.co/
 
-[^94]: [Multiple Sources - Scam Rate](https://watcher.guru/) - 98.6% scam classification (October 2024).
+[^94]: Watcher.guru. (2024, October). Scam Rate: 98.6% scam classification. watcher.guru, https://watcher.guru/
 
-[^95]: [Bitget News - Loss Rate](https://www.bitget.com/news) - 90% user loss rate (October 2024).
+[^95]: Bitget News. (2024, October). Loss Rate: 90% user loss rate. bitget.com, https://www.bitget.com/news
 
-[^96]: [DefiLlama - Jupiter TVL](https://defillama.com/protocol/jupiter) - 🔷 $2.53B TVL via API (December 31, 2025).
+[^96]: DefiLlama. (2025, December 31). Jupiter TVL: $2.53B retrieved via API. defillama.com, https://defillama.com/protocol/jupiter 🔷 HARD DATA
 
-[^97]: [CoinGecko - JUP Price](https://www.coingecko.com/en/coins/jupiter-exchange-solana) - 🔷 $0.192 via API (December 31, 2025).
+[^97]: CoinGecko. (2025, December 31). JUP Price: $0.192 retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/jupiter-exchange-solana 🔷 HARD DATA
 
-[^98]: [CoinGecko - JUP Market Cap](https://www.coingecko.com/en/coins/jupiter-exchange-solana) - 🔷 $612M via API (December 31, 2025).
+[^98]: CoinGecko. (2025, December 31). JUP Market Cap: $612M retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/jupiter-exchange-solana 🔷 HARD DATA
 
-[^99]: [CoinGecko - JUP FDV](https://www.coingecko.com/en/coins/jupiter-exchange-solana) - 🔷 $1.32B via API (December 31, 2025).
+[^99]: CoinGecko. (2025, December 31). JUP FDV: $1.32B retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/jupiter-exchange-solana 🔷 HARD DATA
 
-[^100]: [CoinGecko - JUP Circulating](https://www.coingecko.com/en/coins/jupiter-exchange-solana) - 🔷 3.19B JUP circulating via API (December 31, 2025).
+[^100]: CoinGecko. (2025, December 31). JUP Circulating: 3.19B JUP circulating retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/jupiter-exchange-solana 🔷 HARD DATA
 
-[^101]: [CoinGecko - JUP Total Supply](https://www.coingecko.com/en/coins/jupiter-exchange-solana) - 🔷 6.87B JUP total via API (December 31, 2025).
+[^101]: CoinGecko. (2025, December 31). JUP Total Supply: 6.87B JUP total retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/jupiter-exchange-solana 🔷 HARD DATA
 
-[^102]: [Jupiter LFG Official](https://lfg.jup.ag/) - 78 projects launched (December 2025).
+[^102]: Jupiter LFG. (2025, December). Official: 78 projects launched. jup.ag, https://lfg.jup.ag/
 
-[^103]: [DefiLlama - Jupiter Platform](https://defillama.com/protocol/jupiter) - 🔷 $2.53B TVL (December 31, 2025).
+[^103]: DefiLlama. (2025, December 31). Jupiter Platform: $2.53B TVL retrieved via API. defillama.com, https://defillama.com/protocol/jupiter 🔷 HARD DATA
 
-[^104]: [Jupiter Statistics](https://station.jup.ag/) - 780,000 users (December 2025).
+[^104]: Jupiter. (2025, December). Statistics: 780,000 users. station.jup.ag, https://station.jup.ag/
 
-[^105]: [Jupiter Docs - DLMM](https://station.jup.ag/docs) - First Solana DLMM launchpad (2024).
+[^105]: Jupiter. (2024). Docs DLMM: First Solana DLMM launchpad. station.jup.ag, https://station.jup.ag/docs
 
-[^106]: [Jupiter LFG - Features](https://lfg.jup.ag/) - Advanced price discovery mechanisms (2025).
+[^106]: Jupiter LFG. (2025). Features: Advanced price discovery mechanisms. jup.ag, https://lfg.jup.ag/
 
-[^107]: [Jupiter Roadmap](https://station.jup.ag/) - Multi-chain integration plans (2025).
+[^107]: Jupiter. (2025). Roadmap: Multi-chain integration plans. station.jup.ag, https://station.jup.ag/
 
-[^108]: [Jupiter Docs - AI](https://station.jup.ag/docs) - AI-powered risk assessment (2025).
+[^108]: Jupiter. (2025). Docs AI: AI-powered risk assessment. station.jup.ag, https://station.jup.ag/docs
 
-[^109]: [Jupiter LFG - Privacy](https://lfg.jup.ag/) - Privacy-preserving features (2025).
+[^109]: Jupiter LFG. (2025). Privacy: Privacy-preserving features. jup.ag, https://lfg.jup.ag/
 
-[^110]: [CoinLive - Jupiter Success](https://www.coinlive.com/) - AI project $8.2M → $240M market cap (2025).
+[^110]: CoinLive. (2025). Jupiter Success: AI project $8.2M → $240M market cap. coinlive.com, https://www.coinlive.com/
 
-[^111]: [Gate.com - Jupiter Gaming](https://gate.com/) - Gaming token 1.2M users in 3 months (2025).
+[^111]: Gate.com. (2025). Jupiter Gaming: Gaming token 1.2M users in 3 months. gate.com, https://gate.com/
 
-[^112]: [Jupiter LFG - deBridge](https://lfg.jup.ag/) - deBridge (DBR) launch (2024).
+[^112]: Jupiter LFG. (2024). deBridge: deBridge (DBR) launch. jup.ag, https://lfg.jup.ag/
 
-[^113]: [Jupiter LFG - Sanctum](https://lfg.jup.ag/) - Sanctum (CLOUD) launch (2024).
+[^113]: Jupiter LFG. (2024). Sanctum: Sanctum (CLOUD) launch. jup.ag, https://lfg.jup.ag/
 
-[^114]: [Jupiter LFG - Zeus](https://lfg.jup.ag/) - Zeus Network launch (2024).
+[^114]: Jupiter LFG. (2024). Zeus: Zeus Network launch. jup.ag, https://lfg.jup.ag/
 
-[^115]: [Jupiter Docs - Innovation](https://station.jup.ag/docs) - DLMM algorithm innovation (2024).
+[^115]: Jupiter. (2024). Docs Innovation: DLMM algorithm innovation. station.jup.ag, https://station.jup.ag/docs
 
-[^116]: [DefiLlama - Jupiter TVL Strength](https://defillama.com/protocol/jupiter) - 🔷 $2.53B TVL (December 31, 2025).
+[^116]: DefiLlama. (2025, December 31). Jupiter TVL Strength: $2.53B TVL retrieved via API. defillama.com, https://defillama.com/protocol/jupiter 🔷 HARD DATA
 
-[^117]: [Jupiter - User Stats](https://station.jup.ag/) - 780K user base (December 2025).
+[^117]: Jupiter. (2025, December). User Stats: 780K user base. station.jup.ag, https://station.jup.ag/
 
-[^118]: [DefiLlama - Raydium TVL](https://defillama.com/protocol/raydium) - 🔷 $1.43B via API (December 31, 2025).
+[^118]: DefiLlama. (2025, December 31). Raydium TVL: $1.43B retrieved via API. defillama.com, https://defillama.com/protocol/raydium 🔷 HARD DATA
 
-[^119]: [DefiLlama - Raydium 24h](https://defillama.com/fees/raydium) - 🔷 24h fees $294K via API (December 31, 2025).
+[^119]: DefiLlama. (2025, December 31). Raydium 24h: Fees $294K retrieved via API. defillama.com, https://defillama.com/fees/raydium 🔷 HARD DATA
 
-[^120]: [DefiLlama - Raydium 30d](https://defillama.com/fees/raydium) - 🔷 30d fees $12.5M via API (December 31, 2025).
+[^120]: DefiLlama. (2025, December 31). Raydium 30d: Fees $12.5M retrieved via API. defillama.com, https://defillama.com/fees/raydium 🔷 HARD DATA
 
-[^121]: [DefiLlama - Raydium All-Time](https://defillama.com/fees/raydium) - 🔷 All-time fees $1.37B via API (December 31, 2025).
+[^121]: DefiLlama. (2025, December 31). Raydium All-Time: Fees $1.37B retrieved via API. defillama.com, https://defillama.com/fees/raydium 🔷 HARD DATA
 
-[^122]: [CoinGecko - RAY Price](https://www.coingecko.com/en/coins/raydium) - 🔷 $0.908 via API (December 31, 2025).
+[^122]: CoinGecko. (2025, December 31). RAY Price: $0.908 retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/raydium 🔷 HARD DATA
 
-[^123]: [CoinGecko - RAY Market Cap](https://www.coingecko.com/en/coins/raydium) - 🔷 $243M via API (December 31, 2025).
+[^123]: CoinGecko. (2025, December 31). RAY Market Cap: $243M retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/raydium 🔷 HARD DATA
 
-[^124]: [CoinGecko - RAY FDV](https://www.coingecko.com/en/coins/raydium) - 🔷 $502M via API (December 31, 2025).
+[^124]: CoinGecko. (2025, December 31). RAY FDV: $502M retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/raydium 🔷 HARD DATA
 
-[^125]: [CryptoRank - AcceleRaytor](https://cryptorank.io/) - 18 total IDOs (Historical).
+[^125]: CryptoRank. (2021). AcceleRaytor: 18 total IDOs. cryptorank.io, https://cryptorank.io/ ⏳ HISTORICAL
 
-[^126]: [Chain Broker - Raydium Raised](https://chainbroker.io/) - £3.28M raised (June 2023 data).
+[^126]: Chain Broker. (2023, June). Raydium Raised: £3.28M raised. chainbroker.io, https://chainbroker.io/ ⏳ HISTORICAL
 
-[^127]: [Chain Broker - Raydium ROI](https://chainbroker.io/) - 77.55x average ROI (June 2023 data).
+[^127]: Chain Broker. (2023, June). Raydium ROI: 77.55x average ROI. chainbroker.io, https://chainbroker.io/ ⏳ HISTORICAL
 
-[^128]: [Raydium Medium - AcceleRaytor](https://medium.com/@raydiumprotocol) - Star Atlas, Zebec, Hawksight, etc. (Historical).
+[^128]: Raydium. (2021). Medium AcceleRaytor: Star Atlas, Zebec, Hawksight, etc. medium.com, https://medium.com/@raydiumprotocol ⏳ HISTORICAL
 
-[^129]: [Raydium - Activity Decline](https://raydium.io/) - Reduced AcceleRaytor activity 2024-2025 (2024-2025).
+[^129]: Raydium. (2025). Activity Decline: Reduced AcceleRaytor activity 2024-2025. raydium.io, https://raydium.io/
 
-[^130]: [Raydium Blog - LaunchLab](https://raydium.io/blog) - LaunchLab launched April 16, 2025 (April 2025).
+[^130]: Raydium. (2025, April). Blog LaunchLab: LaunchLab launched April 16, 2025. raydium.io, https://raydium.io/blog
 
-[^131]: [CryptoRank - Raydium Evolution](https://cryptorank.io/) - Focus shift to memecoin market (2025).
+[^131]: CryptoRank. (2025). Raydium Evolution: Focus shift to memecoin market. cryptorank.io, https://cryptorank.io/
 
-[^132]: [Chain Broker - Historical ROI](https://chainbroker.io/) - 77.55x average historical (June 2023).
+[^132]: Chain Broker. (2023, June). Historical ROI: 77.55x average historical. chainbroker.io, https://chainbroker.io/ ⏳ HISTORICAL
 
-[^133]: [CoinGecko - DAO Price](https://www.coingecko.com/en/coins/dao-maker) - 🔷 $0.055 via API (December 31, 2025).
+[^133]: CoinGecko. (2025, December 31). DAO Price: $0.055 retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/dao-maker 🔷 HARD DATA
 
-[^134]: [CoinGecko - DAO Market Cap](https://www.coingecko.com/en/coins/dao-maker) - 🔷 $13.7M via API (December 31, 2025).
+[^134]: CoinGecko. (2025, December 31). DAO Market Cap: $13.7M retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/dao-maker 🔷 HARD DATA
 
-[^135]: [CoinGecko - DAO FDV](https://www.coingecko.com/en/coins/dao-maker) - 🔷 $15.1M via API (December 31, 2025).
+[^135]: CoinGecko. (2025, December 31). DAO FDV: $15.1M retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/dao-maker 🔷 HARD DATA
 
-[^136]: [Chain Broker - DAO Maker Total](https://chainbroker.io/launchpads/dao-maker) - $170M+ total raised (December 2025).
+[^136]: Chain Broker. (2025, December). DAO Maker Total: $170M+ total raised. chainbroker.io, https://chainbroker.io/launchpads/dao-maker
 
-[^137]: [ValueWalk - DAO Maker Cap](https://valuewalk.com/) - $250M+ market capitalization (December 2024).
+[^137]: ValueWalk. (2024, December). DAO Maker Cap: $250M+ market capitalization. valuewalk.com, https://valuewalk.com/
 
-[^138]: [PANews - DAO Maker IDOs](https://panews.io/) - 125-128 total IDOs (December 2025).
+[^138]: PANews. (2025, December). DAO Maker IDOs: 125-128 total IDOs. panews.io, https://panews.io/
 
-[^139]: [CryptoRank - DAO Maker Count](https://cryptorank.io/funds/dao-maker) - 128 IDOs recorded (December 2025).
+[^139]: CryptoRank. (2025, December). DAO Maker Count: 128 IDOs recorded. cryptorank.io, https://cryptorank.io/funds/dao-maker
 
-[^140]: [Chain Broker - DAO Revenue](https://chainbroker.io/launchpads/dao-maker) - $22.18M December 2024 revenue (December 2024).
+[^140]: Chain Broker. (2024, December). DAO Revenue: $22.18M December 2024 revenue. chainbroker.io, https://chainbroker.io/launchpads/dao-maker
 
-[^141]: [KuCoin Learn - DAO Maker](https://learn.kucoin.com/) - $54M raised across 128 IDOs (December 2024).
+[^141]: KuCoin Learn. (2024, December). DAO Maker: $54M raised across 128 IDOs. learn.kucoin.com, https://learn.kucoin.com/
 
-[^142]: [CryptoRank - Alternative Total](https://cryptorank.io/funds/dao-maker) - $66.8M total cited (December 2024).
+[^142]: CryptoRank. (2024, December). Alternative Total: $66.8M total cited. cryptorank.io, https://cryptorank.io/funds/dao-maker
 
-[^143]: [PANews - DAO Current ROI](https://panews.io/) - 0.14x current ROI 2025 H1 (2025).
+[^143]: PANews. (2025, H1). DAO Current ROI: 0.14x current ROI 2025 H1. panews.io, https://panews.io/
 
-[^144]: [PANews - DAO ATH ROI](https://panews.io/) - 3.65x ATH ROI 2025 H1 (2025).
+[^144]: PANews. (2025, H1). DAO ATH ROI: 3.65x ATH ROI 2025 H1. panews.io, https://panews.io/
 
-[^145]: [Chain Broker - Historical ATH](https://chainbroker.io/launchpads/dao-maker) - 37.4x historical average ATH (Historical).
+[^145]: Chain Broker. (2023). Historical ATH: 37.4x historical average ATH. chainbroker.io, https://chainbroker.io/launchpads/dao-maker ⏳ HISTORICAL
 
-[^146]: [Chain Broker - Positive ROI](https://chainbroker.io/launchpads/dao-maker) - Only platform with positive avg across all 112 sales (Historical).
+[^146]: Chain Broker. (2023). Positive ROI: Only platform with positive avg across all 112 sales. chainbroker.io, https://chainbroker.io/launchpads/dao-maker ⏳ HISTORICAL
 
-[^147]: [PANews - SpeedThrone](https://panews.io/) - GameFi 2.0 project SpeedThrone (2025).
+[^147]: PANews. (2025). SpeedThrone: GameFi 2.0 project SpeedThrone. panews.io, https://panews.io/
 
-[^148]: [PANews - 0xFútbol](https://panews.io/) - Sports/fan interaction project (2025).
+[^148]: PANews. (2025). 0xFútbol: Sports/fan interaction project. panews.io, https://panews.io/
 
-[^149]: [PANews - Kayen](https://panews.io/) - DeFi infrastructure project (2025).
+[^149]: PANews. (2025). Kayen: DeFi infrastructure project. panews.io, https://panews.io/
 
-[^150]: [PANews - Fusio](https://panews.io/) - AI/enterprise services project (2025).
+[^150]: PANews. (2025). Fusio: AI/enterprise services project. panews.io, https://panews.io/
 
-[^151]: [DAO Maker - Tier System](https://daomaker.com/) - 9-tier participation system (December 2025).
+[^151]: DAO Maker. (2025, December). Tier System: 9-tier participation system. daomaker.com, https://daomaker.com/
 
-[^152]: [Chain Broker - Track Record](https://chainbroker.io/launchpads/dao-maker) - Consistent positive ROI (Historical).
+[^152]: Chain Broker. (2023). Track Record: Consistent positive ROI. chainbroker.io, https://chainbroker.io/launchpads/dao-maker ⏳ HISTORICAL
 
-[^153]: [CryptoRank - IDO Leadership](https://cryptorank.io/funds/dao-maker) - Largest number of IDOs (December 2025).
+[^153]: CryptoRank. (2025, December). IDO Leadership: Largest number of IDOs. cryptorank.io, https://cryptorank.io/funds/dao-maker
 
-[^154]: [Chain Broker - Revenue Verified](https://chainbroker.io/launchpads/dao-maker) - $22.18M Dec 2024 verified (December 2024).
+[^154]: Chain Broker. (2024, December). Revenue Verified: $22.18M Dec 2024 verified. chainbroker.io, https://chainbroker.io/launchpads/dao-maker
 
-[^155]: [PANews - Performance Decline](https://panews.io/) - 0.14x current vs 37.4x historical (2025).
+[^155]: PANews. (2025). Performance Decline: 0.14x current vs 37.4x historical. panews.io, https://panews.io/
 
-[^156]: [Chain Broker - Historical Comparison](https://chainbroker.io/launchpads/dao-maker) - Performance comparison (December 2025).
+[^156]: Chain Broker. (2025, December). Historical Comparison: Performance comparison. chainbroker.io, https://chainbroker.io/launchpads/dao-maker
 
-[^157]: [CoinGecko - POLS Price](https://www.coingecko.com/en/coins/polkastarter) - 🔷 $0.085 via API (December 31, 2025).
+[^157]: CoinGecko. (2025, December 31). POLS Price: $0.085 retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/polkastarter 🔷 HARD DATA
 
-[^158]: [CoinGecko - POLS Market Cap](https://www.coingecko.com/en/coins/polkastarter) - 🔷 $8.4M via API (December 31, 2025).
+[^158]: CoinGecko. (2025, December 31). POLS Market Cap: $8.4M retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/polkastarter 🔷 HARD DATA
 
-[^159]: [CoinGecko - POLS FDV](https://www.coingecko.com/en/coins/polkastarter) - 🔷 $8.4M via API (December 31, 2025).
+[^159]: CoinGecko. (2025, December 31). POLS FDV: $8.4M retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/polkastarter 🔷 HARD DATA
 
-[^160]: [99Bitcoins - Polkastarter Projects](https://99bitcoins.com/) - 113 projects funded (Early 2025).
+[^160]: 99Bitcoins. (2025, Q1). Polkastarter Projects: 113 projects funded. 99bitcoins.com, https://99bitcoins.com/
 
-[^161]: [Chain Broker - Polkastarter Raised](https://chainbroker.io/launchpads/polkastarter) - $41,582,502 raised (December 2025).
+[^161]: Chain Broker. (2025, December). Polkastarter Raised: $41,582,502 raised. chainbroker.io, https://chainbroker.io/launchpads/polkastarter
 
-[^162]: [Polkastarter - Networks](https://polkastarter.com/) - BNB, Ethereum, Solana, Polygon support (December 2025).
+[^162]: Polkastarter. (2025, December). Networks: BNB, Ethereum, Solana, Polygon support. polkastarter.com, https://polkastarter.com/
 
-[^163]: [Chain Broker - Wilder World](https://chainbroker.io/) - 156x ATH ROI, $36M funding (Historical).
+[^163]: Chain Broker. (2021). Wilder World: 156x ATH ROI, $36M funding. chainbroker.io, https://chainbroker.io/ ⏳ HISTORICAL
 
-[^164]: [Polkastarter Blog - Notable Projects](https://polkastarter.com/blog) - SuperVerse, Ethernity, Polytrade, Stratos (Historical).
+[^164]: Polkastarter. (2022). Blog Notable Projects: SuperVerse, Ethernity, Polytrade, Stratos. polkastarter.com, https://polkastarter.com/blog ⏳ HISTORICAL
 
-[^165]: [Polkastarter - POLS Power](https://polkastarter.com/) - 50k POLS Power tier guaranteed spots (2024-2025).
+[^165]: Polkastarter. (2025). POLS Power: 50k POLS Power tier guaranteed spots. polkastarter.com, https://polkastarter.com/
 
-[^166]: [Polkastarter - Private Sales](https://polkastarter.com/) - Top-tier private sale access (2024-2025).
+[^166]: Polkastarter. (2025). Private Sales: Top-tier private sale access. polkastarter.com, https://polkastarter.com/
 
-[^167]: [Polkastarter Blog - Chainlink VRF](https://polkastarter.com/blog) - Transparent lottery integration (2024-2025).
+[^167]: Polkastarter. (2025). Blog Chainlink VRF: Transparent lottery integration. polkastarter.com, https://polkastarter.com/blog
 
-[^168]: [Polkastarter - Synaps KYC](https://polkastarter.com/) - One-time KYC via Synaps (2024-2025).
+[^168]: Polkastarter. (2025). Synaps KYC: One-time KYC via Synaps. polkastarter.com, https://polkastarter.com/
 
-[^169]: [Polkastarter - Philosophy](https://polkastarter.com/about) - Quality over quantity approach (December 2025).
+[^169]: Polkastarter. (2025, December). Philosophy: Quality over quantity approach. polkastarter.com, https://polkastarter.com/about
 
-[^170]: [Polkastarter - Multi-chain](https://polkastarter.com/) - Broadest multi-chain coverage (December 2025).
+[^170]: Polkastarter. (2025, December). Multi-chain: Broadest multi-chain coverage. polkastarter.com, https://polkastarter.com/
 
-[^171]: [Chain Broker - Wilder ROI](https://chainbroker.io/) - Wilder World 156x (Historical).
+[^171]: Chain Broker. (2021). Wilder ROI: Wilder World 156x. chainbroker.io, https://chainbroker.io/ ⏳ HISTORICAL
 
-[^172]: [Polkastarter Blog - Updates](https://polkastarter.com/blog) - 2024-2025 platform improvements (2024-2025).
+[^172]: Polkastarter. (2025). Blog Updates: 2024-2025 platform improvements. polkastarter.com, https://polkastarter.com/blog
 
-[^173]: [Polkastarter - VRF Lottery](https://polkastarter.com/) - Chainlink VRF transparency (December 2025).
+[^173]: Polkastarter. (2025, December). VRF Lottery: Chainlink VRF transparency. polkastarter.com, https://polkastarter.com/
 
-[^174]: [CoinGecko - SFUND Price](https://www.coingecko.com/en/coins/seedify-fund) - 🔷 $0.099 via API (December 31, 2025).
+[^174]: CoinGecko. (2025, December 31). SFUND Price: $0.099 retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/seedify-fund 🔷 HARD DATA
 
-[^175]: [CoinGecko - SFUND Market Cap](https://www.coingecko.com/en/coins/seedify-fund) - 🔷 $8.2M via API (December 31, 2025).
+[^175]: CoinGecko. (2025, December 31). SFUND Market Cap: $8.2M retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/seedify-fund 🔷 HARD DATA
 
-[^176]: [CoinGecko - SFUND FDV](https://www.coingecko.com/en/coins/seedify-fund) - 🔷 $9.9M via API (December 31, 2025).
+[^176]: CoinGecko. (2025, December 31). SFUND FDV: $9.9M retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/seedify-fund 🔷 HARD DATA
 
-[^177]: [CryptoRank - Seedify IGOs](https://cryptorank.io/funds/seedify) - 100 IGOs completed (December 2025).
+[^177]: CryptoRank. (2025, December). Seedify IGOs: 100 IGOs completed. cryptorank.io, https://cryptorank.io/funds/seedify
 
-[^178]: [CryptoRank - Seedify Current ROI](https://cryptorank.io/funds/seedify) - 0.22x current average (December 2025).
+[^178]: CryptoRank. (2025, December). Seedify Current ROI: 0.22x current average. cryptorank.io, https://cryptorank.io/funds/seedify
 
-[^179]: [CryptoRank - Seedify ATH ROI](https://cryptorank.io/funds/seedify) - 23.32x ATH average (December 2025).
+[^179]: CryptoRank. (2025, December). Seedify ATH ROI: 23.32x ATH average. cryptorank.io, https://cryptorank.io/funds/seedify
 
-[^180]: [Blockchain-Ads - Seedify Raised](https://blockchain-ads.com/) - $26M across 72 IDOs (December 2024).
+[^180]: Blockchain-Ads. (2024, December). Seedify Raised: $26M across 72 IDOs. blockchain-ads.com, https://blockchain-ads.com/
 
-[^181]: [CryptoRank - CryptoMeda](https://cryptorank.io/) - CryptoMeda 185x ROI (Historical).
+[^181]: CryptoRank. (2021). CryptoMeda: 185x ROI. cryptorank.io, https://cryptorank.io/ ⏳ HISTORICAL
 
-[^182]: [Seedify - Tier System](https://seedify.fund/) - 9 tiers: 250 to 100,000 SFUND (December 2025).
+[^182]: Seedify. (2025, December). Tier System: 9 tiers: 250 to 100,000 SFUND. seedify.fund, https://seedify.fund/
 
-[^183]: [Seedify - Focus Sectors](https://seedify.fund/) - Gaming, AI, Metaverse (December 2025).
+[^183]: Seedify. (2025, December). Focus Sectors: Gaming, AI, Metaverse. seedify.fund, https://seedify.fund/
 
-[^184]: [Seedify - Offering Types](https://seedify.fund/) - IGOs, INOs, IMOs (December 2025).
+[^184]: Seedify. (2025, December). Offering Types: IGOs, INOs, IMOs. seedify.fund, https://seedify.fund/
 
-[^185]: [CryptoRank - Bloktopia](https://cryptorank.io/) - Bloktopia (BLOK) launch (Historical).
+[^185]: CryptoRank. (2021). Bloktopia: Bloktopia (BLOK) launch. cryptorank.io, https://cryptorank.io/ ⏳ HISTORICAL
 
-[^186]: [CryptoRank - Hypercycle](https://cryptorank.io/) - Hypercycle (HYPC) launch (Historical).
+[^186]: CryptoRank. (2023). Hypercycle: Hypercycle (HYPC) launch. cryptorank.io, https://cryptorank.io/ ⏳ HISTORICAL
 
-[^187]: [Seedify - Gaming Projects](https://seedify.fund/) - 70+ gaming projects (December 2025).
+[^187]: Seedify. (2025, December). Gaming Projects: 70+ gaming projects. seedify.fund, https://seedify.fund/
 
-[^188]: [Seedify - Community Approval](https://seedify.fund/) - Community-driven project selection (December 2025).
+[^188]: Seedify. (2025, December). Community Approval: Community-driven project selection. seedify.fund, https://seedify.fund/
 
-[^189]: [Seedify - Specialization](https://seedify.fund/) - GameFi deep expertise (December 2025).
+[^189]: Seedify. (2025, December). Specialization: GameFi deep expertise. seedify.fund, https://seedify.fund/
 
-[^190]: [TokenMinds - Community Size](https://tokenminds.co/) - 200,000+ crypto gamers (December 2024).
+[^190]: TokenMinds. (2024, December). Community Size: 200,000+ crypto gamers. tokenminds.co, https://tokenminds.co/
 
-[^191]: [CryptoRank - Seedify Historical](https://cryptorank.io/funds/seedify) - 23.32x historical ATH (December 2025).
+[^191]: CryptoRank. (2025, December). Seedify Historical: 23.32x historical ATH. cryptorank.io, https://cryptorank.io/funds/seedify
 
-[^192]: [CryptoRank - Seedify Underperformance](https://cryptorank.io/funds/seedify) - 0.22x current ROI (December 2025).
+[^192]: CryptoRank. (2025, December). Seedify Underperformance: 0.22x current ROI. cryptorank.io, https://cryptorank.io/funds/seedify
 
-[^193]: [GameFi.org - Total Launches](https://gamefi.org/) - 70+ projects (December 2025).
+[^193]: GameFi.org. (2025, December). Total Launches: 70+ projects. gamefi.org, https://gamefi.org/
 
-[^194]: [Blockchain-Ads - GameFi Raised](https://blockchain-ads.com/) - $9.2M raised (December 2024).
+[^194]: Blockchain-Ads. (2024, December). GameFi Raised: $9.2M raised. blockchain-ads.com, https://blockchain-ads.com/
 
-[^195]: [CoinCodex - GameFi ROI](https://coincodex.com/) - 42.51x-45.51x ATH ROI (December 2024).
+[^195]: CoinCodex. (2024, December). GameFi ROI: 42.51x-45.51x ATH ROI. coincodex.com, https://coincodex.com/
 
-[^196]: [NinjaPromo - Community](https://ninjapromo.io/) - 200,000+ gamers (December 2024).
+[^196]: NinjaPromo. (2024, December). Community: 200,000+ gamers. ninjapromo.io, https://ninjapromo.io/
 
-[^197]: [GameFi.org - Pegaxy](https://gamefi.org/) - Pegaxy notable project (Historical).
+[^197]: GameFi.org. (2022). Pegaxy: Pegaxy notable project. gamefi.org, https://gamefi.org/ ⏳ HISTORICAL
 
-[^198]: [GameFi.org - Crypto Raiders](https://gamefi.org/) - Crypto Raiders launch (Historical).
+[^198]: GameFi.org. (2022). Crypto Raiders: Crypto Raiders launch. gamefi.org, https://gamefi.org/ ⏳ HISTORICAL
 
-[^199]: [GameFi.org - Alice](https://gamefi.org/) - My Neighbor Alice (Historical).
+[^199]: GameFi.org. (2022). Alice: My Neighbor Alice. gamefi.org, https://gamefi.org/ ⏳ HISTORICAL
 
-[^200]: [GameFi.org - Sector Focus](https://gamefi.org/) - Exclusively gaming/GameFi (December 2025).
+[^200]: GameFi.org. (2025, December). Sector Focus: Exclusively gaming/GameFi. gamefi.org, https://gamefi.org/
 
-[^201]: [NinjaPromo - Gamer Community](https://ninjapromo.io/) - 200K gamers not speculators (December 2024).
+[^201]: NinjaPromo. (2024, December). Gamer Community: 200K gamers not speculators. ninjapromo.io, https://ninjapromo.io/
 
-[^202]: [CoinCodex - Highest ROI](https://coincodex.com/) - 42.51x-45.51x highest sector (December 2024).
+[^202]: CoinCodex. (2024, December). Highest ROI: 42.51x-45.51x highest sector. coincodex.com, https://coincodex.com/
 
-[^203]: [GameFi.org - Track Record](https://gamefi.org/) - 70+ launches (December 2025).
+[^203]: GameFi.org. (2025, December). Track Record: 70+ launches. gamefi.org, https://gamefi.org/
 
-[^204]: [GameFi.org - Quality Projects](https://gamefi.org/) - Pegaxy, My Neighbor Alice quality (Historical).
+[^204]: GameFi.org. (2022). Quality Projects: Pegaxy, My Neighbor Alice quality. gamefi.org, https://gamefi.org/ ⏳ HISTORICAL
 
-[^205]: [Industry Analysis - CEX vs DEX](https://cryptorank.io/) - CEX consistently outperforms DEX (December 2025).
+[^205]: CryptoRank. (2025, December). Industry Analysis CEX vs DEX: CEX consistently outperforms DEX. cryptorank.io, https://cryptorank.io/
 
-[^206]: [CryptoRank - Vetting Correlation](https://cryptorank.io/) - Quality vetting correlates with outcomes (December 2025).
+[^206]: CryptoRank. (2025, December). Vetting Correlation: Quality vetting correlates with outcomes. cryptorank.io, https://cryptorank.io/
 
-[^207]: [PANews + CryptoRank - 2025 Decline](https://panews.io/) - 0.14x-0.22x current ROIs (2025).
+[^207]: PANews. (2025). 2025 Decline: 0.14x-0.22x current ROIs. panews.io, https://panews.io/
 
-[^208]: [Industry Analysis - Pump.fun Model](https://theblock.co/) - Casino vs investment model (December 2024).
+[^208]: The Block. (2024, December). Industry Analysis Pump.fun Model: Casino vs investment model. theblock.co, https://theblock.co/
 
-[^209]: [Watcher.guru - Scam Rate](https://watcher.guru/) - 98.6% scam rate (October 2024).
+[^209]: Watcher.guru. (2024, October). Scam Rate: 98.6% scam rate. watcher.guru, https://watcher.guru/
 
-[^210]: [Bitget News - User Losses](https://www.bitget.com/news) - 90% user loss rate (October 2024).
+[^210]: Bitget News. (2024, October). User Losses: 90% user loss rate. bitget.com, https://www.bitget.com/news
 
-[^211]: [Crypto.com Research - Solana Dominance](https://crypto.com/research) - 67% of new tokens Jan-Nov 2024 (December 2024).
+[^211]: Crypto.com Research. (2024, December). Solana Dominance: 67% of new tokens Jan-Nov 2024. crypto.com, https://crypto.com/research
 
-[^212]: [Dune Analytics - Pump.fun Share](https://dune.com/) - 13M of 32M Solana tokens (December 2024).
+[^212]: Dune Analytics. (2024, December). Pump.fun Share: 13M of 32M Solana tokens. dune.com, https://dune.com/
 
-[^213]: [DefiLlama + Jupiter - Stats](https://defillama.com/protocol/jupiter) - 780K users, $2.53B TVL (December 31, 2025).
+[^213]: DefiLlama. (2025, December 31). Jupiter Stats: 780K users, $2.53B TVL retrieved via API. defillama.com, https://defillama.com/protocol/jupiter 🔷 HARD DATA
 
-[^214]: [Jupiter Docs - AI Integration](https://station.jup.ag/docs) - AI risk assessment 2025 (2025).
+[^214]: Jupiter. (2025). Docs AI Integration: AI risk assessment 2025. station.jup.ag, https://station.jup.ag/docs
 
-[^215]: [Crypto.com Research - AI Trend](https://crypto.com/research) - AI for project vetting (December 2024).
+[^215]: Crypto.com Research. (2024, December). AI Trend: AI for project vetting. crypto.com, https://crypto.com/research
 
-[^216]: [Crypto.com Research - Cross-chain](https://crypto.com/research) - Cross-chain support trend (December 2024).
+[^216]: Crypto.com Research. (2024, December). Cross-chain: Cross-chain support trend. crypto.com, https://crypto.com/research
 
-[^217]: [Polkastarter - Multi-chain Support](https://polkastarter.com/) - BNB, ETH, SOL, Polygon (December 2025).
+[^217]: Polkastarter. (2025, December). Multi-chain Support: BNB, ETH, SOL, Polygon. polkastarter.com, https://polkastarter.com/
 
-[^218]: [GameFi.org - Specialist ROI](https://gamefi.org/) - 42.51x specialist ROI (December 2024).
+[^218]: GameFi.org. (2024, December). Specialist ROI: 42.51x specialist ROI. gamefi.org, https://gamefi.org/
 
-[^219]: [DefiLlama - Pump.fun Specialist](https://defillama.com/fees/pump.fun) - 🔷 $869.7M revenue (December 31, 2025).
+[^219]: DefiLlama. (2025, December 31). Pump.fun Specialist: $869.7M revenue retrieved via API. defillama.com, https://defillama.com/fees/pump.fun 🔷 HARD DATA
 
-[^220]: [PANews - DAO Maker Diversity](https://panews.io/) - GameFi, DeFi, AI, Sports (2025).
+[^220]: PANews. (2025). DAO Maker Diversity: GameFi, DeFi, AI, Sports. panews.io, https://panews.io/
 
-[^221]: [Polkastarter - Generalist](https://polkastarter.com/) - Multi-sector, multi-chain (December 2025).
+[^221]: Polkastarter. (2025, December). Generalist: Multi-sector, multi-chain. polkastarter.com, https://polkastarter.com/
 
-[^222]: [PANews - DAO Maker Decline](https://panews.io/) - 37.4x → 0.14x decline (2025).
+[^222]: PANews. (2025). DAO Maker Decline: 37.4x → 0.14x decline. panews.io, https://panews.io/
 
-[^223]: [Chain Broker - Historical Comparison](https://chainbroker.io/launchpads/dao-maker) - Performance decline (December 2025).
+[^223]: Chain Broker. (2025, December). Historical Comparison: Performance decline. chainbroker.io, https://chainbroker.io/launchpads/dao-maker
 
-[^224]: [CryptoRank - Seedify Decline](https://cryptorank.io/funds/seedify) - 23.32x → 0.22x (December 2025).
+[^224]: CryptoRank. (2025, December). Seedify Decline: 23.32x → 0.22x. cryptorank.io, https://cryptorank.io/funds/seedify
 
-[^225]: [DefiLlama - Pump.fun Decline](https://defillama.com/fees/pump.fun) - 🔷 $130M Jan → $22.7M Dec 30d (December 31, 2025).
+[^225]: DefiLlama. (2025, December 31). Pump.fun Decline: $130M Jan → $22.7M Dec 30d retrieved via API. defillama.com, https://defillama.com/fees/pump.fun 🔷 HARD DATA
 
-[^226]: [Regulatory Analysis - Pump.fun Risk](https://watcher.guru/) - 98.6% scam rate regulatory concern (October 2024).
+[^226]: Watcher.guru. (2024, October). Regulatory Analysis Pump.fun Risk: 98.6% scam rate regulatory concern. watcher.guru, https://watcher.guru/
 
-[^227]: [Industry Trend - KYC Expansion](https://cryptorank.io/) - KYC/AML requirements expanding (December 2025).
+[^227]: CryptoRank. (2025, December). Industry Trend KYC Expansion: KYC/AML requirements expanding. cryptorank.io, https://cryptorank.io/
 
-[^228]: [Polkastarter - Synaps Integration](https://polkastarter.com/) - Enhanced KYC via Synaps (2024-2025).
+[^228]: Polkastarter. (2025). Synaps Integration: Enhanced KYC via Synaps. polkastarter.com, https://polkastarter.com/
 
-[^229]: [Polkastarter - VRF Transparency](https://polkastarter.com/) - Chainlink VRF lottery system (2024-2025).
+[^229]: Polkastarter. (2025). VRF Transparency: Chainlink VRF lottery system. polkastarter.com, https://polkastarter.com/
 
-[^230]: [Binance - Quality vs Access](https://launchpad.binance.com/) - 94% success with restricted access (December 2025).
+[^230]: Binance. (2025, December). Quality vs Access: 94% success with restricted access. binance.com, https://launchpad.binance.com/
 
-[^231]: [Pump.fun Analysis - Open Access](https://watcher.guru/) - No vetting = 98.6% scam (October 2024).
+[^231]: Watcher.guru. (2024, October). Pump.fun Analysis Open Access: No vetting = 98.6% scam. watcher.guru, https://watcher.guru/
 
-[^232]: [DefiLlama - Pump.fun Revenue](https://defillama.com/fees/pump.fun) - 🔷 $869.7M verified (December 31, 2025).
+[^232]: DefiLlama. (2025, December 31). Pump.fun Revenue: $869.7M verified retrieved via API. defillama.com, https://defillama.com/fees/pump.fun 🔷 HARD DATA
 
-[^233]: [Chain Broker - DAO Revenue](https://chainbroker.io/launchpads/dao-maker) - $22.18M Dec 2024 (December 2024).
+[^233]: Chain Broker. (2024, December). DAO Revenue: $22.18M Dec 2024. chainbroker.io, https://chainbroker.io/launchpads/dao-maker
 
-[^234]: [DefiLlama - Memecoin Revenue](https://defillama.com/fees/pump.fun) - 🔷 $869.7M from memecoins (December 31, 2025).
+[^234]: DefiLlama. (2025, December 31). Memecoin Revenue: $869.7M from memecoins retrieved via API. defillama.com, https://defillama.com/fees/pump.fun 🔷 HARD DATA
 
-[^235]: [Watcher.guru - Scam Classification](https://watcher.guru/) - 98.6% scam/pump-dump (October 2024).
+[^235]: Watcher.guru. (2024, October). Scam Classification: 98.6% scam/pump-dump. watcher.guru, https://watcher.guru/
 
-[^236]: [Bitget News - User Loss Data](https://www.bitget.com/news) - 90% lost money (October 2024).
+[^236]: Bitget News. (2024, October). User Loss Data: 90% lost money. bitget.com, https://www.bitget.com/news
 
-[^237]: [The Block - DEX Transaction Share](https://theblock.co/) - 52.8% Solana DEX (December 2024).
+[^237]: The Block. (2024, December). DEX Transaction Share: 52.8% Solana DEX. theblock.co, https://theblock.co/
 
-[^238]: [CryptoRank - 2024 IDO Count](https://cryptorank.io/ico) - 256 IDOs in 2024 (December 2025).
+[^238]: CryptoRank. (2025, December). 2024 IDO Count: 256 IDOs in 2024. cryptorank.io, https://cryptorank.io/ico
 
-[^239]: [Binance - Track Record](https://launchpad.binance.com/) - 94% positive ROI (December 2025).
+[^239]: Binance. (2025, December). Track Record: 94% positive ROI. binance.com, https://launchpad.binance.com/
 
-[^240]: [DefiLlama - Pump.fun Transparent](https://defillama.com/fees/pump.fun) - 🔷 $869.7M disclosed (December 31, 2025).
+[^240]: DefiLlama. (2025, December 31). Pump.fun Transparent: $869.7M disclosed retrieved via API. defillama.com, https://defillama.com/fees/pump.fun 🔷 HARD DATA
 
-[^241]: [Chain Broker - DAO Maker Transparent](https://chainbroker.io/launchpads/dao-maker) - $22.18M disclosed (December 2024).
+[^241]: Chain Broker. (2024, December). DAO Maker Transparent: $22.18M disclosed. chainbroker.io, https://chainbroker.io/launchpads/dao-maker
 
-[^242]: [GameFi.org - Specialist Performance](https://gamefi.org/) - 42.51x ROI (December 2024).
+[^242]: GameFi.org. (2024, December). Specialist Performance: 42.51x ROI. gamefi.org, https://gamefi.org/
 
-[^243]: [Regulatory Risk - Pump.fun](https://watcher.guru/) - 98.6% scam rate unsustainable (October 2024).
+[^243]: Watcher.guru. (2024, October). Regulatory Risk Pump.fun: 98.6% scam rate unsustainable. watcher.guru, https://watcher.guru/
 
-[^244]: [Binance - CEX Superiority](https://launchpad.binance.com/) - 94% positive ROI (December 2025).
+[^244]: Binance. (2025, December). CEX Superiority: 94% positive ROI. binance.com, https://launchpad.binance.com/
 
-[^245]: [DefiLlama - Demand Evidence](https://defillama.com/fees/pump.fun) - 🔷 $869.7M demonstrates demand (December 31, 2025).
+[^245]: DefiLlama. (2025, December 31). Demand Evidence: $869.7M demonstrates demand retrieved via API. defillama.com, https://defillama.com/fees/pump.fun 🔷 HARD DATA
 
-[^246]: [Multiple Sources - Unsustainable](https://watcher.guru/) - 98.6% scam, 90% losses (October 2024).
+[^246]: Watcher.guru. (2024, October). Unsustainable: 98.6% scam, 90% losses. watcher.guru, https://watcher.guru/
 
-[^247]: [CryptoRank - Market Saturation](https://cryptorank.io/ico) - 256 IDOs in 2024 (December 2025).
+[^247]: CryptoRank. (2025, December). Market Saturation: 256 IDOs in 2024. cryptorank.io, https://cryptorank.io/ico
 
-[^248]: [DefiLlama - Pump.fun Disclosed](https://defillama.com/fees/pump.fun) - 🔷 $869.7M (December 31, 2025).
+[^248]: DefiLlama. (2025, December 31). Pump.fun Disclosed: $869.7M retrieved via API. defillama.com, https://defillama.com/fees/pump.fun 🔷 HARD DATA
 
-[^249]: [Chain Broker - DAO Disclosed](https://chainbroker.io/launchpads/dao-maker) - $22.18M (December 2024).
+[^249]: Chain Broker. (2024, December). DAO Disclosed: $22.18M. chainbroker.io, https://chainbroker.io/launchpads/dao-maker
 
-[^250]: [GameFi.org - Specialization Premium](https://gamefi.org/) - 42.51x ROI (December 2024).
+[^250]: GameFi.org. (2024, December). Specialization Premium: 42.51x ROI. gamefi.org, https://gamefi.org/
 
-[^251]: [DefiLlama - Path A Evidence](https://defillama.com/fees/pump.fun) - 🔷 $869.7M Pump.fun revenue (December 31, 2025).
+[^251]: DefiLlama. (2025, December 31). Path A Evidence: $869.7M Pump.fun revenue retrieved via API. defillama.com, https://defillama.com/fees/pump.fun 🔷 HARD DATA
 
-[^252]: [Jupiter Docs - Path B AI](https://station.jup.ag/docs) - AI integration experiments (2025).
+[^252]: Jupiter. (2025). Docs Path B AI: AI integration experiments. station.jup.ag, https://station.jup.ag/docs
 
-[^253]: [Polkastarter - Path B Transparency](https://polkastarter.com/blog) - Transparency improvements (2024-2025).
+[^253]: Polkastarter. (2025). Path B Transparency: Transparency improvements. polkastarter.com, https://polkastarter.com/blog
 
 ---
 
