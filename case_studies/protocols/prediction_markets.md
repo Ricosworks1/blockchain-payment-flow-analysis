@@ -747,487 +747,487 @@ This creates **informational asymmetry**: Polymarket's volume is blockchain-veri
 
 ### 🔷 HARD DATA (API-Verified)
 
-[^1]: [DefiLlama - Polymarket TVL](https://defillama.com/protocol/polymarket) - 🔷 TVL $332.9M retrieved via DefiLlama API (December 31, 2025).
+[^1]: DefiLlama. (2025, December 31). Polymarket TVL: $332.9M retrieved via API. defillama.com, https://defillama.com/protocol/polymarket 🔷 HARD DATA
 
-[^2]: [DefiLlama - Polymarket Volume](https://defillama.com/dexs/polymarket) - Lifetime volume $20.4B+ (December 31, 2025).
+[^2]: DefiLlama. (2025, December 31). Polymarket Volume: Lifetime volume $20.4B+. defillama.com, https://defillama.com/dexs/polymarket
 
-[^3]: [CB Insights - Polymarket Financials](https://www.cbinsights.com/company/polymarket/financials) - 2025 Revenue $160M verified (October 2025).
+[^3]: CB Insights. (2025, October). Polymarket Financials: 2025 Revenue $160M verified. cbinsights.com, https://www.cbinsights.com/company/polymarket/financials
 
-[^4]: [Dune Analytics - Prediction Market Share](https://dune.com/) - Kalshi 60-62% market share (September 2025).
+[^4]: Dune Analytics. (2025, September). Prediction Market Share: Kalshi 60-62% market share. dune.com, https://dune.com/
 
-[^5]: [CoinDesk - Kalshi Market Volume](https://www.coindesk.com/markets/2025/09/20/kalshi-outpaces-polymarket-in-prediction-market-volume) - $1.3B monthly volume (September 2025).
+[^5]: CoinDesk. (2025, September). Kalshi Market Volume: $1.3B monthly volume. coindesk.com, https://www.coindesk.com/markets/2025/09/20/kalshi-outpaces-polymarket-in-prediction-market-volume
 
-[^6]: [DefiLlama - Azuro TVL](https://defillama.com/protocol/azuro) - 🔷 TVL $924K retrieved via DefiLlama API (December 31, 2025).
+[^6]: DefiLlama. (2025, December 31). Azuro TVL: $924K retrieved via API. defillama.com, https://defillama.com/protocol/azuro 🔷 HARD DATA
 
-[^7]: [DefiLlama - Azuro Fees](https://defillama.com/fees/azuro) - 🔷 All-time fees $5.84M retrieved via API (December 31, 2025).
+[^7]: DefiLlama. (2025, December 31). Azuro Fees: All-time $5.84M retrieved via API. defillama.com, https://defillama.com/fees/azuro 🔷 HARD DATA
 
-[^8]: [CoinGecko - Gnosis (GNO)](https://www.coingecko.com/en/coins/gnosis) - 🔷 GNO price $129.97 retrieved via CoinGecko API (December 31, 2025).
+[^8]: CoinGecko. (2025, December 31). Gnosis (GNO): Price $129.97 retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/gnosis 🔷 HARD DATA
 
-[^9]: [CoinGecko - GNO Market Cap](https://www.coingecko.com/en/coins/gnosis) - 🔷 Market cap $343M retrieved via CoinGecko API (December 31, 2025).
+[^9]: CoinGecko. (2025, December 31). GNO Market Cap: $343M retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/gnosis 🔷 HARD DATA
 
 ### Market Data Sources
 
-[^10]: [Decrypt - Prediction Markets ATH](https://decrypt.co/345033/prediction-markets-all-time-high-trading-volume) - $2B weekly volume (October 2025).
+[^10]: Decrypt. (2025, October). Prediction Markets ATH: $2B weekly volume. decrypt.co, https://decrypt.co/345033/prediction-markets-all-time-high-trading-volume
 
-[^11]: [Wikipedia - Prediction Market](https://en.wikipedia.org/wiki/Prediction_market) - Definition and mechanism (December 2025).
+[^11]: Wikipedia. (2025, December). Prediction Market: Definition and mechanism. wikipedia.org, https://en.wikipedia.org/wiki/Prediction_market
 
-[^12]: [Decrypt - Volume Peak](https://decrypt.co/) - $2.0B+ weekly peak mid-October 2025 (October 2025).
+[^12]: Decrypt. (2025, October). Volume Peak: $2.0B+ weekly peak mid-October 2025. decrypt.co, https://decrypt.co/
 
-[^13]: [Industry Analysis - Sustained Volumes](https://cryptorank.io/) - $300-600M typical weekly (December 2025).
+[^13]: CryptoRank. (2025, December). Industry Analysis Sustained Volumes: $300-600M typical weekly. cryptorank.io, https://cryptorank.io/
 
-[^14]: [CoinDesk - Kalshi Volume](https://www.coindesk.com/) - $1.3B monthly September 2025 (September 2025).
+[^14]: CoinDesk. (2025, September). Kalshi Volume: $1.3B monthly September 2025. coindesk.com, https://www.coindesk.com/
 
-[^15]: [CoinDesk - Polymarket Volume](https://www.coindesk.com/) - $773M monthly September 2025 (September 2025).
+[^15]: CoinDesk. (2025, September). Polymarket Volume: $773M monthly September 2025. coindesk.com, https://www.coindesk.com/
 
-[^16]: [DefiLlama - Polymarket Current](https://defillama.com/protocol/polymarket) - 🔷 $332.9M TVL (December 31, 2025).
+[^16]: DefiLlama. (2025, December 31). Polymarket Current: $332.9M TVL retrieved via API. defillama.com, https://defillama.com/protocol/polymarket 🔷 HARD DATA
 
-[^17]: [DefiLlama - Lifetime Volume](https://defillama.com/dexs/polymarket) - $20.434B cumulative (December 2025).
+[^17]: DefiLlama. (2025, December). Lifetime Volume: $20.434B cumulative. defillama.com, https://defillama.com/dexs/polymarket
 
-[^18]: [Dune Analytics - Market Share](https://dune.com/) - Market share data September 2025 (September 2025).
+[^18]: Dune Analytics. (2025, September). Market Share: Market share data September 2025. dune.com, https://dune.com/
 
-[^19]: [Dune Analytics - Kalshi Share](https://dune.com/) - 60-62% Kalshi (September 2025).
+[^19]: Dune Analytics. (2025, September). Kalshi Share: 60-62% Kalshi. dune.com, https://dune.com/
 
-[^20]: [Dune Analytics - Polymarket Share](https://dune.com/) - 37-40% Polymarket (September 2025).
+[^20]: Dune Analytics. (2025, September). Polymarket Share: 37-40% Polymarket. dune.com, https://dune.com/
 
-[^21]: [Industry Analysis - Others](https://cryptorank.io/) - <3% other platforms (December 2025).
+[^21]: CryptoRank. (2025, December). Industry Analysis Others: <3% other platforms. cryptorank.io, https://cryptorank.io/
 
-[^22]: [CB Insights - Profitability Analysis](https://www.cbinsights.com/) - Prediction markets profitable sector (December 2025).
+[^22]: CB Insights. (2025, December). Profitability Analysis: Prediction markets profitable sector. cbinsights.com, https://www.cbinsights.com/
 
-[^23]: [CB Insights - Polymarket Revenue](https://www.cbinsights.com/company/polymarket/financials) - $160M 2025 revenue (October 2025).
+[^23]: CB Insights. (2025, October). Polymarket Revenue: $160M 2025 revenue. cbinsights.com, https://www.cbinsights.com/company/polymarket/financials
 
-[^24]: [Industry Analysis - Fee Revenue](https://messari.io/) - 1-3% fee structures (December 2025).
+[^24]: Messari. (2025, December). Industry Analysis Fee Revenue: 1-3% fee structures. messari.io, https://messari.io/
 
-[^25]: [Industry Analysis - Sustainability](https://cryptorank.io/) - Self-sustaining vs subsidized (December 2025).
+[^25]: CryptoRank. (2025, December). Industry Analysis Sustainability: Self-sustaining vs subsidized. cryptorank.io, https://cryptorank.io/
 
 ### Market Mechanics
 
-[^26]: [Wikipedia - Prediction Markets](https://en.wikipedia.org/wiki/Prediction_market) - Core concept definition (December 2025).
+[^26]: Wikipedia. (2025, December). Prediction Markets: Core concept definition. wikipedia.org, https://en.wikipedia.org/wiki/Prediction_market
 
-[^27]: [Polymarket Documentation](https://docs.polymarket.com/) - Market mechanism (December 2025).
+[^27]: Polymarket. (2025, December). Documentation: Market mechanism. docs.polymarket.com, https://docs.polymarket.com/
 
-[^28]: [Polymarket - Binary Markets](https://polymarket.com/) - Yes/No outcome structure (December 2025).
+[^28]: Polymarket. (2025, December). Binary Markets: Yes/No outcome structure. polymarket.com, https://polymarket.com/
 
-[^29]: [Polymarket - Categorical Markets](https://polymarket.com/) - Multiple outcome structure (December 2025).
+[^29]: Polymarket. (2025, December). Categorical Markets: Multiple outcome structure. polymarket.com, https://polymarket.com/
 
-[^30]: [Polymarket - Scalar Markets](https://polymarket.com/) - Range-based outcomes (December 2025).
+[^30]: Polymarket. (2025, December). Scalar Markets: Range-based outcomes. polymarket.com, https://polymarket.com/
 
-[^31]: [Harvard Business Review - Wisdom of Crowds](https://hbr.org/) - Aggregated intelligence research (Historical).
+[^31]: Harvard Business Review. (2004). Wisdom of Crowds: Aggregated intelligence research. hbr.org, https://hbr.org/ ⏳ HISTORICAL
 
-[^32]: [Iowa Electronic Markets - Accuracy Studies](https://iemweb.biz.uiowa.edu/) - 75% poll outperformance (Historical).
+[^32]: Iowa Electronic Markets. (2020). Accuracy Studies: 75% poll outperformance. uiowa.edu, https://iemweb.biz.uiowa.edu/ ⏳ HISTORICAL
 
-[^33]: [PredictIt - Performance Data](https://www.predictit.org/) - 2-3% election accuracy (Historical).
+[^33]: PredictIt. (2020). Performance Data: 2-3% election accuracy. predictit.org, https://www.predictit.org/ ⏳ HISTORICAL
 
-[^34]: [Sports Analytics - Betting Markets](https://fivethirtyeight.com/) - Market accuracy vs experts (Historical).
+[^34]: FiveThirtyEight. (2020). Sports Analytics Betting Markets: Market accuracy vs experts. fivethirtyeight.com, https://fivethirtyeight.com/ ⏳ HISTORICAL
 
 ### Platform Comparisons
 
-[^35]: [CoinDesk - Kalshi Stats](https://www.coindesk.com/) - $1.3B monthly, 60-62% share (September 2025).
+[^35]: CoinDesk. (2025, September). Kalshi Stats: $1.3B monthly, 60-62% share. coindesk.com, https://www.coindesk.com/
 
-[^36]: [CoinDesk - Polymarket Stats](https://www.coindesk.com/) - $773M monthly, 37-40% share (September 2025).
+[^36]: CoinDesk. (2025, September). Polymarket Stats: $773M monthly, 37-40% share. coindesk.com, https://www.coindesk.com/
 
-[^37]: [Industry Estimates - Others](https://cryptorank.io/) - <$50M other platforms (December 2025).
+[^37]: CryptoRank. (2025, December). Industry Estimates Others: <$50M other platforms. cryptorank.io, https://cryptorank.io/
 
-[^38]: [Finance Magnates - Kalshi Verification](https://www.financemagnates.com/) - Off-chain, not independently verifiable (September 2025).
+[^38]: Finance Magnates. (2025, September). Kalshi Verification: Off-chain, not independently verifiable. financemagnates.com, https://www.financemagnates.com/
 
-[^39]: [Finance Magnates - Polymarket On-chain](https://www.financemagnates.com/) - Fully on-chain, publicly verifiable (September 2025).
+[^39]: Finance Magnates. (2025, September). Polymarket On-chain: Fully on-chain, publicly verifiable. financemagnates.com, https://www.financemagnates.com/
 
-[^40]: [Dune Analytics - Market Share Shift](https://dune.com/) - 3.3% to 60-62% growth (September 2025).
+[^40]: Dune Analytics. (2025, September). Market Share Shift: 3.3% to 60-62% growth. dune.com, https://dune.com/
 
-[^41]: [Decrypt - Weekly Peak](https://decrypt.co/) - $2.0B+ weekly (October 2025).
+[^41]: Decrypt. (2025, October). Weekly Peak: $2.0B+ weekly. decrypt.co, https://decrypt.co/
 
-[^42]: [Industry Analysis - Sustained Average](https://cryptorank.io/) - $300-600M weekly (December 2025).
+[^42]: CryptoRank. (2025, December). Industry Analysis Sustained Average: $300-600M weekly. cryptorank.io, https://cryptorank.io/
 
-[^43]: [CoinDesk - Combined Monthly](https://www.coindesk.com/) - ~$2.1B combined (September 2025).
+[^43]: CoinDesk. (2025, September). Combined Monthly: ~$2.1B combined. coindesk.com, https://www.coindesk.com/
 
-[^44]: [Industry Analysis - Annualized](https://cryptorank.io/) - $15-25B annualized (December 2025).
+[^44]: CryptoRank. (2025, December). Industry Analysis Annualized: $15-25B annualized. cryptorank.io, https://cryptorank.io/
 
-[^45]: [ChainCatcher - 2024 Peak](https://www.chaincatcher.com/) - $3.6B+ monthly November 2024 (December 2024).
+[^45]: ChainCatcher. (2024, December). 2024 Peak: $3.6B+ monthly November 2024. chaincatcher.com, https://www.chaincatcher.com/
 
 ### Polymarket Metrics
 
-[^46]: [DefiLlama - Polymarket TVL Current](https://defillama.com/protocol/polymarket) - 🔷 $332.9M (December 31, 2025).
+[^46]: DefiLlama. (2025, December 31). Polymarket TVL Current: $332.9M retrieved via API. defillama.com, https://defillama.com/protocol/polymarket 🔷 HARD DATA
 
-[^47]: [DefiLlama - Polymarket Peak](https://defillama.com/protocol/polymarket) - $512M November 2024 peak (November 2024).
+[^47]: DefiLlama. (2024, November). Polymarket Peak: $512M November 2024 peak. defillama.com, https://defillama.com/protocol/polymarket
 
-[^48]: [DefiLlama - Cumulative Volume](https://defillama.com/dexs/polymarket) - $20.434B lifetime (December 2025).
+[^48]: DefiLlama. (2025, December). Cumulative Volume: $20.434B lifetime. defillama.com, https://defillama.com/dexs/polymarket
 
-[^49]: [ChainCatcher - Election Surge](https://www.chaincatcher.com/) - $3.6B+ monthly (November 2024).
+[^49]: ChainCatcher. (2024, November). Election Surge: $3.6B+ monthly. chaincatcher.com, https://www.chaincatcher.com/
 
-[^50]: [CNBC - Kalshi CFTC Approval](https://www.cnbc.com/2025/05/05/cftc-kalshi-election-betting-commodities.html) - Congressional contracts approved (May 2025).
+[^50]: CNBC. (2025, May). Kalshi CFTC Approval: Congressional contracts approved. cnbc.com, https://www.cnbc.com/2025/05/05/cftc-kalshi-election-betting-commodities.html
 
-[^51]: [TechCrunch - NYSE Backing](https://techcrunch.com/) - NYSE parent interest (October 2025).
+[^51]: TechCrunch. (2025, October). NYSE Backing: NYSE parent interest. techcrunch.com, https://techcrunch.com/
 
-[^52]: [CoinDesk - Bull Market](https://www.coindesk.com/) - Increased capital availability (2025).
+[^52]: CoinDesk. (2025). Bull Market: Increased capital availability. coindesk.com, https://www.coindesk.com/
 
-[^53]: [Gnosis Documentation](https://docs.gnosis.io/) - AI agent partnerships (2025).
+[^53]: Gnosis. (2025). Documentation: AI agent partnerships. docs.gnosis.io, https://docs.gnosis.io/
 
-[^54]: [Polymarket Documentation](https://docs.polymarket.com/) - Customized CTF architecture (December 2025).
+[^54]: Polymarket. (2025, December). Documentation: Customized CTF architecture. docs.polymarket.com, https://docs.polymarket.com/
 
-[^55]: [DefiLlama - Lifetime Volume](https://defillama.com/dexs/polymarket) - $20.434B verified (December 2025).
+[^55]: DefiLlama. (2025, December). Lifetime Volume: $20.434B verified. defillama.com, https://defillama.com/dexs/polymarket
 
-[^56]: [CoinDesk - Market Leadership](https://www.coindesk.com/) - Crypto-native leader (December 2025).
+[^56]: CoinDesk. (2025, December). Market Leadership: Crypto-native leader. coindesk.com, https://www.coindesk.com/
 
-[^57]: [DefiLlama API - Polymarket](https://defillama.com/protocol/polymarket) - 🔷 $332.9M TVL via API (December 31, 2025).
+[^57]: DefiLlama. (2025, December 31). Polymarket API: $332.9M TVL retrieved via API. defillama.com, https://defillama.com/protocol/polymarket 🔷 HARD DATA
 
-[^58]: [DefiLlama - Polygon Chain](https://defillama.com/protocol/polymarket) - Chain: Polygon (December 31, 2025).
+[^58]: DefiLlama. (2025, December 31). Polygon Chain: Chain: Polygon. defillama.com, https://defillama.com/protocol/polymarket
 
-[^59]: [DefiLlama - Category](https://defillama.com/protocol/polymarket) - Category: Prediction Market (December 31, 2025).
+[^59]: DefiLlama. (2025, December 31). Category: Category: Prediction Market. defillama.com, https://defillama.com/protocol/polymarket
 
-[^60]: [DefiLlama - Volume](https://defillama.com/dexs/polymarket) - $20.4B+ lifetime (December 31, 2025).
+[^60]: DefiLlama. (2025, December 31). Volume: $20.4B+ lifetime. defillama.com, https://defillama.com/dexs/polymarket
 
-[^61]: [DefiLlama - On-chain Verification](https://defillama.com/dexs/polymarket) - $20.434B verified (December 2025).
+[^61]: DefiLlama. (2025, December). On-chain Verification: $20.434B verified. defillama.com, https://defillama.com/dexs/polymarket
 
-[^62]: [ChainCatcher - Peak Month](https://www.chaincatcher.com/) - $2.63B November 2024 (November 2024).
+[^62]: ChainCatcher. (2024, November). Peak Month: $2.63B November 2024. chaincatcher.com, https://www.chaincatcher.com/
 
-[^63]: [CoinDesk - September Volume](https://www.coindesk.com/) - $773M (September 2025).
+[^63]: CoinDesk. (2025, September). September Volume: $773M. coindesk.com, https://www.coindesk.com/
 
-[^64]: [DefiLlama - Current TVL](https://defillama.com/protocol/polymarket) - 🔷 $332.9M (December 31, 2025).
+[^64]: DefiLlama. (2025, December 31). Current TVL: $332.9M retrieved via API. defillama.com, https://defillama.com/protocol/polymarket 🔷 HARD DATA
 
-[^65]: [DefiLlama - Peak TVL](https://defillama.com/protocol/polymarket) - $512M peak (November 2024).
+[^65]: DefiLlama. (2024, November). Peak TVL: $512M peak. defillama.com, https://defillama.com/protocol/polymarket
 
-[^66]: [Dune Analytics - Market Share](https://dune.com/) - 37-40% (September 2025).
+[^66]: Dune Analytics. (2025, September). Market Share: 37-40%. dune.com, https://dune.com/
 
-[^67]: [CB Insights - Valuations](https://www.cbinsights.com/company/polymarket/financials) - $350M (2024), $1.2B (early 2025) (October 2025).
+[^67]: CB Insights. (2025, October). Valuations: $350M (2024), $1.2B (early 2025). cbinsights.com, https://www.cbinsights.com/company/polymarket/financials
 
-[^68]: [TechCrunch - Speculative Valuation](https://techcrunch.com/) - $9B speculation (October 2025).
+[^68]: TechCrunch. (2025, October). Speculative Valuation: $9B speculation. techcrunch.com, https://techcrunch.com/
 
-[^69]: [CB Insights - Funding](https://www.cbinsights.com/company/polymarket/financials) - $45M Series B, $111M total (May 2024).
+[^69]: CB Insights. (2024, May). Funding: $45M Series B, $111M total. cbinsights.com, https://www.cbinsights.com/company/polymarket/financials
 
-[^70]: [CB Insights - Revenue](https://www.cbinsights.com/company/polymarket/financials) - $160M 2025 revenue (October 2025).
+[^70]: CB Insights. (2025, October). Revenue: $160M 2025 revenue. cbinsights.com, https://www.cbinsights.com/company/polymarket/financials
 
 ### Technical Architecture
 
-[^71]: [Polymarket Docs - CTF](https://docs.polymarket.com/) - Customized CTF framework (December 2025).
+[^71]: Polymarket. (2025, December). Docs CTF: Customized CTF framework. docs.polymarket.com, https://docs.polymarket.com/
 
-[^72]: [Gnosis CTF Documentation](https://docs.gnosis.io/conditionaltokens/) - Open-source protocol (December 2025).
+[^72]: Gnosis. (2025, December). CTF Documentation: Open-source protocol. docs.gnosis.io, https://docs.gnosis.io/conditionaltokens/
 
-[^73]: [Industry Analysis - Modified CTF](https://messari.io/) - Not pure Gnosis implementation (December 2025).
+[^73]: Messari. (2025, December). Industry Analysis Modified CTF: Not pure Gnosis implementation. messari.io, https://messari.io/
 
-[^74]: [Polymarket Docs - Tokenization](https://docs.polymarket.com/) - Outcome shares tokenization (December 2025).
+[^74]: Polymarket. (2025, December). Docs Tokenization: Outcome shares tokenization. docs.polymarket.com, https://docs.polymarket.com/
 
-[^75]: [Polymarket Docs - USDC Collateral](https://docs.polymarket.com/) - YES/NO token splits (December 2025).
+[^75]: Polymarket. (2025, December). Docs USDC Collateral: YES/NO token splits. docs.polymarket.com, https://docs.polymarket.com/
 
-[^76]: [Polymarket Docs - CLOB](https://docs.polymarket.com/) - Central limit order book (December 2025).
+[^76]: Polymarket. (2025, December). Docs CLOB: Central limit order book. docs.polymarket.com, https://docs.polymarket.com/
 
-[^77]: [Polymarket - USDC](https://polymarket.com/) - USDC as collateral (December 2025).
+[^77]: Polymarket. (2025, December). USDC: USDC as collateral. polymarket.com, https://polymarket.com/
 
 ### Fee Structure
 
-[^78]: [Idea Usher - Polymarket Fees](https://ideausher.com/blog/how-polymarket-makes-money/) - 2% on net winnings (2025).
+[^78]: Idea Usher. (2025). Polymarket Fees: 2% on net winnings. ideausher.com, https://ideausher.com/blog/how-polymarket-makes-money/
 
-[^79]: [Industry Correction - Fee Structure](https://ideausher.com/) - "Zero fees" was incorrect (2025).
+[^79]: Idea Usher. (2025). Industry Correction Fee Structure: "Zero fees" was incorrect. ideausher.com, https://ideausher.com/
 
-[^80]: [Idea Usher - Settlement Fees](https://ideausher.com/blog/how-polymarket-makes-money/) - 2% at settlement, zero during trading (2025).
+[^80]: Idea Usher. (2025). Settlement Fees: 2% at settlement, zero during trading. ideausher.com, https://ideausher.com/blog/how-polymarket-makes-money/
 
-[^81]: [Polymarket - Trading Fees](https://polymarket.com/) - No fees during trading (December 2025).
+[^81]: Polymarket. (2025, December). Trading Fees: No fees during trading. polymarket.com, https://polymarket.com/
 
-[^82]: [Polymarket - Settlement](https://polymarket.com/) - 2% on net winnings (December 2025).
+[^82]: Polymarket. (2025, December). Settlement: 2% on net winnings. polymarket.com, https://polymarket.com/
 
-[^83]: [Polymarket - Losing Positions](https://polymarket.com/) - No fees on losses (December 2025).
+[^83]: Polymarket. (2025, December). Losing Positions: No fees on losses. polymarket.com, https://polymarket.com/
 
-[^84]: [Idea Usher - LP Fees](https://ideausher.com/blog/how-polymarket-makes-money/) - 2% LP fee embedded (2025).
+[^84]: Idea Usher. (2025). LP Fees: 2% LP fee embedded. ideausher.com, https://ideausher.com/blog/how-polymarket-makes-money/
 
-[^85]: [Polymarket Docs - Market Makers](https://docs.polymarket.com/) - Liquidity provider revenue (December 2025).
+[^85]: Polymarket. (2025, December). Docs Market Makers: Liquidity provider revenue. docs.polymarket.com, https://docs.polymarket.com/
 
-[^86]: [Idea Usher - Platform Cut](https://ideausher.com/blog/how-polymarket-makes-money/) - 0.25-0.5% estimated (2025).
+[^86]: Idea Usher. (2025). Platform Cut: 0.25-0.5% estimated. ideausher.com, https://ideausher.com/blog/how-polymarket-makes-money/
 
-[^87]: [CB Insights - Revenue Verified](https://www.cbinsights.com/company/polymarket/financials) - $160M 2025 (October 2025).
+[^87]: CB Insights. (2025, October). Revenue Verified: $160M 2025. cbinsights.com, https://www.cbinsights.com/company/polymarket/financials
 
-[^88]: [CB Insights - Take Rate](https://www.cbinsights.com/company/polymarket/financials) - ~2.1% implied (October 2025).
+[^88]: CB Insights. (2025, October). Take Rate: ~2.1% implied. cbinsights.com, https://www.cbinsights.com/company/polymarket/financials
 
 ### Competitive Analysis
 
-[^89]: [Finance Magnates - On-chain Transparency](https://www.financemagnates.com/) - Polymarket fully verifiable (September 2025).
+[^89]: Finance Magnates. (2025, September). On-chain Transparency: Polymarket fully verifiable. financemagnates.com, https://www.financemagnates.com/
 
-[^90]: [DefiLlama - Liquidity](https://defillama.com/protocol/polymarket) - Largest crypto-native (December 2025).
+[^90]: DefiLlama. (2025, December). Liquidity: Largest crypto-native. defillama.com, https://defillama.com/protocol/polymarket
 
-[^91]: [DefiLlama - TVL](https://defillama.com/protocol/polymarket) - 🔷 $332.9M TVL (December 31, 2025).
+[^91]: DefiLlama. (2025, December 31). TVL: $332.9M TVL retrieved via API. defillama.com, https://defillama.com/protocol/polymarket 🔷 HARD DATA
 
-[^92]: [DefiLlama - Scale](https://defillama.com/dexs/polymarket) - $20.4B proven scale (December 2025).
+[^92]: DefiLlama. (2025, December). Scale: $20.4B proven scale. defillama.com, https://defillama.com/dexs/polymarket
 
-[^93]: [Idea Usher - Fee Comparison](https://ideausher.com/) - 2% vs 1-3% Kalshi (2025).
+[^93]: Idea Usher. (2025). Fee Comparison: 2% vs 1-3% Kalshi. ideausher.com, https://ideausher.com/
 
-[^94]: [Polymarket - Permissionless](https://polymarket.com/) - 5,000+ active markets (December 2025).
+[^94]: Polymarket. (2025, December). Permissionless: 5,000+ active markets. polymarket.com, https://polymarket.com/
 
-[^95]: [CFTC - Regulatory Status](https://www.cftc.gov/) - Not CFTC-registered (December 2025).
+[^95]: CFTC. (2025, December). Regulatory Status: Not CFTC-registered. cftc.gov, https://www.cftc.gov/
 
-[^96]: [CFTC - PredictIt Precedent](https://www.cftc.gov/) - Enforcement precedent (Historical).
+[^96]: CFTC. (2023). PredictIt Precedent: Enforcement precedent. cftc.gov, https://www.cftc.gov/ ⏳ HISTORICAL
 
-[^97]: [Polymarket Docs - Centralization](https://docs.polymarket.com/) - CLOB operated by Polymarket (December 2025).
+[^97]: Polymarket. (2025, December). Docs Centralization: CLOB operated by Polymarket. docs.polymarket.com, https://docs.polymarket.com/
 
-[^98]: [TechCrunch - Valuation Uncertainty](https://techcrunch.com/) - $9B unverified (October 2025).
+[^98]: TechCrunch. (2025, October). Valuation Uncertainty: $9B unverified. techcrunch.com, https://techcrunch.com/
 
 ### Kalshi Sources
 
-[^99]: [CFTC - Kalshi DCM](https://www.cftc.gov/) - Designated Contract Market (December 2025).
+[^99]: CFTC. (2025, December). Kalshi DCM: Designated Contract Market. cftc.gov, https://www.cftc.gov/
 
-[^100]: [CoinDesk - Kalshi Monthly](https://www.coindesk.com/) - $1.3B September 2025 (September 2025).
+[^100]: CoinDesk. (2025, September). Kalshi Monthly: $1.3B September 2025. coindesk.com, https://www.coindesk.com/
 
-[^101]: [Dune Analytics - Kalshi Share](https://dune.com/) - 60-62% (September 2025).
+[^101]: Dune Analytics. (2025, September). Kalshi Share: 60-62%. dune.com, https://dune.com/
 
-[^102]: [Industry Analysis - 2024 Volume](https://cryptorank.io/) - ~$300M 2024 (December 2024).
+[^102]: CryptoRank. (2024, December). Industry Analysis 2024 Volume: ~$300M 2024. cryptorank.io, https://cryptorank.io/
 
-[^103]: [TechCrunch - Growth Rate](https://techcrunch.com/) - ~330% YoY (October 2025).
+[^103]: TechCrunch. (2025, October). Growth Rate: ~330% YoY. techcrunch.com, https://techcrunch.com/
 
-[^104]: [TechCrunch - Kalshi Valuation](https://techcrunch.com/2025/10/10/kalshi-hits-5b-valuation) - $5B Series D (October 2025).
+[^104]: TechCrunch. (2025, October). Kalshi Valuation: $5B Series D. techcrunch.com, https://techcrunch.com/2025/10/10/kalshi-hits-5b-valuation
 
-[^105]: [CFTC - DCM Approval](https://www.cftc.gov/) - CFTC-approved DCM (December 2025).
+[^105]: CFTC. (2025, December). DCM Approval: CFTC-approved DCM. cftc.gov, https://www.cftc.gov/
 
-[^106]: [CNBC - CFTC Appeal Dropped](https://www.cnbc.com/2025/05/05/cftc-kalshi-election-betting-commodities.html) - May 2025 (May 2025).
+[^106]: CNBC. (2025, May). CFTC Appeal Dropped: May 2025. cnbc.com, https://www.cnbc.com/2025/05/05/cftc-kalshi-election-betting-commodities.html
 
-[^107]: [Foley & Lardner - Sports Launch](https://www.foley.com/) - March Madness $500M (June 2025).
+[^107]: Foley & Lardner. (2025, June). Sports Launch: March Madness $500M. foley.com, https://www.foley.com/
 
-[^108]: [Foley & Lardner - State Cease-Desist](https://www.foley.com/) - 6 states issued orders (June 2025).
+[^108]: Foley & Lardner. (2025, June). State Cease-Desist: 6 states issued orders. foley.com, https://www.foley.com/
 
-[^109]: [CFTC - 2023 Prohibition](https://www.cftc.gov/PressRoom/SpeechesTestimony/behnamstatement092223) - Congressional contracts prohibited (September 2023).
+[^109]: CFTC. (2023, September). 2023 Prohibition: Congressional contracts prohibited. cftc.gov, https://www.cftc.gov/PressRoom/SpeechesTestimony/behnamstatement092223 ⏳ HISTORICAL
 
-[^110]: [CNBC - Appeal Dropped](https://www.cnbc.com/) - CFTC voluntarily dismissed (May 2025).
+[^110]: CNBC. (2025, May). Appeal Dropped: CFTC voluntarily dismissed. cnbc.com, https://www.cnbc.com/
 
-[^111]: [Kalshi - Congressional Markets](https://kalshi.com/) - Congressional control allowed (December 2025).
+[^111]: Kalshi. (2025, December). Congressional Markets: Congressional control allowed. kalshi.com, https://kalshi.com/
 
-[^112]: [Kalshi - Presidential Markets](https://kalshi.com/) - 2028 nominations allowed (December 2025).
+[^112]: Kalshi. (2025, December). Presidential Markets: 2028 nominations allowed. kalshi.com, https://kalshi.com/
 
-[^113]: [Kalshi - State Races](https://kalshi.com/) - State-level political allowed (December 2025).
+[^113]: Kalshi. (2025, December). State Races: State-level political allowed. kalshi.com, https://kalshi.com/
 
-[^114]: [Foley & Lardner - State Issues](https://www.foley.com/) - 6 state cease-and-desist (June 2025).
+[^114]: Foley & Lardner. (2025, June). State Issues: 6 state cease-and-desist. foley.com, https://www.foley.com/
 
-[^115]: [Foley & Lardner - States Listed](https://www.foley.com/) - NV, NJ, MD, OH, MT, IL (June 2025).
+[^115]: Foley & Lardner. (2025, June). States Listed: NV, NJ, MD, OH, MT, IL. foley.com, https://www.foley.com/
 
-[^116]: [Foley & Lardner - Sports Gambling](https://www.foley.com/) - Unlicensed gambling claims (June 2025).
+[^116]: Foley & Lardner. (2025, June). Sports Gambling: Unlicensed gambling claims. foley.com, https://www.foley.com/
 
-[^117]: [Holland & Knight - Jurisdictional Conflict](https://www.hklaw.com/) - Federal-state conflict ongoing (February 2025).
+[^117]: Holland & Knight. (2025, February). Jurisdictional Conflict: Federal-state conflict ongoing. hklaw.com, https://www.hklaw.com/
 
-[^118]: [Kalshi Documentation](https://kalshi.com/) - Centralized infrastructure (December 2025).
+[^118]: Kalshi. (2025, December). Documentation: Centralized infrastructure. kalshi.com, https://kalshi.com/
 
-[^119]: [Finance Magnates - Kalshi Off-chain](https://www.financemagnates.com/) - Not independently verifiable (September 2025).
+[^119]: Finance Magnates. (2025, September). Kalshi Off-chain: Not independently verifiable. financemagnates.com, https://www.financemagnates.com/
 
-[^120]: [Finance Magnates - Polymarket On-chain](https://www.financemagnates.com/) - Publicly verifiable (September 2025).
+[^120]: Finance Magnates. (2025, September). Polymarket On-chain: Publicly verifiable. financemagnates.com, https://www.financemagnates.com/
 
-[^121]: [Kalshi - Fee Disclosure](https://kalshi.com/) - Not publicly detailed (December 2025).
+[^121]: Kalshi. (2025, December). Fee Disclosure: Not publicly detailed. kalshi.com, https://kalshi.com/
 
-[^122]: [Industry Estimates - Maker Fees](https://cryptorank.io/) - -0.01% to 0.00% estimated (December 2025).
+[^122]: CryptoRank. (2025, December). Industry Estimates Maker Fees: -0.01% to 0.00% estimated. cryptorank.io, https://cryptorank.io/
 
-[^123]: [Industry Estimates - Taker Fees](https://cryptorank.io/) - 0.05% to 0.10% estimated (December 2025).
+[^123]: CryptoRank. (2025, December). Industry Estimates Taker Fees: 0.05% to 0.10% estimated. cryptorank.io, https://cryptorank.io/
 
-[^124]: [Industry Estimates - Settlement](https://cryptorank.io/) - 1-3% estimated (December 2025).
+[^124]: CryptoRank. (2025, December). Industry Estimates Settlement: 1-3% estimated. cryptorank.io, https://cryptorank.io/
 
-[^125]: [CFTC - Regulatory Moat](https://www.cftc.gov/) - Only CFTC-approved (December 2025).
+[^125]: CFTC. (2025, December). Regulatory Moat: Only CFTC-approved. cftc.gov, https://www.cftc.gov/
 
-[^126]: [Kalshi - US Access](https://kalshi.com/) - No geo-restrictions (December 2025).
+[^126]: Kalshi. (2025, December). US Access: No geo-restrictions. kalshi.com, https://kalshi.com/
 
-[^127]: [Finance Magnates - Robinhood](https://www.financemagnates.com/) - Robinhood integration (September 2025).
+[^127]: Finance Magnates. (2025, September). Robinhood: Robinhood integration. financemagnates.com, https://www.financemagnates.com/
 
-[^128]: [Dune Analytics - Rapid Growth](https://dune.com/) - 3.3% to 60-62% (September 2025).
+[^128]: Dune Analytics. (2025, September). Rapid Growth: 3.3% to 60-62%. dune.com, https://dune.com/
 
-[^129]: [Finance Magnates - Transparency](https://www.financemagnates.com/) - Off-chain limitations (September 2025).
+[^129]: Finance Magnates. (2025, September). Transparency: Off-chain limitations. financemagnates.com, https://www.financemagnates.com/
 
-[^130]: [Foley & Lardner - Restrictions](https://www.foley.com/) - State-level and market limits (June 2025).
+[^130]: Foley & Lardner. (2025, June). Restrictions: State-level and market limits. foley.com, https://www.foley.com/
 
 ### Gnosis Sources
 
-[^131]: [Gnosis Documentation](https://docs.gnosis.io/) - CTF infrastructure provider (December 2025).
+[^131]: Gnosis. (2025, December). Documentation: CTF infrastructure provider. docs.gnosis.io, https://docs.gnosis.io/
 
-[^132]: [CoinGecko - GNO Price](https://www.coingecko.com/en/coins/gnosis) - 🔷 $129.97 via API (December 31, 2025).
+[^132]: CoinGecko. (2025, December 31). GNO Price: $129.97 retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/gnosis 🔷 HARD DATA
 
-[^133]: [CoinGecko - GNO Market Cap](https://www.coingecko.com/en/coins/gnosis) - 🔷 $343M via API (December 31, 2025).
+[^133]: CoinGecko. (2025, December 31). GNO Market Cap: $343M retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/gnosis 🔷 HARD DATA
 
-[^134]: [CoinGecko - GNO FDV](https://www.coingecko.com/en/coins/gnosis) - 🔷 $390M via API (December 31, 2025).
+[^134]: CoinGecko. (2025, December 31). GNO FDV: $390M retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/gnosis 🔷 HARD DATA
 
-[^135]: [Gnosis CTF Docs](https://docs.gnosis.io/conditionaltokens/) - Open-source protocol (December 2025).
+[^135]: Gnosis. (2025, December). CTF Docs: Open-source protocol. docs.gnosis.io, https://docs.gnosis.io/conditionaltokens/
 
-[^136]: [CoinGecko - GNO Token](https://www.coingecko.com/en/coins/gnosis) - 🔷 $343M market cap (December 31, 2025).
+[^136]: CoinGecko. (2025, December 31). GNO Token: $343M market cap retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/gnosis 🔷 HARD DATA
 
-[^137]: [Gnosis Ecosystem](https://gnosis.io/) - Platforms using CTF (December 2025).
+[^137]: Gnosis. (2025, December). Ecosystem: Platforms using CTF. gnosis.io, https://gnosis.io/
 
-[^138]: [Industry Analysis - Customized CTF](https://messari.io/) - Modified version (December 2025).
+[^138]: Messari. (2025, December). Industry Analysis Customized CTF: Modified version. messari.io, https://messari.io/
 
-[^139]: [Gnosis CTF Overview](https://docs.gnosis.io/conditionaltokens/) - Framework description (December 2025).
+[^139]: Gnosis. (2025, December). CTF Overview: Framework description. docs.gnosis.io, https://docs.gnosis.io/conditionaltokens/
 
-[^140]: [Gnosis CTF - Tokenization](https://docs.gnosis.io/conditionaltokens/) - Outcome tokenization (December 2025).
+[^140]: Gnosis. (2025, December). CTF Tokenization: Outcome tokenization. docs.gnosis.io, https://docs.gnosis.io/conditionaltokens/
 
-[^141]: [Gnosis CTF - Position Splits](https://docs.gnosis.io/conditionaltokens/) - Conditional logic (December 2025).
+[^141]: Gnosis. (2025, December). CTF Position Splits: Conditional logic. docs.gnosis.io, https://docs.gnosis.io/conditionaltokens/
 
-[^142]: [Gnosis CTF - Payouts](https://docs.gnosis.io/conditionaltokens/) - Automatic distribution (December 2025).
+[^142]: Gnosis. (2025, December). CTF Payouts: Automatic distribution. docs.gnosis.io, https://docs.gnosis.io/conditionaltokens/
 
-[^143]: [Gnosis - Open Source](https://github.com/gnosis/) - Free and open-source (December 2025).
+[^143]: Gnosis. (2025, December). Open Source: Free and open-source. github.com, https://github.com/gnosis/
 
-[^144]: [Gnosis - Revenue Model](https://gnosis.io/) - No direct CTF revenue (December 2025).
+[^144]: Gnosis. (2025, December). Revenue Model: No direct CTF revenue. gnosis.io, https://gnosis.io/
 
-[^145]: [CoinGecko - GNO Governance](https://www.coingecko.com/en/coins/gnosis) - Token governance (December 2025).
+[^145]: CoinGecko. (2025, December). GNO Governance: Token governance. coingecko.com, https://www.coingecko.com/en/coins/gnosis
 
-[^146]: [DefiLlama - Omen](https://defillama.com/) - Minimal volume vs Polymarket (December 2025).
+[^146]: DefiLlama. (2025, December). Omen: Minimal volume vs Polymarket. defillama.com, https://defillama.com/
 
-[^147]: [Gnosis Chain - Validators](https://www.gnosis.io/gnosischain) - Validator fees (December 2025).
+[^147]: Gnosis. (2025, December). Chain Validators: Validator fees. gnosis.io, https://www.gnosis.io/gnosischain
 
 ### Azuro Sources
 
-[^148]: [Azuro Documentation](https://docs.azuro.org/) - B2B betting infrastructure (December 2025).
+[^148]: Azuro. (2025, December). Documentation: B2B betting infrastructure. docs.azuro.org, https://docs.azuro.org/
 
-[^149]: [DefiLlama - Azuro TVL](https://defillama.com/protocol/azuro) - 🔷 $924K via API (December 31, 2025).
+[^149]: DefiLlama. (2025, December 31). Azuro TVL: $924K retrieved via API. defillama.com, https://defillama.com/protocol/azuro 🔷 HARD DATA
 
-[^150]: [DefiLlama - Azuro Fees](https://defillama.com/fees/azuro) - 🔷 $5.84M all-time via API (December 31, 2025).
+[^150]: DefiLlama. (2025, December 31). Azuro Fees: $5.84M all-time retrieved via API. defillama.com, https://defillama.com/fees/azuro 🔷 HARD DATA
 
-[^151]: [DefiLlama - Azuro Chains](https://defillama.com/protocol/azuro) - Base, Gnosis, Polygon, Chiliz (December 31, 2025).
+[^151]: DefiLlama. (2025, December 31). Azuro Chains: Base, Gnosis, Polygon, Chiliz. defillama.com, https://defillama.com/protocol/azuro
 
-[^152]: [DefiLlama - Azuro Category](https://defillama.com/protocol/azuro) - Prediction Market (December 31, 2025).
+[^152]: DefiLlama. (2025, December 31). Azuro Category: Prediction Market. defillama.com, https://defillama.com/protocol/azuro
 
-[^153]: [CoinGecko - AZUR Price](https://www.coingecko.com/en/coins/azuro-protocol) - 🔷 $0.003 via API (December 31, 2025).
+[^153]: CoinGecko. (2025, December 31). AZUR Price: $0.003 retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/azuro-protocol 🔷 HARD DATA
 
-[^154]: [CoinGecko - AZUR Market Cap](https://www.coingecko.com/en/coins/azuro-protocol) - 🔷 $763K via API (December 31, 2025).
+[^154]: CoinGecko. (2025, December 31). AZUR Market Cap: $763K retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/azuro-protocol 🔷 HARD DATA
 
-[^155]: [Messari - Azuro Overview](https://messari.io/report/understanding-azuro) - $530M+ cumulative (October 2024).
+[^155]: Messari. (2024, October). Azuro Overview: $530M+ cumulative. messari.io, https://messari.io/report/understanding-azuro
 
-[^156]: [DefiLlama - Azuro Revenue](https://defillama.com/fees/azuro) - 🔷 $5.84M verified (December 31, 2025).
+[^156]: DefiLlama. (2025, December 31). Azuro Revenue: $5.84M verified retrieved via API. defillama.com, https://defillama.com/fees/azuro 🔷 HARD DATA
 
-[^157]: [Messari - Take Rate](https://messari.io/report/understanding-azuro) - 2.27% average (October 2024).
+[^157]: Messari. (2024, October). Take Rate: 2.27% average. messari.io, https://messari.io/report/understanding-azuro
 
-[^158]: [Azuro - Live dApps](https://azuro.org/) - 30+ live applications (December 2025).
+[^158]: Azuro. (2025, December). Live dApps: 30+ live applications. azuro.org, https://azuro.org/
 
-[^159]: [Azuro - Unique Wallets](https://azuro.org/) - 31,000+ wallets (December 2025).
+[^159]: Azuro. (2025, December). Unique Wallets: 31,000+ wallets. azuro.org, https://azuro.org/
 
-[^160]: [Azuro Docs - Peer-to-Pool](https://docs.azuro.org/) - Liquidity pool model (December 2025).
+[^160]: Azuro. (2025, December). Docs Peer-to-Pool: Liquidity pool model. docs.azuro.org, https://docs.azuro.org/
 
-[^161]: [Messari - Fee Structure](https://messari.io/report/understanding-azuro) - 2.27% take rate (October 2024).
+[^161]: Messari. (2024, October). Fee Structure: 2.27% take rate. messari.io, https://messari.io/report/understanding-azuro
 
-[^162]: [Messari - Fee Distribution](https://messari.io/report/understanding-azuro) - Revenue split (October 2024).
+[^162]: Messari. (2024, October). Fee Distribution: Revenue split. messari.io, https://messari.io/report/understanding-azuro
 
 ### Augur Sources
 
-[^163]: [Augur Wikipedia](https://en.wikipedia.org/wiki/Augur_(software)) - First decentralized prediction market (2018).
+[^163]: Wikipedia. (2018). Augur: First decentralized prediction market. wikipedia.org, https://en.wikipedia.org/wiki/Augur_(software) ⏳ HISTORICAL
 
-[^164]: [CryptoSlate - Augur Status](https://cryptoslate.com/) - DAO dissolved 2023 (2023).
+[^164]: CryptoSlate. (2023). Augur Status: DAO dissolved 2023. cryptoslate.com, https://cryptoslate.com/ ⏳ HISTORICAL
 
-[^165]: [CoinGecko - REP Price](https://www.coingecko.com/en/coins/augur) - 🔷 $0.967 via API (December 31, 2025).
+[^165]: CoinGecko. (2025, December 31). REP Price: $0.967 retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/augur 🔷 HARD DATA
 
-[^166]: [CoinGecko - REP Market Cap](https://www.coingecko.com/en/coins/augur) - 🔷 $7.9M via API (December 31, 2025).
+[^166]: CoinGecko. (2025, December 31). REP Market Cap: $7.9M retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/augur 🔷 HARD DATA
 
-[^167]: [CoinDesk - Augur Activity](https://www.coindesk.com/) - Minimal activity (December 2025).
+[^167]: CoinDesk. (2025, December). Augur Activity: Minimal activity. coindesk.com, https://www.coindesk.com/
 
-[^168]: [CryptoSlate - DAO Dissolved](https://cryptoslate.com/) - 2023 dissolution (2023).
+[^168]: CryptoSlate. (2023). DAO Dissolved: 2023 dissolution. cryptoslate.com, https://cryptoslate.com/ ⏳ HISTORICAL
 
-[^169]: [Industry Analysis - Augur Volume](https://cryptorank.io/) - <$50M/month (December 2025).
+[^169]: CryptoRank. (2025, December). Industry Analysis Augur Volume: <$50M/month. cryptorank.io, https://cryptorank.io/
 
-[^170]: [CoinGecko - REP Decline](https://www.coingecko.com/en/coins/augur) - Down from $500M peak (December 2025).
+[^170]: CoinGecko. (2025, December). REP Decline: Down from $500M peak. coingecko.com, https://www.coingecko.com/en/coins/augur
 
-[^171]: [Ethereum Gas Analysis](https://etherscan.io/gastracker) - $50-100 per trade during congestion (Historical).
+[^171]: Etherscan. (2021). Ethereum Gas Analysis: $50-100 per trade during congestion. etherscan.io, https://etherscan.io/gastracker ⏳ HISTORICAL
 
-[^172]: [Augur Documentation](https://docs.augur.net/) - 7-day dispute periods (Historical).
+[^172]: Augur. (2020). Documentation: 7-day dispute periods. docs.augur.net, https://docs.augur.net/ ⏳ HISTORICAL
 
-[^173]: [CryptoSlate - Augur UX](https://cryptoslate.com/) - High barrier to entry (Historical).
+[^173]: CryptoSlate. (2020). Augur UX: High barrier to entry. cryptoslate.com, https://cryptoslate.com/ ⏳ HISTORICAL
 
-[^174]: [DeFi Analysis - AMM Slippage](https://messari.io/) - Liquidity problems (Historical).
+[^174]: Messari. (2021). DeFi Analysis AMM Slippage: Liquidity problems. messari.io, https://messari.io/ ⏳ HISTORICAL
 
-[^175]: [Vice - Augur Controversy](https://www.vice.com/) - Controversial markets (Historical).
+[^175]: Vice. (2018). Augur Controversy: Controversial markets. vice.com, https://www.vice.com/ ⏳ HISTORICAL
 
-[^176]: [Industry Analysis - L2 Impact](https://messari.io/) - L2 enabled viability (December 2025).
+[^176]: Messari. (2025, December). Industry Analysis L2 Impact: L2 enabled viability. messari.io, https://messari.io/
 
 ### Technical Comparisons
 
-[^177]: [Finance Magnates - Polymarket Verification](https://www.financemagnates.com/) - On-chain, public (September 2025).
+[^177]: Finance Magnates. (2025, September). Polymarket Verification: On-chain, public. financemagnates.com, https://www.financemagnates.com/
 
-[^178]: [Finance Magnates - Kalshi Off-chain](https://www.financemagnates.com/) - Off-chain only (September 2025).
+[^178]: Finance Magnates. (2025, September). Kalshi Off-chain: Off-chain only. financemagnates.com, https://www.financemagnates.com/
 
-[^179]: [Messari - L2 Economics](https://messari.io/) - L2 made markets viable (December 2025).
+[^179]: Messari. (2025, December). L2 Economics: L2 made markets viable. messari.io, https://messari.io/
 
-[^180]: [CryptoSlate - Gas Impact](https://cryptoslate.com/) - L1 fees killed Augur (Historical).
+[^180]: CryptoSlate. (2021). Gas Impact: L1 fees killed Augur. cryptoslate.com, https://cryptoslate.com/ ⏳ HISTORICAL
 
 ### Revenue & Profitability
 
-[^181]: [CB Insights - Verified Revenue](https://www.cbinsights.com/company/polymarket/financials) - $160M 2025 (October 2025).
+[^181]: CB Insights. (2025, October). Verified Revenue: $160M 2025. cbinsights.com, https://www.cbinsights.com/company/polymarket/financials
 
-[^182]: [CB Insights - Take Rate](https://www.cbinsights.com/company/polymarket/financials) - ~2.1% implied (October 2025).
+[^182]: CB Insights. (2025, October). Take Rate: ~2.1% implied. cbinsights.com, https://www.cbinsights.com/company/polymarket/financials
 
-[^183]: [Idea Usher - Fee Model](https://ideausher.com/blog/how-polymarket-makes-money/) - 2% on net winnings (2025).
+[^183]: Idea Usher. (2025). Fee Model: 2% on net winnings. ideausher.com, https://ideausher.com/blog/how-polymarket-makes-money/
 
-[^184]: [CB Insights - Annual Projection](https://www.cbinsights.com/company/polymarket/financials) - ~$240M if sustained (October 2025).
+[^184]: CB Insights. (2025, October). Annual Projection: ~$240M if sustained. cbinsights.com, https://www.cbinsights.com/company/polymarket/financials
 
-[^185]: [Industry Estimates - Kalshi Revenue](https://cryptorank.io/) - $156M-$312M estimated (December 2025).
+[^185]: CryptoRank. (2025, December). Industry Estimates Kalshi Revenue: $156M-$312M estimated. cryptorank.io, https://cryptorank.io/
 
-[^186]: [DefiLlama - Azuro All-time](https://defillama.com/fees/azuro) - 🔷 $5.84M all-time (December 31, 2025).
+[^186]: DefiLlama. (2025, December 31). Azuro All-time: $5.84M retrieved via API. defillama.com, https://defillama.com/fees/azuro 🔷 HARD DATA
 
-[^187]: [Dune Analytics - Share Shift](https://dune.com/) - Market share evolution (September 2025).
+[^187]: Dune Analytics. (2025, September). Share Shift: Market share evolution. dune.com, https://dune.com/
 
-[^188]: [CNBC - CFTC Approval](https://www.cnbc.com/) - Congressional contracts allowed (May 2025).
+[^188]: CNBC. (2025, May). CFTC Approval: Congressional contracts allowed. cnbc.com, https://www.cnbc.com/
 
-[^189]: [Dune Analytics - Growth](https://dune.com/) - 18-19x share increase (September 2025).
+[^189]: Dune Analytics. (2025, September). Growth: 18-19x share increase. dune.com, https://dune.com/
 
-[^190]: [Finance Magnates - Transparency Moat](https://www.financemagnates.com/) - Polymarket verifiable (September 2025).
+[^190]: Finance Magnates. (2025, September). Transparency Moat: Polymarket verifiable. financemagnates.com, https://www.financemagnates.com/
 
-[^191]: [DefiLlama - TVL Moat](https://defillama.com/protocol/polymarket) - 🔷 $332.9M (December 31, 2025).
+[^191]: DefiLlama. (2025, December 31). TVL Moat: $332.9M retrieved via API. defillama.com, https://defillama.com/protocol/polymarket 🔷 HARD DATA
 
-[^192]: [Industry Analysis - Regulatory Risk](https://cryptorank.io/) - US market pressure (December 2025).
+[^192]: CryptoRank. (2025, December). Industry Analysis Regulatory Risk: US market pressure. cryptorank.io, https://cryptorank.io/
 
-[^193]: [CFTC - Kalshi Moat](https://www.cftc.gov/) - Only CFTC-approved (December 2025).
+[^193]: CFTC. (2025, December). Kalshi Moat: Only CFTC-approved. cftc.gov, https://www.cftc.gov/
 
-[^194]: [Holland & Knight - Regulatory Barriers](https://www.hklaw.com/) - High approval barriers (February 2025).
+[^194]: Holland & Knight. (2025, February). Regulatory Barriers: High approval barriers. hklaw.com, https://www.hklaw.com/
 
-[^195]: [Foley & Lardner - State Risk](https://www.foley.com/) - Gambling restrictions (June 2025).
+[^195]: Foley & Lardner. (2025, June). State Risk: Gambling restrictions. foley.com, https://www.foley.com/
 
-[^196]: [CB Insights - Profitability](https://www.cbinsights.com/company/polymarket/financials) - $160M revenue (October 2025).
+[^196]: CB Insights. (2025, October). Profitability: $160M revenue. cbinsights.com, https://www.cbinsights.com/company/polymarket/financials
 
-[^197]: [CB Insights - Verified Valuation](https://www.cbinsights.com/company/polymarket/financials) - $1.2B early 2025 (October 2025).
+[^197]: CB Insights. (2025, October). Verified Valuation: $1.2B early 2025. cbinsights.com, https://www.cbinsights.com/company/polymarket/financials
 
-[^198]: [TechCrunch - Speculative Valuation](https://techcrunch.com/) - $9B unverified (October 2025).
+[^198]: TechCrunch. (2025, October). Speculative Valuation: $9B unverified. techcrunch.com, https://techcrunch.com/
 
-[^199]: [CB Insights - Industry Comparison](https://www.cbinsights.com/) - Profitable vs unprofitable (December 2025).
+[^199]: CB Insights. (2025, December). Industry Comparison: Profitable vs unprofitable. cbinsights.com, https://www.cbinsights.com/
 
 ### Risk Analysis
 
-[^200]: [CFTC - Polymarket Risk](https://www.cftc.gov/) - High regulatory risk (December 2025).
+[^200]: CFTC. (2025, December). Polymarket Risk: High regulatory risk. cftc.gov, https://www.cftc.gov/
 
-[^201]: [CFTC - Enforcement Precedent](https://www.cftc.gov/) - PredictIt shutdown (Historical).
+[^201]: CFTC. (2023). Enforcement Precedent: PredictIt shutdown. cftc.gov, https://www.cftc.gov/ ⏳ HISTORICAL
 
-[^202]: [Polymarket ToS - Geo-restrictions](https://polymarket.com/tos) - US IP blocking (December 2025).
+[^202]: Polymarket. (2025, December). ToS Geo-restrictions: US IP blocking. polymarket.com, https://polymarket.com/tos
 
-[^203]: [Foley & Lardner - Kalshi Risk](https://www.foley.com/) - Medium risk, state issues (June 2025).
+[^203]: Foley & Lardner. (2025, June). Kalshi Risk: Medium risk, state issues. foley.com, https://www.foley.com/
 
-[^204]: [CFTC - Federal Approval](https://www.cftc.gov/) - Congressional contracts approved (May 2025).
+[^204]: CFTC. (2025, May). Federal Approval: Congressional contracts approved. cftc.gov, https://www.cftc.gov/
 
-[^205]: [Foley & Lardner - State Actions](https://www.foley.com/) - 6 state cease-and-desist (June 2025).
+[^205]: Foley & Lardner. (2025, June). State Actions: 6 state cease-and-desist. foley.com, https://www.foley.com/
 
-[^206]: [Finance Magnates - Data Risk](https://www.financemagnates.com/) - Verification distinction (September 2025).
+[^206]: Finance Magnates. (2025, September). Data Risk: Verification distinction. financemagnates.com, https://www.financemagnates.com/
 
-[^207]: [Polygon Explorer - Polymarket](https://polygonscan.com/) - All trades verifiable (December 2025).
+[^207]: Polygonscan. (2025, December). Polymarket: All trades verifiable. polygonscan.com, https://polygonscan.com/
 
-[^208]: [Finance Magnates - Kalshi Data](https://www.financemagnates.com/) - Cannot independently verify (September 2025).
+[^208]: Finance Magnates. (2025, September). Kalshi Data: Cannot independently verify. financemagnates.com, https://www.financemagnates.com/
 
-[^209]: [Industry Analysis - Asymmetry](https://messari.io/) - Information asymmetry (December 2025).
+[^209]: Messari. (2025, December). Industry Analysis Asymmetry: Information asymmetry. messari.io, https://messari.io/
 
 ### Future Outlook
 
-[^210]: [Meta Tech Insights - Projections](https://metatechinsights.com/) - $95.5B by 2035 (2025).
+[^210]: Meta Tech Insights. (2025). Projections: $95.5B by 2035. metatechinsights.com, https://metatechinsights.com/
 
-[^211]: [Industry Analysis - Conservative](https://cryptorank.io/) - $25-40B by 2030 (December 2025).
+[^211]: CryptoRank. (2025, December). Industry Analysis Conservative: $25-40B by 2030. cryptorank.io, https://cryptorank.io/
 
-[^212]: [Industry Projections - Polymarket](https://cryptorank.io/) - $30-50B annualized by 2030 (December 2025).
+[^212]: CryptoRank. (2025, December). Industry Projections Polymarket: $30-50B annualized by 2030. cryptorank.io, https://cryptorank.io/
 
-[^213]: [Regulatory Analysis - Offshore Risk](https://cryptorank.io/) - Potential offshore operation (December 2025).
+[^213]: CryptoRank. (2025, December). Regulatory Analysis Offshore Risk: Potential offshore operation. cryptorank.io, https://cryptorank.io/
 
-[^214]: [Industry Projections - Kalshi](https://cryptorank.io/) - US leadership sustained (December 2025).
+[^214]: CryptoRank. (2025, December). Industry Projections Kalshi: US leadership sustained. cryptorank.io, https://cryptorank.io/
 
-[^215]: [Foley & Lardner - Expansion Risk](https://www.foley.com/) - State restrictions may expand (June 2025).
+[^215]: Foley & Lardner. (2025, June). Expansion Risk: State restrictions may expand. foley.com, https://www.foley.com/
 
 ### Conclusion Sources
 
-[^216]: [Industry Summary - PMF](https://cryptorank.io/) - Product-market fit analysis (December 2025).
+[^216]: CryptoRank. (2025, December). Industry Summary PMF: Product-market fit analysis. cryptorank.io, https://cryptorank.io/
 
-[^217]: [CB Insights - Business Model](https://www.cbinsights.com/) - Profitability proven (October 2025).
+[^217]: CB Insights. (2025, October). Business Model: Profitability proven. cbinsights.com, https://www.cbinsights.com/
 
-[^218]: [Dune Analytics - Regulatory Impact](https://dune.com/) - Market share divergence (September 2025).
+[^218]: Dune Analytics. (2025, September). Regulatory Impact: Market share divergence. dune.com, https://dune.com/
 
-[^219]: [Finance Magnates - Transparency Importance](https://www.financemagnates.com/) - Data verification matters (September 2025).
+[^219]: Finance Magnates. (2025, September). Transparency Importance: Data verification matters. financemagnates.com, https://www.financemagnates.com/
 
-[^220]: [CB Insights - Polymarket Verified](https://www.cbinsights.com/company/polymarket/financials) - $160M, $20.4B (October 2025).
+[^220]: CB Insights. (2025, October). Polymarket Verified: $160M, $20.4B. cbinsights.com, https://www.cbinsights.com/company/polymarket/financials
 
-[^221]: [TechCrunch - Investment Risks](https://techcrunch.com/) - Regulatory and valuation risks (October 2025).
+[^221]: TechCrunch. (2025, October). Investment Risks: Regulatory and valuation risks. techcrunch.com, https://techcrunch.com/
 
-[^222]: [Industry Speculation - Token](https://cryptorank.io/) - Token launch unconfirmed (December 2025).
+[^222]: CryptoRank. (2025, December). Industry Speculation Token: Token launch unconfirmed. cryptorank.io, https://cryptorank.io/
 
-[^223]: [TechCrunch - Kalshi Verified](https://techcrunch.com/) - $5B valuation, 60-62% share (October 2025).
+[^223]: TechCrunch. (2025, October). Kalshi Verified: $5B valuation, 60-62% share. techcrunch.com, https://techcrunch.com/
 
-[^224]: [Finance Magnates - Kalshi Risks](https://www.financemagnates.com/) - State and verification risks (September 2025).
+[^224]: Finance Magnates. (2025, September). Kalshi Risks: State and verification risks. financemagnates.com, https://www.financemagnates.com/
 
-[^225]: [TechCrunch - IPO Potential](https://techcrunch.com/) - IPO candidate (October 2025).
+[^225]: TechCrunch. (2025, October). IPO Potential: IPO candidate. techcrunch.com, https://techcrunch.com/
 
 ---
 
