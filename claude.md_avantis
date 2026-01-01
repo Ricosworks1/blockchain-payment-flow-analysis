@@ -250,4 +250,53 @@ Before publishing any Avantis update:
 
 ---
 
+## FOOTNOTE CITATION FORMAT (ACADEMIC STYLE)
+
+**CRITICAL**: All footnotes MUST follow academic citation format:
+
+```
+Author. (Year, Month Day). Title. Publication, URL
+```
+
+### Examples:
+
+**News article:**
+```
+[^1]: Invezz. (2025, October 14). Perp DEX Avantis transitions to unified vault. invezz.com, https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/
+```
+
+**API data source:**
+```
+[^2]: DefiLlama. (2025, December 31). Avantis TVL: $102.9M retrieved via API. defillama.com, https://defillama.com/protocol/avantis 🔷 HARD DATA
+```
+
+**Documentation:**
+```
+[^3]: Avantis. (2025). Official protocol documentation: Trading fees and vault mechanics. docs.avantis.fi, https://docs.avantis.fi/
+```
+
+**Educational source:**
+```
+[^4]: Phemex Academy. (2025). What is Avantis: Protocol overview and RWA markets. phemex.com, https://phemex.com/academy/what-is-avantis
+```
+
+### Format Rules:
+1. **Author**: Organization name OR "Last, First Initial." for individuals
+2. **Date**: (Year, Month Day) or (Year, Month) or (Year) or (Year, Quarter)
+3. **Title**: Article/page title in sentence case
+4. **Publication**: Domain without www or https
+5. **URL**: Full URL at end, no square brackets
+
+### DO NOT USE this old format:
+```
+❌ [^1]: [Source Name](URL) - Description
+```
+
+### ALWAYS USE academic format:
+```
+✅ [^1]: Author. (Year, Month Day). Title. publication.com, https://full-url.com
+```
+
+---
+
 *This file is gitignored and stays local. Update after each report revision.*

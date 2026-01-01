@@ -440,341 +440,341 @@ Based on fee data (0.06% fee rate):
 
 ## Footnotes
 
-[^1]: [DefiLlama - Avantis](https://defillama.com/protocol/avantis) - Avantis deployed on Base chain.
+[^1]: DefiLlama. (2025, December 31). Avantis Protocol: Deployed on Base chain. defillama.com, https://defillama.com/protocol/avantis
 
-[^2]: [Avantis Documentation](https://docs.avantis.fi/) - RWA markets including gold, oil, forex perpetuals.
+[^2]: Avantis. (2025). Documentation: RWA markets including gold, oil, forex perpetuals. docs.avantis.fi, https://docs.avantis.fi/
 
-[^3]: [Invezz - Unified Vault Transition](https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/) - October 14, 2025 vault transition announcement.
+[^3]: Invezz. (2025, October 14). Perp DEX Avantis transitions to unified vault. invezz.com, https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/
 
-[^4]: [Avantis Documentation - Vault](https://docs.avantis.fi/) - Unified vault improves capital efficiency.
+[^4]: Avantis. (2025). Documentation: Unified vault improves capital efficiency. docs.avantis.fi, https://docs.avantis.fi/
 
-[^5]: [DefiLlama - Avantis TVL](https://defillama.com/protocol/avantis) - 🔷 HARD DATA: Total TVL $102.9M retrieved via DefiLlama API (December 31, 2025).
+[^5]: DefiLlama. (2025, December 31). Avantis TVL: Total $102.9M retrieved via API. defillama.com, https://defillama.com/protocol/avantis 🔷 HARD DATA
 
-[^6]: [DefiLlama - Avantis TVL](https://defillama.com/protocol/avantis) - 🔷 HARD DATA: Base chain TVL $102.9M retrieved via DefiLlama API (December 31, 2025).
+[^6]: DefiLlama. (2025, December 31). Avantis TVL: Base chain $102.9M retrieved via API. defillama.com, https://defillama.com/protocol/avantis 🔷 HARD DATA
 
-[^7]: [DefiLlama - Avantis Fees](https://defillama.com/fees/avantis) - 🔷 HARD DATA: 24-hour fees $95K retrieved via DefiLlama API (December 31, 2025).
+[^7]: DefiLlama. (2025, December 31). Avantis Fees: 24-hour fees $95K retrieved via API. defillama.com, https://defillama.com/fees/avantis 🔷 HARD DATA
 
-[^8]: [DefiLlama - Avantis Fees](https://defillama.com/fees/avantis) - 🔷 HARD DATA: 7-day fees $687K retrieved via DefiLlama API (December 31, 2025).
+[^8]: DefiLlama. (2025, December 31). Avantis Fees: 7-day fees $687K retrieved via API. defillama.com, https://defillama.com/fees/avantis 🔷 HARD DATA
 
-[^9]: [DefiLlama - Avantis Fees](https://defillama.com/fees/avantis) - 🔷 HARD DATA: 30-day fees $1.85M retrieved via DefiLlama API (December 31, 2025).
+[^9]: DefiLlama. (2025, December 31). Avantis Fees: 30-day fees $1.85M retrieved via API. defillama.com, https://defillama.com/fees/avantis 🔷 HARD DATA
 
-[^10]: [DefiLlama - Avantis Fees](https://defillama.com/fees/avantis) - 🔷 HARD DATA: All-time fees $16.55M retrieved via DefiLlama API (December 31, 2025).
+[^10]: DefiLlama. (2025, December 31). Avantis Fees: All-time fees $16.55M retrieved via API. defillama.com, https://defillama.com/fees/avantis 🔷 HARD DATA
 
-[^11]: [CoinGecko - AVNT](https://www.coingecko.com/en/coins/avantis) - 🔷 HARD DATA: AVNT price $0.365 retrieved via CoinGecko API (December 31, 2025).
+[^11]: CoinGecko. (2025, December 31). AVNT Token: Price $0.365 retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/avantis 🔷 HARD DATA
 
-[^12]: [CoinGecko - AVNT](https://www.coingecko.com/en/coins/avantis) - 🔷 HARD DATA: Market cap $94.4M retrieved via CoinGecko API (December 31, 2025).
+[^12]: CoinGecko. (2025, December 31). AVNT Token: Market cap $94.4M retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/avantis 🔷 HARD DATA
 
-[^13]: [CoinGecko - AVNT](https://www.coingecko.com/en/coins/avantis) - 🔷 HARD DATA: FDV $365.5M retrieved via CoinGecko API (December 31, 2025).
+[^13]: CoinGecko. (2025, December 31). AVNT Token: FDV $365.5M retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/avantis 🔷 HARD DATA
 
-[^14]: [CoinGecko - AVNT](https://www.coingecko.com/en/coins/avantis) - 🔷 HARD DATA: Circulating supply 258.2M AVNT retrieved via CoinGecko API (December 31, 2025).
+[^14]: CoinGecko. (2025, December 31). AVNT Token: Circulating supply 258.2M AVNT retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/avantis 🔷 HARD DATA
 
-[^15]: [DefiLlama - Avantis](https://defillama.com/protocol/avantis) - 2 security audits by Zellic.
+[^15]: DefiLlama. (2025). Avantis Protocol: 2 security audits by Zellic. defillama.com, https://defillama.com/protocol/avantis
 
-[^16]: [Avantis Documentation](https://docs.avantis.fi/) - Protocol launched 2024, focus on capital efficiency.
+[^16]: Avantis. (2025). Documentation: Protocol launched 2024, focus on capital efficiency. docs.avantis.fi, https://docs.avantis.fi/
 
-[^17]: [Avantis Documentation - Markets](https://docs.avantis.fi/) - RWA markets including gold, silver, oil.
+[^17]: Avantis. (2025). Documentation: RWA markets including gold, silver, oil. docs.avantis.fi, https://docs.avantis.fi/
 
-[^18]: [Avantis Documentation - Fees](https://docs.avantis.fi/) - 100% of trading fees to LP vault.
+[^18]: Avantis. (2025). Documentation: 100% of trading fees to LP vault. docs.avantis.fi, https://docs.avantis.fi/
 
-[^19]: [Invezz - Unified Vault](https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/) - Single avUSDC vault model.
+[^19]: Invezz. (2025, October 14). Perp DEX Avantis: Single avUSDC vault model. invezz.com, https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/
 
-[^20]: [DefiLlama - Avantis](https://defillama.com/protocol/avantis) - Primary deployment on Base chain.
+[^20]: DefiLlama. (2025). Avantis Protocol: Primary deployment on Base chain. defillama.com, https://defillama.com/protocol/avantis
 
-[^21]: [Avantis Documentation - Oracles](https://docs.avantis.fi/) - Chainlink oracle integration.
+[^21]: Avantis. (2025). Documentation: Chainlink oracle integration. docs.avantis.fi, https://docs.avantis.fi/
 
-[^22]: [Avantis Documentation - Vault](https://docs.avantis.fi/) - avUSDC as LP receipt token.
+[^22]: Avantis. (2025). Documentation: avUSDC as LP receipt token. docs.avantis.fi, https://docs.avantis.fi/
 
-[^23]: [CoinGecko - AVNT](https://www.coingecko.com/en/coins/avantis) - AVNT governance token.
+[^23]: CoinGecko. (2025). AVNT Token: Governance token for Avantis protocol. coingecko.com, https://www.coingecko.com/en/coins/avantis
 
-[^24]: [Invezz - Vault Transition](https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/) - Dual to unified vault transition details.
+[^24]: Invezz. (2025, October 14). Perp DEX Avantis: Dual to unified vault transition details. invezz.com, https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/
 
-[^25]: [Binance Academy - Avantis](https://academy.binance.com/en/articles/what-is-avantis) - Previous junior/senior vault model.
+[^25]: Binance Academy. (2025). What is Avantis: Previous junior/senior vault model. academy.binance.com, https://academy.binance.com/en/articles/what-is-avantis
 
-[^26]: [Binance Academy - Avantis](https://academy.binance.com/en/articles/what-is-avantis) - Senior vault lower risk, first-loss protection.
+[^26]: Binance Academy. (2025). What is Avantis: Senior vault lower risk, first-loss protection. academy.binance.com, https://academy.binance.com/en/articles/what-is-avantis
 
-[^27]: [Binance Academy - Avantis](https://academy.binance.com/en/articles/what-is-avantis) - Junior vault higher risk, higher returns.
+[^27]: Binance Academy. (2025). What is Avantis: Junior vault higher risk, higher returns. academy.binance.com, https://academy.binance.com/en/articles/what-is-avantis
 
-[^28]: [Binance Academy - Avantis](https://academy.binance.com/en/articles/what-is-avantis) - Old model: 60% to LPs, 40% to treasury.
+[^28]: Binance Academy. (2025). What is Avantis: Old model 60% to LPs, 40% to treasury. academy.binance.com, https://academy.binance.com/en/articles/what-is-avantis
 
-[^29]: [Avantis Documentation - New Model](https://docs.avantis.fi/) - Post-October 2025 unified vault structure.
+[^29]: Avantis. (2025). Documentation: Post-October 2025 unified vault structure. docs.avantis.fi, https://docs.avantis.fi/
 
-[^30]: [Invezz - Unified Vault](https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/) - Equal treatment for all LPs.
+[^30]: Invezz. (2025, October 14). Perp DEX Avantis: Equal treatment for all LPs. invezz.com, https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/
 
-[^31]: [Avantis Documentation - Fees](https://docs.avantis.fi/) - 100% trading fees to vault.
+[^31]: Avantis. (2025). Documentation: 100% trading fees to vault. docs.avantis.fi, https://docs.avantis.fi/
 
-[^32]: [Invezz - Capital Efficiency](https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/) - All capital in single pool.
+[^32]: Invezz. (2025, October 14). Perp DEX Avantis: All capital in single pool. invezz.com, https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/
 
-[^33]: [Invezz - Transition Rationale](https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/) - Reasons for vault model change.
+[^33]: Invezz. (2025, October 14). Perp DEX Avantis: Reasons for vault model change. invezz.com, https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/
 
-[^34]: [Invezz - Liquidity Fragmentation](https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/) - Dual vaults split capital inefficiently.
+[^34]: Invezz. (2025, October 14). Perp DEX Avantis: Dual vaults split capital inefficiently. invezz.com, https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/
 
-[^35]: [Invezz - Composability](https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/) - Junior/Senior complicated DeFi integrations.
+[^35]: Invezz. (2025, October 14). Perp DEX Avantis: Junior/Senior complicated DeFi integrations. invezz.com, https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/
 
-[^36]: [Invezz - User Experience](https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/) - Users struggled choosing vault type.
+[^36]: Invezz. (2025, October 14). Perp DEX Avantis: Users struggled choosing vault type. invezz.com, https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/
 
-[^37]: [Invezz - Institutional Capital](https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/) - Unified model easier for institutions.
+[^37]: Invezz. (2025, October 14). Perp DEX Avantis: Unified model easier for institutions. invezz.com, https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/
 
-[^38]: [Avantis Documentation - Trading](https://docs.avantis.fi/) - Perpetuals DEX trading mechanism.
+[^38]: Avantis. (2025). Documentation: Perpetuals DEX trading mechanism. docs.avantis.fi, https://docs.avantis.fi/
 
-[^39]: [Avantis Documentation - Markets](https://docs.avantis.fi/) - Supported market categories.
+[^39]: Avantis. (2025). Documentation: Supported market categories. docs.avantis.fi, https://docs.avantis.fi/
 
-[^40]: [Avantis Documentation - Crypto](https://docs.avantis.fi/) - Cryptocurrency perpetual markets.
+[^40]: Avantis. (2025). Documentation: Cryptocurrency perpetual markets. docs.avantis.fi, https://docs.avantis.fi/
 
-[^41]: [Phemex Academy - Avantis RWA](https://phemex.com/academy/what-is-avantis) - RWA markets: gold, silver, oil.
+[^41]: Phemex Academy. (2025). What is Avantis: RWA markets gold, silver, oil. phemex.com, https://phemex.com/academy/what-is-avantis
 
-[^42]: [Avantis Documentation - Forex](https://docs.avantis.fi/) - Forex perpetual pairs.
+[^42]: Avantis. (2025). Documentation: Forex perpetual pairs. docs.avantis.fi, https://docs.avantis.fi/
 
-[^43]: [Avantis Documentation - Indices](https://docs.avantis.fi/) - Market index perpetuals.
+[^43]: Avantis. (2025). Documentation: Market index perpetuals. docs.avantis.fi, https://docs.avantis.fi/
 
-[^44]: [Avantis Documentation - LP Vault](https://docs.avantis.fi/) - Liquidity provider vault mechanics.
+[^44]: Avantis. (2025). Documentation: Liquidity provider vault mechanics. docs.avantis.fi, https://docs.avantis.fi/
 
-[^45]: [Avantis Documentation - Deposits](https://docs.avantis.fi/) - Deposit and earning process.
+[^45]: Avantis. (2025). Documentation: Deposit and earning process. docs.avantis.fi, https://docs.avantis.fi/
 
-[^46]: [Avantis Documentation - avUSDC](https://docs.avantis.fi/) - LP token represents vault share.
+[^46]: Avantis. (2025). Documentation: LP token represents vault share. docs.avantis.fi, https://docs.avantis.fi/
 
-[^47]: [Avantis Documentation - Counterparty](https://docs.avantis.fi/) - Vault as counterparty to trades.
+[^47]: Avantis. (2025). Documentation: Vault as counterparty to trades. docs.avantis.fi, https://docs.avantis.fi/
 
-[^48]: [Avantis Documentation - Fees](https://docs.avantis.fi/) - 100% trading fees to vault.
+[^48]: Avantis. (2025). Documentation: 100% trading fees to vault. docs.avantis.fi, https://docs.avantis.fi/
 
-[^49]: [Avantis Documentation - Funding](https://docs.avantis.fi/) - Funding rate arbitrage revenue.
+[^49]: Avantis. (2025). Documentation: Funding rate arbitrage revenue. docs.avantis.fi, https://docs.avantis.fi/
 
-[^50]: [Avantis Documentation - P&L](https://docs.avantis.fi/) - Trader losses accrue to vault.
+[^50]: Avantis. (2025). Documentation: Trader losses accrue to vault. docs.avantis.fi, https://docs.avantis.fi/
 
-[^51]: [Avantis Documentation - Liquidations](https://docs.avantis.fi/) - Liquidation fee revenue.
+[^51]: Avantis. (2025). Documentation: Liquidation fee revenue. docs.avantis.fi, https://docs.avantis.fi/
 
-[^52]: [Avantis Documentation - Payouts](https://docs.avantis.fi/) - Vault pays trader profits.
+[^52]: Avantis. (2025). Documentation: Vault pays trader profits. docs.avantis.fi, https://docs.avantis.fi/
 
-[^53]: [Avantis Documentation - Costs](https://docs.avantis.fi/) - Smart contract and oracle costs.
+[^53]: Avantis. (2025). Documentation: Smart contract and oracle costs. docs.avantis.fi, https://docs.avantis.fi/
 
-[^54]: [Avantis Documentation - Distribution](https://docs.avantis.fi/) - Pro-rata P&L distribution.
+[^54]: Avantis. (2025). Documentation: Pro-rata P&L distribution. docs.avantis.fi, https://docs.avantis.fi/
 
-[^55]: [Avantis Documentation - Fee Structure](https://docs.avantis.fi/) - New model fee structure.
+[^55]: Avantis. (2025). Documentation: New model fee structure. docs.avantis.fi, https://docs.avantis.fi/
 
-[^56]: [Avantis Documentation - Trading Fee](https://docs.avantis.fi/) - 0.06% (6 basis points) per trade.
+[^56]: Avantis. (2025). Documentation: 0.06% (6 basis points) per trade. docs.avantis.fi, https://docs.avantis.fi/
 
-[^57]: [Avantis Documentation - LP Revenue](https://docs.avantis.fi/) - 100% of fees to vault LPs.
+[^57]: Avantis. (2025). Documentation: 100% of fees to vault LPs. docs.avantis.fi, https://docs.avantis.fi/
 
-[^58]: [Avantis Documentation - Treasury](https://docs.avantis.fi/) - 0% to treasury (changed from 40%).
+[^58]: Avantis. (2025). Documentation: 0% to treasury (changed from 40%). docs.avantis.fi, https://docs.avantis.fi/
 
-[^59]: [Avantis Documentation - Trader Fees](https://docs.avantis.fi/) - Trading fee flow for traders.
+[^59]: Avantis. (2025). Documentation: Trading fee flow for traders. docs.avantis.fi, https://docs.avantis.fi/
 
-[^60]: [Avantis Documentation - Entry Fee](https://docs.avantis.fi/) - 0.06% entry fee on position size.
+[^60]: Avantis. (2025). Documentation: 0.06% entry fee on position size. docs.avantis.fi, https://docs.avantis.fi/
 
-[^61]: [Avantis Documentation - Fee Payment](https://docs.avantis.fi/) - Fees from collateral.
+[^61]: Avantis. (2025). Documentation: Fees from collateral. docs.avantis.fi, https://docs.avantis.fi/
 
-[^62]: [Avantis Documentation - Fee Distribution](https://docs.avantis.fi/) - Entry fees to avUSDC vault.
+[^62]: Avantis. (2025). Documentation: Entry fees to avUSDC vault. docs.avantis.fi, https://docs.avantis.fi/
 
-[^63]: [Avantis Documentation - Exit Fee](https://docs.avantis.fi/) - 0.06% exit fee on position size.
+[^63]: Avantis. (2025). Documentation: 0.06% exit fee on position size. docs.avantis.fi, https://docs.avantis.fi/
 
-[^64]: [Avantis Documentation - Close Fees](https://docs.avantis.fi/) - Exit fees to avUSDC vault.
+[^64]: Avantis. (2025). Documentation: Exit fees to avUSDC vault. docs.avantis.fi, https://docs.avantis.fi/
 
-[^65]: [Avantis Documentation - Funding Rates](https://docs.avantis.fi/) - Hourly funding rate mechanism.
+[^65]: Avantis. (2025). Documentation: Hourly funding rate mechanism. docs.avantis.fi, https://docs.avantis.fi/
 
-[^66]: [Avantis Documentation - Funding Flow](https://docs.avantis.fi/) - Majority pays minority side.
+[^66]: Avantis. (2025). Documentation: Majority pays minority side. docs.avantis.fi, https://docs.avantis.fi/
 
-[^67]: [Avantis Documentation - Funding Range](https://docs.avantis.fi/) - 0.001% - 0.01% per hour rate range.
+[^67]: Avantis. (2025). Documentation: 0.001% - 0.01% per hour rate range. docs.avantis.fi, https://docs.avantis.fi/
 
-[^68]: [Avantis Documentation - Funding Direction](https://docs.avantis.fi/) - Funding paid between traders.
+[^68]: Avantis. (2025). Documentation: Funding paid between traders. docs.avantis.fi, https://docs.avantis.fi/
 
-[^69]: [Avantis Documentation - Vault P&L](https://docs.avantis.fi/) - Counterparty P&L mechanics.
+[^69]: Avantis. (2025). Documentation: Counterparty P&L mechanics. docs.avantis.fi, https://docs.avantis.fi/
 
-[^70]: [Avantis Documentation - Trader Losses](https://docs.avantis.fi/) - Vault gains from trader losses.
+[^70]: Avantis. (2025). Documentation: Vault gains from trader losses. docs.avantis.fi, https://docs.avantis.fi/
 
-[^71]: [Avantis Documentation - Trader Wins](https://docs.avantis.fi/) - Vault pays trader profits.
+[^71]: Avantis. (2025). Documentation: Vault pays trader profits. docs.avantis.fi, https://docs.avantis.fi/
 
-[^72]: [Avantis Documentation - Net Effect](https://docs.avantis.fi/) - Long-term vault performance dynamics.
+[^72]: Avantis. (2025). Documentation: Long-term vault performance dynamics. docs.avantis.fi, https://docs.avantis.fi/
 
-[^73]: [Phemex Academy - Trading Statistics](https://phemex.com/academy/what-is-avantis) - Retail traders typically lose 70-80%.
+[^73]: Phemex Academy. (2025). What is Avantis: Retail traders typically lose 70-80%. phemex.com, https://phemex.com/academy/what-is-avantis
 
-[^74]: [DefiLlama - Avantis Fees](https://defillama.com/fees/avantis) - Revenue distribution analysis.
+[^74]: DefiLlama. (2025). Avantis Fees: Revenue distribution analysis. defillama.com, https://defillama.com/fees/avantis
 
-[^75]: [Avantis Documentation - Revenue](https://docs.avantis.fi/) - 100% fee revenue to LPs.
+[^75]: Avantis. (2025). Documentation: 100% fee revenue to LPs. docs.avantis.fi, https://docs.avantis.fi/
 
-[^76]: [Avantis Documentation - Protocol Revenue](https://docs.avantis.fi/) - $0 current protocol revenue.
+[^76]: Avantis. (2025). Documentation: $0 current protocol revenue. docs.avantis.fi, https://docs.avantis.fi/
 
-[^77]: [DefiLlama - Yield Calculation](https://defillama.com/protocol/avantis) - APY calculation from fee data.
+[^77]: DefiLlama. (2025). Avantis Protocol: APY calculation from fee data. defillama.com, https://defillama.com/protocol/avantis
 
-[^78]: [Avantis Documentation - Returns](https://docs.avantis.fi/) - Estimated 25-35% total APY.
+[^78]: Avantis. (2025). Documentation: Estimated 25-35% total APY. docs.avantis.fi, https://docs.avantis.fi/
 
-[^79]: [Avantis Documentation - Sustainability](https://docs.avantis.fi/) - Revenue model sustainability analysis.
+[^79]: Avantis. (2025). Documentation: Revenue model sustainability analysis. docs.avantis.fi, https://docs.avantis.fi/
 
-[^80]: [Avantis Documentation - Current Model](https://docs.avantis.fi/) - Protocol earns $0 currently.
+[^80]: Avantis. (2025). Documentation: Protocol earns $0 currently. docs.avantis.fi, https://docs.avantis.fi/
 
-[^81]: [DefiLlama - Annual Revenue](https://defillama.com/fees/avantis) - $22.2M annualized LP revenue estimate.
+[^81]: DefiLlama. (2025). Avantis Fees: $22.2M annualized LP revenue estimate. defillama.com, https://defillama.com/fees/avantis
 
-[^82]: [Avantis Documentation - Token Model](https://docs.avantis.fi/) - Protocol relies on token appreciation.
+[^82]: Avantis. (2025). Documentation: Protocol relies on token appreciation. docs.avantis.fi, https://docs.avantis.fi/
 
-[^83]: [Avantis Documentation - Future Plans](https://docs.avantis.fi/) - Potential protocol fee introduction.
+[^83]: Avantis. (2025). Documentation: Potential protocol fee introduction. docs.avantis.fi, https://docs.avantis.fi/
 
-[^84]: [CoinGecko - AVNT Utility](https://www.coingecko.com/en/coins/avantis) - Token utility overview.
+[^84]: CoinGecko. (2025). AVNT Token: Token utility overview. coingecko.com, https://www.coingecko.com/en/coins/avantis
 
-[^85]: [Avantis Documentation - Governance](https://docs.avantis.fi/) - AVNT governance voting.
+[^85]: Avantis. (2025). Documentation: AVNT governance voting. docs.avantis.fi, https://docs.avantis.fi/
 
-[^86]: [Avantis Documentation - Staking](https://docs.avantis.fi/) - Future staking rewards planned.
+[^86]: Avantis. (2025). Documentation: Future staking rewards planned. docs.avantis.fi, https://docs.avantis.fi/
 
-[^87]: [Avantis Documentation - Incentives](https://docs.avantis.fi/) - Trading incentives via AVNT emissions.
+[^87]: Avantis. (2025). Documentation: Trading incentives via AVNT emissions. docs.avantis.fi, https://docs.avantis.fi/
 
-[^88]: [CoinGecko - AVNT](https://www.coingecko.com/en/coins/avantis) - Token metrics from CoinGecko API.
+[^88]: CoinGecko. (2025). AVNT Token: Token metrics from CoinGecko API. coingecko.com, https://www.coingecko.com/en/coins/avantis
 
-[^89]: [CoinGecko - AVNT Supply](https://www.coingecko.com/en/coins/avantis) - 🔷 HARD DATA: Total supply 1B AVNT.
+[^89]: CoinGecko. (2025, December 31). AVNT Token: Total supply 1B AVNT. coingecko.com, https://www.coingecko.com/en/coins/avantis 🔷 HARD DATA
 
-[^90]: [CoinGecko - AVNT ATH](https://www.coingecko.com/en/coins/avantis) - 🔷 HARD DATA: All-time high $2.64.
+[^90]: CoinGecko. (2025, December 31). AVNT Token: All-time high $2.64. coingecko.com, https://www.coingecko.com/en/coins/avantis 🔷 HARD DATA
 
-[^91]: [CoinGecko - AVNT ATL](https://www.coingecko.com/en/coins/avantis) - 🔷 HARD DATA: All-time low $0.188.
+[^91]: CoinGecko. (2025, December 31). AVNT Token: All-time low $0.188. coingecko.com, https://www.coingecko.com/en/coins/avantis 🔷 HARD DATA
 
-[^92]: [CoinGecko - AVNT](https://www.coingecko.com/en/coins/avantis) - Calculated: -86.2% from ATH.
+[^92]: CoinGecko. (2025). AVNT Token: Calculated -86.2% from ATH. coingecko.com, https://www.coingecko.com/en/coins/avantis
 
-[^93]: [Avantis Documentation - Revenue Sharing](https://docs.avantis.fi/) - Hypothetical revenue sharing model.
+[^93]: Avantis. (2025). Documentation: Hypothetical revenue sharing model. docs.avantis.fi, https://docs.avantis.fi/
 
-[^94]: [Avantis Documentation - Current Fees](https://docs.avantis.fi/) - 100% to vault, not AVNT stakers.
+[^94]: Avantis. (2025). Documentation: 100% to vault, not AVNT stakers. docs.avantis.fi, https://docs.avantis.fi/
 
-[^95]: [DefiLlama - Derivatives](https://defillama.com/derivatives) - Perp DEX comparison data.
+[^95]: DefiLlama. (2025). Derivatives: Perp DEX comparison data. defillama.com, https://defillama.com/derivatives
 
-[^96]: [Phemex Academy - RWA](https://phemex.com/academy/what-is-avantis) - Avantis unique RWA markets.
+[^96]: Phemex Academy. (2025). What is Avantis: Unique RWA markets. phemex.com, https://phemex.com/academy/what-is-avantis
 
-[^97]: [DefiLlama - GMX](https://defillama.com/protocol/gmx) - GMX 0.10% trading fee.
+[^97]: DefiLlama. (2025). GMX Protocol: 0.10% trading fee. defillama.com, https://defillama.com/protocol/gmx
 
-[^98]: [dYdX Documentation](https://docs.dydx.exchange/) - dYdX 0.05-0.20% fee range.
+[^98]: dYdX. (2025). Documentation: 0.05-0.20% fee range. docs.dydx.exchange, https://docs.dydx.exchange/
 
-[^99]: [DefiLlama - Gains Network](https://defillama.com/protocol/gains-network) - Gains Network 0.08% fee.
+[^99]: DefiLlama. (2025). Gains Network: 0.08% trading fee. defillama.com, https://defillama.com/protocol/gains-network
 
-[^100]: [DefiLlama - Hyperliquid](https://defillama.com/protocol/hyperliquid) - Hyperliquid 0.025-0.05% fee.
+[^100]: DefiLlama. (2025). Hyperliquid: 0.025-0.05% trading fee. defillama.com, https://defillama.com/protocol/hyperliquid
 
-[^101]: [Avantis Documentation - Advantages](https://docs.avantis.fi/) - Competitive advantages overview.
+[^101]: Avantis. (2025). Documentation: Competitive advantages overview. docs.avantis.fi, https://docs.avantis.fi/
 
-[^102]: [DefiLlama - Fee Comparison](https://defillama.com/fees) - Highest LP fee share comparison.
+[^102]: DefiLlama. (2025). Fees Dashboard: Highest LP fee share comparison. defillama.com, https://defillama.com/fees
 
-[^103]: [Phemex Academy - RWA Markets](https://phemex.com/academy/what-is-avantis) - Unique RWA offering.
+[^103]: Phemex Academy. (2025). What is Avantis: Unique RWA offering. phemex.com, https://phemex.com/academy/what-is-avantis
 
-[^104]: [Invezz - Capital Efficiency](https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/) - Unified vault efficiency.
+[^104]: Invezz. (2025, October 14). Perp DEX Avantis: Unified vault efficiency. invezz.com, https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/
 
-[^105]: [Avantis Documentation - Fee Competitiveness](https://docs.avantis.fi/) - 0.06% competitive with market.
+[^105]: Avantis. (2025). Documentation: 0.06% competitive with market. docs.avantis.fi, https://docs.avantis.fi/
 
-[^106]: [DefiLlama - Market Analysis](https://defillama.com/derivatives) - Competitive disadvantages.
+[^106]: DefiLlama. (2025). Derivatives: Competitive disadvantages analysis. defillama.com, https://defillama.com/derivatives
 
-[^107]: [DefiLlama - Volume](https://defillama.com/derivatives) - Lower volume than major competitors.
+[^107]: DefiLlama. (2025). Derivatives: Lower volume than major competitors. defillama.com, https://defillama.com/derivatives
 
-[^108]: [Avantis Documentation - Token Revenue](https://docs.avantis.fi/) - No fee revenue to token holders.
+[^108]: Avantis. (2025). Documentation: No fee revenue to token holders. docs.avantis.fi, https://docs.avantis.fi/
 
-[^109]: [DefiLlama - Chain](https://defillama.com/protocol/avantis) - Base-only deployment.
+[^109]: DefiLlama. (2025). Avantis Protocol: Base-only deployment. defillama.com, https://defillama.com/protocol/avantis
 
-[^110]: [DefiLlama - Protocol Age](https://defillama.com/protocol/avantis) - 2024 launch, newer protocol.
+[^110]: DefiLlama. (2025). Avantis Protocol: 2024 launch, newer protocol. defillama.com, https://defillama.com/protocol/avantis
 
-[^111]: [DefiLlama - Audits](https://defillama.com/protocol/avantis) - Audit information.
+[^111]: DefiLlama. (2025). Avantis Protocol: Audit information. defillama.com, https://defillama.com/protocol/avantis
 
-[^112]: [Zellic - Avantis Audit](https://586275454-files.gitbook.io/) - Zellic security audit reports.
+[^112]: Zellic. (2024). Avantis Security Audit: Audit reports. gitbook.io, https://586275454-files.gitbook.io/
 
-[^113]: [Avantis Documentation - Security](https://docs.avantis.fi/) - Security features overview.
+[^113]: Avantis. (2025). Documentation: Security features overview. docs.avantis.fi, https://docs.avantis.fi/
 
-[^114]: [Avantis Documentation - Oracles](https://docs.avantis.fi/) - Chainlink with backup sources.
+[^114]: Avantis. (2025). Documentation: Chainlink with backup sources. docs.avantis.fi, https://docs.avantis.fi/
 
-[^115]: [Avantis Documentation - Limits](https://docs.avantis.fi/) - Position and leverage limits.
+[^115]: Avantis. (2025). Documentation: Position and leverage limits. docs.avantis.fi, https://docs.avantis.fi/
 
-[^116]: [Avantis Documentation - Insurance](https://docs.avantis.fi/) - Insurance fund for adverse events.
+[^116]: Avantis. (2025). Documentation: Insurance fund for adverse events. docs.avantis.fi, https://docs.avantis.fi/
 
-[^117]: [Avantis Documentation - LP Risks](https://docs.avantis.fi/) - LP risk factors.
+[^117]: Avantis. (2025). Documentation: LP risk factors. docs.avantis.fi, https://docs.avantis.fi/
 
-[^118]: [Avantis Documentation - Counterparty Risk](https://docs.avantis.fi/) - Vault as trade counterparty.
+[^118]: Avantis. (2025). Documentation: Vault as trade counterparty. docs.avantis.fi, https://docs.avantis.fi/
 
-[^119]: [Phemex Academy - Statistics](https://phemex.com/academy/what-is-avantis) - Historical trader loss rates.
+[^119]: Phemex Academy. (2025). What is Avantis: Historical trader loss rates. phemex.com, https://phemex.com/academy/what-is-avantis
 
-[^120]: [Invezz - New Model Risk](https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/) - New vault model limited track record.
+[^120]: Invezz. (2025, October 14). Perp DEX Avantis: New vault model limited track record. invezz.com, https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/
 
-[^121]: [DefiLlama - Zellic Audits](https://defillama.com/protocol/avantis) - 2 Zellic audits completed.
+[^121]: DefiLlama. (2025). Avantis Protocol: 2 Zellic audits completed. defillama.com, https://defillama.com/protocol/avantis
 
-[^122]: [Avantis Documentation - Oracle Risk](https://docs.avantis.fi/) - Oracle manipulation risk.
+[^122]: Avantis. (2025). Documentation: Oracle manipulation risk. docs.avantis.fi, https://docs.avantis.fi/
 
-[^123]: [Avantis Documentation - Oracle Setup](https://docs.avantis.fi/) - Chainlink + backup oracles.
+[^123]: Avantis. (2025). Documentation: Chainlink + backup oracles. docs.avantis.fi, https://docs.avantis.fi/
 
-[^124]: [Avantis Documentation - Liquidity Risk](https://docs.avantis.fi/) - Mass profit scenario risk.
+[^124]: Avantis. (2025). Documentation: Mass profit scenario risk. docs.avantis.fi, https://docs.avantis.fi/
 
-[^125]: [Avantis Documentation - Risk Mitigation](https://docs.avantis.fi/) - Position limits and insurance.
+[^125]: Avantis. (2025). Documentation: Position limits and insurance. docs.avantis.fi, https://docs.avantis.fi/
 
-[^126]: [Avantis Documentation - Trader Risks](https://docs.avantis.fi/) - Trader risk factors.
+[^126]: Avantis. (2025). Documentation: Trader risk factors. docs.avantis.fi, https://docs.avantis.fi/
 
-[^127]: [Avantis Documentation - Funding Risk](https://docs.avantis.fi/) - High funding during imbalances.
+[^127]: Avantis. (2025). Documentation: High funding during imbalances. docs.avantis.fi, https://docs.avantis.fi/
 
-[^128]: [Avantis Documentation - Leverage Risk](https://docs.avantis.fi/) - Leverage magnifies losses.
+[^128]: Avantis. (2025). Documentation: Leverage magnifies losses. docs.avantis.fi, https://docs.avantis.fi/
 
-[^129]: [Avantis Documentation - Slippage](https://docs.avantis.fi/) - DEX slippage vs CEX.
+[^129]: Avantis. (2025). Documentation: DEX slippage vs CEX. docs.avantis.fi, https://docs.avantis.fi/
 
-[^130]: [DefiLlama - TVL History](https://defillama.com/protocol/avantis) - TVL growth timeline.
+[^130]: DefiLlama. (2025). Avantis Protocol: TVL growth timeline. defillama.com, https://defillama.com/protocol/avantis
 
-[^131]: [Invezz - Launch TVL](https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/) - Q1 2024 launch at $1.5M TVL.
+[^131]: Invezz. (2025, October 14). Perp DEX Avantis: Q1 2024 launch at $1.5M TVL. invezz.com, https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/
 
-[^132]: [Invezz - Q2 Growth](https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/) - Q2 2024 growth to $25M.
+[^132]: Invezz. (2025, October 14). Perp DEX Avantis: Q2 2024 growth to $25M. invezz.com, https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/
 
-[^133]: [DefiLlama - Q3 TVL](https://defillama.com/protocol/avantis) - Q3 2024 ~$60M TVL.
+[^133]: DefiLlama. (2025). Avantis Protocol: Q3 2024 ~$60M TVL. defillama.com, https://defillama.com/protocol/avantis
 
-[^134]: [Invezz - Peak TVL](https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/) - Q4 2024 peak at $85M.
+[^134]: Invezz. (2025, October 14). Perp DEX Avantis: Q4 2024 peak at $85M. invezz.com, https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/
 
-[^135]: [Invezz - Transition TVL](https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/) - ~$80M during vault transition.
+[^135]: Invezz. (2025, October 14). Perp DEX Avantis: ~$80M during vault transition. invezz.com, https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/
 
-[^136]: [DefiLlama - Current TVL](https://defillama.com/protocol/avantis) - 🔷 HARD DATA: December 2025 TVL $102.9M.
+[^136]: DefiLlama. (2025, December 31). Avantis TVL: $102.9M retrieved via API. defillama.com, https://defillama.com/protocol/avantis 🔷 HARD DATA
 
-[^137]: [DefiLlama - Volume Analysis](https://defillama.com/fees/avantis) - Volume derived from fee data.
+[^137]: DefiLlama. (2025). Avantis Fees: Volume derived from fee data. defillama.com, https://defillama.com/fees/avantis
 
-[^138]: [DefiLlama - Monthly Volume](https://defillama.com/fees/avantis) - Calculated: $3.08B monthly volume estimate.
+[^138]: DefiLlama. (2025). Avantis Fees: Calculated $3.08B monthly volume estimate. defillama.com, https://defillama.com/fees/avantis
 
-[^139]: [DefiLlama - All-time Volume](https://defillama.com/fees/avantis) - Calculated: $27.6B all-time volume estimate.
+[^139]: DefiLlama. (2025). Avantis Fees: Calculated $27.6B all-time volume estimate. defillama.com, https://defillama.com/fees/avantis
 
-[^140]: [Invezz - Unified Benefits](https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/) - Expected unified vault benefits.
+[^140]: Invezz. (2025, October 14). Perp DEX Avantis: Expected unified vault benefits. invezz.com, https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/
 
-[^141]: [Invezz - Composability](https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/) - DeFi integration benefits.
+[^141]: Invezz. (2025, October 14). Perp DEX Avantis: DeFi integration benefits. invezz.com, https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/
 
-[^142]: [Invezz - Liquidity](https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/) - Single pool liquidity improvement.
+[^142]: Invezz. (2025, October 14). Perp DEX Avantis: Single pool liquidity improvement. invezz.com, https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/
 
-[^143]: [Invezz - UX](https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/) - Simplified user experience.
+[^143]: Invezz. (2025, October 14). Perp DEX Avantis: Simplified user experience. invezz.com, https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/
 
-[^144]: [Invezz - Institutions](https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/) - Institutional capital accessibility.
+[^144]: Invezz. (2025, October 14). Perp DEX Avantis: Institutional capital accessibility. invezz.com, https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/
 
-[^145]: [Avantis Documentation - Roadmap](https://docs.avantis.fi/) - Future development plans.
+[^145]: Avantis. (2025). Documentation: Future development plans. docs.avantis.fi, https://docs.avantis.fi/
 
-[^146]: [Avantis Documentation - Protocol Fee](https://docs.avantis.fi/) - Potential treasury fee.
+[^146]: Avantis. (2025). Documentation: Potential treasury fee. docs.avantis.fi, https://docs.avantis.fi/
 
-[^147]: [Avantis Documentation - AVNT Staking](https://docs.avantis.fi/) - Revenue sharing plans.
+[^147]: Avantis. (2025). Documentation: Revenue sharing plans. docs.avantis.fi, https://docs.avantis.fi/
 
-[^148]: [Avantis Documentation - Expansion](https://docs.avantis.fi/) - Multi-chain considerations.
+[^148]: Avantis. (2025). Documentation: Multi-chain considerations. docs.avantis.fi, https://docs.avantis.fi/
 
-[^149]: [Avantis Documentation - New Markets](https://docs.avantis.fi/) - Future market additions.
+[^149]: Avantis. (2025). Documentation: Future market additions. docs.avantis.fi, https://docs.avantis.fi/
 
-[^150]: [DefiLlama - Bullish Analysis](https://defillama.com/protocol/avantis) - Bullish factors summary.
+[^150]: DefiLlama. (2025). Avantis Protocol: Bullish factors summary. defillama.com, https://defillama.com/protocol/avantis
 
-[^151]: [Avantis Documentation - Fee Leadership](https://docs.avantis.fi/) - Best LP fee share.
+[^151]: Avantis. (2025). Documentation: Best LP fee share. docs.avantis.fi, https://docs.avantis.fi/
 
-[^152]: [DefiLlama - Growth](https://defillama.com/protocol/avantis) - TVL growth calculation.
+[^152]: DefiLlama. (2025). Avantis Protocol: TVL growth calculation. defillama.com, https://defillama.com/protocol/avantis
 
-[^153]: [Phemex Academy - Differentiation](https://phemex.com/academy/what-is-avantis) - RWA market differentiation.
+[^153]: Phemex Academy. (2025). What is Avantis: RWA market differentiation. phemex.com, https://phemex.com/academy/what-is-avantis
 
-[^154]: [Invezz - Efficiency](https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/) - Unified vault capital efficiency.
+[^154]: Invezz. (2025, October 14). Perp DEX Avantis: Unified vault capital efficiency. invezz.com, https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/
 
-[^155]: [DefiLlama - Base Ecosystem](https://defillama.com/chain/Base) - Base L2 with Coinbase backing.
+[^155]: DefiLlama. (2025). Base Chain: L2 with Coinbase backing. defillama.com, https://defillama.com/chain/Base
 
-[^156]: [CoinGecko - Bearish Analysis](https://www.coingecko.com/en/coins/avantis) - Bearish factors summary.
+[^156]: CoinGecko. (2025). AVNT Token: Bearish factors summary. coingecko.com, https://www.coingecko.com/en/coins/avantis
 
-[^157]: [CoinGecko - Price Decline](https://www.coingecko.com/en/coins/avantis) - 86% decline from ATH.
+[^157]: CoinGecko. (2025). AVNT Token: 86% decline from ATH. coingecko.com, https://www.coingecko.com/en/coins/avantis
 
-[^158]: [Avantis Documentation - No Revenue](https://docs.avantis.fi/) - $0 protocol revenue currently.
+[^158]: Avantis. (2025). Documentation: $0 protocol revenue currently. docs.avantis.fi, https://docs.avantis.fi/
 
-[^159]: [DefiLlama - Competition](https://defillama.com/derivatives) - Competitive landscape analysis.
+[^159]: DefiLlama. (2025). Derivatives: Competitive landscape analysis. defillama.com, https://defillama.com/derivatives
 
-[^160]: [DefiLlama - Single Chain](https://defillama.com/protocol/avantis) - Base-only risk.
+[^160]: DefiLlama. (2025). Avantis Protocol: Base-only risk. defillama.com, https://defillama.com/protocol/avantis
 
-[^161]: [Avantis Documentation - KPIs](https://docs.avantis.fi/) - Key metrics to monitor.
+[^161]: Avantis. (2025). Documentation: Key metrics to monitor. docs.avantis.fi, https://docs.avantis.fi/
 
-[^162]: [DefiLlama - Avantis Page](https://defillama.com/protocol/avantis) - Official DefiLlama dashboard.
+[^162]: DefiLlama. (2025). Avantis Protocol: Official DefiLlama dashboard. defillama.com, https://defillama.com/protocol/avantis
 
-[^163]: [Avantis Documentation](https://docs.avantis.fi/) - Official protocol documentation.
+[^163]: Avantis. (2025). Documentation: Official protocol documentation. docs.avantis.fi, https://docs.avantis.fi/
 
-[^164]: [Avantis Website](https://www.avantis.fi/) - Official platform website.
+[^164]: Avantis. (2025). Official Website: Platform interface. avantis.fi, https://www.avantis.fi/
 
-[^165]: [CoinGecko - AVNT](https://www.coingecko.com/en/coins/avantis) - Token market data page.
+[^165]: CoinGecko. (2025). AVNT Token: Market data page. coingecko.com, https://www.coingecko.com/en/coins/avantis
 
-[^166]: [Invezz - Vault Announcement](https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/) - Unified vault transition coverage.
+[^166]: Invezz. (2025, October 14). Perp DEX Avantis: Unified vault transition coverage. invezz.com, https://invezz.com/news/2025/10/14/perp-dex-avantis-transitions-unified-vault/
 
-[^167]: [Phemex Academy - Overview](https://phemex.com/academy/what-is-avantis) - Educational overview of Avantis.
+[^167]: Phemex Academy. (2025). What is Avantis: Educational overview of Avantis. phemex.com, https://phemex.com/academy/what-is-avantis
 
-[^168]: [Binance Academy - Guide](https://academy.binance.com/en/articles/what-is-avantis) - Comprehensive Avantis guide.
+[^168]: Binance Academy. (2025). What is Avantis: Comprehensive Avantis guide. academy.binance.com, https://academy.binance.com/en/articles/what-is-avantis
 
 ---
 
