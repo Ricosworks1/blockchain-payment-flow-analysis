@@ -2116,112 +2116,112 @@ All data represents snapshot as of October 2025. Blockchain and DeFi metrics are
 
 ## Footnotes
 
-[^1]: [Drift Protocol Documentation](https://docs.drift.trade/) - Official protocol documentation covering DLOB, vAMM, and JIT mechanics. 🔷 HARD DATA
+[^1]: Drift Protocol. (2025). Documentation: Official protocol documentation covering DLOB, vAMM, and JIT mechanics. docs.drift.trade, https://docs.drift.trade/ 🔷 HARD DATA
 
-[^2]: [DefiLlama - Drift TVL](https://defillama.com/protocol/drift) - Total Value Locked: $1B+ as of December 2025. 🔷 HARD DATA
+[^2]: DefiLlama. (2025, December 31). Drift TVL: $696.4M retrieved via API. defillama.com, https://defillama.com/protocol/drift 🔷 HARD DATA
 
-[^3]: [Drift App](https://www.drift.trade/) - Official trading interface and protocol statistics. 🔷 HARD DATA
+[^3]: Drift Protocol. (2025). App: Official trading interface and protocol statistics. drift.trade, https://www.drift.trade/ 🔷 HARD DATA
 
-[^4]: [CoinGecko - DRIFT Token](https://www.coingecko.com/en/coins/drift) - DRIFT governance token market data. 🔷 HARD DATA
+[^4]: CoinGecko. (2025, December 31). DRIFT Token: Governance token market data retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/drift 🔷 HARD DATA
 
-[^5]: [Solscan - Drift Protocol](https://solscan.io/account/dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH) - On-chain contract analytics. 🔷 HARD DATA
+[^5]: Solscan. (2025). Drift Protocol: On-chain contract analytics. solscan.io, https://solscan.io/account/dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH 🔷 HARD DATA
 
-[^6]: [Dune Analytics - Drift](https://dune.com/drift_protocol) - On-chain analytics for volume, fees, and user metrics. 🔷 HARD DATA
+[^6]: Dune Analytics. (2025). Drift: On-chain analytics for volume, fees, and user metrics. dune.com, https://dune.com/drift_protocol 🔷 HARD DATA
 
-[^7]: [Drift DLOB Documentation](https://docs.drift.trade/about-v2/decentralized-orderbook) - Decentralized Limit Order Book architecture.
+[^7]: Drift Protocol. (2025). DLOB Documentation: Decentralized Limit Order Book architecture. docs.drift.trade, https://docs.drift.trade/about-v2/decentralized-orderbook
 
-[^8]: [Messari - Drift Research](https://messari.io/project/drift) - Comprehensive protocol analysis. 🔷 HARD DATA
+[^8]: Messari. (2025). Drift Research: Comprehensive protocol analysis. messari.io, https://messari.io/project/drift 🔷 HARD DATA
 
-[^9]: [The Block - Drift](https://www.theblock.co/tag/drift) - News coverage and market analysis.
+[^9]: The Block. (2025). Drift: News coverage and market analysis. theblock.co, https://www.theblock.co/tag/drift
 
-[^10]: [CoinDesk - Drift News](https://www.coindesk.com/tag/drift/) - Breaking news and developments.
+[^10]: CoinDesk. (2025). Drift News: Breaking news and developments. coindesk.com, https://www.coindesk.com/tag/drift/
 
-[^11]: [Token Terminal - Drift](https://tokenterminal.com/terminal/projects/drift) - Protocol revenue and metrics. 🔷 HARD DATA
+[^11]: Token Terminal. (2025). Drift: Protocol revenue and metrics. tokenterminal.com, https://tokenterminal.com/terminal/projects/drift 🔷 HARD DATA
 
-[^12]: [Electric Capital - Drift](https://www.developerreport.com/) - Developer activity. 🔷 HARD DATA
+[^12]: Electric Capital. (2025). Developer Report: Drift developer activity. developerreport.com, https://www.developerreport.com/ 🔷 HARD DATA
 
-[^13]: [Drift vAMM Documentation](https://docs.drift.trade/about-v2/drift-amm) - Virtual AMM technical specification.
+[^13]: Drift Protocol. (2025). vAMM Documentation: Virtual AMM technical specification. docs.drift.trade, https://docs.drift.trade/about-v2/drift-amm
 
-[^14]: [Drift JIT Auctions](https://docs.drift.trade/tutorial-bots/trading-bots/tutorial-jit-trading-bot) - Just-in-Time liquidity documentation.
+[^14]: Drift Protocol. (2025). JIT Auctions: Just-in-Time liquidity documentation. docs.drift.trade, https://docs.drift.trade/tutorial-bots/trading-bots/tutorial-jit-trading-bot
 
-[^15]: [Drift Insurance Fund](https://docs.drift.trade/insurance-fund/insurance-fund-staking) - Insurance fund staking documentation.
+[^15]: Drift Protocol. (2025). Insurance Fund: Insurance fund staking documentation. docs.drift.trade, https://docs.drift.trade/insurance-fund/insurance-fund-staking
 
-[^16]: [Pyth Network - Drift Integration](https://www.pyth.network/) - Oracle provider for Drift. 🔷 HARD DATA
+[^16]: Pyth Network. (2025). Drift Integration: Oracle provider for Drift. pyth.network, https://www.pyth.network/ 🔷 HARD DATA
 
-[^17]: [Drift Blog](https://www.drift.trade/updates/) - Official announcements.
+[^17]: Drift Protocol. (2025). Blog: Official announcements. drift.trade, https://www.drift.trade/updates/
 
-[^18]: [Drift Twitter](https://twitter.com/DriftProtocol) - Official updates.
+[^18]: Drift Protocol. (2025). Twitter: Official updates. twitter.com, https://twitter.com/DriftProtocol
 
-[^19]: [Drift Discord](https://discord.gg/drift) - Community discussion.
+[^19]: Drift Protocol. (2025). Discord: Community discussion. discord.gg, https://discord.gg/drift
 
-[^20]: [Drift GitHub](https://github.com/drift-labs) - Open-source repositories.
+[^20]: Drift Protocol. (2025). GitHub: Open-source repositories. github.com, https://github.com/drift-labs
 
-[^21]: [Blockchain Capital - Drift](https://www.blockchaincapital.com/blog/drift-the-future-of-onchain-trading-on-solana) - Investment thesis documentation.
+[^21]: Campbell, S. & Shah, K. (2024, October 31). Drift: The Future of On-chain Trading on Solana. Blockchain Capital, https://www.blockchaincapital.com/blog/drift-the-future-of-onchain-trading-on-solana
 
-[^22]: [Drift Keeper Network](https://docs.drift.trade/about-v2/keepers-decentralized-orderbook-faq) - Keeper FAQ and incentives.
+[^22]: Drift Protocol. (2025). Keeper Network: Keeper FAQ and incentives. docs.drift.trade, https://docs.drift.trade/about-v2/keepers-decentralized-orderbook-faq
 
-[^23]: [Drift Cross-Margin](https://docs.drift.trade/) - Cross-margin system documentation.
+[^23]: Drift Protocol. (2025). Cross-Margin: Cross-margin system documentation. docs.drift.trade, https://docs.drift.trade/
 
-[^24]: [Solana - Drift](https://solana.com/) - Underlying blockchain infrastructure. 🔷 HARD DATA
+[^24]: Solana. (2025). Blockchain: Underlying blockchain infrastructure for Drift. solana.com, https://solana.com/ 🔷 HARD DATA
 
-[^25]: [Phantom - Drift](https://phantom.app/) - Wallet integration.
+[^25]: Phantom. (2025). Wallet: Drift wallet integration. phantom.app, https://phantom.app/
 
-[^26]: [Birdeye - Drift](https://birdeye.so/) - Token analytics. 🔷 HARD DATA
+[^26]: Birdeye. (2025). Token Analytics: Drift token analytics. birdeye.so, https://birdeye.so/ 🔷 HARD DATA
 
-[^27]: [DEXScreener - Drift](https://dexscreener.com/) - Trading pair charts. 🔷 HARD DATA
+[^27]: DEXScreener. (2025). Trading: Drift trading pair charts. dexscreener.com, https://dexscreener.com/ 🔷 HARD DATA
 
-[^28]: [Trail of Bits - Drift Audit](https://www.trailofbits.com/) - Security audit reports.
+[^28]: Trail of Bits. (2025). Security Audit: Drift audit reports. trailofbits.com, https://www.trailofbits.com/
 
-[^29]: [OtterSec - Drift Audit](https://osec.io/) - Security assessment.
+[^29]: OtterSec. (2025). Security Assessment: Drift security assessment. osec.io, https://osec.io/
 
-[^30]: [Neodyme - Drift Audit](https://neodyme.io/) - Security audit findings.
+[^30]: Neodyme. (2025). Security Audit: Drift security audit findings. neodyme.io, https://neodyme.io/
 
-[^31]: [Drift Governance](https://www.drift.trade/governance/) - Multi-branch DAO structure.
+[^31]: Drift Protocol. (2025). Governance: Multi-branch DAO structure. drift.trade, https://www.drift.trade/governance/
 
-[^32]: [DRIFT Token Unlock](https://cryptorank.io/price/drift-protocol/vesting) - Vesting schedule documentation. 🔷 HARD DATA
+[^32]: CryptoRank. (2025). DRIFT Token Unlock: Vesting schedule documentation. cryptorank.io, https://cryptorank.io/price/drift-protocol/vesting 🔷 HARD DATA
 
-[^33]: [Drift Market Maker Rewards](https://www.drift.trade/updates/introducing-drift-market-maker-rewards) - MM incentive program.
+[^33]: Drift Protocol. (2025). Market Maker Rewards: MM incentive program. drift.trade, https://www.drift.trade/updates/introducing-drift-market-maker-rewards
 
-[^34]: [Drift Fee Structure](https://docs.drift.trade/) - Maker/taker fee tiers.
+[^34]: Drift Protocol. (2025). Fee Structure: Maker/taker fee tiers. docs.drift.trade, https://docs.drift.trade/
 
-[^35]: [Drift Revenue Pool](https://docs.drift.trade/insurance-fund/insurance-fund-staking) - Revenue distribution mechanics.
+[^35]: Drift Protocol. (2025). Revenue Pool: Revenue distribution mechanics. docs.drift.trade, https://docs.drift.trade/insurance-fund/insurance-fund-staking
 
-[^36]: [Drift Perpetual Markets](https://www.drift.trade/) - 40+ markets supported. 🔷 HARD DATA
+[^36]: Drift Protocol. (2025). Perpetual Markets: 40+ markets supported. drift.trade, https://www.drift.trade/ 🔷 HARD DATA
 
-[^37]: [Drift Spot Trading](https://docs.drift.trade/) - Spot trading documentation.
+[^37]: Drift Protocol. (2025). Spot Trading: Spot trading documentation. docs.drift.trade, https://docs.drift.trade/
 
-[^38]: [Drift Lending](https://docs.drift.trade/) - Lending/borrowing protocol.
+[^38]: Drift Protocol. (2025). Lending: Lending/borrowing protocol. docs.drift.trade, https://docs.drift.trade/
 
-[^39]: [Drift Liquidations](https://docs.drift.trade/) - Partial liquidation mechanics.
+[^39]: Drift Protocol. (2025). Liquidations: Partial liquidation mechanics. docs.drift.trade, https://docs.drift.trade/
 
-[^40]: [Step Finance - Drift](https://www.step.finance/) - Portfolio tracking integration.
+[^40]: Step Finance. (2025). Drift: Portfolio tracking integration. step.finance, https://www.step.finance/
 
-[^41]: [Jupiter - Drift](https://jup.ag/) - DEX aggregator integration.
+[^41]: Jupiter. (2025). DEX Aggregator: Drift integration. jup.ag, https://jup.ag/
 
-[^42]: [Drift 101x Leverage](https://www.drift.trade/) - Maximum leverage documentation.
+[^42]: Drift Protocol. (2025). 101x Leverage: Maximum leverage documentation. drift.trade, https://www.drift.trade/
 
-[^43]: [Drift Circuit Breakers](https://docs.drift.trade/) - Risk management features.
+[^43]: Drift Protocol. (2025). Circuit Breakers: Risk management features. docs.drift.trade, https://docs.drift.trade/
 
-[^44]: [Drift Funding Rates](https://docs.drift.trade/) - Funding rate mechanism.
+[^44]: Drift Protocol. (2025). Funding Rates: Funding rate mechanism. docs.drift.trade, https://docs.drift.trade/
 
-[^45]: [Drift Mark Price TWAP](https://docs.drift.trade/) - Oracle price calculation.
+[^45]: Drift Protocol. (2025). Mark Price TWAP: Oracle price calculation. docs.drift.trade, https://docs.drift.trade/
 
-[^46]: [Drift Insurance Fund APY](https://www.drift.trade/) - Staking yield estimates. 🔷 HARD DATA
+[^46]: Drift Protocol. (2025). Insurance Fund APY: Staking yield estimates. drift.trade, https://www.drift.trade/ 🔷 HARD DATA
 
-[^47]: [Drift Program Address](https://solscan.io/account/dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH) - On-chain contract. 🔷 HARD DATA
+[^47]: Solscan. (2025). Drift Program Address: On-chain contract. solscan.io, https://solscan.io/account/dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH 🔷 HARD DATA
 
-[^48]: [Drift Vault Address](https://solscan.io/account/JCNCMFXo5M5qwUPg2Utu1u6YWp3MbygxqBsBeXXJfrw) - Treasury vault. 🔷 HARD DATA
+[^48]: Solscan. (2025). Drift Vault Address: Treasury vault. solscan.io, https://solscan.io/account/JCNCMFXo5M5qwUPg2Utu1u6YWp3MbygxqBsBeXXJfrw 🔷 HARD DATA
 
-[^49]: [OurCryptoTalk - Drift Volume](https://web.ourcryptotalk.com/news/drift-protocol-record-14b-perps-volume-july-2025) - Volume records. 🔷 HARD DATA
+[^49]: OurCryptoTalk. (2025, August 2). Drift Protocol Record: $14B Perps Volume July 2025. ourcryptotalk.com, https://web.ourcryptotalk.com/news/drift-protocol-record-14b-perps-volume-july-2025 🔷 HARD DATA
 
-[^50]: [Nansen - Drift](https://portfolio.nansen.ai/) - Smart money tracking.
+[^50]: Nansen. (2025). Drift: Smart money tracking. nansen.ai, https://portfolio.nansen.ai/
 
-[^51]: [Parsec Finance - Drift](https://parsec.finance/) - Real-time analytics.
+[^51]: Parsec Finance. (2025). Drift: Real-time analytics. parsec.finance, https://parsec.finance/
 
-[^52]: [Drift Realms DAO](https://www.drift.trade/governance/) - General governance.
+[^52]: Drift Protocol. (2025). Realms DAO: General governance. drift.trade, https://www.drift.trade/governance/
 
-[^53]: [Drift Security Council](https://www.drift.trade/governance/) - Security governance.
+[^53]: Drift Protocol. (2025). Security Council: Security governance. drift.trade, https://www.drift.trade/governance/
 
-[^54]: [Drift Futarchy DAO](https://www.drift.trade/governance/) - Grants governance.
+[^54]: Drift Protocol. (2025). Futarchy DAO: Grants governance. drift.trade, https://www.drift.trade/governance/
 
-[^55]: [DefiLlama - Drift Revenue](https://defillama.com/protocol/drift) - Protocol revenue tracking. 🔷 HARD DATA
+[^55]: DefiLlama. (2025, December 31). Drift Revenue: Protocol revenue tracking retrieved via API. defillama.com, https://defillama.com/protocol/drift 🔷 HARD DATA
