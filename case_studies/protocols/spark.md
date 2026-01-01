@@ -260,112 +260,112 @@ Based on $7.3B TVL[^2] and $1.39B borrowed[^2]:
 
 ## Footnotes
 
-[^1]: [Spark Protocol Documentation](https://docs.spark.fi/) - Official documentation covering lending mechanics, Liquidity Layer, and Sky integration. 🔷 HARD DATA
+[^1]: Spark Protocol. (2025). Documentation: Official documentation covering lending mechanics, Liquidity Layer, and Sky integration. docs.spark.fi, https://docs.spark.fi/ 🔷 HARD DATA
 
-[^2]: [DefiLlama - Spark TVL](https://defillama.com/protocol/spark) - Total Value Locked: $7.3B across 7 chains retrieved via DefiLlama API (December 31, 2025). 🔷 HARD DATA
+[^2]: DefiLlama. (2025, December 31). Spark TVL: $7.3B across 7 chains retrieved via API. defillama.com, https://defillama.com/protocol/spark 🔷 HARD DATA
 
-[^3]: [Spark App](https://app.spark.fi/) - Official lending interface. 🔷 HARD DATA
+[^3]: Spark Protocol. (2025). App: Official lending interface. app.spark.fi, https://app.spark.fi/ 🔷 HARD DATA
 
-[^4]: [CoinGecko - SPK Token](https://www.coingecko.com/en/coins/spark-2) - SPK governance token: $0.021, Market Cap $46.4M, FDV $210.5M retrieved via CoinGecko API (December 31, 2025). 🔷 HARD DATA
+[^4]: CoinGecko. (2025, December 31). SPK Token: $0.021, Market Cap $46.4M, FDV $210.5M retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/spark-2 🔷 HARD DATA
 
-[^5]: [Etherscan - Spark Pool](https://etherscan.io/) - On-chain lending pool contracts. 🔷 HARD DATA
+[^5]: Etherscan. (2025). Spark Pool: On-chain lending pool contracts. etherscan.io, https://etherscan.io/ 🔷 HARD DATA
 
-[^6]: [Dune Analytics - Spark](https://dune.com/spark_protocol) - On-chain analytics for deposits and borrows. 🔷 HARD DATA
+[^6]: Dune Analytics. (2025). Spark: On-chain analytics for deposits and borrows. dune.com, https://dune.com/spark_protocol 🔷 HARD DATA
 
-[^7]: [Sky Forum](https://forum.makerdao.com/) - Spark SubDAO governance discussions.
+[^7]: Sky Forum. (2025). Spark SubDAO: Governance discussions. forum.makerdao.com, https://forum.makerdao.com/
 
-[^8]: [Messari - Spark Research](https://messari.io/project/spark) - Protocol analysis. 🔷 HARD DATA
+[^8]: Messari. (2025). Spark Research: Protocol analysis. messari.io, https://messari.io/project/spark 🔷 HARD DATA
 
-[^9]: [The Block - Spark](https://www.theblock.co/tag/spark) - News coverage.
+[^9]: The Block. (2025). Spark: News coverage. theblock.co, https://www.theblock.co/tag/spark
 
-[^10]: [CoinDesk - Spark News](https://www.coindesk.com/tag/spark/) - Breaking news and developments.
+[^10]: CoinDesk. (2025). Spark News: Breaking news and developments. coindesk.com, https://www.coindesk.com/tag/spark/
 
-[^11]: [Token Terminal - Spark](https://tokenterminal.com/terminal/projects/spark) - Protocol metrics. 🔷 HARD DATA
+[^11]: Token Terminal. (2025). Spark: Protocol metrics. tokenterminal.com, https://tokenterminal.com/terminal/projects/spark 🔷 HARD DATA
 
-[^12]: [Electric Capital - Spark](https://www.developerreport.com/) - Developer activity. 🔷 HARD DATA
+[^12]: Electric Capital. (2025). Developer Report: Spark developer activity. developerreport.com, https://www.developerreport.com/ 🔷 HARD DATA
 
-[^13]: [USDS Savings Rate Integration](https://docs.spark.fi/) - USDS Savings Rate (formerly DSR) documentation.
+[^13]: Spark Protocol. (2025). USDS Savings Rate Integration: USDS Savings Rate (formerly DSR) documentation. docs.spark.fi, https://docs.spark.fi/
 
-[^14]: [sUSDS Token](https://etherscan.io/token/0x83f20f44975d03b1b09e64809b757c47f942beea) - Savings USDS contract (formerly sDAI). 🔷 HARD DATA
+[^14]: Etherscan. (2025). sUSDS Token: Savings USDS contract (formerly sDAI). etherscan.io, https://etherscan.io/token/0x83f20f44975d03b1b09e64809b757c47f942beea 🔷 HARD DATA
 
-[^15]: [Spark Liquidity Layer](https://docs.spark.fi/) - Capital deployment documentation.
+[^15]: Spark Protocol. (2025). Liquidity Layer: Capital deployment documentation. docs.spark.fi, https://docs.spark.fi/
 
-[^16]: [Phoenix Labs](https://www.phoenixlabs.dev/) - Core development team.
+[^16]: Phoenix Labs. (2025). Core development team for Spark. phoenixlabs.dev, https://www.phoenixlabs.dev/
 
-[^17]: [Spark Blog](https://blog.spark.fi/) - Official announcements.
+[^17]: Spark Protocol. (2025). Blog: Official announcements. blog.spark.fi, https://blog.spark.fi/
 
-[^18]: [Spark Twitter](https://twitter.com/sparkdotfi) - Official updates.
+[^18]: Spark Protocol. (2025). Twitter: Official updates. twitter.com, https://twitter.com/sparkdotfi
 
-[^19]: [Spark Discord](https://discord.gg/spark) - Community discussion.
+[^19]: Spark Protocol. (2025). Discord: Community discussion. discord.gg, https://discord.gg/spark
 
-[^20]: [Spark GitHub](https://github.com/sparkdotfi) - Open-source repositories.
+[^20]: Spark Protocol. (2025). GitHub: Open-source repositories. github.com, https://github.com/sparkdotfi
 
-[^21]: [Sky - Spark Integration](https://sky.money/) - Parent protocol (formerly MakerDAO) with $6.5B+ stablecoin reserves.
+[^21]: Sky. (2025). Spark Integration: Parent protocol (formerly MakerDAO) with $6.5B+ stablecoin reserves. sky.money, https://sky.money/
 
-[^22]: [Aave V3 Fork](https://aave.com/) - Codebase origin.
+[^22]: Aave. (2025). V3: Codebase origin for Spark Protocol. aave.com, https://aave.com/
 
-[^23]: [Spark Reserve Factor](https://docs.sparkprotocol.io/) - 10-20% fee documentation.
+[^23]: Spark Protocol. (2025). Reserve Factor: 10-20% fee documentation. docs.sparkprotocol.io, https://docs.sparkprotocol.io/
 
-[^24]: [Spark Interest Rate Model](https://docs.sparkprotocol.io/) - Rate curve documentation.
+[^24]: Spark Protocol. (2025). Interest Rate Model: Rate curve documentation. docs.sparkprotocol.io, https://docs.sparkprotocol.io/
 
-[^25]: [Spark Governance](https://vote.makerdao.com/) - MakerDAO voting for Spark.
+[^25]: MakerDAO. (2025). Spark Governance: Voting for Spark parameters. vote.makerdao.com, https://vote.makerdao.com/
 
-[^26]: [OpenZeppelin - Spark Audit](https://blog.openzeppelin.com/) - Security audit reports.
+[^26]: OpenZeppelin. (2025). Spark Audit: Security audit reports. blog.openzeppelin.com, https://blog.openzeppelin.com/
 
-[^27]: [Cantina - Spark Audit](https://cantina.xyz/) - Security assessment.
+[^27]: Cantina. (2025). Spark Audit: Security assessment. cantina.xyz, https://cantina.xyz/
 
-[^28]: [DeFiSafety - Spark](https://www.defisafety.com/) - Protocol safety scoring. 🔷 HARD DATA
+[^28]: DeFiSafety. (2025). Spark: Protocol safety scoring. defisafety.com, https://www.defisafety.com/ 🔷 HARD DATA
 
-[^29]: [Nansen - Spark](https://portfolio.nansen.ai/) - Smart money tracking.
+[^29]: Nansen. (2025). Spark: Smart money tracking. nansen.ai, https://portfolio.nansen.ai/
 
-[^30]: [Parsec Finance - Spark](https://parsec.finance/) - Real-time analytics.
+[^30]: Parsec Finance. (2025). Spark: Real-time analytics. parsec.finance, https://parsec.finance/
 
-[^31]: [Spark Collateral Types](https://app.sparkprotocol.io/) - Supported assets. 🔷 HARD DATA
+[^31]: Spark Protocol. (2025). Collateral Types: Supported assets. app.sparkprotocol.io, https://app.sparkprotocol.io/ 🔷 HARD DATA
 
-[^32]: [WBTC - Spark](https://app.sparkprotocol.io/) - Bitcoin collateral support.
+[^32]: Spark Protocol. (2025). WBTC: Bitcoin collateral support. app.sparkprotocol.io, https://app.sparkprotocol.io/
 
-[^33]: [wstETH - Spark](https://app.sparkprotocol.io/) - Lido integration.
+[^33]: Spark Protocol. (2025). wstETH: Lido integration. app.sparkprotocol.io, https://app.sparkprotocol.io/
 
-[^34]: [rETH - Spark](https://app.sparkprotocol.io/) - Rocket Pool integration.
+[^34]: Spark Protocol. (2025). rETH: Rocket Pool integration. app.sparkprotocol.io, https://app.sparkprotocol.io/
 
-[^35]: [weETH - Spark](https://app.sparkprotocol.io/) - EtherFi integration.
+[^35]: Spark Protocol. (2025). weETH: EtherFi integration. app.sparkprotocol.io, https://app.sparkprotocol.io/
 
-[^36]: [Spark Gnosis](https://gnosis.sparkprotocol.io/) - Gnosis Chain deployment.
+[^36]: Spark Protocol. (2025). Gnosis: Gnosis Chain deployment. gnosis.sparkprotocol.io, https://gnosis.sparkprotocol.io/
 
-[^37]: [Spark Flash Loans](https://docs.sparkprotocol.io/) - 0.09% fee documentation.
+[^37]: Spark Protocol. (2025). Flash Loans: 0.09% fee documentation. docs.sparkprotocol.io, https://docs.sparkprotocol.io/
 
-[^38]: [Spark Liquidations](https://docs.sparkprotocol.io/) - Liquidation mechanics.
+[^38]: Spark Protocol. (2025). Liquidations: Liquidation mechanics. docs.sparkprotocol.io, https://docs.sparkprotocol.io/
 
-[^39]: [Chronicle Oracle](https://chroniclelabs.org/) - MakerDAO oracle for Spark.
+[^39]: Chronicle Labs. (2025). Oracle: MakerDAO oracle for Spark. chroniclelabs.org, https://chroniclelabs.org/
 
-[^40]: [Spark Risk Parameters](https://docs.sparkprotocol.io/) - LTV and threshold documentation.
+[^40]: Spark Protocol. (2025). Risk Parameters: LTV and threshold documentation. docs.sparkprotocol.io, https://docs.sparkprotocol.io/
 
-[^41]: [Endgame Plan - Spark](https://forum.makerdao.com/) - SubDAO structure documentation.
+[^41]: MakerDAO Forum. (2025). Endgame Plan: Spark SubDAO structure documentation. forum.makerdao.com, https://forum.makerdao.com/
 
-[^42]: [SparkDAO Treasury](https://docs.sparkprotocol.io/) - Revenue accumulation.
+[^42]: Spark Protocol. (2025). SparkDAO Treasury: Revenue accumulation. docs.sparkprotocol.io, https://docs.sparkprotocol.io/
 
-[^43]: [Spark Lend](https://app.sparkprotocol.io/borrow) - Borrowing interface. 🔷 HARD DATA
+[^43]: Spark Protocol. (2025). Lend: Borrowing interface. app.sparkprotocol.io, https://app.sparkprotocol.io/borrow 🔷 HARD DATA
 
-[^44]: [Spark Earn](https://app.sparkprotocol.io/earn) - Lending interface. 🔷 HARD DATA
+[^44]: Spark Protocol. (2025). Earn: Lending interface. app.sparkprotocol.io, https://app.sparkprotocol.io/earn 🔷 HARD DATA
 
-[^45]: [DAI Markets](https://app.sparkprotocol.io/) - DAI lending statistics. 🔷 HARD DATA
+[^45]: Spark Protocol. (2025). DAI Markets: DAI lending statistics. app.sparkprotocol.io, https://app.sparkprotocol.io/ 🔷 HARD DATA
 
-[^46]: [USDC Markets](https://app.sparkprotocol.io/) - USDC lending statistics.
+[^46]: Spark Protocol. (2025). USDC Markets: USDC lending statistics. app.sparkprotocol.io, https://app.sparkprotocol.io/
 
-[^47]: [ETH Markets](https://app.sparkprotocol.io/) - ETH lending statistics.
+[^47]: Spark Protocol. (2025). ETH Markets: ETH lending statistics. app.sparkprotocol.io, https://app.sparkprotocol.io/
 
-[^48]: [L2Beat - Spark](https://l2beat.com/) - Layer 2 deployment tracking. 🔷 HARD DATA
+[^48]: L2Beat. (2025). Spark: Layer 2 deployment tracking. l2beat.com, https://l2beat.com/ 🔷 HARD DATA
 
-[^49]: [Spark Analytics](https://app.sparkprotocol.io/) - Protocol dashboard. 🔷 HARD DATA
+[^49]: Spark Protocol. (2025). Analytics: Protocol dashboard. app.sparkprotocol.io, https://app.sparkprotocol.io/ 🔷 HARD DATA
 
-[^50]: [MKR Token](https://www.coingecko.com/en/coins/maker) - Parent DAO governance token.
+[^50]: CoinGecko. (2025). MKR Token: Parent DAO governance token. coingecko.com, https://www.coingecko.com/en/coins/maker
 
-[^51]: [Sam MacPherson (Phoenix Labs)](https://twitter.com/hexonaut) - Core contributor.
+[^51]: MacPherson, S. (2025). Phoenix Labs: Core contributor. twitter.com, https://twitter.com/hexonaut
 
-[^52]: [Spark User Guide](https://docs.sparkprotocol.io/) - Getting started documentation.
+[^52]: Spark Protocol. (2025). User Guide: Getting started documentation. docs.sparkprotocol.io, https://docs.sparkprotocol.io/
 
-[^53]: [Spark Integration Guide](https://docs.sparkprotocol.io/) - Developer documentation.
+[^53]: Spark Protocol. (2025). Integration Guide: Developer documentation. docs.sparkprotocol.io, https://docs.sparkprotocol.io/
 
-[^54]: [Spark Security](https://docs.sparkprotocol.io/) - Security documentation.
+[^54]: Spark Protocol. (2025). Security: Security documentation. docs.sparkprotocol.io, https://docs.sparkprotocol.io/
 
-[^55]: [DefiLlama - Spark Revenue](https://defillama.com/protocol/spark) - Protocol revenue tracking. 🔷 HARD DATA
+[^55]: DefiLlama. (2025, December 31). Spark Revenue: Protocol revenue tracking retrieved via API. defillama.com, https://defillama.com/protocol/spark 🔷 HARD DATA
