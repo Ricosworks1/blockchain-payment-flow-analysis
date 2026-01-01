@@ -487,450 +487,450 @@ The machine economy thesis—75 billion connected devices requiring secure, veri
 
 ## Footnotes
 
-[^1]: [Staex Official Website](https://staex.io) - "Staex is the decentralized network layer that securely connects machines and devices while ensuring trusted, verifiable data."
+[^1]: Staex. (2025). Staex Official Website: Decentralized network layer for machines and devices. staex.io, https://staex.io
 
-[^2]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - "The disruptive team was ex-cubated out of the innovation lab of Deutsche Telekom."
+[^2]: EU-Startups. (2022, April). Berlin-based Staex raises €1.65 million for its unique and sustainable Web3 stack for IoT. eu-startups.com, https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/
 
-[^3]: [Humboldt Innovation](https://humboldt-innovation.de/en/startupservice/startup-portfolio/staex-gmbh) - Company founded in 2021.
+[^3]: Humboldt Innovation. (2021). Staex GmbH Startup Portfolio. humboldt-innovation.de, https://humboldt-innovation.de/en/startupservice/startup-portfolio/staex-gmbh
 
-[^4]: [peaq Blog](https://www.peaq.xyz/blog/staex-joins-the-peaqosystem) - "Staex, a secure peer-to-peer networking and software orchestration platform for DePIN."
+[^4]: peaq. (2024, January). Staex joins the peaqosystem as networking and indexing layer for DePIN. peaq.xyz, https://www.peaq.xyz/blog/staex-joins-the-peaqosystem
 
-[^5]: [Staex Official](https://staex.io) - "No middlemen. No cloud lock-ins. Just direct, tamper-proof connectivity."
+[^5]: Staex. (2025). Staex Official Website: No middlemen, no cloud lock-ins. staex.io, https://staex.io
 
-[^6]: [Chainwire](https://chainwire.org/2024/01/25/staex-joins-peaq-as-a-networking-and-indexing-layer-for-depin/) - Staex joins peaq as networking and indexing layer.
+[^6]: Chainwire. (2024, January 25). Staex joins peaq as a networking and indexing layer for DePIN. chainwire.org, https://chainwire.org/2024/01/25/staex-joins-peaq-as-a-networking-and-indexing-layer-for-depin/
 
-[^7]: [DFINITY Forum](https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723) - Staex VTS built on Internet Computer.
+[^7]: DFINITY Forum. (2024). Staex VTS: Infrastructure to track and invoice vehicles on Internet Computer. forum.dfinity.org, https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723
 
-[^8]: [Staex Blog](https://staex.io/blog/partnership-lisk) - "Staex and Lisk join forces for Drone Infrastructure Payment Innovation."
+[^8]: Staex. (2023). Staex and Lisk join forces for Drone Infrastructure Payment Innovation. staex.io, https://staex.io/blog/partnership-lisk
 
-[^9]: [Staex Post](https://www.staex.io/post/staex-solana-superteam-germany-partnership) - Partnership with Solana Superteam Germany announced July 2025.
+[^9]: Staex. (2025, July). Staex partners with Solana Superteam Germany. staex.io, https://www.staex.io/post/staex-solana-superteam-germany-partnership
 
-[^10]: [Messari](https://messari.io/report/state-of-u2u-q3-2025) - "U2U integrated with Staex, a protocol that securely connects and coordinates IoT and DePIN devices."
+[^10]: Messari. (2025, Q3). State of U2U Q3 2025: Staex integration for IoT and DePIN devices. messari.io, https://messari.io/report/state-of-u2u-q3-2025
 
-[^11]: [Linera News](https://linera.io/news/linera-x-staex) - Linera partners with Staex for real-world data validation.
+[^11]: Linera. (2025). Linera partners with Staex for real-world data validation. linera.io, https://linera.io/news/linera-x-staex
 
-[^12]: [Berlin Deep Tech Interview](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - Staex as bridge between Web2 and Web3 technologies.
+[^12]: Berlin Deep Tech. (2024). Interview: Staex bridges Web2 and Web3 technologies. berlin.de, https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php
 
-[^13]: [Staex NEXA Page](https://www.staex.io/nexa) - "World's first Web3-operated drone corridor."
+[^13]: Staex. (2024). NEXA: World's first Web3-operated drone corridor. staex.io, https://www.staex.io/nexa
 
-[^14]: [Humboldt Innovation](https://humboldt-innovation.de/en/news/staex-wins-deep-tech-award-again) - "Staex wins Deep Tech Award again."
+[^14]: Humboldt Innovation. (2024). Staex wins Deep Tech Award again in Web3 category. humboldt-innovation.de, https://humboldt-innovation.de/en/news/staex-wins-deep-tech-award-again
 
-[^15]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - Pre-seed funding stage.
+[^15]: EU-Startups. (2022, April). Berlin-based Staex raises €1.65 million: Pre-seed funding stage. eu-startups.com, https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/
 
-[^16]: [Brandenburg Kapital](https://www.brandenburg-kapital.de/en/bk/news/newsdetailseite_1979904.html) - "€1.65 million in a pre-seed round."
+[^16]: Brandenburg Kapital. (2022, April). Staex raises €1.65 million in pre-seed round. brandenburg-kapital.de, https://www.brandenburg-kapital.de/en/bk/news/newsdetailseite_1979904.html
 
-[^17]: [Crunchbase](https://www.crunchbase.com/person/alexandra-mikityuk) - Founded 2021.
+[^17]: Crunchbase. (2021). Alexandra Mikityuk founder profile: Staex founded 2021. crunchbase.com, https://www.crunchbase.com/person/alexandra-mikityuk
 
-[^18]: Interview with Staex CEO Dr. Alexandra Mikityuk by Maze2 SA CEO (December 2025) - Headquarters confirmed as Potsdam, Germany.
+[^18]: Mikityuk, A. (2025, December). Interview with Staex CEO by Maze2 SA CEO. Headquarters confirmed as Potsdam, Germany.
 
-[^19]: [Berlin Deep Tech](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - "Staex originated as a management buyout from Deutsche Telekom."
+[^19]: Berlin Deep Tech. (2024). Interview: Staex originated as management buyout from Deutsche Telekom. berlin.de, https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php
 
-[^20]: [Twitter @Staex_io](https://twitter.com/Staex_io) - Social media analysis confirms no token announcements as of December 2025.
+[^20]: Staex. (2025, December). @Staex_io Twitter account analysis: No token announcements. twitter.com, https://twitter.com/Staex_io
 
-[^21]: [Breaking DePIN 2025](https://www.breakingdepin.ch/schedule.html) - Staex presenting "Trusted Data Networks: Building the Backbone of DePIN and Physical AI" at Physical AI UnConference, Zurich, September 2025. Physical AI category confirmed via interview with Staex CEO by Maze2 SA CEO.
+[^21]: Breaking DePIN. (2025, September). Staex presentation: Trusted Data Networks at Physical AI UnConference, Zurich. breakingdepin.ch, https://www.breakingdepin.ch/schedule.html
 
-[^22]: [Berlin Deep Tech Winners](https://www.berlin.de/deeptech/en/blog/artikel.1466383.en.php) - Deep Tech Award 2024 winner in Web3 category.
+[^22]: Berlin Deep Tech. (2024). Deep Tech Award 2024 Winners: Staex in Web3 category. berlin.de, https://www.berlin.de/deeptech/en/blog/artikel.1466383.en.php
 
-[^22a]: Interview with Staex CEO Dr. Alexandra Mikityuk by Maze2 SA CEO (December 2025) - Report published on webthreepedia.com.
+[^22a]: Mikityuk, A. (2025, December). Interview with Staex CEO by Maze2 SA CEO. Report published on webthreepedia.com.
 
-[^23]: [Staex VTS Forum](https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723) - "Staex's technology development started in 2017 in Telekom Innovation Laboratories."
+[^23]: DFINITY Forum. (2024). Staex VTS: Technology development started 2017 at Telekom Innovation Laboratories. forum.dfinity.org, https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723
 
-[^24]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - Management buyout from Deutsche Telekom.
+[^24]: EU-Startups. (2022, April). Berlin-based Staex: Management buyout from Deutsche Telekom confirmed. eu-startups.com, https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/
 
-[^25]: Interview with Staex CEO Dr. Alexandra Mikityuk by Maze2 SA CEO (December 2025) - Headquarters confirmed as Potsdam, Germany.
+[^25]: Mikityuk, A. (2025, December). Interview with Staex CEO by Maze2 SA CEO. Headquarters confirmed as Potsdam, Germany.
 
-[^25a]: Interview with Staex CEO by Maze2 SA CEO (December 2025) - The Drivery co-working space in Berlin has closed; Staex was always headquartered in Potsdam but previously operated from The Drivery.
+[^25a]: Mikityuk, A. (2025, December). Interview with Staex CEO by Maze2 SA CEO. The Drivery co-working space closed; Staex always headquartered in Potsdam.
 
-[^26]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - "Product is based on a patented cutting-edge technology." Management buyout confirmed.
+[^26]: EU-Startups. (2022, April). Berlin-based Staex: Product based on patented cutting-edge technology. eu-startups.com, https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/
 
-[^27]: [Chainwire](https://chainwire.org/2024/01/25/staex-joins-peaq-as-a-networking-and-indexing-layer-for-depin/) - "75 billion machine connections by 2030."
+[^27]: Chainwire. (2024, January 25). 75 billion machine connections projected by 2030. chainwire.org, https://chainwire.org/2024/01/25/staex-joins-peaq-as-a-networking-and-indexing-layer-for-depin/
 
-[^28]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - Machine economy vision: "global machine-to-machine economy."
+[^28]: EU-Startups. (2022, April). Machine economy vision: Global machine-to-machine economy. eu-startups.com, https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/
 
-[^29]: [Chainwire](https://chainwire.org/2024/01/25/staex-joins-peaq-as-a-networking-and-indexing-layer-for-depin/) - "Trusted, verifiable data" for DePIN applications.
+[^29]: Chainwire. (2024, January 25). Trusted, verifiable data for DePIN applications. chainwire.org, https://chainwire.org/2024/01/25/staex-joins-peaq-as-a-networking-and-indexing-layer-for-depin/
 
-[^30]: [Berlin Deep Tech Interview](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - Machines aligning on shared truths for coordination.
+[^30]: Berlin Deep Tech. (2024). Interview: Machines aligning on shared truths for coordination. berlin.de, https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php
 
-[^31]: [DFINITY Forum - VTS](https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723) - Autonomous decision-making capability for IoT devices.
+[^31]: DFINITY Forum. (2024). Staex VTS: Autonomous decision-making capability for IoT devices. forum.dfinity.org, https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723
 
-[^32]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - Machine-to-machine value transactions.
+[^32]: EU-Startups. (2022, April). Machine-to-machine value transactions vision. eu-startups.com, https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/
 
-[^33]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - Quote from Dr. Alexandra Mikityuk.
+[^33]: EU-Startups. (2022, April). Quote from Dr. Alexandra Mikityuk on machine economy. eu-startups.com, https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/
 
-[^34]: [Paris Blockchain Week](https://tickets.parisblockchainweek.com/2025/speaker/1651689/alexandra-mikityuk) - Speaker profile.
+[^34]: Paris Blockchain Week. (2025). Speaker profile: Alexandra Mikityuk. parisblockchainweek.com, https://tickets.parisblockchainweek.com/2025/speaker/1651689/alexandra-mikityuk
 
-[^35]: [Best of Blockchain](https://bestofblockchain.io/en/team/dr-alexandra-mikityuk-2/) - "PhD at TU Berlin."
+[^35]: Best of Blockchain. (2024). Dr. Alexandra Mikityuk team profile: PhD at TU Berlin. bestofblockchain.io, https://bestofblockchain.io/en/team/dr-alexandra-mikityuk-2/
 
-[^36]: [HTW Berlin Faculty Page](https://www.htw-berlin.de/hochschule/personen/person/?eid=15015) - Dr.-Ing. Alexandra Mikityuk, Professor for Computer Science of Communication Technology, Faculty of Engineering Sciences - Energy and Information. Research focus: Security, Blockchain and Web3.
+[^36]: HTW Berlin. (2025). Faculty page: Dr.-Ing. Alexandra Mikityuk, Professor for Computer Science of Communication Technology. htw-berlin.de, https://www.htw-berlin.de/hochschule/personen/person/?eid=15015
 
-[^37]: [AI Berlin](https://ai-berlin.com/blog/article/paksy-plackis-cheng-founder-impactmania-chief-strategy-officer-co-founder-staex) - "Led the Blockchain Group at Deutsche Telekom Innovation Labs."
+[^37]: AI Berlin. (2024). Paksy Plackis-Cheng profile: Dr. Mikityuk led Blockchain Group at Deutsche Telekom Innovation Labs. ai-berlin.com, https://ai-berlin.com/blog/article/paksy-plackis-cheng-founder-impactmania-chief-strategy-officer-co-founder-staex
 
-[^38]: [Paris Blockchain Week](https://tickets.parisblockchainweek.com/2025/speaker/1651689/alexandra-mikityuk) - Expertise in decentralized systems.
+[^38]: Paris Blockchain Week. (2025). Speaker profile: Alexandra Mikityuk expertise in decentralized systems. parisblockchainweek.com, https://tickets.parisblockchainweek.com/2025/speaker/1651689/alexandra-mikityuk
 
-[^39]: [LinkedIn](https://www.linkedin.com/in/philip-toepffer/) - Philip Toepffer profile.
+[^39]: LinkedIn. (2025). Philip Toepffer professional profile. linkedin.com, https://www.linkedin.com/in/philip-toepffer/
 
-[^40]: [F6S Profile](https://www.f6s.com/member/philip-toepffer) - "External PhD Candidate at TU Berlin."
+[^40]: F6S. (2025). Philip Toepffer profile: External PhD Candidate at TU Berlin. f6s.com, https://www.f6s.com/member/philip-toepffer
 
-[^41]: [Humboldt Innovation](https://humboldt-innovation.de/en/startupservice/startup-portfolio/staex-gmbh) - Finance and business development expertise.
+[^41]: Humboldt Innovation. (2021). Staex GmbH: Finance and business development expertise. humboldt-innovation.de, https://humboldt-innovation.de/en/startupservice/startup-portfolio/staex-gmbh
 
-[^42]: [The Org](https://theorg.com/org/staex/org-chart/philip-c-toepffer) - Role evolution from COO to CFO.
+[^42]: The Org. (2025). Philip C. Toepffer org chart: Role evolution from COO to CFO. theorg.com, https://theorg.com/org/staex/org-chart/philip-c-toepffer
 
-[^43]: [LinkedIn](https://www.linkedin.com/in/paksy/) - Paksy Plackis-Cheng profile.
+[^43]: LinkedIn. (2025). Paksy Plackis-Cheng professional profile. linkedin.com, https://www.linkedin.com/in/paksy/
 
-[^44]: [AI Berlin](https://ai-berlin.com/blog/article/paksy-plackis-cheng-founder-impactmania-chief-strategy-officer-co-founder-staex) - "15 years of global experience in 20+ countries."
+[^44]: AI Berlin. (2024). Paksy Plackis-Cheng: 15 years of global experience in 20+ countries. ai-berlin.com, https://ai-berlin.com/blog/article/paksy-plackis-cheng-founder-impactmania-chief-strategy-officer-co-founder-staex
 
-[^45]: [impactmania](https://www.impactmania.com/im/about/) - "Former Senior Fellow at UCSB."
+[^45]: impactmania. (2025). About page: Paksy Plackis-Cheng, former Senior Fellow at UCSB. impactmania.com, https://www.impactmania.com/im/about/
 
-[^46]: [ResearchGate](https://www.researchgate.net/profile/Paksy-Plackis-Cheng) - EU AI policy work.
+[^46]: ResearchGate. (2025). Paksy Plackis-Cheng profile: EU AI policy work. researchgate.net, https://www.researchgate.net/profile/Paksy-Plackis-Cheng
 
-[^47]: [AI Berlin](https://ai-berlin.com/blog/article/paksy-plackis-cheng-founder-impactmania-chief-strategy-officer-co-founder-staex) - "$6.9B IPO-stage startup" experience.
+[^47]: AI Berlin. (2024). Paksy Plackis-Cheng: $6.9B IPO-stage startup experience. ai-berlin.com, https://ai-berlin.com/blog/article/paksy-plackis-cheng-founder-impactmania-chief-strategy-officer-co-founder-staex
 
-[^48]: [impactmania](https://www.impactmania.com/im/about/) - Founder of impactmania.
+[^48]: impactmania. (2025). About page: Paksy Plackis-Cheng, Founder of impactmania. impactmania.com, https://www.impactmania.com/im/about/
 
-[^49]: [PitchBook Staex Profile](https://pitchbook.com/profiles/company/495000-46) - Total funding $1.81M across multiple rounds.
+[^49]: PitchBook. (2025). Staex company profile: Total funding $1.81M across multiple rounds. pitchbook.com, https://pitchbook.com/profiles/company/495000-46
 
-[^49a]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - "€1.65 million pre-seed funding."
+[^49a]: EU-Startups. (2022, April). Berlin-based Staex: €1.65 million pre-seed funding confirmed. eu-startups.com, https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/
 
-[^50]: [Brandenburg Kapital](https://www.brandenburg-kapital.de/en/bk/news/newsdetailseite_1979904.html) - Lead investor details.
+[^50]: Brandenburg Kapital. (2022, April). Staex pre-seed: Brandenburg Kapital lead investor details. brandenburg-kapital.de, https://www.brandenburg-kapital.de/en/bk/news/newsdetailseite_1979904.html
 
-[^51]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - Blockwall Capital as co-lead.
+[^51]: EU-Startups. (2022, April). Berlin-based Staex: Blockwall Capital as co-lead investor. eu-startups.com, https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/
 
-[^52]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - "Including Andreas Möller."
+[^52]: EU-Startups. (2022, April). Berlin-based Staex: Andreas Möller angel investor participation. eu-startups.com, https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/
 
-[^53]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - Use of funds for product development.
+[^53]: EU-Startups. (2022, April). Berlin-based Staex: Use of funds for product development. eu-startups.com, https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/
 
-[^54]: [Brandenburg Kapital - Moonrock Capital Investment](https://www.brandenburg-kapital.de/en/bk/news/newsdetailseite_119.html) - Moonrock Capital investment in Staex (April 2024).
+[^54]: Brandenburg Kapital. (2024, April). Moonrock Capital invests in Staex with continued Brandenburg Kapital support. brandenburg-kapital.de, https://www.brandenburg-kapital.de/en/bk/news/newsdetailseite_119.html
 
-[^54a]: [Brandenburg Kapital](https://www.brandenburg-kapital.de/en/bk/news/newsdetailseite_119.html) - "The need of a decentralized network realizing machine-to-machine economy."
+[^54a]: Brandenburg Kapital. (2024, April). Moonrock Capital: Need for decentralized machine-to-machine economy network. brandenburg-kapital.de, https://www.brandenburg-kapital.de/en/bk/news/newsdetailseite_119.html
 
-[^54b]: [Brandenburg Kapital](https://www.brandenburg-kapital.de/en/bk/news/newsdetailseite_119.html) - Clean-tech software enabling distributed IT networks.
+[^54b]: Brandenburg Kapital. (2024, April). Moonrock Capital: Clean-tech software for distributed IT networks. brandenburg-kapital.de, https://www.brandenburg-kapital.de/en/bk/news/newsdetailseite_119.html
 
-[^55]: [Staex News - The Drivery Investment](https://staex.io/news/the-drivery-invests-in-staex-supporting-future-mobility-innovations) - The Drivery GmbH early-stage investment announcement.
+[^55]: Staex. (2024). The Drivery invests in Staex supporting future mobility innovations. staex.io, https://staex.io/news/the-drivery-invests-in-staex-supporting-future-mobility-innovations
 
-[^55a]: [Staex News](https://staex.io/news/the-drivery-invests-in-staex-supporting-future-mobility-innovations) - "Reflects their belief in Staex's innovative approach."
+[^55a]: Staex. (2024). The Drivery investment: Reflects belief in Staex's innovative approach. staex.io, https://staex.io/news/the-drivery-invests-in-staex-supporting-future-mobility-innovations
 
-[^55b]: [Staex News](https://staex.io/news/the-drivery-invests-in-staex-supporting-future-mobility-innovations) - Quote from Sebastian Leber, Director of Innovation Programs.
+[^55b]: Staex. (2024). The Drivery investment: Quote from Sebastian Leber, Director of Innovation Programs. staex.io, https://staex.io/news/the-drivery-invests-in-staex-supporting-future-mobility-innovations
 
-[^56]: [Staex Post - MN Capital](https://www.staex.io/post/staex-receives-investment-from-mn-capital) - MN Capital investment announcement.
+[^56]: Staex. (2024). Staex receives investment from MN Capital. staex.io, https://www.staex.io/post/staex-receives-investment-from-mn-capital
 
-[^56a]: [Staex Post](https://www.staex.io/post/staex-receives-investment-from-mn-capital) - "Mobility and energy sectors."
+[^56a]: Staex. (2024). MN Capital investment: Focus on mobility and energy sectors. staex.io, https://www.staex.io/post/staex-receives-investment-from-mn-capital
 
-[^56b]: [Staex Post](https://www.staex.io/post/staex-receives-investment-from-mn-capital) - "First DePIN public transport network."
+[^56b]: Staex. (2024). MN Capital investment: First DePIN public transport network vision. staex.io, https://www.staex.io/post/staex-receives-investment-from-mn-capital
 
-[^57]: [Staex Post - Generative Ventures](https://www.staex.io/post/https-staex-io-blog-staex-generative-ventures-investment) - Generative Ventures investment announcement (January 2025).
+[^57]: Staex. (2025, January). Generative Ventures announces investment in Staex. staex.io, https://www.staex.io/post/https-staex-io-blog-staex-generative-ventures-investment
 
-[^57a]: [Staex Post](https://www.staex.io/post/https-staex-io-blog-staex-generative-ventures-investment) - Quote from Lex Sokolin, Partner at Generative Ventures.
+[^57a]: Staex. (2025, January). Generative Ventures: Quote from Lex Sokolin, Partner. staex.io, https://www.staex.io/post/https-staex-io-blog-staex-generative-ventures-investment
 
-[^57b]: [Staex Post](https://www.staex.io/post/https-staex-io-blog-staex-generative-ventures-investment) - Partnership focus on scalability and security in DePIN.
+[^57b]: Staex. (2025, January). Generative Ventures: Focus on scalability and security in DePIN. staex.io, https://www.staex.io/post/https-staex-io-blog-staex-generative-ventures-investment
 
-[^58]: Interview with Staex CEO Dr. Alexandra Mikityuk by Maze2 SA CEO (December 2025) - EV3 Labs investor profile: DePIN development, AR, AI, IoT solutions; DePIN Ninja analytics; DePIN Summit.
+[^58]: Mikityuk, A. (2025, December). Interview with Staex CEO by Maze2 SA CEO. EV3 Labs investor profile: DePIN development, AR, AI, IoT; DePIN Ninja analytics; DePIN Summit.
 
-[^58a]: Interview with Staex CEO by Maze2 SA CEO (December 2025) - Sean Carey investor profile: Co-founder/CTO of Helium Systems and BlockJoy; Lead Partner at Borderless Capital.
+[^58a]: Mikityuk, A. (2025, December). Interview with Staex CEO by Maze2 SA CEO. Sean Carey profile: Co-founder/CTO Helium Systems and BlockJoy; Lead Partner Borderless Capital.
 
-[^58b]: Interview with Staex CEO by Maze2 SA CEO (December 2025) - Christoph Jentzsch investor profile: Ethereum core developer (2014/15); co-founder slock.it; author of TheDAO; CEO Tokenize.it; Best Regulatory Innovation in Blockchain 2024.
+[^58b]: Mikityuk, A. (2025, December). Interview with Staex CEO by Maze2 SA CEO. Christoph Jentzsch profile: Ethereum core developer (2014/15); co-founder slock.it; author TheDAO; CEO Tokenize.it.
 
-[^58c]: Interview with Staex CEO Dr. Alexandra Mikityuk by Maze2 SA CEO (December 2025) - Angel investor information provided directly by CEO.
+[^58c]: Mikityuk, A. (2025, December). Interview with Staex CEO by Maze2 SA CEO. Angel investor information provided directly by CEO.
 
-[^61]: [Berlin Deep Tech Interview](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - Two-layer architecture (Connectivity + Security/Identity). Smart Billing layer was disposed of per CEO interview (Dec 2025).
+[^61]: Berlin Deep Tech. (2024). Interview: Two-layer architecture (Connectivity + Security/Identity). berlin.de, https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php
 
-[^62]: [Berlin Deep Tech Interview](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - EU SIM/eSIM connectivity support.
+[^62]: Berlin Deep Tech. (2024). Interview: EU SIM/eSIM connectivity support. berlin.de, https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php
 
-[^63]: [Berlin Deep Tech Interview](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - Multi-network roaming capabilities.
+[^63]: Berlin Deep Tech. (2024). Interview: Multi-network roaming capabilities. berlin.de, https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php
 
-[^64]: [Berlin Deep Tech Interview](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - Multi-network redundancy for reliability.
+[^64]: Berlin Deep Tech. (2024). Interview: Multi-network redundancy for reliability. berlin.de, https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php
 
-[^65]: [Berlin Deep Tech](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - "Multi-hop architecture for complex topologies."
+[^65]: Berlin Deep Tech. (2024). Interview: Multi-hop architecture for complex topologies. berlin.de, https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php
 
-[^66]: [Berlin Deep Tech](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - "Block all network traffic by default."
+[^66]: Berlin Deep Tech. (2024). Interview: Block all network traffic by default (zero-trust). berlin.de, https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php
 
-[^67]: [peaq Blog](https://www.peaq.network/blog/staex-adds-peaq-ids-and-role-based-access-control-to-its-network) - peaq IDs integration.
+[^67]: peaq. (2024). Staex adds peaq IDs and role-based access control to its network. peaq.network, https://www.peaq.network/blog/staex-adds-peaq-ids-and-role-based-access-control-to-its-network
 
-[^68]: [Berlin Deep Tech Interview](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - Peer-to-peer encrypted tunnels for secure communication.
+[^68]: Berlin Deep Tech. (2024). Interview: Peer-to-peer encrypted tunnels for secure communication. berlin.de, https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php
 
-[^69]: [Berlin Deep Tech Interview](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - Tamper-proof logging via blockchain integration.
+[^69]: Berlin Deep Tech. (2024). Interview: Tamper-proof logging via blockchain integration. berlin.de, https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php
 
-[^70]: [Berlin Deep Tech](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - "Clients retain private keys."
+[^70]: Berlin Deep Tech. (2024). Interview: Clients retain private keys on-device. berlin.de, https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php
 
-[^75]: [Berlin Deep Tech](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - "Encryption of outdated communication protocols."
+[^75]: Berlin Deep Tech. (2024). Interview: Encryption of outdated communication protocols. berlin.de, https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php
 
-[^76]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - "5 times lower software footprint."
+[^76]: EU-Startups. (2022, April). Berlin-based Staex: 5 times lower software footprint. eu-startups.com, https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/
 
-[^77]: [Berlin Deep Tech](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - "IoT devices that can not run a VPN."
+[^77]: Berlin Deep Tech. (2024). Interview: IoT devices that cannot run a VPN. berlin.de, https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php
 
-[^78]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - "Master-less management."
+[^78]: EU-Startups. (2022, April). Berlin-based Staex: Master-less management architecture. eu-startups.com, https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/
 
-[^79]: [Berlin Deep Tech](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - "Store only public keys in the blockchain."
+[^79]: Berlin Deep Tech. (2024). Interview: Store only public keys in the blockchain. berlin.de, https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php
 
-[^80]: [Chainwire](https://chainwire.org/2024/01/25/staex-joins-peaq-as-a-networking-and-indexing-layer-for-depin/) - January 2024 peaq integration.
+[^80]: Chainwire. (2024, January 25). Staex joins peaq: January 2024 integration announcement. chainwire.org, https://chainwire.org/2024/01/25/staex-joins-peaq-as-a-networking-and-indexing-layer-for-depin/
 
-[^81]: [peaq Blog](https://www.peaq.xyz/blog/staex-joins-the-peaqosystem) - "Indexing pallet for peaq."
+[^81]: peaq. (2024, January). Staex joins the peaqosystem: Indexing pallet for peaq. peaq.xyz, https://www.peaq.xyz/blog/staex-joins-the-peaqosystem
 
-[^82]: [Crypto Daily](https://cryptodaily.co.uk/2024/01/staex-joins-peaq-as-a-networking-and-indexing-layer-for-depin) - "Mesh Communication Component (MCC)."
+[^82]: Crypto Daily. (2024, January). Staex joins peaq: Mesh Communication Component (MCC). cryptodaily.co.uk, https://cryptodaily.co.uk/2024/01/staex-joins-peaq-as-a-networking-and-indexing-layer-for-depin
 
-[^83]: [peaq Blog](https://www.peaq.network/blog/staex-adds-peaq-ids-and-role-based-access-control-to-its-network) - "peaq IDs integration."
+[^83]: peaq. (2024). Staex adds peaq IDs integration to its network. peaq.network, https://www.peaq.network/blog/staex-adds-peaq-ids-and-role-based-access-control-to-its-network
 
-[^84]: [peaq Blog](https://www.peaq.network/blog/staex-adds-peaq-ids-and-role-based-access-control-to-its-network) - "Role-Based Access Control."
+[^84]: peaq. (2024). Staex adds Role-Based Access Control. peaq.network, https://www.peaq.network/blog/staex-adds-peaq-ids-and-role-based-access-control-to-its-network
 
-[^85]: [peaq Q1 2024 Review](https://www.peaq.xyz/blog/depin-digest-q1-2024-peaqosystem-review) - "Second milestone in DePIN Grant Program."
+[^85]: peaq. (2024, Q1). DePIN Digest Q1 2024: Second milestone in DePIN Grant Program. peaq.xyz, https://www.peaq.xyz/blog/depin-digest-q1-2024-peaqosystem-review
 
-[^86]: [peaq Blog](https://www.peaq.network/blog/staex-adds-peaq-ids-and-role-based-access-control-to-its-network) - CLI tools for builders.
+[^86]: peaq. (2024). Staex CLI tools for builders. peaq.network, https://www.peaq.network/blog/staex-adds-peaq-ids-and-role-based-access-control-to-its-network
 
-[^87]: [DFINITY Forum](https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723) - "Vehicle Tracking System based on ICP."
+[^87]: DFINITY Forum. (2024). Vehicle Tracking System (VTS) based on Internet Computer Protocol. forum.dfinity.org, https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723
 
-[^88]: [VTS Forum](https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723) - "Rust SDK implementation."
+[^88]: DFINITY Forum. (2024). Staex VTS: Rust SDK implementation details. forum.dfinity.org, https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723
 
-[^89]: [VTS Forum](https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723) - "k256 crypto library."
+[^89]: DFINITY Forum. (2024). Staex VTS: k256 crypto library for signature verification. forum.dfinity.org, https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723
 
-[^90]: [VTS Forum](https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoke-vehicles/32723) - "Canister executes monthly."
+[^90]: DFINITY Forum. (2024). Staex VTS: Canister executes monthly for automated invoicing. forum.dfinity.org, https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723
 
-[^91]: [VTS Forum](https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723) - "Unblock vehicles after invoice is paid."
+[^91]: DFINITY Forum. (2024). Staex VTS: Unblock vehicles after invoice is paid. forum.dfinity.org, https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723
 
-[^92]: [VTS Forum](https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723) - ICP advantages listed.
+[^92]: DFINITY Forum. (2024). Staex VTS: ICP advantages for vehicle tracking. forum.dfinity.org, https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723
 
-[^93]: [Staex Blog](https://staex.io/blog/partnership-lisk) - RISE project description.
+[^93]: Staex. (2023). RISE project: Staex and Lisk partnership for drone infrastructure. staex.io, https://staex.io/blog/partnership-lisk
 
-[^94]: [Staex Blog](https://staex.io/blog/partnership-lisk) - "Joined Lisk Accelerator in August 2023."
+[^94]: Staex. (2023, August). Staex joined Lisk Accelerator program. staex.io, https://staex.io/blog/partnership-lisk
 
-[^95]: [Unmanned Airspace](https://www.unmannedairspace.info/latest-news-and-information/staex-and-eva-to-build-first-web3-operated-drone-delivery-corridor-in-berlin/) - "Cryptographic hash on the Lisk blockchain."
+[^95]: Unmanned Airspace. (2024). Staex and EVA drone corridor: Cryptographic hash on Lisk blockchain. unmannedairspace.info, https://www.unmannedairspace.info/latest-news-and-information/staex-and-eva-to-build-first-web3-operated-drone-delivery-corridor-in-berlin/
 
-[^96]: [Staex Blog](https://staex.io/blog/partnership-lisk) - "Journey toward Lisk mainnet integration."
+[^96]: Staex. (2023). Journey toward Lisk mainnet integration. staex.io, https://staex.io/blog/partnership-lisk
 
-[^97]: [Staex Post](https://www.staex.io/post/staex-solana-superteam-germany-partnership) - July 2025 Solana partnership.
+[^97]: Staex. (2025, July). Staex partners with Solana Superteam Germany. staex.io, https://www.staex.io/post/staex-solana-superteam-germany-partnership
 
-[^98]: [Staex Post](https://www.staex.io/post/staex-solana-superteam-germany-partnership) - "Leveraging Solana for real-time data sharing."
+[^98]: Staex. (2025, July). Leveraging Solana for real-time data sharing. staex.io, https://www.staex.io/post/staex-solana-superteam-germany-partnership
 
-[^99]: [Staex Post](https://www.staex.io/post/staex-solana-superteam-germany-partnership) - "Decentralized infrastructure in Germany."
+[^99]: Staex. (2025, July). Decentralized infrastructure focus in Germany. staex.io, https://www.staex.io/post/staex-solana-superteam-germany-partnership
 
-[^100]: [Messari U2U Report](https://messari.io/report/state-of-u2u-q3-2025) - U2U integration with Staex.
+[^100]: Messari. (2025, Q3). State of U2U Q3 2025: U2U integration with Staex. messari.io, https://messari.io/report/state-of-u2u-q3-2025
 
-[^101]: [Messari](https://messari.io/report/state-of-u2u-q3-2025) - "Peer-to-peer communication for IoT."
+[^101]: Messari. (2025, Q3). U2U report: Peer-to-peer communication for IoT devices. messari.io, https://messari.io/report/state-of-u2u-q3-2025
 
-[^102]: [Messari](https://messari.io/report/state-of-u2u-q3-2025) - "Cloud-free, verifiable data exchange."
+[^102]: Messari. (2025, Q3). U2U report: Cloud-free, verifiable data exchange. messari.io, https://messari.io/report/state-of-u2u-q3-2025
 
-[^103]: [Messari](https://messari.io/report/state-of-u2u-q3-2025) - "DeFi, RWA, and DePIN verticals."
+[^103]: Messari. (2025, Q3). U2U report: DeFi, RWA, and DePIN verticals expansion. messari.io, https://messari.io/report/state-of-u2u-q3-2025
 
-[^104]: [Linera News](https://linera.io/news/linera-x-staex) - Linera partnership announcement.
+[^104]: Linera. (2025). Linera partners with Staex for real-world data validation. linera.io, https://linera.io/news/linera-x-staex
 
-[^105]: [Linera News](https://linera.io/news/linera-x-staex) - "10 city buses in North Rhine-Westphalia."
+[^105]: Linera. (2025). Staex pilot: 10 city buses in North Rhine-Westphalia, Germany. linera.io, https://linera.io/news/linera-x-staex
 
-[^106]: [Linera News](https://linera.io/news/linera-x-staex) - "Up to one million transactions per day."
+[^106]: Linera. (2025). Staex partnership: Up to one million transactions per day capacity. linera.io, https://linera.io/news/linera-x-staex
 
-[^107]: [Linera News](https://linera.io/news/linera-x-staex) - "Performance metrics, location data, diagnostics."
+[^107]: Linera. (2025). Staex data types: Performance metrics, location data, diagnostics. linera.io, https://linera.io/news/linera-x-staex
 
-[^108]: [Linera News](https://linera.io/news/linera-x-staex) - "Production deployment across 100+ buses."
+[^108]: Linera. (2025). Staex next phase: Production deployment across 100+ buses. linera.io, https://linera.io/news/linera-x-staex
 
-[^109]: [Linera News](https://linera.io/news/linera-x-staex) - Paksy Plackis-Cheng quote.
+[^109]: Linera. (2025). Quote from Paksy Plackis-Cheng on Linera microchain architecture. linera.io, https://linera.io/news/linera-x-staex
 
-[^110]: [Staex NEXA](https://www.staex.io/nexa) - "Machine-to-machine economy demonstration."
+[^110]: Staex. (2024). NEXA consortium: Machine-to-machine economy demonstration. staex.io, https://www.staex.io/nexa
 
-[^111]: [Staex NEXA](https://www.staex.io/nexa) - "Led by Staex."
+[^111]: Staex. (2024). NEXA consortium: Led by Staex GmbH. staex.io, https://www.staex.io/nexa
 
-[^112]: [Unmanned Airspace](https://www.unmannedairspace.info/latest-news-and-information/staex-and-eva-to-build-first-web3-operated-drone-delivery-corridor-in-berlin/) - "May 21, 2024 at Marienpark."
+[^112]: Unmanned Airspace. (2024, May 21). NEXA launch at Marienpark during Berlin Blockchain Week. unmannedairspace.info, https://www.unmannedairspace.info/latest-news-and-information/staex-and-eva-to-build-first-web3-operated-drone-delivery-corridor-in-berlin/
 
-[^113]: [Staex NEXA](https://www.staex.io/nexa) - Marienpark location.
+[^113]: Staex. (2024). NEXA: Marienpark, Berlin location. staex.io, https://www.staex.io/nexa
 
-[^114]: [Tower Exchange](https://www.towerxchange.com/article/2dcq12ehr996dmaszte68/monetising-towers-as-drone-delivery-platforms) - "Secretary of State Dr. Fissher."
+[^114]: Tower Exchange. (2024). NEXA inauguration by Secretary of State Dr. Severin Fischer. towerxchange.com, https://www.towerxchange.com/article/2dcq12ehr996dmaszte68/monetising-towers-as-drone-delivery-platforms
 
-[^115]: [Staex NEXA](https://www.staex.io/nexa) - Eight consortium partners (Chirp removed per CEO interview Dec 2025).
+[^115]: Staex. (2024). NEXA consortium: Eight partners (updated per CEO interview Dec 2025). staex.io, https://www.staex.io/nexa
 
-[^116]: [Vantage Towers](https://www.vantagetowers.com/en) - "84,600 sites across Europe."
+[^116]: Vantage Towers. (2024). Company overview: 84,600 sites across Europe. vantagetowers.com, https://www.vantagetowers.com/en
 
-[^117]: [Staex NEXA](https://www.staex.io/nexa) - paymenttools (REWE Group).
+[^117]: Staex. (2024). NEXA partner: paymenttools (REWE Group). staex.io, https://www.staex.io/nexa
 
-[^118]: [Staex NEXA](https://www.staex.io/nexa) - Berlin Partner involvement.
+[^118]: Staex. (2024). NEXA partner: Berlin Partner economic development agency. staex.io, https://www.staex.io/nexa
 
-[^120]: [Lisk Year Recap](https://lisk.com/blog/posts/2024-recap/) - Lisk NEXA participation.
+[^120]: Lisk. (2024, December). Year in review 2024: NEXA participation. lisk.com, https://lisk.com/blog/posts/2024-recap/
 
-[^121]: [Staex NEXA](https://www.staex.io/nexa) - ICP partnership in NEXA.
+[^121]: Staex. (2024). NEXA partner: Internet Computer Protocol (ICP). staex.io, https://www.staex.io/nexa
 
-[^122]: [Germandrones](https://www.germandrones.com/en/news/newsdetail/detail/germandrones-und-staex-gehen-strategische-partnerschaft-ein) - Strategic partnership.
+[^122]: Germandrones. (2024). Strategic partnership with Staex announced. germandrones.com, https://www.germandrones.com/en/news/newsdetail/detail/germandrones-und-staex-gehen-strategische-partnerschaft-ein
 
-[^123]: [Staex NEXA](https://www.staex.io/nexa) - The Drivery as partner.
+[^123]: Staex. (2024). NEXA partner: The Drivery mobility innovation hub. staex.io, https://www.staex.io/nexa
 
-[^124]: [Staex NEXA](https://www.staex.io/nexa) - Marienpark venue.
+[^124]: Staex. (2024). NEXA venue: Marienpark, Berlin. staex.io, https://www.staex.io/nexa
 
-[^125]: [Staex Drone Corridor](https://staex.io/web3-drone-corridor) - "First in the world Web3-operated drone corridor."
+[^125]: Staex. (2024). First in the world Web3-operated drone corridor. staex.io, https://staex.io/web3-drone-corridor
 
-[^126]: [Unmanned Airspace](https://www.unmannedairspace.info/latest-news-and-information/staex-and-eva-to-build-first-web3-operated-drone-delivery-corridor-in-berlin/) - Video purchase and blockchain verification.
+[^126]: Unmanned Airspace. (2024). NEXA demonstration: Video purchase and blockchain verification. unmannedairspace.info, https://www.unmannedairspace.info/latest-news-and-information/staex-and-eva-to-build-first-web3-operated-drone-delivery-corridor-in-berlin/
 
-[^127]: [Berlin Deep Tech Winners](https://www.berlin.de/deeptech/en/blog/artikel.1466383.en.php) - Award in Web3 category.
+[^127]: Berlin Deep Tech. (2024). Deep Tech Award 2024: Staex wins Web3 category. berlin.de, https://www.berlin.de/deeptech/en/blog/artikel.1466383.en.php
 
-[^128]: [Berlin Deep Tech](https://www.berlin.de/deeptech/en/blog/artikel.1451680.en.php) - "100 applicants, 15 finalists."
+[^128]: Berlin Deep Tech. (2024). Deep Tech Award 2024: 100 applicants, 15 finalists. berlin.de, https://www.berlin.de/deeptech/en/blog/artikel.1451680.en.php
 
-[^129]: [Berlin Deep Tech](https://www.berlin.de/deeptech/en/deep-tech-award/) - "€10,000 prize."
+[^129]: Berlin Deep Tech. (2024). Deep Tech Award: €10,000 prize endowment. berlin.de, https://www.berlin.de/deeptech/en/deep-tech-award/
 
-[^130]: [Staex MINT](https://www.staex.io/mint) - MINT project overview.
+[^130]: Staex. (2025). MINT project overview: Trusted telemetry for public transport. staex.io, https://www.staex.io/mint
 
-[^131]: [Staex MINT](https://www.staex.io/mint) - "MIBO's 150-busses fleet."
+[^131]: Staex. (2025). MINT project: MIBO's 150-bus fleet pilot. staex.io, https://www.staex.io/mint
 
-[^132]: [Staex MINT](https://www.staex.io/mint) - "Solana's blockchain infrastructure."
+[^132]: Staex. (2025). MINT project: Solana blockchain infrastructure. staex.io, https://www.staex.io/mint
 
-[^133]: [Staex MINT](https://www.staex.io/mint) - "U2U's blockchain platform."
+[^133]: Staex. (2025). MINT project: U2U Network blockchain platform. staex.io, https://www.staex.io/mint
 
-[^134]: [Staex MINT](https://www.staex.io/mint) - "DIMO's platform for AI modeling."
+[^134]: Staex. (2025). MINT project: DIMO platform for AI modeling of vehicle data. staex.io, https://www.staex.io/mint
 
-[^135]: [Staex MINT](https://www.staex.io/mint) - "IRIS' components for passenger counting."
+[^135]: Staex. (2025). MINT project: IRIS components for passenger counting and video security. staex.io, https://www.staex.io/mint
 
-[^136]: [Staex MINT](https://www.staex.io/mint) - Technical implementation details.
+[^136]: Staex. (2025). MINT project: Technical implementation for trusted telemetry. staex.io, https://www.staex.io/mint
 
-[^147]: [VTS Forum](https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723) - VTS capabilities.
+[^147]: DFINITY Forum. (2024). Staex VTS capabilities overview. forum.dfinity.org, https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723
 
-[^148]: [VTS Forum](https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723) - "Trusted, transparent infrastructure."
+[^148]: DFINITY Forum. (2024). Staex VTS: Trusted, transparent infrastructure. forum.dfinity.org, https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723
 
-[^149]: [VTS Forum](https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723) - "Decentralized telemetry signing."
+[^149]: DFINITY Forum. (2024). Staex VTS: Decentralized telemetry signing. forum.dfinity.org, https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723
 
-[^150]: [VTS Forum](https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723) - "On-chain contract agreements."
+[^150]: DFINITY Forum. (2024). Staex VTS: On-chain contract agreements. forum.dfinity.org, https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723
 
-[^151]: [VTS Forum](https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723) - "Automated invoice generation."
+[^151]: DFINITY Forum. (2024). Staex VTS: Automated invoice generation via ICP canisters. forum.dfinity.org, https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723
 
-[^153]: [VTS Forum](https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723) - "Proof of concept complete."
+[^153]: DFINITY Forum. (2024). Staex VTS: Proof of concept complete. forum.dfinity.org, https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723
 
-[^154]: [Vantage Towers](https://www.vantagetowers.com/en) - Company overview.
+[^154]: Vantage Towers. (2024). Company overview: Europe's leading tower company. vantagetowers.com, https://www.vantagetowers.com/en
 
-[^155]: [Vantage Towers Wikipedia](https://en.wikipedia.org/wiki/Vantage_Towers) - "84,600 sites as of January 2024."
+[^155]: Wikipedia. (2024, January). Vantage Towers: 84,600 sites as of January 2024. wikipedia.org, https://en.wikipedia.org/wiki/Vantage_Towers
 
-[^156]: [Vantage Towers](https://www.vantagetowers.com/en) - Key European markets.
+[^156]: Vantage Towers. (2024). Key European markets: Germany, Spain, Greece. vantagetowers.com, https://www.vantagetowers.com/en
 
-[^157]: [Tower Exchange](https://www.towerxchange.com/article/2dcq12ehr996dmaszte68/monetising-towers-as-drone-delivery-platforms) - "Towers as drone vertiports."
+[^157]: Tower Exchange. (2024). Monetising towers as drone delivery platforms: Vertiport concept. towerxchange.com, https://www.towerxchange.com/article/2dcq12ehr996dmaszte68/monetising-towers-as-drone-delivery-platforms
 
-[^158]: [Staex Blog](https://staex.io/blog/partnership-vantagetowers-staex-eva) - "Securely collect and verify telemetry."
+[^158]: Staex. (2024). Vantage Towers partnership: Securely collect and verify telemetry. staex.io, https://staex.io/blog/partnership-vantagetowers-staex-eva
 
-[^159]: [Tower Exchange](https://www.towerxchange.com/article/2dcq12ehr996dmaszte68/monetising-towers-as-drone-delivery-platforms) - "Infrastructure for commercial drone operations."
+[^159]: Tower Exchange. (2024). Infrastructure for commercial drone operations. towerxchange.com, https://www.towerxchange.com/article/2dcq12ehr996dmaszte68/monetising-towers-as-drone-delivery-platforms
 
-[^160]: [Staex Blog](https://staex.io/blog/partnership-staex-taa) - TAA partnership announcement.
+[^160]: Staex. (2024). Tower Automation Alliance (TAA) partnership announcement. staex.io, https://staex.io/blog/partnership-staex-taa
 
-[^161]: [Staex Blog](https://staex.io/blog/partnership-staex-taa) - "Two years of successful collaboration."
+[^161]: Staex. (2024). TAA partnership: Two years of successful collaboration. staex.io, https://staex.io/blog/partnership-staex-taa
 
-[^162]: [Germandrones](https://www.germandrones.com/en/news/newsdetail/detail/germandrones-und-staex-gehen-strategische-partnerschaft-ein) - Strategic partnership.
+[^162]: Germandrones. (2024). Strategic partnership with Staex. germandrones.com, https://www.germandrones.com/en/news/newsdetail/detail/germandrones-und-staex-gehen-strategische-partnerschaft-ein
 
-[^163]: [Staex NEXA](https://www.staex.io/nexa) - Drone hardware provider.
+[^163]: Staex. (2024). NEXA: Germandrones as drone hardware provider. staex.io, https://www.staex.io/nexa
 
-[^164]: [Unmanned Airspace](https://www.unmannedairspace.info/latest-news-and-information/staex-and-eva-to-build-first-web3-operated-drone-delivery-corridor-in-berlin/) - "Songbird drone filmed the event."
+[^164]: Unmanned Airspace. (2024). NEXA demonstration: Songbird drone filmed the event. unmannedairspace.info, https://www.unmannedairspace.info/latest-news-and-information/staex-and-eva-to-build-first-web3-operated-drone-delivery-corridor-in-berlin/
 
-[^165]: [Chainwire](https://chainwire.org/2024/01/25/staex-joins-peaq-as-a-networking-and-indexing-layer-for-depin/) - Target verticals for DePIN infrastructure.
+[^165]: Chainwire. (2024, January 25). Target verticals for DePIN infrastructure. chainwire.org, https://chainwire.org/2024/01/25/staex-joins-peaq-as-a-networking-and-indexing-layer-for-depin/
 
-[^166]: [Staex MINT Project](https://www.staex.io/mint) - Autonomous mobility focus demonstrated via bus fleet projects.
+[^166]: Staex. (2025). MINT Project: Autonomous mobility focus via bus fleet deployments. staex.io, https://www.staex.io/mint
 
-[^168]: [Staex MINT Project](https://www.staex.io/mint) - Public transport focus: buses, trams, rail systems.
+[^168]: Staex. (2025). MINT Project: Public transport focus (buses, trams, rail). staex.io, https://www.staex.io/mint
 
-[^169]: [Linera Partnership](https://linera.io/news/linera-x-staex) - Logistics and fleet management applications.
+[^169]: Linera. (2025). Staex partnership: Logistics and fleet management applications. linera.io, https://linera.io/news/linera-x-staex
 
-[^170]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - Energy and smart grid applications.
+[^170]: EU-Startups. (2022, April). Berlin-based Staex: Energy and smart grid applications. eu-startups.com, https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/
 
-[^171]: [Breaking DePIN 2025](https://www.breakingdepin.ch/schedule.html) - Physical AI systems: "Trusted Data Networks: Building the Backbone of DePIN and Physical AI."
+[^171]: Breaking DePIN. (2025, September). Physical AI systems: Trusted Data Networks backbone presentation. breakingdepin.ch, https://www.breakingdepin.ch/schedule.html
 
-[^172]: [Staex NEXA](https://www.staex.io/nexa) - European focus through NEXA and partnerships.
+[^172]: Staex. (2024). NEXA: European focus through partnerships. staex.io, https://www.staex.io/nexa
 
-[^173]: Interview with Staex CEO by Maze2 SA CEO (December 2025) - Bus2/UnB partnership for Brasilia demonstration planned October 2025.
+[^173]: Mikityuk, A. (2025, December). Interview with Staex CEO by Maze2 SA CEO. Bus2/UnB partnership for Brasilia demonstration planned October 2025.
 
-[^174]: Multiple external sources: [peaq](https://www.peaq.xyz/blog/staex-joins-the-peaqosystem), [Linera](https://linera.io/news/linera-x-staex), [Messari U2U](https://messari.io/report/state-of-u2u-q3-2025) - Global reach via blockchain ecosystem partnerships.
+[^174]: peaq, Linera, Messari. (2024-2025). Multiple sources: Global reach via blockchain ecosystem partnerships. peaq.xyz, linera.io, messari.io, https://www.peaq.xyz/blog/staex-joins-the-peaqosystem
 
-[^175]: [Chainwire](https://chainwire.org/2024/01/25/staex-joins-peaq-as-a-networking-and-indexing-layer-for-depin/) - DePIN market context.
+[^175]: Chainwire. (2024, January 25). DePIN market context and opportunity. chainwire.org, https://chainwire.org/2024/01/25/staex-joins-peaq-as-a-networking-and-indexing-layer-for-depin/
 
-[^176]: [Berlin Deep Tech Interview](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - Cloud provider dependency and centralization issues in traditional IoT.
+[^176]: Berlin Deep Tech. (2024). Interview: Cloud provider dependency issues in traditional IoT. berlin.de, https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php
 
-[^177]: [Chainwire](https://chainwire.org/2024/01/25/staex-joins-peaq-as-a-networking-and-indexing-layer-for-depin/) - 75 billion devices projection.
+[^177]: Chainwire. (2024, January 25). 75 billion connected devices projection by 2030. chainwire.org, https://chainwire.org/2024/01/25/staex-joins-peaq-as-a-networking-and-indexing-layer-for-depin/
 
-[^178]: [Berlin Deep Tech](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - Web2-Web3 bridge positioning.
+[^178]: Berlin Deep Tech. (2024). Interview: Web2-Web3 bridge positioning. berlin.de, https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php
 
-[^179]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - Deutsche Telekom heritage.
+[^179]: EU-Startups. (2022, April). Berlin-based Staex: Deutsche Telekom heritage. eu-startups.com, https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/
 
-[^180]: [Berlin Deep Tech](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - Zero-trust architecture.
+[^180]: Berlin Deep Tech. (2024). Interview: Zero-trust architecture design. berlin.de, https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php
 
-[^181]: [Staex Blog](https://staex.io/blog/partnership-vantagetowers-staex-eva) - B2B enterprise focus.
+[^181]: Staex. (2024). Vantage Towers partnership: B2B enterprise focus. staex.io, https://staex.io/blog/partnership-vantagetowers-staex-eva
 
-[^182]: [Berlin Deep Tech](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - Legacy protocol encryption.
+[^182]: Berlin Deep Tech. (2024). Interview: Legacy protocol encryption capability. berlin.de, https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php
 
-[^183]: Multiple external sources documenting blockchain integrations: [peaq](https://www.peaq.xyz/blog/staex-joins-the-peaqosystem), [DFINITY Forum](https://forum.dfinity.org/t/staex-vts-infrastructure-to-track-and-invoice-vehicles/32723), [Lisk](https://lisk.com/blog/posts/2024-recap/), [Linera](https://linera.io/news/linera-x-staex), [Messari U2U](https://messari.io/report/state-of-u2u-q3-2025).
+[^183]: peaq, DFINITY Forum, Lisk, Linera, Messari. (2024-2025). Multiple sources documenting multi-blockchain integrations. Various URLs as cited.
 
-[^184]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - "Patented cutting-edge technology."
+[^184]: EU-Startups. (2022, April). Berlin-based Staex: Patented cutting-edge technology. eu-startups.com, https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/
 
-[^185]: [Berlin Deep Tech](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - Multi-hop architecture.
+[^185]: Berlin Deep Tech. (2024). Interview: Multi-hop mesh architecture. berlin.de, https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php
 
-[^186]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - 5x lower footprint.
+[^186]: EU-Startups. (2022, April). Berlin-based Staex: 5x lower software footprint. eu-startups.com, https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/
 
-[^187]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - T-Labs validation.
+[^187]: EU-Startups. (2022, April). Berlin-based Staex: T-Labs technology validation. eu-startups.com, https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/
 
-[^188]: [Berlin Deep Tech](https://www.berlin.de/deeptech/en/blog/artikel.1451680.en.php) - 100 applicants for award.
+[^188]: Berlin Deep Tech. (2024). Deep Tech Award: 100 applicants competed. berlin.de, https://www.berlin.de/deeptech/en/blog/artikel.1451680.en.php
 
-[^189]: Multiple external sources: [Staex NEXA](https://www.staex.io/nexa), [Tower Exchange](https://www.towerxchange.com/article/2dcq12ehr996dmaszte68/monetising-towers-as-drone-delivery-platforms), [Staex MINT](https://www.staex.io/mint) - Project deployments across NEXA drone corridor, Vantage Towers, MIBO bus fleet.
+[^189]: Staex, Tower Exchange. (2024). Multiple sources: Project deployments across NEXA, Vantage Towers, MIBO fleet. staex.io, towerxchange.com, https://www.staex.io/nexa
 
-[^190]: [Tower Exchange](https://www.towerxchange.com/article/2dcq12ehr996dmaszte68/monetising-towers-as-drone-delivery-platforms) - Enterprise partnerships with Vantage Towers; [Staex NEXA](https://www.staex.io/nexa) - REWE Group (paymenttools).
+[^190]: Tower Exchange, Staex. (2024). Enterprise partnerships: Vantage Towers and REWE Group (paymenttools). towerxchange.com, staex.io, https://www.towerxchange.com/article/2dcq12ehr996dmaszte68/monetising-towers-as-drone-delivery-platforms
 
-[^191]: See footnote ^183 - Multi-blockchain strategy documented across peaq, ICP, Lisk, Solana, U2U, Linera partnerships.
+[^191]: See footnote [^183]. Multi-blockchain strategy documented across peaq, ICP, Lisk, Solana, U2U, Linera partnerships.
 
-[^192]: [Paris Blockchain Week](https://tickets.parisblockchainweek.com/2025/speaker/1651689/alexandra-mikityuk) - PhD leadership credentials.
+[^192]: Paris Blockchain Week. (2025). Speaker profile: PhD leadership credentials. parisblockchainweek.com, https://tickets.parisblockchainweek.com/2025/speaker/1651689/alexandra-mikityuk
 
-[^193]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - Seed/Pre-Series A stage with €1.65M confirmed funding.
+[^193]: EU-Startups. (2022, April). Berlin-based Staex: Seed/Pre-Series A stage with €1.65M funding. eu-startups.com, https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/
 
-[^194]: Interview with Staex CEO by Maze2 SA CEO (December 2025) - No token announced; confirmed by social media analysis of @Staex_io.
+[^194]: Mikityuk, A. (2025, December). Interview with Staex CEO by Maze2 SA CEO. No token announced; confirmed via @Staex_io social media analysis.
 
-[^195]: Editorial analysis - Enterprise B2B sales cycles typically longer than retail adoption in DePIN sector.
+[^195]: Editorial analysis. (2025, December). Enterprise B2B sales cycles typically longer than retail adoption in DePIN sector.
 
-[^196]: [Messari DePIN Reports](https://messari.io/report-category/depin) - DePIN market competitive landscape context.
+[^196]: Messari. (2025). DePIN Reports: Competitive landscape context. messari.io, https://messari.io/report-category/depin
 
-[^197]: Editorial analysis - Execution risk inherent in scaling from pilot to production deployments.
+[^197]: Editorial analysis. (2025, December). Execution risk inherent in scaling from pilot to production deployments.
 
-[^198]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - Seed funding completion as validation milestone.
+[^198]: EU-Startups. (2022, April). Berlin-based Staex: Seed funding completion as validation milestone. eu-startups.com, https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/
 
-[^199]: Editorial analysis - Token launch would create public market access; no announcement as of December 2025.
+[^199]: Editorial analysis. (2025, December). Token launch would create public market access; no announcement as of December 2025.
 
-[^200]: [Staex MINT Project](https://www.staex.io/mint) - MINT production scaling target from 150-bus pilot.
+[^200]: Staex. (2025). MINT Project: Production scaling target from 150-bus pilot. staex.io, https://www.staex.io/mint
 
-[^201]: [Linera News](https://linera.io/news/linera-x-staex) - 100+ bus production deployment plan following pilot.
+[^201]: Linera. (2025). Staex partnership: 100+ bus production deployment plan. linera.io, https://linera.io/news/linera-x-staex
 
-[^203]: Interview with Staex CEO by Maze2 SA CEO (December 2025) - Brasilia demonstration planned October 2025 via Bus2/UnB partnership.
+[^203]: Mikityuk, A. (2025, December). Interview with Staex CEO by Maze2 SA CEO. Brasilia demonstration planned October 2025 via Bus2/UnB.
 
-[^204]: [Twitter @Staex_io](https://twitter.com/Staex_io) - Social media analysis indicates early community-building phase.
+[^204]: Staex. (2025, December). @Staex_io Twitter analysis: Early community-building phase. twitter.com, https://twitter.com/Staex_io
 
-[^205]: [Twitter @Staex_io](https://twitter.com/Staex_io) - Official Staex account for announcements.
+[^205]: Staex. (2025). @Staex_io: Official Staex account for announcements. twitter.com, https://twitter.com/Staex_io
 
-[^206]: Interview with Staex CEO by Maze2 SA CEO (December 2025) - Discord community newly opened with <100 members.
+[^206]: Mikityuk, A. (2025, December). Interview with Staex CEO by Maze2 SA CEO. Discord community newly opened with <100 members.
 
-[^207]: [LinkedIn](https://linkedin.com/company/staex) - Company page.
+[^207]: LinkedIn. (2025). Staex company page. linkedin.com, https://linkedin.com/company/staex
 
-[^208]: [GitHub staex-io](https://github.com/staex-io) - Open source projects.
+[^208]: GitHub. (2025). staex-io: Open source projects repository. github.com, https://github.com/staex-io
 
-[^209]: [Twitter @Staex_io](https://twitter.com/Staex_io) - Key messaging themes from official communications.
+[^209]: Staex. (2025). @Staex_io: Key messaging themes from official communications. twitter.com, https://twitter.com/Staex_io
 
-[^210]: [Breaking DePIN 2025](https://www.breakingdepin.ch/schedule.html) - "Verifiable real-world data signals" for Physical AI applications.
+[^210]: Breaking DePIN. (2025, September). Physical AI applications: Verifiable real-world data signals. breakingdepin.ch, https://www.breakingdepin.ch/schedule.html
 
-[^211]: [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/) - Machine economy messaging: "global machine-to-machine economy."
+[^211]: EU-Startups. (2022, April). Machine economy messaging: Global machine-to-machine economy. eu-startups.com, https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/
 
-[^212]: [Berlin Deep Tech Interview](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - Tamper-proof logging capabilities.
+[^212]: Berlin Deep Tech. (2024). Interview: Tamper-proof logging capabilities. berlin.de, https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php
 
-[^213]: [Chainwire](https://chainwire.org/2024/01/25/staex-joins-peaq-as-a-networking-and-indexing-layer-for-depin/) - No cloud lock-ins: direct peer-to-peer connectivity.
+[^213]: Chainwire. (2024, January 25). No cloud lock-ins: Direct peer-to-peer connectivity. chainwire.org, https://chainwire.org/2024/01/25/staex-joins-peaq-as-a-networking-and-indexing-layer-for-depin/
 
-[^214]: [Berlin Deep Tech Interview](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - German regulatory environment favorable for deep tech; government recognition via Berlin Partner.
+[^214]: Berlin Deep Tech. (2024). Interview: German regulatory environment favorable for deep tech. berlin.de, https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php
 
-[^215]: [Tower Exchange](https://www.towerxchange.com/article/2dcq12ehr996dmaszte68/monetising-towers-as-drone-delivery-platforms) - Secretary of State Dr. Severin Fischer inauguration.
+[^215]: Tower Exchange. (2024). NEXA inauguration: Secretary of State Dr. Severin Fischer. towerxchange.com, https://www.towerxchange.com/article/2dcq12ehr996dmaszte68/monetising-towers-as-drone-delivery-platforms
 
-[^216]: [Staex NEXA](https://www.staex.io/nexa) - "Lighthouse project by Berlin Partner" designation.
+[^216]: Staex. (2024). NEXA: Lighthouse project designation by Berlin Partner. staex.io, https://www.staex.io/nexa
 
-[^217]: Editorial analysis - EU digital sovereignty initiatives align with decentralized infrastructure goals.
+[^217]: Editorial analysis. (2025, December). EU digital sovereignty initiatives align with decentralized infrastructure goals.
 
-[^218]: [Berlin Deep Tech Interview](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php) - Zero-trust architecture ("block all traffic by default") aligns with GDPR data protection principles.
+[^218]: Berlin Deep Tech. (2024). Interview: Zero-trust architecture aligns with GDPR data protection. berlin.de, https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php
 
-[^219]: [Tower Exchange](https://www.towerxchange.com/article/2dcq12ehr996dmaszte68/monetising-towers-as-drone-delivery-platforms) - "Discussions with German authorities" for permanent drone corridors.
+[^219]: Tower Exchange. (2024). Discussions with German authorities for permanent drone corridors. towerxchange.com, https://www.towerxchange.com/article/2dcq12ehr996dmaszte68/monetising-towers-as-drone-delivery-platforms
 
-[^220]: Editorial analysis - MiCA compliance would be required if token launched in EU jurisdiction.
+[^220]: Editorial analysis. (2025, December). MiCA compliance required if token launched in EU jurisdiction.
 
-[^221]: Editorial note - Source methodology adapted for seed-stage company without on-chain metrics; relies on news, partnerships, and official announcements.
+[^221]: Editorial note. (2025, December). Source methodology: Seed-stage company without on-chain metrics; relies on news and partnerships.
 
-[^222]: Editorial note - B2B infrastructure company; no TVL metrics applicable (not a DeFi protocol).
+[^222]: Editorial note. (2025, December). B2B infrastructure company; no TVL metrics applicable (not a DeFi protocol).
 
-[^223]: Interview with Staex CEO by Maze2 SA CEO (December 2025) - No token data available; token not announced.
+[^223]: Mikityuk, A. (2025, December). Interview with Staex CEO by Maze2 SA CEO. No token data available; token not announced.
 
-[^224]: [Staex Post - MN Capital](https://www.staex.io/post/staex-receives-investment-from-mn-capital) - MN Capital investment amount undisclosed.
+[^224]: Staex. (2024). MN Capital investment announcement: Amount undisclosed. staex.io, https://www.staex.io/post/staex-receives-investment-from-mn-capital
 
-[^225]: Editorial note - Forward-looking projections based on partnership announcements; actual deployment timelines may vary.
+[^225]: Editorial note. (2025, December). Forward-looking projections based on partnership announcements; timelines may vary.
 
-[^226]: Editorial analysis - Strategic positioning based on Deutsche Telekom heritage and multi-blockchain integrations documented in this report.
+[^226]: Editorial analysis. (2025, December). Strategic positioning based on Deutsche Telekom heritage and multi-blockchain integrations.
 
-[^227]: [Berlin Deep Tech Winners](https://www.berlin.de/deeptech/en/blog/artikel.1466383.en.php) - Execution capability demonstrated through NEXA drone corridor and Deep Tech Award 2024.
+[^227]: Berlin Deep Tech. (2024). Execution capability: NEXA drone corridor and Deep Tech Award 2024. berlin.de, https://www.berlin.de/deeptech/en/blog/artikel.1466383.en.php
 
-[^228]: Editorial summary - Key differentiators: zero-trust architecture, legacy protocol support, B2B focus. Sources: [Berlin Deep Tech](https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php), [EU-Startups](https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/).
+[^228]: Editorial summary. (2025, December). Key differentiators: zero-trust, legacy protocol support, B2B focus. Sources: Berlin Deep Tech, EU-Startups.
 
-[^229]: Editorial recommendations - Monitor: pilot-to-production scaling, seed funding completion, token launch decisions.
+[^229]: Editorial recommendations. (2025, December). Monitor: pilot-to-production scaling, seed funding, token launch decisions.
 
-[^230]: [Chainwire](https://chainwire.org/2024/01/25/staex-joins-peaq-as-a-networking-and-indexing-layer-for-depin/) - TAM thesis: "75 billion machine connections by 2030."
+[^230]: Chainwire. (2024, January 25). TAM thesis: 75 billion machine connections by 2030. chainwire.org, https://chainwire.org/2024/01/25/staex-joins-peaq-as-a-networking-and-indexing-layer-for-depin/

@@ -1,0 +1,437 @@
+# Claude Context: Staex
+
+**Purpose**: Protocol-specific context for Staex report updates. Contains verified data sources, key facts, and social/Twitter data from Grok.
+
+**Last Verified**: December 31, 2025
+**Report Version**: 1.0 (new report - seed stage company)
+
+---
+
+## CRITICAL: No API Data Available
+
+Staex is a **seed-stage company** with:
+- **No token** (no CoinGecko/CoinMarketCap data)
+- **No TVL** (not on DefiLlama)
+- **No on-chain metrics** (B2B infrastructure, not a DeFi protocol)
+
+**Data sources are primarily:**
+- Official website (staex.io)
+- News articles and press releases
+- Partnership announcements
+- Conference presentations
+- Twitter/X (via Grok)
+
+---
+
+## Company Overview
+
+| Field | Value |
+|-------|-------|
+| **Company Name** | Staex GmbH |
+| **Founded** | 2021 |
+| **Headquarters** | Potsdam, Germany (previously operated from The Drivery, Berlin - now closed) |
+| **Origin** | Management buyout from Deutsche Telekom Innovation Labs (T-Labs) |
+| **Category** | Physical AI / DePIN / IoT Infrastructure / Machine Economy |
+| **Stage** | Seed (Pre-Series A) |
+| **Website** | https://staex.io |
+| **Twitter** | @Staex_io |
+
+**Source**: Interview with Staex CEO Dr. Alexandra Mikityuk by Maze2 SA CEO (December 2025)
+
+---
+
+## Funding History
+
+**Total Funding**: $1.81M+ across multiple rounds (PitchBook)
+
+### Pre-Seed Round (April 2022)
+| Metric | Value |
+|--------|-------|
+| **Amount Raised** | €1.65 million |
+| **Lead Investors** | Brandenburg Kapital, Blockwall Capital |
+| **Angel Investors** | Andreas Möller and others |
+| **Use of Funds** | Product development, team expansion |
+
+### Follow-on Investments (2024-2025)
+
+| Investor | Date | Notes |
+|----------|------|-------|
+| **Moonrock Capital** | April 2024 | [Source](https://www.brandenburg-kapital.de/en/bk/news/newsdetailseite_119.html) |
+| **The Drivery GmbH** | 2024 | [Source](https://staex.io/news/the-drivery-invests-in-staex-supporting-future-mobility-innovations) |
+| **MN Capital** | 2024 | Michaël van de Poppe's fund; DePIN public transport focus |
+| **Generative Ventures** | January 2025 | Machine economy VC; [Source](https://www.staex.io/post/https-staex-io-blog-staex-generative-ventures-investment) |
+
+### Notable Angel Investors
+
+| Investor | Background |
+|----------|------------|
+| **EV3 Labs** | DePIN development (AR, AI, IoT); EV3 Ventures; DePIN Ninja analytics; DePIN Summit |
+| **Sean Carey** | Co-founder/CTO Helium Systems & BlockJoy; Lead Partner Borderless Capital; 25+ years tech |
+| **Christoph Jentzsch** | Ethereum core dev (2014/15); co-founder slock.it; author TheDAO; CEO Tokenize.it; Capital Magazine Top 40 Under 40 |
+
+**Source**: Interview with Staex CEO Dr. Alexandra Mikityuk by Maze2 SA CEO (December 2025)
+
+---
+
+## Leadership Team
+
+| Name | Role | Background |
+|------|------|------------|
+| **Dr. Alexandra Mikityuk** | CEO & Co-Founder | PhD TU Berlin, Former Head of Blockchain Group at Deutsche Telekom T-Labs (2017-2021), **Professor for Computer Science of Communication Technology at HTW Berlin** (current) |
+| **Philip Toepffer** | CFO & Co-Founder | Finance & business development, External PhD candidate at TU Berlin, blockchain expertise |
+| **Paksy Plackis-Cheng** | CSO & Co-Founder | 15 years global experience, former Senior Fellow at UC Santa Barbara, EU AI policy advisor, founder of impactmania |
+
+**Source for academic role**: [HTW Berlin Faculty Page](https://www.htw-berlin.de/hochschule/personen/person/?eid=15015)
+
+---
+
+## Core Technology Stack
+
+### Three-Layer Architecture
+
+1. **Connectivity Layer**
+   - EU SIM/eSIM support
+   - Multi-network roaming
+   - Redundancy for reliability
+   - Multi-hop architecture for complex topologies
+
+2. **Security & Identity Layer**
+   - Zero-trust by default (all traffic blocked unless specified)
+   - Blockchain-based identity (peaq IDs, ICP)
+   - Peer-to-peer encrypted tunnels
+   - Tamper-proof logging
+   - On-device private key signing
+
+3. **Smart Billing Layer**
+   - Granular usage tracking
+   - Automated policy enforcement
+   - Transparent cost management
+   - On-chain invoicing (ICP canisters)
+
+### Key Technical Features
+- Encrypts legacy IoT protocols
+- 5x lower software footprint than Kubernetes alternatives
+- Master-less, peer-to-peer networking
+- Works with devices that can't run VPNs (smart meters, IP cameras, EV chargers)
+
+---
+
+## Blockchain Integrations
+
+| Blockchain | Integration Type | Status | Use Case |
+|------------|-----------------|--------|----------|
+| **peaq** | DePIN networking layer | Live | Device indexing, peaq IDs, Role-Based Access Control |
+| **Internet Computer (ICP)** | Smart contracts | Live | Vehicle Tracking System (VTS), on-chain invoicing |
+| **Lisk** | Data integrity | Live | NEXA drone corridor, cryptographic hash storage |
+| **Solana** | Partnership | Announced July 2025 | Superteam Germany DePIN collaboration |
+| **U2U Network** | DePIN integration | Live | IoT device coordination |
+| **Linera** | Microchain testing | Pilot | High-frequency telemetry (1M tx/day) |
+
+---
+
+## Major Projects
+
+### NEXA Consortium (May 2024)
+- **Type**: Public-private partnership
+- **Led by**: Staex
+- **Partners**: Vantage Towers, paymenttools, Berlin Partner, Chirp Wireless, Lisk, ICP, Germandrones, The Drivery, Marienpark
+- **Achievement**: World's first Web3-operated drone corridor in Berlin
+- **Recognition**: Berlin State Deep Tech Award 2024
+- **Inaugurated by**: Dr. Severin Fischer, German Secretary of State
+
+### MINT Project
+- **Partners**: MIBO (150-bus fleet), Solana, U2U, DIMO, IRIS
+- **Focus**: Trusted telemetry for public transport
+- **Features**: On-device signing, on-chain metadata (passenger count, CO2)
+
+### PANTER Platform
+- **Focus**: Real-time data capture for transport
+- **Features**: M2M transactions, automated invoicing, auditing, certification
+
+### Vehicle Tracking System (VTS)
+- **Platform**: Internet Computer (ICP)
+- **Features**: Trusted telemetry signing, on-chain contracts, automated invoicing
+- **Status**: Proof of concept complete
+
+### Linera Pilot
+- **Scale**: 10 city buses in North Rhine-Westphalia
+- **Capacity**: Up to 1 million transactions/day
+- **Next phase**: 100+ buses production deployment
+
+### Chirp Partnership
+- **Scale**: Up to 200,000 municipal buses
+- **Devices**: Up to 12 IoT sensors per vehicle
+- **Data**: Air quality, temperature, humidity, movement patterns
+
+---
+
+## Strategic Partnerships
+
+| Partner | Type | Significance |
+|---------|------|--------------|
+| **Vantage Towers** | Telco infrastructure | 84,000+ towers across Europe |
+| **Deutsche Telekom** | Origin/Alumni | Technology originally developed at T-Labs |
+| **Chirp Wireless** | DePIN network | 50+ countries, 1.2M+ IoT devices |
+| **MIBO** | Fleet operator | 150 buses for telemetry pilot |
+| **Germandrones** | Hardware | Drone corridor implementation |
+| **Tower Automation Alliance** | Industry consortium | Telco infrastructure delivery |
+
+---
+
+## Awards & Recognition
+
+| Award | Year | Category |
+|-------|------|----------|
+| **Berlin Deep Tech Award** | 2024 | Web3.0 - DLT, Blockchain, NFT & Metaverse |
+| **Berlin Deep Tech Award** | Previous | (Won multiple times) |
+| **Lisk Accelerator** | 2023 | Selected participant |
+
+---
+
+## Social/Twitter Data (via Grok)
+
+### From @Staex_io Official Account
+- Consistently promotes technical demos via DMs
+- Emphasizes Physical AI scalability through verifiable real-world data signals
+- Focus on: autonomous mobility, industrial networks, public transport, logistics, energy fleets
+
+### Ecosystem Partnerships Mentioned on X
+- @u2u_xyz - DePIN/IoT integration
+- @solana - Superteam Germany partnership
+- @SuperteamDE - German DePIN ecosystem
+- @icphub_DE - Internet Computer hub
+- @linera_io - Microchain architecture testing
+
+### Community Status (as of Dec 2025)
+- Very early stage
+- Discord server: <100 members (newly opened)
+- No token details announced
+- Positioned as early involvement opportunity
+
+### Key Themes from Twitter
+- Machine-to-machine economy
+- Verifiable machine behavior
+- Tamper-proof logging
+- Data integrity for Physical AI
+- Real-world operations requiring trust and resilience
+
+---
+
+## Market Context
+
+### DePIN Market
+- Staex operates in Decentralized Physical Infrastructure Networks (DePIN)
+- Target: 75 billion machine connections projected by 2030
+- Focus: Industrial IoT, mobility, energy, logistics
+
+### Competitive Positioning
+- **Differentiator**: Origin from Deutsche Telekom R&D
+- **Moat**: Zero-trust architecture, legacy protocol encryption
+- **Target customers**: Enterprise/B2B (not retail)
+
+---
+
+## MISTAKES TO AVOID
+
+### 1. Confusing with "Stax" or "$STAX"
+**What happened**: Search results mix Staex.io with unrelated Stax token or Stacks blockchain
+**Fix**: Always verify it's Staex GmbH / staex.io / @Staex_io
+
+### 2. Assuming Token Exists
+**What happened**: No token has been announced
+**Fix**: Do not reference tokenomics, market cap, or trading data
+
+### 3. Outdated Funding Data
+**What happened**: Only pre-seed (€1.65M) is publicly confirmed with amount
+**Fix**: MN Capital investment amount is undisclosed
+
+### 4. Overstating "Live" Deployments
+**What happened**: Some projects are pilots/PoCs, not full production
+**Fix**: Distinguish between: Live production, Pilot/PoC, Announced partnership
+
+### 5. Using "Spinout" Instead of "Management Buyout"
+**What happened**: Initial report used "spinout" terminology
+**Root cause**: Some sources say "ex-cubated" which sounds like spinout
+**Fix**: Always use "management buyout" - confirmed by CEO interview (Dec 2025)
+**Source**: Berlin Deep Tech Interview confirms "management buyout from Deutsche Telekom"
+
+### 6. Wrong Headquarters Location
+**What happened**: Listed as Berlin / The Drivery
+**Root cause**: The Drivery was a former operating location, now closed
+**Fix**: Headquarters is **Potsdam, Germany** - confirmed by CEO interview (Dec 2025)
+
+### 7. Wrong Academic Role for CEO
+**What happened**: Listed as "Professor of Cryptography at Flensburg University"
+**Root cause**: Outdated information
+**Fix**: Dr. Mikityuk is now **Professor for Computer Science of Communication Technology at HTW Berlin**
+**Source**: https://www.htw-berlin.de/hochschule/personen/person/?eid=15015
+
+### 8. Missing Physical AI Category
+**What happened**: Only listed as DePIN / IoT Infrastructure
+**Root cause**: Physical AI focus not prominent in early sources
+**Fix**: Category is **Physical AI / DePIN / IoT Infrastructure**
+**Source**: Breaking DePIN 2025 conference (Zurich), CEO interview (Dec 2025)
+
+### 9. Removed: Smart Billing Layer
+**What happened**: Report mentioned "Three-Layer Stack" including Smart Billing
+**Root cause**: Initial web research included outdated architecture info
+**Fix**: Stack is now **Two-Layer** (Connectivity + Security/Identity). Smart Billing was disposed of.
+**Source**: CEO interview (Dec 2025)
+
+### 10. Removed: PANTER Platform
+**What happened**: Listed as separate project
+**Fix**: PANTER merged with MINT project. Do not list separately.
+**Source**: CEO interview (Dec 2025)
+
+### 11. Removed: Chirp Partnership
+**What happened**: Chirp partnership was prominently featured
+**Fix**: Remove all Chirp references (they didn't pay, company doesn't want to promote)
+**Source**: CEO interview (Dec 2025)
+
+### 12. Removed: Industrial Networks Vertical
+**What happened**: Listed "Industrial Networks: Factory automation, IIoT" as primary vertical
+**Fix**: Not a current focus. Remove from Primary Verticals.
+**Source**: CEO interview (Dec 2025)
+
+### 13. Wrong Kubernetes Reference
+**What happened**: Mentioned "5x lower footprint than Kubernetes alternatives"
+**Fix**: Use "standard container orchestration alternatives" instead
+**Source**: CEO interview (Dec 2025)
+
+### 14. Wrong Funding Stage Reference
+**What happened**: Referenced "Series A" as milestone
+**Fix**: Company is in **Seed** stage. Use "Seed Funding Completion" as milestone.
+**Source**: CEO interview (Dec 2025)
+
+---
+
+## FOOTNOTE CITATION FORMAT (ACADEMIC STYLE)
+
+**CRITICAL**: All footnotes MUST follow academic citation format:
+
+```
+Author. (Year, Month Day). Title. Publication, URL
+```
+
+### Examples:
+
+**News article:**
+```
+[^1]: EU-Startups. (2022, April). Berlin-based Staex raises €1.65 million for its unique and sustainable Web3 stack for IoT. eu-startups.com, https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/
+```
+
+**Company source:**
+```
+[^2]: Staex. (2024). NEXA: World's first Web3-operated drone corridor. staex.io, https://www.staex.io/nexa
+```
+
+**Interview source:**
+```
+[^3]: Mikityuk, A. (2025, December). Interview with Staex CEO by Maze2 SA CEO. Headquarters confirmed as Potsdam, Germany.
+```
+
+**Editorial/Analysis:**
+```
+[^4]: Editorial analysis. (2025, December). Strategic positioning based on Deutsche Telekom heritage.
+```
+
+### Format Rules:
+1. **Author**: Organization name OR "Last, First Initial." for individuals
+2. **Date**: (Year, Month Day) or (Year, Month) or (Year) or (Year, Quarter)
+3. **Title**: Article/page title in sentence case
+4. **Publication**: Domain without www or https
+5. **URL**: Full URL at end, no square brackets
+
+### DO NOT USE this old format:
+```
+❌ [^1]: [Source Name](URL) - Description
+```
+
+### ALWAYS USE academic format:
+```
+✅ [^1]: Author. (Year, Month Day). Title. publication.com, https://full-url.com
+```
+
+---
+
+## SOURCING GUIDELINES
+
+### Priority Order for Sources
+1. **External third-party sources** (news, research, partner announcements) - HIGHEST PRIORITY
+2. **Staex official announcements** with specific page URLs (staex.io/blog/specific-post)
+3. **CEO/founder interviews** (cite: "Interview with Staex CEO by [interviewer], [date]")
+4. **Official website** with specific page (staex.io/nexa, staex.io/mint) - use sparingly
+
+### AVOID
+- Generic "Staex Official" links pointing only to homepage (staex.io)
+- Footnotes without any URL (just descriptions/analysis)
+- Over-reliance on company's own claims without external validation
+
+### When Using Company Sources
+- Always indicate it's a company source: "[Staex Blog](url) - Company source"
+- Prefer external validation when available
+- Cross-reference major claims with third-party coverage
+
+---
+
+## Update Checklist (Manual - No APIs)
+
+Before publishing any Staex update:
+
+1. **Check official sources:**
+   - [ ] staex.io/blog for announcements
+   - [ ] @Staex_io Twitter for updates
+   - [ ] LinkedIn company page
+   - [ ] Press releases
+
+2. **Verify partnerships:**
+   - [ ] Cross-reference with partner announcements
+   - [ ] Check peaq, ICP, Lisk official channels
+
+3. **Team changes:**
+   - [ ] Check LinkedIn for new hires/departures
+   - [ ] Conference speaker announcements
+
+4. **Funding updates:**
+   - [ ] Crunchbase for new rounds
+   - [ ] EU-Startups, TechCrunch for coverage
+
+5. **Project status:**
+   - [ ] NEXA updates
+   - [ ] MINT progress
+   - [ ] New pilot deployments
+
+---
+
+## Official Resources
+
+### Company
+- **Website**: https://staex.io
+- **Blog**: https://staex.io/blog
+- **Team**: https://staex.io/people/staex-team
+- **GitHub**: https://github.com/staex-io
+
+### Projects
+- **NEXA**: https://staex.io/nexa
+- **MINT**: https://staex.io/mint
+
+### Social
+- **Twitter**: https://twitter.com/Staex_io
+- **LinkedIn**: https://linkedin.com/company/staex
+
+### Press Coverage
+- EU-Startups: https://www.eu-startups.com/2022/04/berlin-based-staex-raises-e1-65-million-for-its-unique-and-sustainable-web3-stack-for-iot/
+- Humboldt Innovation: https://humboldt-innovation.de/en/startupservice/startup-portfolio/staex-gmbh
+- Berlin Deep Tech: https://www.berlin.de/deeptech/en/blog/artikel.1472032.en.php
+
+---
+
+## Report History
+
+| Version | Date | Changes |
+|---------|------|---------|
+| 1.0 | Dec 31, 2025 | Initial report (new) |
+
+---
+
+*This file is gitignored and stays local. Update after each report revision.*
