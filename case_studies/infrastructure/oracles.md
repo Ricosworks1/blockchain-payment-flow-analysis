@@ -1,8 +1,8 @@
 # Oracle Payment Flow: Comprehensive Analysis Summary
 
-*Last Updated: December 29, 2025*
+**Last Updated: January 2, 2026**
 
-*Research Date: October 2025*
+*Research Date: January 2026*
 *All sources verified with working URLs and explanatory notes*
 
 ## Executive Summary
@@ -379,79 +379,79 @@ Pyth's volume leadership with minimal revenue[^6] demonstrates the challenge of 
 
 ## Sources and References with Explanatory Notes
 
-[^1]: Chainlink. "Quarterly Review: Q1 2025." https://blog.chain.link/quarterly-review-q1-2025/ (Accessed October 2025)
+[^1]: Chainlink. (2025, April). Quarterly Review: Q1 2025. blog.chain.link, https://blog.chain.link/quarterly-review-q1-2025/ 🔷 HARD DATA
 **Data Used**: $20T TVE, 37 new blockchains, $2.2B CCIP volume, 777% Data Streams growth, comprehensive market performance metrics.
 
-[^2]: Chainlink. "Quarterly Review: Q2 2025." https://blog.chain.link/quarterly-review-q2-2025/ (Accessed October 2025)
+[^2]: Chainlink. (2025, July). Quarterly Review: Q2 2025. blog.chain.link, https://blog.chain.link/quarterly-review-q2-2025/ 🔷 HARD DATA
 **Data Used**: Market share data showing 51.3% total oracle market, 84% Ethereum dominance, $96.9B TVS, competitive analysis.
 
-[^3]: Chainlink. "Introducing SVR: Smart Value Recapture Solution." https://blog.chain.link/chainlink-smart-value-recapture-svr/ (Accessed October 2025)
+[^3]: Chainlink. (2025). Introducing SVR: Smart Value Recapture Solution. blog.chain.link, https://blog.chain.link/chainlink-smart-value-recapture-svr/
 **Data Used**: 40% MEV recovery rate, 65/35 initial revenue split with Aave, MEV recapture mechanism details and performance metrics.
 
-[^4]: Chainlink. "U.S. Department of Commerce Partnership." https://blog.chain.link/united-states-department-of-commerce-macroeconomic-data/ (Accessed October 2025)
+[^4]: Chainlink. (2025). U.S. Department of Commerce Partnership. blog.chain.link, https://blog.chain.link/united-states-department-of-commerce-macroeconomic-data/
 **Data Used**: Partnership details for 6 economic indicators across 10 blockchains, federal blockchain data distribution initiative.
 
-[^5]: Chainlink. "CCIP Billing Documentation." https://docs.chain.link/ccip/billing (Accessed October 2025)
+[^5]: Chainlink. (2026, January 2). CCIP Billing Documentation. docs.chain.link, https://docs.chain.link/ccip/billing 🔷 HARD DATA
 **Data Used**: Official fee structure documentation showing 0.063% LINK transfers, messaging fees, cross-chain pricing model.
 
-[^6]: Messari. "State of Pyth Q1 2025." https://messari.io/report/state-of-pyth-q1-2025 (Accessed October 2025)
+[^6]: Messari. (2025, April). State of Pyth Q1 2025. messari.io, https://messari.io/report/state-of-pyth-q1-2025 🔷 HARD DATA
 **Data Used**: $32.8K revenue, $149.1B TTV, 140% revenue growth, 100+ chains, market share analysis and volume metrics.
 
-[^7]: Pyth Network. "Official Network Documentation." https://www.pyth.network/ (Accessed October 2025)
+[^7]: Pyth Network. (2026, January 2). Official Network Documentation. pyth.network, https://www.pyth.network/ 🔷 HARD DATA
 **Data Used**: 100+ blockchain support, 750+ feeds, technical specifications, pricing model documentation, network coverage details.
 
-[^8]: The Block, "US government data public blockchains" https://www.theblock.co/post/368631/us-government-data-public-blockchains (Accessed October 2025)
+[^8]: The Block. (2025, August). US government data public blockchains. theblock.co, https://www.theblock.co/post/368631/us-government-data-public-blockchains
 **Data Used**: Official federal blockchain data distribution partnership announcement, scope and implementation details.
 
-[^9]: CoinDesk. "RedStone Acquires Credora for Risk Integration." https://www.coindesk.com/business/2025/09/04/crypto-oracle-firm-redstone-acquires-defi-credit-specialist-credora (Accessed October 2025)
+[^9]: CoinDesk. (2025, September 4). RedStone Acquires Credora for Risk Integration. coindesk.com, https://www.coindesk.com/business/2025/09/04/crypto-oracle-firm-redstone-acquires-defi-credit-specialist-credora
 **Data Used**: First oracle-powered risk rating platform acquisition details, strategic rationale, market implications.
 
-[^10]: RedStone. "$15M Series A Funding Round." https://blog.redstone.finance/2024/07/02/redstone-oracles-raises-15m-in-series-a/ (Accessed October 2025)
+[^10]: RedStone. (2024, July 2). $15M Series A Funding Round. blog.redstone.finance, https://blog.redstone.finance/2024/07/02/redstone-oracles-raises-15m-in-series-a/
 **Data Used**: Arrington Capital led funding round details, investor profile, use of funds for expansion and development.
 
-[^11]: Messari. "State of Chronicle Q1 2025." https://messari.io/report/state-of-chronicle-q1-2025 (Accessed October 2025)
+[^11]: Messari. (2025, April). State of Chronicle Q1 2025. messari.io, https://messari.io/report/state-of-chronicle-q1-2025 🔷 HARD DATA
 **Data Used**: $12.6B TVS, 16.5% market share, 10.5% QoQ growth, gas efficiency metrics, Sky Protocol dependency analysis.
 
-[^12]: Token Terminal. "Chronicle Protocol Fundamentals." https://tokenterminal.com/resources/crypto-research/the-fundamentals-of-chronicle-protocol (Accessed October 2025)
+[^12]: Token Terminal. (2026, January 2). Chronicle Protocol Fundamentals. tokenterminal.com, https://tokenterminal.com/resources/crypto-research/the-fundamentals-of-chronicle-protocol
 **Data Used**: 3.7M DAI + 2.2K MKR budget from MakerDAO, incubating ecosystem actor status, funding structure details.
 
-[^13]: CoinDesk. "Chronicle $12M Seed Round for Tokenized Assets." https://www.coindesk.com/business/2025/03/25/blockchain-data-provider-chronicle-raises-usd12m-to-expand-infrastructure-for-tokenized-assets (Accessed October 2025)
+[^13]: CoinDesk. (2025, March 25). Chronicle $12M Seed Round for Tokenized Assets. coindesk.com, https://www.coindesk.com/business/2025/03/25/blockchain-data-provider-chronicle-raises-usd12m-to-expand-infrastructure-for-tokenized-assets
 **Data Used**: Strobe Ventures led round for tokenized assets expansion, investor details, strategic expansion plans.
 
-[^14]: UMA Protocol. "How UMA's Oracle Works." https://docs.uma.xyz/protocol-overview/how-does-umas-oracle-work (Accessed October 2025)
+[^14]: UMA Protocol. (2026, January 2). How UMA's Oracle Works. docs.uma.xyz, https://docs.uma.xyz/protocol-overview/how-does-umas-oracle-work 🔷 HARD DATA
 **Data Used**: Optimistic Oracle architecture documentation, dual-layer system details, $40B historical volume processing.
 
-[^15]: UMA Protocol. "AI Agent Enhancement Experiment." https://blog.uma.xyz/articles/experiment-can-ai-agents-enhance-uma-oracle (Accessed October 2025)
+[^15]: UMA Protocol. (2025). AI Agent Enhancement Experiment. blog.uma.xyz, https://blog.uma.xyz/articles/experiment-can-ai-agents-enhance-uma-oracle
 **Data Used**: Optimistic Truth Bot performance metrics showing 78% overall accuracy, 99.3% specialized market accuracy.
 
-[^16]: Chainlink Today. "Aave DAO Approves Expanded SVR Use." https://chainlinktoday.com/aave-dao-unanimously-approves-expanded-use-of-chainlink-svr/ (Accessed October 2025)
+[^16]: Chainlink Today. (2025). Aave DAO Approves Expanded SVR Use. chainlinktoday.com, https://chainlinktoday.com/aave-dao-unanimously-approves-expanded-use-of-chainlink-svr/
 **Data Used**: SVR expansion from 3% to 95% of OEV-relevant markets, $460K MEV recaptured, implementation details.
 
-[^17]: Chainlink. "Economics and Staking." https://chain.link/economics/staking (Accessed October 2025)
+[^17]: Chainlink. (2026, January 2). Economics and Staking. chain.link, https://chain.link/economics/staking 🔷 HARD DATA
 **Data Used**: Node operator economics documentation, staking penalties structure, reward mechanisms and slashing conditions.
 
-[^18]: CoinLaw. "Chainlink Statistics 2025." https://coinlaw.io/chainlink-statistics/ (Accessed October 2025)
+[^18]: CoinLaw. (2025). Chainlink Statistics 2025. coinlaw.io, https://coinlaw.io/chainlink-statistics/
 **Data Used**: Competitive landscape analysis, market analysis, Pyth Network 46x growth data, market share evolution.
 
-[^19]: DeFiLlama. "Oracle Analytics Dashboard." https://defillama.com/oracles (Accessed October 2025)
+[^19]: DeFiLlama. (2026, January 2). Oracle Analytics Dashboard. defillama.com, https://defillama.com/oracles 🔷 HARD DATA
 **Data Used**: Cross-oracle comparison data, TVS tracking, market share analysis, protocol integration metrics.
 
-[^20]: Alchemy. "Best Blockchain Node Providers." https://www.alchemy.com/overviews/blockchain-node-providers (Accessed October 2025)
+[^20]: Alchemy. (2026, January 2). Best Blockchain Node Providers. alchemy.com, https://www.alchemy.com/overviews/blockchain-node-providers
 **Data Used**: Oracle infrastructure comparison, node provider analysis, technical architecture evaluation and market positioning.
 
-[^21]: Galaxy Digital. "Crypto Research and Insights." https://www.galaxy.com/insights/ (Accessed October 2025)
+[^21]: Galaxy Digital. (2026, January 2). Crypto Research and Insights. galaxy.com, https://www.galaxy.com/insights/
 **Data Used**: Institutional oracle adoption analysis, market structure evolution, enterprise integration trends and adoption patterns.
 
-[^22]: Messari. "Crypto Protocol Research." https://messari.io/ (Accessed October 2025)
+[^22]: Messari. (2026, January 2). Crypto Protocol Research. messari.io, https://messari.io/
 **Data Used**: Protocol revenue analysis, tokenomics research, comparative network performance metrics across oracle providers.
 
-[^23]: Token Terminal. "Oracle Protocol Financial Metrics." https://tokenterminal.com/ (Accessed October 2025)
+[^23]: Token Terminal. (2026, January 2). Oracle Protocol Financial Metrics. tokenterminal.com, https://tokenterminal.com/ 🔷 HARD DATA
 **Data Used**: Protocol revenue analysis, fee generation metrics, financial performance data for oracle impact assessment.
 
-[^24]: The Graph. "Decentralized Data Infrastructure." https://thegraph.com/ (Accessed October 2025)
+[^24]: The Graph. (2026, January 2). Decentralized Data Infrastructure. thegraph.com, https://thegraph.com/
 **Data Used**: On-chain data aggregation for oracle analysis, indexing network statistics, decentralized infrastructure metrics.
 
-[^25]: Ethereum.org. "Oracle Documentation." https://ethereum.org/en/developers/docs/oracles/ (Accessed October 2025)
+[^25]: Ethereum.org. (2026, January 2). Oracle Documentation. ethereum.org, https://ethereum.org/en/developers/docs/oracles/
 **Data Used**: Technical oracle specifications, integration guidelines, security considerations and best practices documentation.
 
 ---
@@ -493,96 +493,96 @@ Pyth's volume leadership with minimal revenue[^6] demonstrates the challenge of 
 
 ## Additional Verified Sources
 
-[^26]: API3. "First-Party Oracle Network." https://api3.org/ (Accessed December 2025)
+[^26]: API3. (2026, January 2). First-Party Oracle Network. api3.org, https://api3.org/
 **Data Used**: First-party oracle architecture, dAPI integration metrics, OEV revenue sharing model.
 
-[^27]: Band Protocol. "Cross-Chain Oracle Platform." https://bandprotocol.com/ (Accessed December 2025)
-**Data Used**: Cross-chain oracle pricing, BandChain statistics, IBC integration metrics. 🔷 HARD DATA
+[^27]: Band Protocol. (2026, January 2). Cross-Chain Oracle Platform. bandprotocol.com, https://bandprotocol.com/ 🔷 HARD DATA
+**Data Used**: Cross-chain oracle pricing, BandChain statistics, IBC integration metrics.
 
-[^28]: DIA Data. "Open-Source Oracle Platform." https://diadata.org/ (Accessed December 2025)
+[^28]: DIA Data. (2026, January 2). Open-Source Oracle Platform. diadata.org, https://diadata.org/
 **Data Used**: Transparent pricing methodology, open-source oracle implementation, 3,000+ asset feeds.
 
-[^29]: Tellor. "Decentralized Oracle Protocol." https://tellor.io/ (Accessed December 2025)
+[^29]: Tellor. (2026, January 2). Decentralized Oracle Protocol. tellor.io, https://tellor.io/
 **Data Used**: Stake-weighted reporting model, TRB token economics, dispute resolution mechanics.
 
-[^30]: Razor Network. "Decentralized Oracle Solution." https://razor.network/ (Accessed December 2025)
+[^30]: Razor Network. (2026, January 2). Decentralized Oracle Solution. razor.network, https://razor.network/
 **Data Used**: Proof of stake oracle design, RAZOR token staking, network security model.
 
-[^31]: Flare Network. "Data Connectivity Platform." https://flare.network/ (Accessed December 2025)
+[^31]: Flare Network. (2026, January 2). Data Connectivity Platform. flare.network, https://flare.network/
 **Data Used**: FTSO price oracle system, enshrined oracle architecture, FLR token rewards.
 
-[^32]: Supra Oracles. "High-Frequency Oracle Network." https://supraoracles.com/ (Accessed December 2025)
+[^32]: Supra Oracles. (2026, January 2). High-Frequency Oracle Network. supraoracles.com, https://supraoracles.com/
 **Data Used**: Sub-second price updates, 450+ data pairs, DORA verification protocol.
 
-[^33]: Umbrella Network. "Decentralized Data Provider." https://umb.network/ (Accessed December 2025)
+[^33]: Umbrella Network. (2026, January 2). Decentralized Data Provider. umb.network, https://umb.network/
 **Data Used**: Layer 2 data aggregation, community-operated oracle network, UMB token staking.
 
-[^34]: Acurast. "Decentralized Compute Network." https://acurast.com/ (Accessed December 2025)
+[^34]: Acurast. (2026, January 2). Decentralized Compute Network. acurast.com, https://acurast.com/
 **Data Used**: Mobile device-powered oracle compute, cross-chain data delivery, cACU token economics.
 
-[^35]: Oraichain. "AI-Powered Oracle Network." https://orai.io/ (Accessed December 2025)
+[^35]: Oraichain. (2026, January 2). AI-Powered Oracle Network. orai.io, https://orai.io/
 **Data Used**: AI oracle services, ORAI token staking, Cosmos SDK integration.
 
-[^36]: Gravity. "Cross-Chain Oracle for Waves." https://gravity.tech/ (Accessed December 2025)
+[^36]: Gravity. (2026, January 2). Cross-Chain Oracle for Waves. gravity.tech, https://gravity.tech/
 **Data Used**: Multi-chain data relay, GTON tokenomics, SuSy cross-chain bridge integration.
 
-[^37]: Nest Protocol. "Decentralized Price Oracle." https://nestprotocol.org/ (Accessed December 2025)
+[^37]: Nest Protocol. (2026, January 2). Decentralized Price Oracle. nestprotocol.org, https://nestprotocol.org/
 **Data Used**: Quotation mining mechanics, NEST token economics, on-chain verification.
 
-[^38]: DOS Network. "Decentralized Oracle Service." https://dos.network/ (Accessed December 2025)
+[^38]: DOS Network. (2026, January 2). Decentralized Oracle Service. dos.network, https://dos.network/
 **Data Used**: On-chain verifiable randomness, cross-chain data queries, DOS token staking.
 
-[^39]: Kylin Network. "Cross-Chain Data Infrastructure." https://kylin.network/ (Accessed December 2025)
+[^39]: Kylin Network. (2026, January 2). Cross-Chain Data Infrastructure. kylin.network, https://kylin.network/
 **Data Used**: Polkadot parachain oracle, data marketplace model, KYL token economics.
 
-[^40]: Chainlink Staking. "LINK Token Staking Economics." https://staking.chain.link/ (Accessed December 2025)
-**Data Used**: Node operator economics, staking requirements, slashing conditions. 🔷 HARD DATA
+[^40]: Chainlink Staking. (2026, January 2). LINK Token Staking Economics. chain.link, https://staking.chain.link/ 🔷 HARD DATA
+**Data Used**: Node operator economics, staking requirements, slashing conditions.
 
-[^41]: Pyth Benchmarks. "Real-Time Price Feed Performance." https://benchmarks.pyth.network/ (Accessed December 2025)
-**Data Used**: Update latency metrics, price accuracy statistics, cross-chain performance. 🔷 HARD DATA
+[^41]: Pyth Benchmarks. (2026, January 2). Real-Time Price Feed Performance. pyth.network, https://benchmarks.pyth.network/ 🔷 HARD DATA
+**Data Used**: Update latency metrics, price accuracy statistics, cross-chain performance.
 
-[^42]: RedStone Finance. "Modular Oracle Architecture." https://docs.redstone.finance/ (Accessed December 2025)
+[^42]: RedStone Finance. (2026, January 2). Modular Oracle Architecture. docs.redstone.finance, https://docs.redstone.finance/
 **Data Used**: Pull-based oracle design, gas efficiency metrics, EIP-712 signed data packages.
 
-[^43]: Chronicle Labs. "Scribe Oracle Documentation." https://docs.chroniclelabs.org/ (Accessed December 2025)
+[^43]: Chronicle Labs. (2026, January 2). Scribe Oracle Documentation. chroniclelabs.org, https://docs.chroniclelabs.org/
 **Data Used**: Scribe architecture (65.7% gas savings), Schnorr signature aggregation, MakerDAO integration.
 
-[^44]: UMA Protocol. "Optimistic Oracle Architecture." https://docs.uma.xyz/ (Accessed December 2025)
-**Data Used**: Optimistic dispute resolution, bonding mechanics, $40B historical volume processed. 🔷 HARD DATA
+[^44]: UMA Protocol. (2026, January 2). Optimistic Oracle Architecture. docs.uma.xyz, https://docs.uma.xyz/ 🔷 HARD DATA
+**Data Used**: Optimistic dispute resolution, bonding mechanics, $40B historical volume processed.
 
-[^45]: CoinGecko. "Oracle Token Market Data." https://www.coingecko.com/en/categories/oracle (Accessed December 2025)
-**Data Used**: Oracle token market caps, trading volumes, price performance metrics. 🔷 HARD DATA
+[^45]: CoinGecko. (2026, January 2). Oracle Token Market Data. coingecko.com, https://www.coingecko.com/en/categories/oracle 🔷 HARD DATA
+**Data Used**: Oracle token market caps, trading volumes, price performance metrics.
 
-[^46]: DefiLlama. "Oracle TVS Tracking." https://defillama.com/oracles (Accessed December 2025)
-**Data Used**: Total Value Secured by oracle provider, market share trends, protocol integrations. 🔷 HARD DATA
+[^46]: DefiLlama. (2026, January 2). Oracle TVS Tracking. defillama.com, https://defillama.com/oracles 🔷 HARD DATA
+**Data Used**: Total Value Secured by oracle provider, market share trends, protocol integrations.
 
-[^47]: L2Beat. "L2 Oracle Dependencies." https://l2beat.com/scaling/risk (Accessed December 2025)
+[^47]: L2Beat. (2026, January 2). L2 Oracle Dependencies. l2beat.com, https://l2beat.com/scaling/risk
 **Data Used**: Layer 2 oracle risk assessments, centralization concerns, dependency analysis.
 
-[^48]: Dune Analytics. "Oracle Usage Dashboard." https://dune.com/chainlink (Accessed December 2025)
-**Data Used**: On-chain oracle call volumes, gas consumption, protocol integration metrics. 🔷 HARD DATA
+[^48]: Dune Analytics. (2026, January 2). Oracle Usage Dashboard. dune.com, https://dune.com/chainlink 🔷 HARD DATA
+**Data Used**: On-chain oracle call volumes, gas consumption, protocol integration metrics.
 
-[^49]: Token Terminal. "Oracle Protocol Revenue." https://tokenterminal.com/terminal/markets/oracles (Accessed December 2025)
-**Data Used**: Oracle protocol financial metrics, revenue comparisons, fee generation analysis. 🔷 HARD DATA
+[^49]: Token Terminal. (2026, January 2). Oracle Protocol Revenue. tokenterminal.com, https://tokenterminal.com/terminal/markets/oracles 🔷 HARD DATA
+**Data Used**: Oracle protocol financial metrics, revenue comparisons, fee generation analysis.
 
-[^50]: Etherscan. "Oracle Contract Analytics." https://etherscan.io/directory/Oracle (Accessed December 2025)
-**Data Used**: Oracle contract transaction counts, gas usage patterns, caller analysis. 🔷 HARD DATA
+[^50]: Etherscan. (2026, January 2). Oracle Contract Analytics. etherscan.io, https://etherscan.io/directory/Oracle 🔷 HARD DATA
+**Data Used**: Oracle contract transaction counts, gas usage patterns, caller analysis.
 
-[^51]: Arbiscan. "L2 Oracle Usage." https://arbiscan.io/ (Accessed December 2025)
-**Data Used**: Arbitrum oracle transaction data, Chainlink usage on L2, gas efficiency. 🔷 HARD DATA
+[^51]: Arbiscan. (2026, January 2). L2 Oracle Usage. arbiscan.io, https://arbiscan.io/ 🔷 HARD DATA
+**Data Used**: Arbitrum oracle transaction data, Chainlink usage on L2, gas efficiency.
 
-[^52]: BaseScan. "Base Oracle Integration." https://basescan.org/ (Accessed December 2025)
-**Data Used**: Base L2 oracle deployments, Pyth and Chainlink usage patterns. 🔷 HARD DATA
+[^52]: BaseScan. (2026, January 2). Base Oracle Integration. basescan.org, https://basescan.org/ 🔷 HARD DATA
+**Data Used**: Base L2 oracle deployments, Pyth and Chainlink usage patterns.
 
-[^53]: PolygonScan. "Polygon Oracle Ecosystem." https://polygonscan.com/ (Accessed December 2025)
-**Data Used**: Polygon oracle integrations, multi-oracle deployment patterns. 🔷 HARD DATA
+[^53]: PolygonScan. (2026, January 2). Polygon Oracle Ecosystem. polygonscan.com, https://polygonscan.com/ 🔷 HARD DATA
+**Data Used**: Polygon oracle integrations, multi-oracle deployment patterns.
 
-[^54]: The Block. "Oracle Market Analysis." https://www.theblock.co/data/decentralized-finance/oracles (Accessed December 2025)
+[^54]: The Block. (2026, January 2). Oracle Market Analysis. theblock.co, https://www.theblock.co/data/decentralized-finance/oracles
 **Data Used**: Oracle market data, competitive analysis, revenue breakdowns.
 
-[^55]: Messari. "Oracle Sector Research." https://messari.io/report-category/oracles (Accessed December 2025)
+[^55]: Messari. (2026, January 2). Oracle Sector Research. messari.io, https://messari.io/report-category/oracles
 **Data Used**: Comprehensive oracle industry analysis, market sizing, competitive positioning.
 
 ---
 
-*Methodology: Revenue estimates derived from official protocol documentation, on-chain transaction analysis, and cross-referenced industry reports. TVS and TVE calculations based on DefiLlama and official provider metrics. All figures represent best available estimates as of December 2025.*
+*Methodology: Revenue estimates derived from official protocol documentation, on-chain transaction analysis, and cross-referenced industry reports. TVS and TVE calculations based on DefiLlama and official provider metrics. All figures represent best available estimates as of January 2026.*

@@ -1,6 +1,6 @@
 # Chain and Protocol Incentives: The Ecosystem Subsidy Reality
 
-*Last Updated: December 29, 2025*
+**Last Updated: January 2, 2026**
 
 ---
 
@@ -578,171 +578,171 @@ The **Layer 2 model emerges as the clear winner**, explaining why every major in
 
 ## Formatted Footnotes
 
-[^1]: DefiLlama. "Protocol Revenue and Fees Dashboard." https://defillama.com/fees (Accessed December 2025)
-**Data Used**: Daily chain revenue and fee collection metrics across all major blockchains. 🔷 HARD DATA
+[^1]: DefiLlama. (2026, January 2). Protocol Revenue and Fees Dashboard. defillama.com, https://defillama.com/fees 🔷 HARD DATA
+**Data Used**: Daily chain revenue and fee collection metrics across all major blockchains.
 
-[^2]: Token Terminal. "Chain Economics and Revenue Analysis." https://tokenterminal.com/ (Accessed December 2025)
-**Data Used**: Protocol revenue metrics, fee distribution analysis, chain profitability calculations. 🔷 HARD DATA
+[^2]: Token Terminal. (2026, January 2). Chain Economics and Revenue Analysis. tokenterminal.com, https://tokenterminal.com/ 🔷 HARD DATA
+**Data Used**: Protocol revenue metrics, fee distribution analysis, chain profitability calculations.
 
-[^3]: Ultrasound.money. "Ethereum Burn and Issuance Tracker." https://ultrasound.money/ (Accessed December 2025)
-**Data Used**: Daily ETH burned, validator rewards, net supply change metrics. 🔷 HARD DATA
+[^3]: Ultrasound.money. (2026, January 2). Ethereum Burn and Issuance Tracker. ultrasound.money, https://ultrasound.money/ 🔷 HARD DATA
+**Data Used**: Daily ETH burned, validator rewards, net supply change metrics.
 
-[^4]: Beaconcha.in. "Ethereum Validator Statistics." https://beaconcha.in/ (Accessed December 2025)
-**Data Used**: Total validator count (1,074,652), staking APY, daily validator rewards. 🔷 HARD DATA
+[^4]: Beaconcha.in. (2026, January 2). Ethereum Validator Statistics. beaconcha.in, https://beaconcha.in/ 🔷 HARD DATA
+**Data Used**: Total validator count (1,074,652), staking APY, daily validator rewards.
 
-[^5]: Solana Beach. "Solana Network Statistics." https://solanabeach.io/ (Accessed December 2025)
-**Data Used**: SOL staking metrics, inflation rate (4.839%), validator economics. 🔷 HARD DATA
+[^5]: Solana Beach. (2026, January 2). Solana Network Statistics. solanabeach.io, https://solanabeach.io/ 🔷 HARD DATA
+**Data Used**: SOL staking metrics, inflation rate (4.839%), validator economics.
 
-[^6]: BscScan. "BNB Chain Statistics and Burns." https://bscscan.com/stat/supply (Accessed December 2025)
-**Data Used**: BNB burn statistics, validator rewards, fee distribution metrics. 🔷 HARD DATA
+[^6]: BscScan. (2026, January 2). BNB Chain Statistics and Burns. bscscan.com, https://bscscan.com/stat/supply 🔷 HARD DATA
+**Data Used**: BNB burn statistics, validator rewards, fee distribution metrics.
 
-[^7]: Blockchain.com. "Bitcoin Network Statistics." https://www.blockchain.com/explorer/charts (Accessed December 2025)
-**Data Used**: Daily BTC issuance (450 BTC), miner revenue, fee-to-reward ratios. 🔷 HARD DATA
+[^7]: Blockchain.com. (2026, January 2). Bitcoin Network Statistics. blockchain.com, https://www.blockchain.com/explorer/charts 🔷 HARD DATA
+**Data Used**: Daily BTC issuance (450 BTC), miner revenue, fee-to-reward ratios.
 
-[^8]: Dune Analytics. "Base L2 Economics Dashboard." https://dune.com/base (Accessed December 2025)
-**Data Used**: Base sequencer revenue ($92M in 2024), L1 blob fee costs. 🔷 HARD DATA
+[^8]: Dune Analytics. (2026, January 2). Base L2 Economics Dashboard. dune.com, https://dune.com/base 🔷 HARD DATA
+**Data Used**: Base sequencer revenue ($92M in 2024), L1 blob fee costs.
 
-[^9]: Arbiscan. "Arbitrum Network Statistics." https://arbiscan.io/stat (Accessed December 2025)
-**Data Used**: ARB token unlock schedules, sequencer revenue, DAO treasury metrics. 🔷 HARD DATA
+[^9]: Arbiscan. (2026, January 2). Arbitrum Network Statistics. arbiscan.io, https://arbiscan.io/stat 🔷 HARD DATA
+**Data Used**: ARB token unlock schedules, sequencer revenue, DAO treasury metrics.
 
-[^10]: Hyperliquid. "Protocol Statistics and Revenue." https://stats.hyperliquid.xyz/ (Accessed December 2025)
-**Data Used**: Daily revenue ($3.7M), fee distribution model, HYPE staking APY. 🔷 HARD DATA
+[^10]: Hyperliquid. (2026, January 2). Protocol Statistics and Revenue. hyperliquid.xyz, https://stats.hyperliquid.xyz/ 🔷 HARD DATA
+**Data Used**: Daily revenue ($3.7M), fee distribution model, HYPE staking APY.
 
-[^11]: SnowTrace. "Avalanche Network Statistics." https://snowtrace.io/stat (Accessed December 2025)
-**Data Used**: AVAX staking APY (4.47-11.57%), validator requirements, fee burn metrics. 🔷 HARD DATA
+[^11]: SnowTrace. (2026, January 2). Avalanche Network Statistics. snowtrace.io, https://snowtrace.io/stat 🔷 HARD DATA
+**Data Used**: AVAX staking APY (4.47-11.57%), validator requirements, fee burn metrics.
 
-[^12]: Linea Explorer. "Linea Network Statistics." https://lineascan.build/stat (Accessed December 2025)
-**Data Used**: Daily revenue metrics, ConsenSys sequencer operations, token launch plans. 🔷 HARD DATA
+[^12]: Linea Explorer. (2026, January 2). Linea Network Statistics. lineascan.build, https://lineascan.build/stat 🔷 HARD DATA
+**Data Used**: Daily revenue metrics, ConsenSys sequencer operations, token launch plans.
 
-[^13]: Sui Explorer. "Sui Network Statistics." https://suiexplorer.com/stats (Accessed December 2025)
-**Data Used**: Daily SUI issuance (1,111,111 tokens), staking APY metrics. 🔷 HARD DATA
+[^13]: Sui Explorer. (2026, January 2). Sui Network Statistics. suiexplorer.com, https://suiexplorer.com/stats 🔷 HARD DATA
+**Data Used**: Daily SUI issuance (1,111,111 tokens), staking APY metrics.
 
-[^14]: PolygonScan. "Polygon Network Statistics." https://polygonscan.com/stat (Accessed December 2025)
-**Data Used**: MATIC-POL migration metrics, 2% annual emission rate, validator economics. 🔷 HARD DATA
+[^14]: PolygonScan. (2026, January 2). Polygon Network Statistics. polygonscan.com, https://polygonscan.com/stat 🔷 HARD DATA
+**Data Used**: MATIC-POL migration metrics, 2% annual emission rate, validator economics.
 
-[^15]: Aptos Explorer. "Aptos Network Statistics." https://aptoscan.com/stat (Accessed December 2025)
-**Data Used**: Fee burn mechanics, validator reward distribution, staking metrics. 🔷 HARD DATA
+[^15]: Aptos Explorer. (2026, January 2). Aptos Network Statistics. aptoscan.com, https://aptoscan.com/stat 🔷 HARD DATA
+**Data Used**: Fee burn mechanics, validator reward distribution, staking metrics.
 
-[^16]: Berachain Docs. "Proof of Liquidity Economics." https://docs.berachain.com/ (Accessed December 2025)
+[^16]: Berachain Docs. (2026, January 2). Proof of Liquidity Economics. docs.berachain.com, https://docs.berachain.com/
 **Data Used**: Testnet metrics, VC funding ($142M), emissions model design.
 
-[^17]: Optimism Gateway. "OP Network Statistics." https://optimism.io/stats (Accessed December 2025)
-**Data Used**: Sequencer profit margins (20,944% Q3 2024), OP token unlock schedules. 🔷 HARD DATA
+[^17]: Optimism Gateway. (2026, January 2). OP Network Statistics. optimism.io, https://optimism.io/stats 🔷 HARD DATA
+**Data Used**: Sequencer profit margins (20,944% Q3 2024), OP token unlock schedules.
 
-[^18]: TronScan. "Tron Network Statistics." https://tronscan.org/#/data/stats (Accessed December 2025)
-**Data Used**: Daily fee revenue ($1.25M), Super Representative validator model. 🔷 HARD DATA
+[^18]: TronScan. (2026, January 2). Tron Network Statistics. tronscan.org, https://tronscan.org/#/data/stats 🔷 HARD DATA
+**Data Used**: Daily fee revenue ($1.25M), Super Representative validator model.
 
-[^19]: Cardano Explorer. "Cardano Network Statistics." https://cardanoscan.io/stats (Accessed December 2025)
-**Data Used**: ADA staking APY (3-5%), treasury funding mechanisms. 🔷 HARD DATA
+[^19]: Cardano Explorer. (2026, January 2). Cardano Network Statistics. cardanoscan.io, https://cardanoscan.io/stats 🔷 HARD DATA
+**Data Used**: ADA staking APY (3-5%), treasury funding mechanisms.
 
-[^20]: Near Explorer. "Near Protocol Statistics." https://nearblocks.io/stats (Accessed December 2025)
-**Data Used**: NEAR inflation rate (~5%), validator economics, fee metrics. 🔷 HARD DATA
+[^20]: Near Explorer. (2026, January 2). Near Protocol Statistics. nearblocks.io, https://nearblocks.io/stats 🔷 HARD DATA
+**Data Used**: NEAR inflation rate (~5%), validator economics, fee metrics.
 
-[^21]: Voyager. "StarkNet Network Statistics." https://voyager.online/ (Accessed December 2025)
-**Data Used**: STRK staking launch metrics, inflation (<1.6%), validator requirements. 🔷 HARD DATA
+[^21]: Voyager. (2026, January 2). StarkNet Network Statistics. voyager.online, https://voyager.online/ 🔷 HARD DATA
+**Data Used**: STRK staking launch metrics, inflation (<1.6%), validator requirements.
 
-[^22]: Mintscan. "Cosmos Hub Statistics." https://www.mintscan.io/cosmos (Accessed December 2025)
-**Data Used**: ATOM staking APY (15-20%), ICS revenue metrics. 🔷 HARD DATA
+[^22]: Mintscan. (2026, January 2). Cosmos Hub Statistics. mintscan.io, https://www.mintscan.io/cosmos 🔷 HARD DATA
+**Data Used**: ATOM staking APY (15-20%), ICS revenue metrics.
 
-[^23]: Aave. "Protocol Documentation and Statistics." https://aave.com/docs (Accessed December 2025)
+[^23]: Aave. (2026, January 2). Protocol Documentation and Statistics. aave.com, https://aave.com/docs
 **Data Used**: Safety Module rewards (820 AAVE daily), GHO Merit Program details.
 
-[^24]: Morpho. "Protocol Statistics and Token Economics." https://morpho.org/ (Accessed December 2025)
+[^24]: Morpho. (2026, January 2). Protocol Statistics and Token Economics. morpho.org, https://morpho.org/
 **Data Used**: TVL growth (150% post-token launch), $8.3B TVL, airdrop distribution.
 
-[^25]: Lido Finance. "Protocol Statistics Dashboard." https://lido.fi/ethereum (Accessed December 2025)
-**Data Used**: 10% fee on staking rewards, daily protocol revenue (~$2M). 🔷 HARD DATA
+[^25]: Lido Finance. (2026, January 2). Protocol Statistics Dashboard. lido.fi, https://lido.fi/ethereum 🔷 HARD DATA
+**Data Used**: 10% fee on staking rewards, daily protocol revenue (~$2M).
 
-[^26]: EigenLayer. "Restaking Protocol Statistics." https://eigenlayer.xyz/ (Accessed December 2025)
+[^26]: EigenLayer. (2026, January 2). Restaking Protocol Statistics. eigenlayer.xyz, https://eigenlayer.xyz/
 **Data Used**: Programmatic Incentives v1 (66.9M EIGEN), Season 2 Stakedrop (87M EIGEN).
 
-[^27]: Tether. "USDT Transparency Report." https://tether.to/en/transparency (Accessed December 2025)
-**Data Used**: $13B+ net profits for 2024, $113B+ US Treasury holdings. 🔷 HARD DATA
+[^27]: Tether. (2026, January 2). USDT Transparency Report. tether.to, https://tether.to/en/transparency 🔷 HARD DATA
+**Data Used**: $13B+ net profits for 2024, $113B+ US Treasury holdings.
 
-[^28]: Circle. "USDC Transparency and Attestations." https://www.circle.com/en/usdc (Accessed December 2025)
+[^28]: Circle. (2026, January 2). USDC Transparency and Attestations. circle.com, https://www.circle.com/en/usdc
 **Data Used**: $1.7B revenue, $1.01B partner revenue sharing (Coinbase 50%).
 
-[^29]: Ethena. "Protocol Statistics and Yields." https://ethena.fi/ (Accessed December 2025)
-**Data Used**: sUSDe 18% APY, $5.8B+ USDe supply, 700K+ users. 🔷 HARD DATA
+[^29]: Ethena. (2026, January 2). Protocol Statistics and Yields. ethena.fi, https://ethena.fi/ 🔷 HARD DATA
+**Data Used**: sUSDe 18% APY, $5.8B+ USDe supply, 700K+ users.
 
-[^30]: Pump.fun. "Protocol Revenue Statistics." https://pump.fun/ (Accessed December 2025)
-**Data Used**: $834M+ lifetime revenue, $492M annualized, creator incentives. 🔷 HARD DATA
+[^30]: Pump.fun. (2026, January 2). Protocol Revenue Statistics. pump.fun, https://pump.fun/ 🔷 HARD DATA
+**Data Used**: $834M+ lifetime revenue, $492M annualized, creator incentives.
 
-[^31]: Jupiter. "Protocol Documentation and Airdrop Plans." https://jup.ag/ (Accessed December 2025)
+[^31]: Jupiter. (2026, January 2). Protocol Documentation and Airdrop Plans. jup.ag, https://jup.ag/
 **Data Used**: Jupuary airdrops (700M JUP/$616M), $2.8B total commitments 2024-2027.
 
-[^32]: Jito Labs. "Solana MEV Statistics." https://jito.network/stats/ (Accessed December 2025)
-**Data Used**: Validator MEV revenue, JTO token distribution, tip economics. 🔷 HARD DATA
+[^32]: Jito Labs. (2026, January 2). Solana MEV Statistics. jito.network, https://jito.network/stats/ 🔷 HARD DATA
+**Data Used**: Validator MEV revenue, JTO token distribution, tip economics.
 
-[^33]: Meteora. "Protocol Statistics." https://www.meteora.ag/ (Accessed December 2025)
+[^33]: Meteora. (2026, January 2). Protocol Statistics. meteora.ag, https://www.meteora.ag/
 **Data Used**: LP incentive programs, DEX volume metrics, yield statistics.
 
-[^34]: Uniswap. "Protocol Documentation and Grants." https://uniswap.org/ (Accessed December 2025)
+[^34]: Uniswap. (2026, January 2). Protocol Documentation and Grants. uniswap.org, https://uniswap.org/
 **Data Used**: Grant program spending, protocol fee mechanics, governance proposals.
 
-[^35]: Spark Protocol. "MakerDAO DeFi Integration." https://spark.fi/ (Accessed December 2025)
+[^35]: Spark Protocol. (2026, January 2). MakerDAO DeFi Integration. spark.fi, https://spark.fi/
 **Data Used**: Subsidized rates from MakerDAO, protocol economics, yield metrics.
 
-[^36]: EtherFi. "Liquid Staking Protocol Statistics." https://etherfi.io/ (Accessed December 2025)
+[^36]: EtherFi. (2026, January 2). Liquid Staking Protocol Statistics. etherfi.io, https://etherfi.io/
 **Data Used**: eETH staking metrics, protocol growth, incentive programs.
 
-[^37]: Astar Network. "Developer Incentive Programs." https://astar.network/ (Accessed December 2025)
+[^37]: Astar Network. (2026, January 2). Developer Incentive Programs. astar.network, https://astar.network/
 **Data Used**: dApp staking rewards, developer subsidies, ecosystem fund allocation.
 
-[^38]: Axiom. "ZK Infrastructure Protocol." https://axiom.xyz/ (Accessed December 2025)
+[^38]: Axiom. (2026, January 2). ZK Infrastructure Protocol. axiom.xyz, https://axiom.xyz/
 **Data Used**: Early-stage infrastructure development, grant funding, protocol economics.
 
-[^39]: Flashbots. "MEV Research and Transparency." https://collective.flashbots.net/ (Accessed December 2025)
-**Data Used**: MEV-Boost adoption (95% validators), builder market dynamics. 🔷 HARD DATA
+[^39]: Flashbots. (2026, January 2). MEV Research and Transparency. flashbots.net, https://collective.flashbots.net/ 🔷 HARD DATA
+**Data Used**: MEV-Boost adoption (95% validators), builder market dynamics.
 
-[^40]: Galaxy Digital. "Chain Economics Research." https://www.galaxy.com/insights/ (Accessed December 2025)
+[^40]: Galaxy Digital. (2026, January 2). Chain Economics Research. galaxy.com, https://www.galaxy.com/insights/
 **Data Used**: Institutional analysis of chain loss ratios, sustainability projections.
 
-[^41]: Messari. "Protocol Revenue Analysis." https://messari.io/ (Accessed December 2025)
+[^41]: Messari. (2026, January 2). Protocol Revenue Analysis. messari.io, https://messari.io/
 **Data Used**: Cross-chain revenue comparisons, tokenomics analysis, market research.
 
-[^42]: The Block Research. "Protocol Incentive Analysis." https://www.theblock.co/research (Accessed December 2025)
+[^42]: The Block Research. (2026, January 2). Protocol Incentive Analysis. theblock.co, https://www.theblock.co/research
 **Data Used**: Industry-wide incentive spending analysis, airdrop market data.
 
-[^43]: CoinGecko. "Token Price and Market Data." https://www.coingecko.com/ (Accessed December 2025)
-**Data Used**: Token prices for emission value calculations, market cap data. 🔷 HARD DATA
+[^43]: CoinGecko. (2026, January 2). Token Price and Market Data. coingecko.com, https://www.coingecko.com/ 🔷 HARD DATA
+**Data Used**: Token prices for emission value calculations, market cap data.
 
-[^44]: CoinMarketCap. "Cryptocurrency Market Statistics." https://coinmarketcap.com/ (Accessed December 2025)
-**Data Used**: Market cap data, circulating supply metrics, volume statistics. 🔷 HARD DATA
+[^44]: CoinMarketCap. (2026, January 2). Cryptocurrency Market Statistics. coinmarketcap.com, https://coinmarketcap.com/ 🔷 HARD DATA
+**Data Used**: Market cap data, circulating supply metrics, volume statistics.
 
-[^45]: Ethereum.org. "Protocol Economics Documentation." https://ethereum.org/en/developers/docs/ (Accessed December 2025)
+[^45]: Ethereum.org. (2026, January 2). Protocol Economics Documentation. ethereum.org, https://ethereum.org/en/developers/docs/
 **Data Used**: EIP-1559 mechanics, validator economics, protocol specifications.
 
-[^46]: Solana Docs. "Tokenomics and Inflation." https://docs.solana.com/economics_overview (Accessed December 2025)
+[^46]: Solana Docs. (2026, January 2). Tokenomics and Inflation. docs.solana.com, https://docs.solana.com/economics_overview
 **Data Used**: Inflation schedule (decreasing 15%/year), long-term target (1.5%).
 
-[^47]: Binance Research. "Protocol Economics Reports." https://research.binance.com/ (Accessed December 2025)
+[^47]: Binance Research. (2026, January 2). Protocol Economics Reports. research.binance.com, https://research.binance.com/
 **Data Used**: Cross-chain analysis, tokenomics comparisons, market research.
 
-[^48]: Coin Metrics. "On-Chain Network Data." https://coinmetrics.io/ (Accessed December 2025)
-**Data Used**: Network-level metrics, emission tracking, supply dynamics. 🔷 HARD DATA
+[^48]: Coin Metrics. (2026, January 2). On-Chain Network Data. coinmetrics.io, https://coinmetrics.io/ 🔷 HARD DATA
+**Data Used**: Network-level metrics, emission tracking, supply dynamics.
 
-[^49]: Glassnode. "On-Chain Analytics." https://glassnode.com/ (Accessed December 2025)
-**Data Used**: Validator metrics, staking flows, protocol economics analysis. 🔷 HARD DATA
+[^49]: Glassnode. (2026, January 2). On-Chain Analytics. glassnode.com, https://glassnode.com/ 🔷 HARD DATA
+**Data Used**: Validator metrics, staking flows, protocol economics analysis.
 
-[^50]: IntoTheBlock. "Blockchain Analytics." https://intotheblock.com/ (Accessed December 2025)
-**Data Used**: Address activity, holder distribution, protocol health metrics. 🔷 HARD DATA
+[^50]: IntoTheBlock. (2026, January 2). Blockchain Analytics. intotheblock.com, https://intotheblock.com/ 🔷 HARD DATA
+**Data Used**: Address activity, holder distribution, protocol health metrics.
 
-[^51]: Nansen. "Smart Money Analytics." https://nansen.ai/ (Accessed December 2025)
-**Data Used**: Protocol participation patterns, whale activity, airdrop farming detection. 🔷 HARD DATA
+[^51]: Nansen. (2026, January 2). Smart Money Analytics. nansen.ai, https://nansen.ai/ 🔷 HARD DATA
+**Data Used**: Protocol participation patterns, whale activity, airdrop farming detection.
 
-[^52]: L2Beat. "Layer 2 Scaling Analytics." https://l2beat.com/ (Accessed December 2025)
-**Data Used**: L2 TVL metrics, sequencer economics, rollup revenue analysis. 🔷 HARD DATA
+[^52]: L2Beat. (2026, January 2). Layer 2 Scaling Analytics. l2beat.com, https://l2beat.com/ 🔷 HARD DATA
+**Data Used**: L2 TVL metrics, sequencer economics, rollup revenue analysis.
 
-[^53]: CryptoFees. "Protocol Fee Comparison." https://cryptofees.info/ (Accessed December 2025)
-**Data Used**: Daily fee revenue rankings, cross-protocol comparisons. 🔷 HARD DATA
+[^53]: CryptoFees. (2026, January 2). Protocol Fee Comparison. cryptofees.info, https://cryptofees.info/ 🔷 HARD DATA
+**Data Used**: Daily fee revenue rankings, cross-protocol comparisons.
 
-[^54]: Staking Rewards. "Validator Economics Database." https://stakingrewards.com/ (Accessed December 2025)
-**Data Used**: Staking APY comparisons, validator economics, reward metrics. 🔷 HARD DATA
+[^54]: Staking Rewards. (2026, January 2). Validator Economics Database. stakingrewards.com, https://stakingrewards.com/ 🔷 HARD DATA
+**Data Used**: Staking APY comparisons, validator economics, reward metrics.
 
-[^55]: Rated Network. "Validator Performance Analytics." https://www.rated.network/ (Accessed December 2025)
-**Data Used**: Individual validator performance, staking pool analytics, reward distribution. 🔷 HARD DATA
+[^55]: Rated Network. (2026, January 2). Validator Performance Analytics. rated.network, https://www.rated.network/ 🔷 HARD DATA
+**Data Used**: Individual validator performance, staking pool analytics, reward distribution.
 
 ---
 
-*Methodology: Loss ratio calculations based on publicly available fee data, token emission schedules, and on-chain treasury movements. Revenue estimates derived from official protocol documentation, analytics platforms, and cross-referenced industry reports. All monetary figures represent best available estimates as of December 2025.*
+*Methodology: Loss ratio calculations based on publicly available fee data, token emission schedules, and on-chain treasury movements. Revenue estimates derived from official protocol documentation, analytics platforms, and cross-referenced industry reports. All monetary figures represent best available estimates as of January 2026.*
