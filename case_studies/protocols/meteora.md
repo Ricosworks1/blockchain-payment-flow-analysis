@@ -297,112 +297,112 @@ Based on $543.9M TVL[^2] and protocol fee data[^55]:
 
 ## Footnotes
 
-[^1]: [Meteora Documentation](https://docs.meteora.ag/) - Official protocol documentation covering DLMM, Dynamic Vaults, and AMM pools. 🔷 HARD DATA
+[^1]: Meteora. (2025). Documentation: Official protocol documentation covering DLMM, Dynamic Vaults, and AMM pools. docs.meteora.ag, https://docs.meteora.ag/ 🔷 HARD DATA
 
-[^2]: [DefiLlama - Meteora TVL](https://defillama.com/protocol/meteora) - Total Value Locked: $543.9M retrieved via DefiLlama API (December 31, 2025). 🔷 HARD DATA
+[^2]: DefiLlama. (2025, December 31). Meteora TVL: $543.9M retrieved via API. defillama.com, https://defillama.com/protocol/meteora 🔷 HARD DATA
 
-[^3]: [Meteora App](https://app.meteora.ag/) - Official trading and liquidity interface. 🔷 HARD DATA
+[^3]: Meteora. (2025). App: Official trading and liquidity interface. app.meteora.ag, https://app.meteora.ag/ 🔷 HARD DATA
 
-[^4]: [CoinGecko - MET Token](https://www.coingecko.com/en/coins/meteora) - MET governance token market data. 🔷 HARD DATA
+[^4]: CoinGecko. (2025, December 31). MET Token: Governance token market data retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/meteora 🔷 HARD DATA
 
-[^5]: [Solscan - Meteora](https://solscan.io/) - On-chain contract analytics. 🔷 HARD DATA
+[^5]: Solscan. (2025). Meteora: On-chain contract analytics. solscan.io, https://solscan.io/ 🔷 HARD DATA
 
-[^6]: [Dune Analytics - Meteora](https://dune.com/meteora) - On-chain analytics for volume and fees. 🔷 HARD DATA
+[^6]: Dune Analytics. (2025). Meteora: On-chain analytics for volume and fees. dune.com, https://dune.com/meteora 🔷 HARD DATA
 
-[^7]: [DLMM Documentation](https://docs.meteora.ag/dlmm/dlmm-introduction) - Dynamic Liquidity Market Maker technical specification.
+[^7]: Meteora. (2025). DLMM Documentation: Dynamic Liquidity Market Maker technical specification. docs.meteora.ag, https://docs.meteora.ag/dlmm/dlmm-introduction
 
-[^8]: [Messari - Meteora Research](https://messari.io/) - Protocol analysis.
+[^8]: Messari. (2025). Meteora Research: Protocol analysis. messari.io, https://messari.io/
 
-[^9]: [The Block - Meteora](https://www.theblock.co/tag/meteora) - News coverage.
+[^9]: The Block. (2025). Meteora: News coverage. theblock.co, https://www.theblock.co/tag/meteora
 
-[^10]: [CoinDesk - Meteora News](https://www.coindesk.com/) - Breaking news and developments.
+[^10]: CoinDesk. (2025). Meteora News: Breaking news and developments. coindesk.com, https://www.coindesk.com/
 
-[^11]: [Token Terminal - Meteora](https://tokenterminal.com/) - Protocol metrics.
+[^11]: Token Terminal. (2025). Meteora: Protocol metrics. tokenterminal.com, https://tokenterminal.com/
 
-[^12]: [Electric Capital - Meteora](https://www.developerreport.com/) - Developer activity. 🔷 HARD DATA
+[^12]: Electric Capital. (2025). Developer Report: Meteora developer activity. developerreport.com, https://www.developerreport.com/ 🔷 HARD DATA
 
-[^13]: [Dynamic Vaults](https://docs.meteora.ag/dynamic-vaults/dynamic-vaults) - Automated yield strategy documentation.
+[^13]: Meteora. (2025). Dynamic Vaults: Automated yield strategy documentation. docs.meteora.ag, https://docs.meteora.ag/dynamic-vaults/dynamic-vaults
 
-[^14]: [Dynamic AMM Pools](https://docs.meteora.ag/dynamic-amm/dynamic-amm) - Standard AMM pool documentation.
+[^14]: Meteora. (2025). Dynamic AMM Pools: Standard AMM pool documentation. docs.meteora.ag, https://docs.meteora.ag/dynamic-amm/dynamic-amm
 
-[^15]: [Meteora Blog](https://blog.meteora.ag/) - Official announcements.
+[^15]: Meteora. (2025). Blog: Official announcements. blog.meteora.ag, https://blog.meteora.ag/
 
-[^16]: [Meteora Twitter](https://twitter.com/MeteoraAG) - Official updates.
+[^16]: Meteora. (2025). Twitter: Official updates. twitter.com, https://twitter.com/MeteoraAG
 
-[^17]: [Meteora Discord](https://discord.gg/meteora) - Community discussion.
+[^17]: Meteora. (2025). Discord: Community discussion. discord.gg, https://discord.gg/meteora
 
-[^18]: [Meteora GitHub](https://github.com/MeteoraAg) - Open-source repositories.
+[^18]: Meteora. (2025). GitHub: Open-source repositories. github.com, https://github.com/MeteoraAg
 
-[^19]: [Jupiter - Meteora Integration](https://jup.ag/) - DEX aggregator routing. 🔷 HARD DATA
+[^19]: Jupiter. (2025). Meteora Integration: DEX aggregator routing. jup.ag, https://jup.ag/ 🔷 HARD DATA
 
-[^20]: [Bin-Based Liquidity](https://docs.meteora.ag/dlmm/concentrated-liquidity-architecture) - DLMM architecture documentation.
+[^20]: Meteora. (2025). Bin-Based Liquidity: DLMM concentrated liquidity architecture. docs.meteora.ag, https://docs.meteora.ag/dlmm/concentrated-liquidity-architecture
 
-[^21]: [Dynamic Fees](https://docs.meteora.ag/dlmm/dynamic-fees) - Volatility-responsive fee system.
+[^21]: Meteora. (2025). Dynamic Fees: Volatility-responsive fee system. docs.meteora.ag, https://docs.meteora.ag/dlmm/dynamic-fees
 
-[^22]: [Meteora Launchpad](https://app.meteora.ag/launch) - Memecoin launch platform.
+[^22]: Meteora. (2025). Launchpad: Memecoin launch platform. app.meteora.ag, https://app.meteora.ag/launch
 
-[^23]: [veMET Model](https://docs.meteora.ag/) - Vote-escrowed token documentation.
+[^23]: Meteora. (2025). veMET Model: Vote-escrowed token documentation. docs.meteora.ag, https://docs.meteora.ag/
 
-[^24]: [Meteora Governance](https://app.meteora.ag/) - Governance proposals.
+[^24]: Meteora. (2025). Governance: Protocol governance proposals. app.meteora.ag, https://app.meteora.ag/
 
-[^25]: [Solana - Meteora](https://solana.com/) - Underlying blockchain. 🔷 HARD DATA
+[^25]: Solana. (2025). Blockchain: Underlying infrastructure for Meteora. solana.com, https://solana.com/ 🔷 HARD DATA
 
-[^26]: [Phantom - Meteora](https://phantom.app/) - Wallet integration.
+[^26]: Phantom. (2025). Wallet: Meteora wallet integration. phantom.app, https://phantom.app/
 
-[^27]: [Birdeye - Meteora](https://birdeye.so/) - Token analytics. 🔷 HARD DATA
+[^27]: Birdeye. (2025). Token Analytics: Meteora token data. birdeye.so, https://birdeye.so/ 🔷 HARD DATA
 
-[^28]: [DEXScreener - Meteora](https://dexscreener.com/) - Pool charts. 🔷 HARD DATA
+[^28]: DEXScreener. (2025). Charts: Meteora pool charts. dexscreener.com, https://dexscreener.com/ 🔷 HARD DATA
 
-[^29]: [OtterSec - Meteora Audit](https://osec.io/) - Security audit reports.
+[^29]: OtterSec. (2025). Security Audit: Meteora security audit reports. osec.io, https://osec.io/
 
-[^30]: [Halborn - Meteora Audit](https://www.halborn.com/) - Security assessment.
+[^30]: Halborn. (2025). Security Assessment: Meteora security assessment. halborn.com, https://www.halborn.com/
 
-[^31]: [Nansen - Meteora](https://portfolio.nansen.ai/) - Smart money tracking.
+[^31]: Nansen. (2025). Meteora: Smart money tracking. nansen.ai, https://portfolio.nansen.ai/
 
-[^32]: [Step Finance - Meteora](https://www.step.finance/) - Portfolio tracking.
+[^32]: Step Finance. (2025). Meteora: Portfolio tracking integration. step.finance, https://www.step.finance/
 
-[^33]: [DLMM Pools](https://app.meteora.ag/dlmm) - Active concentrated liquidity pools. 🔷 HARD DATA
+[^33]: Meteora. (2025). DLMM Pools: Active concentrated liquidity pools. app.meteora.ag, https://app.meteora.ag/dlmm 🔷 HARD DATA
 
-[^34]: [Dynamic Vault Pools](https://app.meteora.ag/vault) - Automated strategy pools. 🔷 HARD DATA
+[^34]: Meteora. (2025). Dynamic Vault Pools: Automated strategy pools. app.meteora.ag, https://app.meteora.ag/vault 🔷 HARD DATA
 
-[^35]: [AMM Pools](https://app.meteora.ag/pools) - Standard liquidity pools. 🔷 HARD DATA
+[^35]: Meteora. (2025). AMM Pools: Standard liquidity pools. app.meteora.ag, https://app.meteora.ag/pools 🔷 HARD DATA
 
-[^36]: [Meteora Fee Structure](https://docs.meteora.ag/dlmm/dynamic-fees) - 0.01-2% variable fees.
+[^36]: Meteora. (2025). Fee Structure: 0.01-2% variable fees. docs.meteora.ag, https://docs.meteora.ag/dlmm/dynamic-fees
 
-[^37]: [IL Protection](https://docs.meteora.ag/dlmm/impermanent-loss) - Impermanent loss mitigation.
+[^37]: Meteora. (2025). IL Protection: Impermanent loss mitigation. docs.meteora.ag, https://docs.meteora.ag/dlmm/impermanent-loss
 
-[^38]: [Raydium - Competitor](https://raydium.io/) - Competing Solana DEX. 🔷 HARD DATA
+[^38]: Raydium. (2025). DEX: Competing Solana DEX. raydium.io, https://raydium.io/ 🔷 HARD DATA
 
-[^39]: [Orca - Competitor](https://www.orca.so/) - Competing concentrated liquidity. 🔷 HARD DATA
+[^39]: Orca. (2025). Whirlpools: Competing concentrated liquidity. orca.so, https://www.orca.so/ 🔷 HARD DATA
 
-[^40]: [Meteora Partnerships](https://blog.meteora.ag/) - Ecosystem partnership announcements.
+[^40]: Meteora. (2025). Partnerships: Ecosystem partnership announcements. blog.meteora.ag, https://blog.meteora.ag/
 
-[^41]: [Capital Efficiency](https://docs.meteora.ag/dlmm/capital-efficiency) - 100-500x improvement claims.
+[^41]: Meteora. (2025). Capital Efficiency: 100-500x improvement claims. docs.meteora.ag, https://docs.meteora.ag/dlmm/capital-efficiency
 
-[^42]: [Zero Slippage Bins](https://docs.meteora.ag/dlmm/bin-liquidity) - Bin mechanics documentation.
+[^42]: Meteora. (2025). Zero Slippage Bins: Bin mechanics documentation. docs.meteora.ag, https://docs.meteora.ag/dlmm/bin-liquidity
 
-[^43]: [Meteora Analytics](https://app.meteora.ag/analytics) - Protocol performance dashboard. 🔷 HARD DATA
+[^43]: Meteora. (2025). Analytics: Protocol performance dashboard. app.meteora.ag, https://app.meteora.ag/analytics 🔷 HARD DATA
 
-[^44]: [Multi-Pool Routing](https://docs.meteora.ag/) - Aggregation layer documentation.
+[^44]: Meteora. (2025). Multi-Pool Routing: Aggregation layer documentation. docs.meteora.ag, https://docs.meteora.ag/
 
-[^45]: [Meteora SDK](https://docs.meteora.ag/) - Developer integration tools.
+[^45]: Meteora. (2025). SDK: Developer integration tools. docs.meteora.ag, https://docs.meteora.ag/
 
-[^46]: [Memecoin Launch Fees](https://docs.meteora.ag/) - Platform fee structure.
+[^46]: Meteora. (2025). Memecoin Launch Fees: Platform fee structure. docs.meteora.ag, https://docs.meteora.ag/
 
-[^47]: [LP Rewards](https://app.meteora.ag/) - Liquidity provider incentives. 🔷 HARD DATA
+[^47]: Meteora. (2025). LP Rewards: Liquidity provider incentives. app.meteora.ag, https://app.meteora.ag/ 🔷 HARD DATA
 
-[^48]: [MET Tokenomics](https://docs.meteora.ag/) - Token distribution documentation.
+[^48]: Meteora. (2025). MET Tokenomics: Token distribution documentation. docs.meteora.ag, https://docs.meteora.ag/
 
-[^49]: [Meteora V2](https://docs.meteora.ag/) - Protocol upgrade documentation.
+[^49]: Meteora. (2025). V2: Protocol upgrade documentation. docs.meteora.ag, https://docs.meteora.ag/
 
-[^50]: [Auto-Rebalancing](https://docs.meteora.ag/dynamic-vaults/auto-compounding) - Vault strategy automation.
+[^50]: Meteora. (2025). Auto-Rebalancing: Vault strategy automation. docs.meteora.ag, https://docs.meteora.ag/dynamic-vaults/auto-compounding
 
-[^51]: [Risk Management](https://docs.meteora.ag/) - Protocol risk documentation.
+[^51]: Meteora. (2025). Risk Management: Protocol risk documentation. docs.meteora.ag, https://docs.meteora.ag/
 
-[^52]: [Meteora Security](https://docs.meteora.ag/) - Security documentation.
+[^52]: Meteora. (2025). Security: Security documentation. docs.meteora.ag, https://docs.meteora.ag/
 
-[^53]: [Volume Analytics](https://dune.com/meteora) - Trading volume tracking. 🔷 HARD DATA
+[^53]: Dune Analytics. (2025). Volume Analytics: Trading volume tracking. dune.com, https://dune.com/meteora 🔷 HARD DATA
 
-[^54]: [Fee Revenue](https://app.meteora.ag/analytics) - Protocol fee generation. 🔷 HARD DATA
+[^54]: Meteora. (2025). Fee Revenue: Protocol fee generation. app.meteora.ag, https://app.meteora.ag/analytics 🔷 HARD DATA
 
-[^55]: [DefiLlama - Meteora Fees](https://defillama.com/fees/meteora) - Daily fee generation tracking. 🔷 HARD DATA
+[^55]: DefiLlama. (2025, December 31). Meteora Fees: Daily fee generation tracking retrieved via API. defillama.com, https://defillama.com/fees/meteora 🔷 HARD DATA
