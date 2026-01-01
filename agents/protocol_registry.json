@@ -162,6 +162,19 @@
       "notes": "Permissionless lending protocol. Morpho Blue (immutable base) + MetaMorpho (curated vaults). TVL ~$6B+ across 20+ chains."
     },
     {
+      "name": "Pendle",
+      "slug": "pendle",
+      "context_file": "claude.md_pendle",
+      "report_file": "case_studies/protocols/pendle.md",
+      "apis": {
+        "defillama_tvl": "https://api.llama.fi/protocol/pendle",
+        "defillama_fees": "https://api.llama.fi/summary/fees/pendle",
+        "coingecko_pendle": "https://api.coingecko.com/api/v3/coins/pendle"
+      },
+      "enabled": true,
+      "notes": "Yield tokenization protocol. PT/YT splitting, fixed income DeFi. TVL ~$3.7B+ across 11 chains. 100% revenue to vePENDLE."
+    },
+    {
       "name": "Aave",
       "slug": "aave",
       "context_file": "claude.md_aave",
