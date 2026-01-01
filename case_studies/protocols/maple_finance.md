@@ -453,421 +453,421 @@ The SYRUP tokenomics model[^100] aligns stakeholder incentives through 20% reven
 
 ## Footnotes
 
-[^1]: [Maple Finance - Official Website](https://maple.finance/) - Institutional on-chain credit infrastructure.
+[^1]: Maple Finance. (2025). Official Website: Institutional on-chain credit infrastructure. maple.finance, https://maple.finance/
 
-[^2]: [CoinDesk - Maple Finance Overview](https://www.coindesk.com/learn/what-is-maple-finance/) - Pioneered undercollateralized DeFi lending model.
+[^2]: CoinDesk. (2024). What is Maple Finance: Pioneered undercollateralized DeFi lending model. coindesk.com, https://www.coindesk.com/learn/what-is-maple-finance/
 
-[^3]: [Crunchbase - Maple Finance](https://www.crunchbase.com/organization/maple-finance) - Protocol launched in 2021.
+[^3]: Crunchbase. (2021). Maple Finance: Protocol launched in 2021. crunchbase.com, https://www.crunchbase.com/organization/maple-finance
 
-[^4]: [Maple Finance Documentation](https://maplefinance.gitbook.io/maple/) - Qualified institutional borrower requirements.
+[^4]: Maple Finance. (2025). Documentation: Qualified institutional borrower requirements. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^5]: [The Block - Maple Finance Analysis](https://www.theblock.co/data/decentralized-finance/lending) - Liquidity provider framework.
+[^5]: The Block. (2025). DeFi Lending Analysis: Liquidity provider framework. theblock.co, https://www.theblock.co/data/decentralized-finance/lending
 
-[^6]: [Maple Blog - Pool Delegate System](https://maple.finance/blog) - Pool Delegate governance model.
+[^6]: Maple Finance. (2025). Blog: Pool Delegate governance model. maple.finance, https://maple.finance/blog
 
-[^7]: [DefiLlama - Maple TVL](https://defillama.com/protocol/maple) - 🔷 HARD DATA: Total TVL $2.56B retrieved via DefiLlama API (December 31, 2025).
+[^7]: DefiLlama. (2025, December 31). Maple TVL: Total $2.56B retrieved via API. defillama.com, https://defillama.com/protocol/maple 🔷 HARD DATA
 
-[^8]: [Maple Finance - Cumulative Originations](https://maple.finance/) - Over $8.4B in loans originated since launch.
+[^8]: Maple Finance. (2025). Official Website: Over $8.4B in loans originated since launch. maple.finance, https://maple.finance/
 
-[^9]: [Messari - DeFi Lending Report](https://messari.io/report/defi-lending) - Maple's position in institutional DeFi category.
+[^9]: Messari. (2025). DeFi Lending Report: Maple's position in institutional DeFi category. messari.io, https://messari.io/report/defi-lending
 
-[^10]: [Maple Blog - SYRUP Token Launch](https://maple.finance/blog) - MPL to SYRUP rebrand announcement 2024.
+[^10]: Maple Finance. (2024). Blog: MPL to SYRUP rebrand announcement. maple.finance, https://maple.finance/blog
 
-[^11]: [CoinGecko - SYRUP Token](https://www.coingecko.com/en/coins/syrup) - Revenue-sharing tokenomics model details.
+[^11]: CoinGecko. (2025). SYRUP Token: Revenue-sharing tokenomics model details. coingecko.com, https://www.coingecko.com/en/coins/syrup
 
-[^12]: [Maple Documentation - Tokenomics](https://maplefinance.gitbook.io/maple/) - 20% protocol fees allocated to buybacks.
+[^12]: Maple Finance. (2025). Documentation: 20% protocol fees allocated to buybacks. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^13]: [syrupUSDC Documentation](https://maple.finance/syrup) - Permissionless yield-bearing stablecoin product.
+[^13]: Maple Finance. (2025). syrupUSDC: Permissionless yield-bearing stablecoin product. maple.finance, https://maple.finance/syrup
 
-[^14]: [DefiLlama - Yield Bearing Stablecoins](https://defillama.com/yields) - syrupUSDC among largest yield products.
+[^14]: DefiLlama. (2025). Yield Bearing Stablecoins: syrupUSDC among largest yield products. defillama.com, https://defillama.com/yields
 
-[^15]: [CoinGecko - syrupUSDC](https://www.coingecko.com/en/coins/syrupusdc) - 🔷 HARD DATA: $1.29B market cap (December 31, 2025).
+[^15]: CoinGecko. (2025, December 31). syrupUSDC: Market cap $1.29B retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/syrupusdc 🔷 HARD DATA
 
-[^16]: [Maple App - syrupUSDC](https://app.maple.finance/) - Retail permissionless access to institutional yields.
+[^16]: Maple Finance. (2025). App: Retail permissionless access to institutional yields. app.maple.finance, https://app.maple.finance/
 
-[^17]: [DefiLlama - Maple TVL](https://defillama.com/protocol/maple) - 🔷 HARD DATA: Ethereum TVL $2.56B retrieved via DefiLlama API (December 31, 2025).
+[^17]: DefiLlama. (2025, December 31). Maple TVL: Ethereum $2.56B retrieved via API. defillama.com, https://defillama.com/protocol/maple 🔷 HARD DATA
 
-[^18]: [DefiLlama - Maple TVL](https://defillama.com/protocol/maple) - 🔷 HARD DATA: Borrowed amount $1.81B retrieved via DefiLlama API (December 31, 2025).
+[^18]: DefiLlama. (2025, December 31). Maple TVL: Borrowed amount $1.81B retrieved via API. defillama.com, https://defillama.com/protocol/maple 🔷 HARD DATA
 
-[^19]: [DefiLlama - Maple TVL](https://defillama.com/protocol/maple) - 🔷 HARD DATA: Staking TVL $86.4M retrieved via DefiLlama API (December 31, 2025).
+[^19]: DefiLlama. (2025, December 31). Maple TVL: Staking TVL $86.4M retrieved via API. defillama.com, https://defillama.com/protocol/maple 🔷 HARD DATA
 
-[^20]: [DefiLlama - Maple Fees](https://defillama.com/fees/maple) - 🔷 HARD DATA: 24-hour fees $200K retrieved via DefiLlama API (December 31, 2025).
+[^20]: DefiLlama. (2025, December 31). Maple Fees: 24-hour fees $200K retrieved via API. defillama.com, https://defillama.com/fees/maple 🔷 HARD DATA
 
-[^21]: [DefiLlama - Maple Fees](https://defillama.com/fees/maple) - 🔷 HARD DATA: 7-day fees $491K retrieved via DefiLlama API (December 31, 2025).
+[^21]: DefiLlama. (2025, December 31). Maple Fees: 7-day fees $491K retrieved via API. defillama.com, https://defillama.com/fees/maple 🔷 HARD DATA
 
-[^22]: [DefiLlama - Maple Fees](https://defillama.com/fees/maple) - 🔷 HARD DATA: 30-day fees $9.24M retrieved via DefiLlama API (December 31, 2025).
+[^22]: DefiLlama. (2025, December 31). Maple Fees: 30-day fees $9.24M retrieved via API. defillama.com, https://defillama.com/fees/maple 🔷 HARD DATA
 
-[^23]: [DefiLlama - Maple Fees](https://defillama.com/fees/maple) - 🔷 HARD DATA: All-time fees $59.46M retrieved via DefiLlama API (December 31, 2025).
+[^23]: DefiLlama. (2025, December 31). Maple Fees: All-time fees $59.46M retrieved via API. defillama.com, https://defillama.com/fees/maple 🔷 HARD DATA
 
-[^24]: [CoinGecko - SYRUP](https://www.coingecko.com/en/coins/syrup) - 🔷 HARD DATA: SYRUP price $0.327 retrieved via CoinGecko API (December 31, 2025).
+[^24]: CoinGecko. (2025, December 31). SYRUP: Price $0.327 retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/syrup 🔷 HARD DATA
 
-[^25]: [CoinGecko - SYRUP](https://www.coingecko.com/en/coins/syrup) - 🔷 HARD DATA: Market cap $375.6M retrieved via CoinGecko API (December 31, 2025).
+[^25]: CoinGecko. (2025, December 31). SYRUP: Market cap $375.6M retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/syrup 🔷 HARD DATA
 
-[^26]: [CoinGecko - SYRUP](https://www.coingecko.com/en/coins/syrup) - 🔷 HARD DATA: FDV $397.3M retrieved via CoinGecko API (December 31, 2025).
+[^26]: CoinGecko. (2025, December 31). SYRUP: FDV $397.3M retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/syrup 🔷 HARD DATA
 
-[^27]: [CoinGecko - syrupUSDC](https://www.coingecko.com/en/coins/syrupusdc) - 🔷 HARD DATA: syrupUSDC price $1.14 retrieved via CoinGecko API (December 31, 2025).
+[^27]: CoinGecko. (2025, December 31). syrupUSDC: Price $1.14 retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/syrupusdc 🔷 HARD DATA
 
-[^28]: [CoinGecko - syrupUSDC](https://www.coingecko.com/en/coins/syrupusdc) - 🔷 HARD DATA: syrupUSDC market cap $1.29B retrieved via CoinGecko API (December 31, 2025).
+[^28]: CoinGecko. (2025, December 31). syrupUSDC: Market cap $1.29B retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/syrupusdc 🔷 HARD DATA
 
-[^29]: [Maple Documentation - Architecture](https://maplefinance.gitbook.io/maple/) - Two-sided marketplace design.
+[^29]: Maple Finance. (2025). Documentation: Two-sided marketplace architecture design. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^30]: [Maple Blog - How It Works](https://maple.finance/blog) - Connection between borrowers and capital providers.
+[^30]: Maple Finance. (2025). Blog: Connection between borrowers and capital providers. maple.finance, https://maple.finance/blog
 
-[^31]: [Aave Documentation](https://docs.aave.com/) - Traditional DeFi overcollateralization requirements.
+[^31]: Aave. (2025). Documentation: Traditional DeFi overcollateralization requirements. docs.aave.com, https://docs.aave.com/
 
-[^32]: [CoinDesk - Undercollateralized Lending](https://www.coindesk.com/learn/undercollateralized-lending/) - Maple's undercollateralized model explained.
+[^32]: CoinDesk. (2024). Understanding Undercollateralized Lending: Maple's model explained. coindesk.com, https://www.coindesk.com/learn/undercollateralized-lending/
 
-[^33]: [Maple Documentation - Borrower Requirements](https://maplefinance.gitbook.io/maple/) - Institutional borrower vetting process.
+[^33]: Maple Finance. (2025). Documentation: Institutional borrower vetting process. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^34]: [Maple Blog - Credit Assessment](https://maple.finance/blog) - Due diligence and credit assessment procedures.
+[^34]: Maple Finance. (2025). Blog: Due diligence and credit assessment procedures. maple.finance, https://maple.finance/blog
 
-[^35]: [Maple Documentation - Pool Delegates](https://maplefinance.gitbook.io/maple/) - Pool Delegate role and responsibilities.
+[^35]: Maple Finance. (2025). Documentation: Pool Delegate role and responsibilities. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^36]: [The Block - Maple Delegates](https://www.theblock.co/) - Credit experts managing lending pools.
+[^36]: The Block. (2025). Maple Delegates: Credit experts managing lending pools. theblock.co, https://www.theblock.co/
 
-[^37]: [Maple Documentation - Underwriting](https://maplefinance.gitbook.io/maple/) - Borrower sourcing and underwriting process.
+[^37]: Maple Finance. (2025). Documentation: Borrower sourcing and underwriting process. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^38]: [Maple Documentation - Due Diligence](https://maplefinance.gitbook.io/maple/) - Comprehensive due diligence requirements.
+[^38]: Maple Finance. (2025). Documentation: Comprehensive due diligence requirements. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^39]: [Maple App - Pool Management](https://app.maple.finance/) - Portfolio management interface.
+[^39]: Maple Finance. (2025). App: Portfolio management interface. app.maple.finance, https://app.maple.finance/
 
-[^40]: [Maple Documentation - First Loss](https://maplefinance.gitbook.io/maple/) - Pool Delegate stake as first-loss capital.
+[^40]: Maple Finance. (2025). Documentation: Pool Delegate stake as first-loss capital. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^41]: [Maple Documentation - Lending Pools](https://maplefinance.gitbook.io/maple/) - Pool structure and mechanics.
+[^41]: Maple Finance. (2025). Documentation: Pool structure and mechanics. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^42]: [Maple App - Active Pools](https://app.maple.finance/) - Current active lending pools.
+[^42]: Maple Finance. (2025). App: Current active lending pools. app.maple.finance, https://app.maple.finance/
 
-[^43]: [Maple Documentation - KYC](https://maplefinance.gitbook.io/maple/) - Institutional LP KYC requirements.
+[^43]: Maple Finance. (2025). Documentation: Institutional LP KYC requirements. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^44]: [Maple - syrupUSDC](https://maple.finance/syrup) - Permissionless retail access via syrupUSDC.
+[^44]: Maple Finance. (2025). syrupUSDC: Permissionless retail access. maple.finance, https://maple.finance/syrup
 
-[^45]: [Maple Documentation - Borrowers](https://maplefinance.gitbook.io/maple/) - Borrower qualification criteria.
+[^45]: Maple Finance. (2025). Documentation: Borrower qualification criteria. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^46]: [Maple Blog - Trading Firms](https://maple.finance/blog) - Crypto trading firm borrowers.
+[^46]: Maple Finance. (2025). Blog: Crypto trading firm borrowers. maple.finance, https://maple.finance/blog
 
-[^47]: [Maple Documentation - Market Makers](https://maplefinance.gitbook.io/maple/) - Market maker borrower segment.
+[^47]: Maple Finance. (2025). Documentation: Market maker borrower segment. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^48]: [Maple Blog - Mining Loans](https://maple.finance/blog) - Bitcoin miner financing.
+[^48]: Maple Finance. (2025). Blog: Bitcoin miner financing. maple.finance, https://maple.finance/blog
 
-[^49]: [Maple Documentation - LP Borrowers](https://maplefinance.gitbook.io/maple/) - Liquidity provider financing.
+[^49]: Maple Finance. (2025). Documentation: Liquidity provider financing. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^50]: [Maple - syrupUSDC](https://maple.finance/syrup) - Permissionless yield-bearing stablecoin.
+[^50]: Maple Finance. (2025). syrupUSDC: Permissionless yield-bearing stablecoin. maple.finance, https://maple.finance/syrup
 
-[^51]: [Maple Blog - syrupUSDC Launch](https://maple.finance/blog) - Retail access to institutional yields.
+[^51]: Maple Finance. (2025). Blog: syrupUSDC launch - retail access to institutional yields. maple.finance, https://maple.finance/blog
 
-[^52]: [Maple App - Deposit](https://app.maple.finance/) - USDC deposit process.
+[^52]: Maple Finance. (2025). App: USDC deposit process. app.maple.finance, https://app.maple.finance/
 
-[^53]: [Maple Documentation - syrupUSDC Mechanics](https://maplefinance.gitbook.io/maple/) - Value accrual mechanism.
+[^53]: Maple Finance. (2025). Documentation: syrupUSDC value accrual mechanism. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^54]: [Maple Documentation - Deployment](https://maplefinance.gitbook.io/maple/) - Automatic deployment to loan pools.
+[^54]: Maple Finance. (2025). Documentation: Automatic deployment to loan pools. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^55]: [Maple Documentation - Interest](https://maplefinance.gitbook.io/maple/) - Borrower interest payments.
+[^55]: Maple Finance. (2025). Documentation: Borrower interest payments. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^56]: [Maple Documentation - Yield Distribution](https://maplefinance.gitbook.io/maple/) - Interest flow to vault.
+[^56]: Maple Finance. (2025). Documentation: Interest flow to vault. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^57]: [DefiLlama - Maple Yields](https://defillama.com/yields?project=maple) - syrupUSDC APY approximately 7%.
+[^57]: DefiLlama. (2025). Maple Yields: syrupUSDC APY approximately 7%. defillama.com, https://defillama.com/yields?project=maple
 
-[^58]: [Maple App - Withdraw](https://app.maple.finance/) - Redemption process.
+[^58]: Maple Finance. (2025). App: Redemption process. app.maple.finance, https://app.maple.finance/
 
-[^59]: [Maple App - Current Stats](https://app.maple.finance/) - Live performance metrics.
+[^59]: Maple Finance. (2025). App: Live performance metrics. app.maple.finance, https://app.maple.finance/
 
-[^60]: [DefiLlama - Maple Yields](https://defillama.com/yields?project=maple) - Base APY component.
+[^60]: DefiLlama. (2025). Maple Yields: Base APY component. defillama.com, https://defillama.com/yields?project=maple
 
-[^61]: [Maple App - Rewards](https://app.maple.finance/) - SYRUP reward component.
+[^61]: Maple Finance. (2025). App: SYRUP reward component. app.maple.finance, https://app.maple.finance/
 
-[^62]: [DefiLlama - Maple Yields](https://defillama.com/yields?project=maple) - Total APY ~7.29%.
+[^62]: DefiLlama. (2025). Maple Yields: Total APY ~7.29%. defillama.com, https://defillama.com/yields?project=maple
 
-[^63]: [Maple Documentation - Institutional Pools](https://maplefinance.gitbook.io/maple/) - Higher yield institutional products.
+[^63]: Maple Finance. (2025). Documentation: Higher yield institutional products. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^64]: [Maple Documentation - Qualified Investors](https://maplefinance.gitbook.io/maple/) - Investor qualification requirements.
+[^64]: Maple Finance. (2025). Documentation: Investor qualification requirements. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^65]: [Maple App - KYC Process](https://app.maple.finance/) - KYC verification for institutional access.
+[^65]: Maple Finance. (2025). App: KYC verification for institutional access. app.maple.finance, https://app.maple.finance/
 
-[^66]: [Maple Documentation - Deposits](https://maplefinance.gitbook.io/maple/) - Institutional deposit process.
+[^66]: Maple Finance. (2025). Documentation: Institutional deposit process. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^67]: [Maple Documentation - Allocation](https://maplefinance.gitbook.io/maple/) - Delegate allocation to borrowers.
+[^67]: Maple Finance. (2025). Documentation: Delegate allocation to borrowers. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^68]: [Maple App - Interest Rates](https://app.maple.finance/) - Current borrower rates 10-12%.
+[^68]: Maple Finance. (2025). App: Current borrower rates 10-12%. app.maple.finance, https://app.maple.finance/
 
-[^69]: [Maple Documentation - Delegate Fees](https://maplefinance.gitbook.io/maple/) - Pool Delegate fee structure.
+[^69]: Maple Finance. (2025). Documentation: Pool Delegate fee structure. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^70]: [Maple Documentation - Protocol Fees](https://maplefinance.gitbook.io/maple/) - Maple protocol fee percentage.
+[^70]: Maple Finance. (2025). Documentation: Maple protocol fee percentage. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^71]: [Maple Documentation - LP Returns](https://maplefinance.gitbook.io/maple/) - Net yield calculation.
+[^71]: Maple Finance. (2025). Documentation: Net yield calculation. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^72]: [Maple App - Pool Performance](https://app.maple.finance/) - Historical LP returns 8-10%.
+[^72]: Maple Finance. (2025). App: Historical LP returns 8-10%. app.maple.finance, https://app.maple.finance/
 
-[^73]: [Maple App - Products](https://app.maple.finance/) - Current institutional product offerings.
+[^73]: Maple Finance. (2025). App: Current institutional product offerings. app.maple.finance, https://app.maple.finance/
 
-[^74]: [Maple App - High Yield Pool](https://app.maple.finance/) - High Yield Pool 9.2% APY.
+[^74]: Maple Finance. (2025). App: High Yield Pool 9.2% APY. app.maple.finance, https://app.maple.finance/
 
-[^75]: [Maple App - BTC Yield](https://app.maple.finance/) - BTC Yield Pool 5.2% APY.
+[^75]: Maple Finance. (2025). App: BTC Yield Pool 5.2% APY. app.maple.finance, https://app.maple.finance/
 
-[^76]: [Maple Documentation - Fee Structure](https://maplefinance.gitbook.io/maple/) - Multiple revenue streams.
+[^76]: Maple Finance. (2025). Documentation: Multiple revenue streams. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^77]: [Maple Documentation - Origination](https://maplefinance.gitbook.io/maple/) - Origination fee 1-3%.
+[^77]: Maple Finance. (2025). Documentation: Origination fee 1-3%. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^78]: [Maple Documentation - Management](https://maplefinance.gitbook.io/maple/) - Management fee 0.5-1%.
+[^78]: Maple Finance. (2025). Documentation: Management fee 0.5-1%. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^79]: [Maple Documentation - Performance](https://maplefinance.gitbook.io/maple/) - Performance fee 10-20%.
+[^79]: Maple Finance. (2025). Documentation: Performance fee 10-20%. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^80]: [Maple Documentation - Revenue Model](https://maplefinance.gitbook.io/maple/) - Revenue calculation methodology.
+[^80]: Maple Finance. (2025). Documentation: Revenue calculation methodology. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^81]: [Maple Blog - Loan Examples](https://maple.finance/blog) - Example loan scenario.
+[^81]: Maple Finance. (2025). Blog: Example loan scenario. maple.finance, https://maple.finance/blog
 
-[^82]: [Maple Documentation - Origination Fee](https://maplefinance.gitbook.io/maple/) - Origination fee collection.
+[^82]: Maple Finance. (2025). Documentation: Origination fee collection. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^83]: [Maple Documentation - Management Fee](https://maplefinance.gitbook.io/maple/) - Management fee collection.
+[^83]: Maple Finance. (2025). Documentation: Management fee collection. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^84]: [Maple Documentation - Interest Generation](https://maplefinance.gitbook.io/maple/) - Interest calculation.
+[^84]: Maple Finance. (2025). Documentation: Interest calculation. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^85]: [Maple Documentation - Performance Fee](https://maplefinance.gitbook.io/maple/) - Performance fee calculation.
+[^85]: Maple Finance. (2025). Documentation: Performance fee calculation. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^86]: [Maple Documentation - Total Revenue](https://maplefinance.gitbook.io/maple/) - Total protocol revenue per loan.
+[^86]: Maple Finance. (2025). Documentation: Total protocol revenue per loan. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^87]: [DefiLlama - Maple Fees](https://defillama.com/fees/maple) - Current fee generation data.
+[^87]: DefiLlama. (2025). Maple Fees: Current fee generation data. defillama.com, https://defillama.com/fees/maple
 
-[^88]: Author calculation: $9.24M × 12 = $110.9M annualized.
+[^88]: Editorial analysis. (2025, December). Author calculation: $9.24M × 12 = $110.9M annualized.
 
-[^89]: Author estimate: Protocol takes 15-18% of total fees.
+[^89]: Editorial analysis. (2025, December). Author estimate: Protocol takes 15-18% of total fees.
 
-[^90]: [Maple Documentation - Buybacks](https://maplefinance.gitbook.io/maple/) - SYRUP buyback mechanism.
+[^90]: Maple Finance. (2025). Documentation: SYRUP buyback mechanism. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^91]: [Maple Documentation - Fee Collection](https://maplefinance.gitbook.io/maple/) - Protocol fee collection.
+[^91]: Maple Finance. (2025). Documentation: Protocol fee collection. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^92]: [Maple Documentation - Treasury](https://maplefinance.gitbook.io/maple/) - 80% to operations/treasury.
+[^92]: Maple Finance. (2025). Documentation: 80% to operations/treasury. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^93]: [Maple Documentation - Buyback Allocation](https://maplefinance.gitbook.io/maple/) - 20% allocated to SYRUP buybacks.
+[^93]: Maple Finance. (2025). Documentation: 20% allocated to SYRUP buybacks. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^94]: [Maple Documentation - Buyback Contract](https://maplefinance.gitbook.io/maple/) - Automated buyback execution.
+[^94]: Maple Finance. (2025). Documentation: Automated buyback execution. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^95]: [Maple Documentation - Staking Rewards](https://maplefinance.gitbook.io/maple/) - Buyback distribution to stakers.
+[^95]: Maple Finance. (2025). Documentation: Buyback distribution to stakers. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^96]: [Maple App - Staking](https://app.maple.finance/) - Pro-rata staker distribution.
+[^96]: Maple Finance. (2025). App: Pro-rata staker distribution. app.maple.finance, https://app.maple.finance/
 
-[^97]: Author calculation based on revenue and buyback allocation.
+[^97]: Editorial analysis. (2025, December). Author calculation based on revenue and buyback allocation.
 
-[^98]: Author calculation: $16-20M × 20% = $3.2-4M.
+[^98]: Editorial analysis. (2025, December). Author calculation: $16-20M × 20% = $3.2-4M.
 
-[^99]: Author calculation: $3.5M / $375.6M = ~0.93%.
+[^99]: Editorial analysis. (2025, December). Author calculation: $3.5M / $375.6M = ~0.93%.
 
-[^100]: [Maple Blog - SYRUP Tokenomics](https://maple.finance/blog) - Enhanced tokenomics model.
+[^100]: Maple Finance. (2025). Blog: SYRUP enhanced tokenomics model. maple.finance, https://maple.finance/blog
 
-[^101]: [CoinGecko - SYRUP](https://www.coingecko.com/en/coins/syrup) - 🔷 HARD DATA: Circulating supply 1.15B retrieved via CoinGecko API (December 31, 2025).
+[^101]: CoinGecko. (2025, December 31). SYRUP: Circulating supply 1.15B retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/syrup 🔷 HARD DATA
 
-[^102]: [CoinGecko - SYRUP](https://www.coingecko.com/en/coins/syrup) - 🔷 HARD DATA: Total supply 1.22B retrieved via CoinGecko API (December 31, 2025).
+[^102]: CoinGecko. (2025, December 31). SYRUP: Total supply 1.22B retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/syrup 🔷 HARD DATA
 
-[^103]: [CoinGecko - SYRUP](https://www.coingecko.com/en/coins/syrup) - 🔷 HARD DATA: 24h volume $17.3M retrieved via CoinGecko API (December 31, 2025).
+[^103]: CoinGecko. (2025, December 31). SYRUP: 24h volume $17.3M retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/syrup 🔷 HARD DATA
 
-[^104]: [CoinGecko - SYRUP](https://www.coingecko.com/en/coins/syrup) - 🔷 HARD DATA: ATH $0.653 retrieved via CoinGecko API (December 31, 2025).
+[^104]: CoinGecko. (2025, December 31). SYRUP: ATH $0.653 retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/syrup 🔷 HARD DATA
 
-[^105]: [CoinGecko - SYRUP](https://www.coingecko.com/en/coins/syrup) - 🔷 HARD DATA: ATL $0.085 retrieved via CoinGecko API (December 31, 2025).
+[^105]: CoinGecko. (2025, December 31). SYRUP: ATL $0.085 retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/syrup 🔷 HARD DATA
 
-[^106]: [Maple Documentation - Value Accrual](https://maplefinance.gitbook.io/maple/) - Token value capture mechanisms.
+[^106]: Maple Finance. (2025). Documentation: Token value capture mechanisms. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^107]: [Maple Documentation - Governance](https://maplefinance.gitbook.io/maple/) - SYRUP governance rights.
+[^107]: Maple Finance. (2025). Documentation: SYRUP governance rights. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^108]: [CoinGecko - syrupUSDC](https://www.coingecko.com/en/coins/syrupusdc) - 🔷 HARD DATA: Circulating supply 1.13B retrieved via CoinGecko API (December 31, 2025).
+[^108]: CoinGecko. (2025, December 31). syrupUSDC: Circulating supply 1.13B retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/syrupusdc 🔷 HARD DATA
 
-[^109]: [Maple Documentation - syrupUSDC Pricing](https://maplefinance.gitbook.io/maple/) - Yield-bearing token mechanics.
+[^109]: Maple Finance. (2025). Documentation: Yield-bearing token mechanics. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^110]: [Maple Blog - Value Accrual](https://maple.finance/blog) - syrupUSDC value accrual over time.
+[^110]: Maple Finance. (2025). Blog: syrupUSDC value accrual over time. maple.finance, https://maple.finance/blog
 
-[^111]: [Spark Protocol - Maple Integration](https://spark.fi/) - syrupUSDC as collateral.
+[^111]: Spark Protocol. (2025). Maple Integration: syrupUSDC as collateral. spark.fi, https://spark.fi/
 
-[^112]: [Maple Blog - Spark Partnership](https://maple.finance/blog) - $400M+ syrupUSD deposited.
+[^112]: Maple Finance. (2025). Blog: Spark Partnership - $400M+ syrupUSD deposited. maple.finance, https://maple.finance/blog
 
-[^113]: [Spark Protocol Documentation](https://docs.spark.fi/) - DAI borrowing against syrupUSDC.
+[^113]: Spark Protocol. (2025). Documentation: DAI borrowing against syrupUSDC. docs.spark.fi, https://docs.spark.fi/
 
-[^114]: [Spark Protocol - Rates](https://spark.fi/) - DAI borrow rates.
+[^114]: Spark Protocol. (2025). Rates: DAI borrow rates. spark.fi, https://spark.fi/
 
-[^115]: [Spark Protocol - Strategies](https://docs.spark.fi/) - Leveraged yield strategies.
+[^115]: Spark Protocol. (2025). Documentation: Leveraged yield strategies. docs.spark.fi, https://docs.spark.fi/
 
-[^116]: Author estimate based on deposit/borrow spread.
+[^116]: Editorial analysis. (2025, December). Author estimate based on deposit/borrow spread.
 
-[^117]: [Morpho Protocol - Maple Vault](https://morpho.org/) - syrupUSDC integration.
+[^117]: Morpho Protocol. (2025). Maple Vault: syrupUSDC integration. morpho.org, https://morpho.org/
 
-[^118]: [Maple Blog - Morpho Partnership](https://maple.finance/blog) - $150M+ in Morpho vaults.
+[^118]: Maple Finance. (2025). Blog: Morpho Partnership - $150M+ in Morpho vaults. maple.finance, https://maple.finance/blog
 
-[^119]: [Morpho Documentation](https://docs.morpho.org/) - Looping strategy mechanics.
+[^119]: Morpho Protocol. (2025). Documentation: Looping strategy mechanics. docs.morpho.org, https://docs.morpho.org/
 
-[^120]: [Morpho App](https://app.morpho.org/) - Deposit process.
+[^120]: Morpho Protocol. (2025). App: Deposit process. app.morpho.org, https://app.morpho.org/
 
-[^121]: [Morpho Documentation](https://docs.morpho.org/) - Borrowing against deposits.
+[^121]: Morpho Protocol. (2025). Documentation: Borrowing against deposits. docs.morpho.org, https://docs.morpho.org/
 
-[^122]: [Morpho Documentation](https://docs.morpho.org/) - Redeposit as syrupUSDC.
+[^122]: Morpho Protocol. (2025). Documentation: Redeposit as syrupUSDC. docs.morpho.org, https://docs.morpho.org/
 
-[^123]: [Morpho Documentation](https://docs.morpho.org/) - Multiple leverage iterations.
+[^123]: Morpho Protocol. (2025). Documentation: Multiple leverage iterations. docs.morpho.org, https://docs.morpho.org/
 
-[^124]: [Maple Blog - Morpho Yields](https://maple.finance/blog) - Up to 24% leveraged APY claimed.
+[^124]: Maple Finance. (2025). Blog: Morpho Yields - Up to 24% leveraged APY claimed. maple.finance, https://maple.finance/blog
 
-[^125]: [Pendle Finance - Maple](https://www.pendle.finance/) - Yield tokenization for syrupUSDC.
+[^125]: Pendle Finance. (2025). Maple: Yield tokenization for syrupUSDC. pendle.finance, https://www.pendle.finance/
 
-[^126]: [Aave - Collateral](https://aave.com/) - Limited syrupUSDC acceptance.
+[^126]: Aave. (2025). Collateral: Limited syrupUSDC acceptance. aave.com, https://aave.com/
 
-[^127]: [Curve Finance - Pools](https://curve.fi/) - syrupUSDC liquidity pools.
+[^127]: Curve Finance. (2025). Pools: syrupUSDC liquidity pools. curve.fi, https://curve.fi/
 
-[^128]: [Maple Documentation - Risk Management](https://maplefinance.gitbook.io/maple/) - Risk control framework.
+[^128]: Maple Finance. (2025). Documentation: Risk control framework. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^129]: [Maple Documentation - Due Diligence](https://maplefinance.gitbook.io/maple/) - Borrower vetting process.
+[^129]: Maple Finance. (2025). Documentation: Borrower vetting process. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^130]: [Maple Documentation - Diversification](https://maplefinance.gitbook.io/maple/) - Concentration limits.
+[^130]: Maple Finance. (2025). Documentation: Concentration limits. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^131]: [Maple Documentation - Reserves](https://maplefinance.gitbook.io/maple/) - First-loss reserve requirements.
+[^131]: Maple Finance. (2025). Documentation: First-loss reserve requirements. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^132]: [Maple Documentation - Delegate Stake](https://maplefinance.gitbook.io/maple/) - Required delegate investment.
+[^132]: Maple Finance. (2025). Documentation: Required delegate investment. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^133]: [The Block - Orthogonal Default](https://www.theblock.co/post/191753/maple-finance-pool-delegate-orthogonal-trading-36-million-default) - Major default event coverage.
+[^133]: The Block. (2022, December). Maple Finance Pool Delegate Orthogonal Trading: Major default event coverage. theblock.co, https://www.theblock.co/post/191753/maple-finance-pool-delegate-orthogonal-trading-36-million-default
 
-[^134]: [CoinDesk - Orthogonal Trading](https://www.coindesk.com/markets/2022/12/05/maple-finance-pool-delegate-orthogonal-trading-defaults-on-36m-loans/) - $36M loan size.
+[^134]: CoinDesk. (2022, December 5). Orthogonal Trading defaults on $36M loans. coindesk.com, https://www.coindesk.com/markets/2022/12/05/maple-finance-pool-delegate-orthogonal-trading-defaults-on-36m-loans/
 
-[^135]: [The Block - Default Amount](https://www.theblock.co/) - 100% default on loans.
+[^135]: The Block. (2022, December). Default Amount: 100% default on loans. theblock.co, https://www.theblock.co/
 
-[^136]: [Maple Blog - Impact Statement](https://maple.finance/blog) - ~3% lender impact.
+[^136]: Maple Finance. (2022). Blog: Impact Statement - ~3% lender impact. maple.finance, https://maple.finance/blog
 
-[^137]: [Legal filings](https://maple.finance/blog) - Ongoing legal proceedings.
+[^137]: Maple Finance. (2023). Legal filings: Ongoing legal proceedings. maple.finance, https://maple.finance/blog
 
-[^138]: [Maple Blog - Post-Default Improvements](https://maple.finance/blog) - Protocol improvements after default.
+[^138]: Maple Finance. (2023). Blog: Post-Default Improvements - Protocol improvements after default. maple.finance, https://maple.finance/blog
 
-[^139]: [Maple Documentation - Enhanced DD](https://maplefinance.gitbook.io/maple/) - Stricter due diligence.
+[^139]: Maple Finance. (2025). Documentation: Stricter due diligence. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^140]: [Maple Documentation - Concentration](https://maplefinance.gitbook.io/maple/) - Updated concentration limits.
+[^140]: Maple Finance. (2025). Documentation: Updated concentration limits. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^141]: [Maple Documentation - Reserves](https://maplefinance.gitbook.io/maple/) - Increased reserve requirements.
+[^141]: Maple Finance. (2025). Documentation: Increased reserve requirements. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^142]: [Maple App - Transparency](https://app.maple.finance/) - Enhanced reporting dashboard.
+[^142]: Maple Finance. (2025). App: Enhanced reporting dashboard. app.maple.finance, https://app.maple.finance/
 
-[^143]: [Maple Blog - Speed Advantage](https://maple.finance/blog) - 48-hour approval vs weeks in TradFi.
+[^143]: Maple Finance. (2025). Blog: Speed Advantage - 48-hour approval vs weeks in TradFi. maple.finance, https://maple.finance/blog
 
-[^144]: [Maple App - Rates](https://app.maple.finance/) - Competitive interest rates.
+[^144]: Maple Finance. (2025). App: Competitive interest rates. app.maple.finance, https://app.maple.finance/
 
-[^145]: [Maple Documentation - On-Chain](https://maplefinance.gitbook.io/maple/) - 100% on-chain transparency.
+[^145]: Maple Finance. (2025). Documentation: 100% on-chain transparency. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^146]: [Maple App - Liquidity](https://app.maple.finance/) - Flexible withdrawal terms.
+[^146]: Maple Finance. (2025). App: Flexible withdrawal terms. app.maple.finance, https://app.maple.finance/
 
-[^147]: [Maple Blog - Composability](https://maple.finance/blog) - Full DeFi integration.
+[^147]: Maple Finance. (2025). Blog: Full DeFi composability integration. maple.finance, https://maple.finance/blog
 
-[^148]: [DefiLlama - Aave](https://defillama.com/protocol/aave) - Aave TVL comparison.
+[^148]: DefiLlama. (2025). Aave: TVL comparison data. defillama.com, https://defillama.com/protocol/aave
 
-[^149]: [DefiLlama - Compound](https://defillama.com/protocol/compound) - Compound TVL comparison.
+[^149]: DefiLlama. (2025). Compound: TVL comparison data. defillama.com, https://defillama.com/protocol/compound
 
-[^150]: [DefiLlama - Goldfinch](https://defillama.com/protocol/goldfinch) - Goldfinch TVL comparison.
+[^150]: DefiLlama. (2025). Goldfinch: TVL comparison data. defillama.com, https://defillama.com/protocol/goldfinch
 
-[^151]: [Maple Blog - Growth](https://maple.finance/blog) - TVL growth trajectory.
+[^151]: Maple Finance. (2025). Blog: TVL growth trajectory. maple.finance, https://maple.finance/blog
 
-[^152]: [Maple Q1 2025 Report](https://maple.finance/blog) - Q1 2025 TVL $1.8B.
+[^152]: Maple Finance. (2025, Q1). Quarterly Report: Q1 2025 TVL $1.8B. maple.finance, https://maple.finance/blog
 
-[^153]: [Maple Q2 2025 Report](https://maple.finance/blog) - Q2 2025 TVL $2.6B.
+[^153]: Maple Finance. (2025, Q2). Quarterly Report: Q2 2025 TVL $2.6B. maple.finance, https://maple.finance/blog
 
-[^154]: [Maple Blog - syrupUSDC Growth](https://maple.finance/blog) - Product expansion.
+[^154]: Maple Finance. (2025). Blog: syrupUSDC product expansion. maple.finance, https://maple.finance/blog
 
-[^155]: [Maple Blog - Integrations](https://maple.finance/blog) - 50+ protocol integrations.
+[^155]: Maple Finance. (2025). Blog: 50+ protocol integrations. maple.finance, https://maple.finance/blog
 
-[^156]: [Maple Documentation - Composability](https://maplefinance.gitbook.io/maple/) - Cross-protocol usage.
+[^156]: Maple Finance. (2025). Documentation: Cross-protocol usage. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^157]: [Maple Blog - Solana Launch](https://maple.finance/blog) - Historical Solana deployment.
+[^157]: Maple Finance. (2022). Blog: Historical Solana deployment. maple.finance, https://maple.finance/blog
 
-[^158]: [DefiLlama - Maple Chains](https://defillama.com/protocol/maple) - 🔷 HARD DATA: Solana TVL $0 (December 31, 2025).
+[^158]: DefiLlama. (2025, December 31). Maple Chains: Solana TVL $0 retrieved via API. defillama.com, https://defillama.com/protocol/maple 🔷 HARD DATA
 
-[^159]: [Maple Security - Audits](https://maple.finance/security) - Audit overview.
+[^159]: Maple Finance. (2025). Security: Audit overview. maple.finance, https://maple.finance/security
 
-[^160]: [Trail of Bits - Maple Audit](https://github.com/trailofbits/publications) - Core contract audit.
+[^160]: Trail of Bits. (2022). Maple Audit: Core contract audit. github.com, https://github.com/trailofbits/publications
 
-[^161]: [Code4rena - Maple](https://code4rena.com/) - V2 migration audit.
+[^161]: Code4rena. (2023). Maple: V2 migration audit. code4rena.com, https://code4rena.com/
 
-[^162]: [Spearbit - Maple](https://spearbit.com/) - syrupUSDC audit.
+[^162]: Spearbit. (2024). Maple: syrupUSDC audit. spearbit.com, https://spearbit.com/
 
-[^163]: [Maple Documentation - Security](https://maplefinance.gitbook.io/maple/) - Security architecture.
+[^163]: Maple Finance. (2025). Documentation: Security architecture. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^164]: [Maple GitHub - Contracts](https://github.com/maple-labs) - Upgradeable proxy pattern.
+[^164]: Maple Finance. (2025). GitHub: Upgradeable proxy pattern. github.com, https://github.com/maple-labs
 
-[^165]: [Maple Documentation - Treasury](https://maplefinance.gitbook.io/maple/) - Multi-sig management.
+[^165]: Maple Finance. (2025). Documentation: Multi-sig management. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^166]: [Maple Documentation - Timelock](https://maplefinance.gitbook.io/maple/) - Governance timelocks.
+[^166]: Maple Finance. (2025). Documentation: Governance timelocks. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^167]: [Maple Documentation - Emergency](https://maplefinance.gitbook.io/maple/) - Pause functionality.
+[^167]: Maple Finance. (2025). Documentation: Pause functionality. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^168]: [Maple Documentation - Governance](https://maplefinance.gitbook.io/maple/) - SYRUP governance.
+[^168]: Maple Finance. (2025). Documentation: SYRUP governance. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^169]: [Maple Governance Portal](https://vote.maple.finance/) - Governance powers.
+[^169]: Maple Finance. (2025). Governance Portal: Governance powers. vote.maple.finance, https://vote.maple.finance/
 
-[^170]: [Maple Documentation - Parameters](https://maplefinance.gitbook.io/maple/) - Parameter adjustments.
+[^170]: Maple Finance. (2025). Documentation: Parameter adjustments. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^171]: [Maple Documentation - Fees](https://maplefinance.gitbook.io/maple/) - Fee governance.
+[^171]: Maple Finance. (2025). Documentation: Fee governance. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^172]: [Maple Documentation - Pools](https://maplefinance.gitbook.io/maple/) - Pool approvals.
+[^172]: Maple Finance. (2025). Documentation: Pool approvals. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^173]: [Maple Documentation - Upgrades](https://maplefinance.gitbook.io/maple/) - Protocol upgrades.
+[^173]: Maple Finance. (2025). Documentation: Protocol upgrades. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^174]: [Maple Documentation - Delegate Autonomy](https://maplefinance.gitbook.io/maple/) - Delegate independence.
+[^174]: Maple Finance. (2025). Documentation: Delegate independence. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^175]: [Maple Documentation - Delegate Role](https://maplefinance.gitbook.io/maple/) - Responsibilities overview.
+[^175]: Maple Finance. (2025). Documentation: Delegate responsibilities overview. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^176]: [Maple Documentation - Rate Setting](https://maplefinance.gitbook.io/maple/) - Interest rate negotiation.
+[^176]: Maple Finance. (2025). Documentation: Interest rate negotiation. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^177]: [Maple Documentation - Default Process](https://maplefinance.gitbook.io/maple/) - Default management procedures.
+[^177]: Maple Finance. (2025). Documentation: Default management procedures. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^178]: [Maple App - Pool Details](https://app.maple.finance/) - Pool marketing and branding.
+[^178]: Maple Finance. (2025). App: Pool marketing and branding. app.maple.finance, https://app.maple.finance/
 
-[^179]: [Maple Blog - Roadmap](https://maple.finance/blog) - Official roadmap communications.
+[^179]: Maple Finance. (2025). Blog: Official roadmap communications. maple.finance, https://maple.finance/blog
 
-[^180]: [Maple Blog - Multi-Chain](https://maple.finance/blog) - L2 expansion plans.
+[^180]: Maple Finance. (2025). Blog: L2 expansion plans. maple.finance, https://maple.finance/blog
 
-[^181]: [CoinGecko - syrupUSDT](https://www.coingecko.com/en/coins/syrupusdt) - USDT product scaling.
+[^181]: CoinGecko. (2025). syrupUSDT: USDT product scaling. coingecko.com, https://www.coingecko.com/en/coins/syrupusdt
 
-[^182]: [Maple Blog - Borrowers](https://maple.finance/blog) - New borrower segments.
+[^182]: Maple Finance. (2025). Blog: New borrower segments. maple.finance, https://maple.finance/blog
 
-[^183]: [Maple App - Analytics](https://app.maple.finance/) - Enhanced transparency tools.
+[^183]: Maple Finance. (2025). App: Enhanced transparency tools. app.maple.finance, https://app.maple.finance/
 
-[^184]: [Messari - Crypto Credit](https://messari.io/) - Market opportunity analysis.
+[^184]: Messari. (2025). Crypto Credit: Market opportunity analysis. messari.io, https://messari.io/
 
-[^185]: [Traditional finance sources](https://www.bloomberg.com/) - TradFi credit market size.
+[^185]: Bloomberg. (2025). Traditional Finance: TradFi credit market size. bloomberg.com, https://www.bloomberg.com/
 
-[^186]: [DefiLlama - Lending](https://defillama.com/protocols/Lending) - Crypto credit market 2025.
+[^186]: DefiLlama. (2025). Lending: Crypto credit market 2025. defillama.com, https://defillama.com/protocols/Lending
 
-[^187]: Author estimate based on Maple vs total institutional DeFi lending.
+[^187]: Editorial analysis. (2025, December). Author estimate based on Maple vs total institutional DeFi lending.
 
-[^188]: [DefiLlama - Maple Fees](https://defillama.com/fees/maple) - Real fee generation.
+[^188]: DefiLlama. (2025). Maple Fees: Real fee generation data. defillama.com, https://defillama.com/fees/maple
 
-[^189]: [DefiLlama - Maple TVL](https://defillama.com/protocol/maple) - Institutional demand evidence.
+[^189]: DefiLlama. (2025). Maple TVL: Institutional demand evidence. defillama.com, https://defillama.com/protocol/maple
 
-[^190]: [Maple Documentation - Tokenomics](https://maplefinance.gitbook.io/maple/) - Token alignment mechanisms.
+[^190]: Maple Finance. (2025). Documentation: Token alignment mechanisms. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^191]: [Maple Blog - Integrations](https://maple.finance/blog) - DeFi composability.
+[^191]: Maple Finance. (2025). Blog: DeFi composability integrations. maple.finance, https://maple.finance/blog
 
-[^192]: [Maple Finance - Originations](https://maple.finance/) - Track record since 2021.
+[^192]: Maple Finance. (2025). Official Website: Track record since 2021. maple.finance, https://maple.finance/
 
-[^193]: [Maple Documentation - Credit Risk](https://maplefinance.gitbook.io/maple/) - Undercollateralized lending risk.
+[^193]: Maple Finance. (2025). Documentation: Undercollateralized lending risk. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^194]: Author observation: syrupUSDC dominates TVL composition.
+[^194]: Editorial analysis. (2025, December). Author observation: syrupUSDC dominates TVL composition.
 
-[^195]: [General regulatory environment](https://www.sec.gov/) - Institutional lending scrutiny.
+[^195]: SEC. (2025). Regulatory Environment: Institutional lending scrutiny. sec.gov, https://www.sec.gov/
 
-[^196]: [Bloomberg - TradFi Crypto](https://www.bloomberg.com/) - Traditional finance entering crypto.
+[^196]: Bloomberg. (2025). TradFi Crypto: Traditional finance entering crypto. bloomberg.com, https://www.bloomberg.com/
 
-[^197]: [Messari - DeFi Maturation](https://messari.io/) - Institutional DeFi evolution.
+[^197]: Messari. (2025). DeFi Maturation: Institutional DeFi evolution. messari.io, https://messari.io/
 
-[^198]: [DefiLlama - Lending Rankings](https://defillama.com/protocols/Lending) - Maple's leading position.
+[^198]: DefiLlama. (2025). Lending Rankings: Maple's leading position. defillama.com, https://defillama.com/protocols/Lending
 
-[^199]: [Maple Documentation - Credit Management](https://maplefinance.gitbook.io/maple/) - Professional credit management system.
+[^199]: Maple Finance. (2025). Documentation: Professional credit management system. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^200]: [Maple - syrupUSDC](https://maple.finance/syrup) - Simplified yield access.
+[^200]: Maple Finance. (2025). syrupUSDC: Simplified yield access. maple.finance, https://maple.finance/syrup
 
-[^201]: [DefiLlama API](https://defillama.com/docs/api) - TVL data source.
+[^201]: DefiLlama. (2025). API Documentation: TVL data source. defillama.com, https://defillama.com/docs/api
 
-[^202]: [DefiLlama API](https://defillama.com/docs/api) - Fee data source.
+[^202]: DefiLlama. (2025). API Documentation: Fee data source. defillama.com, https://defillama.com/docs/api
 
-[^203]: [CoinGecko API](https://www.coingecko.com/api/documentation) - SYRUP token data source.
+[^203]: CoinGecko. (2025). API Documentation: SYRUP token data source. coingecko.com, https://www.coingecko.com/api/documentation
 
-[^204]: [CoinGecko API](https://www.coingecko.com/api/documentation) - syrupUSDC token data source.
+[^204]: CoinGecko. (2025). API Documentation: syrupUSDC token data source. coingecko.com, https://www.coingecko.com/api/documentation
 
-[^205]: [Maple Finance](https://maple.finance/) - Official website.
+[^205]: Maple Finance. (2025). Official Website. maple.finance, https://maple.finance/
 
-[^206]: [Maple Documentation](https://maplefinance.gitbook.io/maple/) - Official documentation.
+[^206]: Maple Finance. (2025). Official Documentation. maplefinance.gitbook.io, https://maplefinance.gitbook.io/maple/
 
-[^207]: [Maple Blog](https://maple.finance/blog) - Official blog.
+[^207]: Maple Finance. (2025). Official Blog. maple.finance, https://maple.finance/blog
 
-[^208]: [Maple Labs GitHub](https://github.com/maple-labs) - Open source code.
+[^208]: Maple Labs. (2025). GitHub: Open source code. github.com, https://github.com/maple-labs
 
 ---
 
