@@ -1561,112 +1561,112 @@ This postmortem analysis is for educational and research purposes only. It is NO
 
 ## Footnotes
 
-[^1]: [Moonwell Documentation](https://docs.moonwell.fi/) - Official protocol documentation covering lending mechanics and security. 🔷 HARD DATA
+[^1]: Moonwell. (2025). Documentation: Official protocol documentation covering lending mechanics and security. docs.moonwell.fi, https://docs.moonwell.fi/ 🔷 HARD DATA
 
-[^2]: [DefiLlama - Moonwell TVL](https://defillama.com/protocol/moonwell) - Total Value Locked tracking across all chains. 🔷 HARD DATA
+[^2]: DefiLlama. (2025, December 31). Moonwell TVL: Total Value Locked tracking across all chains retrieved via API. defillama.com, https://defillama.com/protocol/moonwell 🔷 HARD DATA
 
-[^3]: [Moonwell App](https://moonwell.fi/) - Official lending interface. 🔷 HARD DATA
+[^3]: Moonwell. (2025). App: Official lending interface. moonwell.fi, https://moonwell.fi/ 🔷 HARD DATA
 
-[^4]: [CoinGecko - WELL Token](https://www.coingecko.com/en/coins/moonwell-artemis) - WELL governance token market data (note: use moonwell-artemis, not moonwell which is deprecated MFAM). 🔷 HARD DATA
+[^4]: CoinGecko. (2025, December 31). WELL Token: Governance token market data retrieved via API (note: use moonwell-artemis, not moonwell which is deprecated MFAM). coingecko.com, https://www.coingecko.com/en/coins/moonwell-artemis 🔷 HARD DATA
 
-[^5]: [CoinfoMania - Oracle Exploit](https://coinfomania.com/moonwell-oracle-exploit-base-optimism/) - November 2025 exploit coverage.
+[^5]: CoinfoMania. (2025, November 4). $1 Million Vanishes! Moonwell Hit by Oracle Exploit on Base and Optimism. coinfomania.com, https://coinfomania.com/moonwell-oracle-exploit-base-optimism/
 
-[^6]: [PANews - Attack Analysis](https://www.panewslab.com/en/articles/a0d28933-264b-41e6-9875-ddc6d1e41a5f) - 295 ETH profit attack documentation.
+[^6]: PANews. (2025, November 4). Moonwell lending contract attacked, attackers profit 295 ETH. panewslab.com, https://www.panewslab.com/en/articles/a0d28933-264b-41e6-9875-ddc6d1e41a5f
 
-[^7]: [CoinGabbar - Flash Loan Exploit](https://www.coingabbar.com/en/crypto-currency-news/moonwell-hacked-faulty-oracle-defi-flash-loan-attack-1m-loss) - Oracle manipulation analysis.
+[^7]: CoinGabbar. (2025, November 4). Moonwell Hacked: $1Million Lost in Flash Loan Oracle Exploit. coingabbar.com, https://www.coingabbar.com/en/crypto-currency-news/moonwell-hacked-faulty-oracle-defi-flash-loan-attack-1m-loss
 
-[^8]: [Odaily - BlockSec Alert](https://www.odaily.news/en/newsflash/455239) - BlockSec Phalcon detection report.
+[^8]: Odaily. (2025, November 4). BlockSec Phalcon: Moonwell DeFi suffers over $1 million loss due to oracle price manipulation. odaily.news, https://www.odaily.news/en/newsflash/455239
 
-[^9]: [CoinEdition - $320K Exploit](https://coinedition.com/moonwell-defi-hit-by-320k-flash-loan-exploit-security-risks-highlighted/) - December 2024 flash loan attack.
+[^9]: Deka, L. (2024, December 24). Moonwell DeFi Hit by $320K Flash Loan Exploit: Security Risks Highlighted. CoinEdition, https://coinedition.com/moonwell-defi-hit-by-320k-flash-loan-exploit-security-risks-highlighted/
 
-[^10]: [CryptoRank - Security Alert](https://cryptorank.io/news/feed/929cf-moonwell-defi-hit-by-320k-flash-loan-exploit-security-risks-highlighted) - mToken vulnerability coverage.
+[^10]: CryptoRank. (2024, December 24). Moonwell DeFi Hit by $320K Flash Loan Exploit: Security Risks Highlighted. cryptorank.io, https://cryptorank.io/news/feed/929cf-moonwell-defi-hit-by-320k-flash-loan-exploit-security-risks-highlighted
 
-[^11]: [Today in DeFi - $1.7M Exploit](https://news.todayindefi.com/p/moonwell-discloses-17m-exploit-ink) - October 2024 market crash exploit.
+[^11]: Today in DeFi. (2025, October 20). Moonwell Discloses $1.7M Exploit, Ink Launches Lending Protocol, Farm 25%+ APR with ETH Loop, and more. todayindefi.com, https://news.todayindefi.com/p/moonwell-discloses-17m-exploit-ink
 
-[^12]: [BlockSec Phalcon](https://phalcon.blocksec.com/) - Security monitoring service. 🔷 HARD DATA
+[^12]: BlockSec. (2025). Phalcon: Real-time blockchain security monitoring. blocksec.com, https://phalcon.blocksec.com/ 🔷 HARD DATA
 
-[^13]: [Cyvers Alerts](https://www.cyvers.ai/) - DeFi security monitoring.
+[^13]: Cyvers. (2025). Alerts: DeFi security monitoring. cyvers.ai, https://www.cyvers.ai/
 
-[^14]: [CertiK](https://www.certik.com/) - Smart contract security auditing.
+[^14]: CertiK. (2025). Smart contract security auditing. certik.com, https://www.certik.com/
 
-[^15]: [Moonwell Governance Forum](https://forum.moonwell.fi/) - Community governance discussions.
+[^15]: Moonwell. (2025). Governance Forum: Community discussions and proposals. forum.moonwell.fi, https://forum.moonwell.fi/
 
-[^16]: [Halborn Security](https://www.halborn.com/) - Protocol auditor.
+[^16]: Halborn. (2025). Security: Protocol auditor providing continuous monitoring and vulnerability scanning for Moonwell. halborn.com, https://www.halborn.com/
 
-[^17]: [Code4rena](https://code4rena.com/) - Bug bounty audit competition.
+[^17]: Code4rena. (2025). Bug bounty audit competition. code4rena.com, https://code4rena.com/
 
-[^18]: [Chainlink Oracles](https://chain.link/) - Oracle infrastructure. 🔷 HARD DATA
+[^18]: Chainlink. (2025). Price Oracles: Oracle infrastructure. chain.link, https://chain.link/ 🔷 HARD DATA
 
-[^19]: [API3 Data Feeds](https://api3.org/) - Alternative oracle provider.
+[^19]: API3. (2025). Data Feeds: Alternative oracle provider. api3.org, https://api3.org/
 
-[^20]: [Base Network](https://base.org/) - Layer 2 ecosystem. 🔷 HARD DATA
+[^20]: Base. (2025). Network: Coinbase Layer 2 ecosystem. base.org, https://base.org/ 🔷 HARD DATA
 
-[^21]: [Optimism Network](https://optimism.io/) - Layer 2 ecosystem. 🔷 HARD DATA
+[^21]: Optimism. (2025). Network: Ethereum Layer 2 ecosystem. optimism.io, https://optimism.io/ 🔷 HARD DATA
 
-[^22]: [Moonbeam Network](https://moonbeam.network/) - Polkadot parachain.
+[^22]: Moonbeam. (2025). Network: Polkadot parachain. moonbeam.network, https://moonbeam.network/
 
-[^23]: [Moonriver Network](https://moonbeam.network/moonriver/) - Kusama parachain.
+[^23]: Moonriver. (2025). Network: Kusama parachain. moonbeam.network, https://moonbeam.network/moonriver/
 
-[^24]: [Compound Finance](https://compound.finance/) - Fork origin protocol.
+[^24]: Compound Finance. (2025). Protocol: Fork origin for Moonwell. compound.finance, https://compound.finance/
 
-[^25]: [Aave Protocol](https://aave.com/) - Competitor comparison. 🔷 HARD DATA
+[^25]: Aave. (2025). Protocol: Competitor comparison for lending protocols. aave.com, https://aave.com/ 🔷 HARD DATA
 
-[^26]: [Messari - Moonwell Research](https://messari.io/) - Protocol analysis.
+[^26]: Messari. (2025). Research: Moonwell protocol analysis. messari.io, https://messari.io/
 
-[^27]: [The Block - Moonwell](https://www.theblock.co/) - News coverage.
+[^27]: The Block. (2025). News: Moonwell coverage. theblock.co, https://www.theblock.co/
 
-[^28]: [CoinDesk - Moonwell News](https://www.coindesk.com/) - Breaking news.
+[^28]: CoinDesk. (2025). News: Moonwell breaking news. coindesk.com, https://www.coindesk.com/
 
-[^29]: [Moonwell Security Documentation](https://docs.moonwell.fi/moonwell/protocol-information/security) - Security framework.
+[^29]: Moonwell. (2025). Security Documentation: Protocol security framework. docs.moonwell.fi, https://docs.moonwell.fi/moonwell/protocol-information/security
 
-[^30]: [Moonwell Bug Bounty](https://docs.moonwell.fi/) - $250K maximum reward program.
+[^30]: Moonwell. (2025). Bug Bounty: $250K maximum reward program. docs.moonwell.fi, https://docs.moonwell.fi/
 
-[^31]: [Tornado Cash](https://tornadocash.eth.limo/) - Privacy mixer (attacker tool).
+[^31]: Tornado Cash. (2025). Privacy mixer: Used by attacker to obfuscate funds origin. tornadocash.eth.limo, https://tornadocash.eth.limo/
 
-[^32]: [Euler Finance Exploit](https://www.theblock.co/) - Similar vulnerability comparison.
+[^32]: The Block. (2023, March). Euler Finance Exploit: Similar improper input validation vulnerability, $197M lost. theblock.co, https://www.theblock.co/ ⏳ HISTORICAL
 
-[^33]: [Cream Finance Exploits](https://www.coindesk.com/) - Historical comparison.
+[^33]: CoinDesk. (2021). Cream Finance Exploits: Historical comparison, 3× hacked protocol now defunct. coindesk.com, https://www.coindesk.com/ ⏳ HISTORICAL
 
-[^34]: [bZx Exploits](https://www.theblock.co/) - Oracle manipulation precedent.
+[^34]: The Block. (2020, February). bZx Exploits: Oracle manipulation precedent via flash loans. theblock.co, https://www.theblock.co/ ⏳ HISTORICAL
 
-[^35]: [Mango Markets Exploit](https://www.coindesk.com/) - $110M oracle manipulation.
+[^35]: CoinDesk. (2022, October). Mango Markets Exploit: $110M oracle manipulation in low-liquidity markets. coindesk.com, https://www.coindesk.com/ ⏳ HISTORICAL
 
-[^36]: [Nexus Mutual](https://nexusmutual.io/) - DeFi insurance protocol.
+[^36]: Nexus Mutual. (2025). DeFi insurance protocol. nexusmutual.io, https://nexusmutual.io/
 
-[^37]: [InsurAce Protocol](https://www.insurace.io/) - Insurance coverage option.
+[^37]: InsurAce. (2025). Protocol: Insurance coverage option for DeFi. insurace.io, https://www.insurace.io/
 
-[^38]: [Nansen - Moonwell](https://portfolio.nansen.ai/) - Smart money tracking.
+[^38]: Nansen. (2025). Analytics: Moonwell smart money tracking. nansen.ai, https://portfolio.nansen.ai/
 
-[^39]: [DeFiLlama - Lending](https://defillama.com/protocols/lending) - Lending protocol comparison. 🔷 HARD DATA
+[^39]: DefiLlama. (2025, December 31). Lending: Protocol comparison retrieved via API. defillama.com, https://defillama.com/protocols/lending 🔷 HARD DATA
 
-[^40]: [Etherscan - Base](https://basescan.org/) - Base chain explorer. 🔷 HARD DATA
+[^40]: Basescan. (2025). Explorer: Base chain block explorer. basescan.org, https://basescan.org/ 🔷 HARD DATA
 
-[^41]: [Optimism Explorer](https://optimistic.etherscan.io/) - OP chain explorer. 🔷 HARD DATA
+[^41]: Optimistic Etherscan. (2025). Explorer: Optimism chain block explorer. optimistic.etherscan.io, https://optimistic.etherscan.io/ 🔷 HARD DATA
 
-[^42]: [Moonwell mToken Contracts](https://docs.moonwell.fi/) - Token contract documentation.
+[^42]: Moonwell. (2025). mToken Contracts: Token contract documentation. docs.moonwell.fi, https://docs.moonwell.fi/
 
-[^43]: [Flash Loan Protection Research](https://docs.aave.com/) - Industry best practices.
+[^43]: Aave. (2025). Flash Loan Protection Research: Industry best practices. docs.aave.com, https://docs.aave.com/
 
-[^44]: [Circuit Breaker Implementations](https://docs.makerdao.com/) - Risk management patterns.
+[^44]: MakerDAO. (2025). Circuit Breaker Implementations: Risk management patterns. docs.makerdao.com, https://docs.makerdao.com/
 
-[^45]: [Multi-Oracle Systems](https://chain.link/) - Oracle redundancy documentation.
+[^45]: Chainlink. (2025). Multi-Oracle Systems: Oracle redundancy documentation. chain.link, https://chain.link/
 
-[^46]: [DeFiSafety - Moonwell](https://www.defisafety.com/) - Protocol safety scoring. 🔷 HARD DATA
+[^46]: DeFiSafety. (2025). Moonwell: Protocol safety scoring. defisafety.com, https://www.defisafety.com/ 🔷 HARD DATA
 
-[^47]: [CoinMarketCap - WELL](https://coinmarketcap.com/currencies/moonwell-artemis/) - Market data. 🔷 HARD DATA
+[^47]: CoinMarketCap. (2025, December 31). WELL: Market data retrieved. coinmarketcap.com, https://coinmarketcap.com/currencies/moonwell-artemis/ 🔷 HARD DATA
 
-[^48]: [Moonwell Twitter](https://twitter.com/MoonwellDeFi) - Official announcements.
+[^48]: Moonwell. (2025). Twitter: Official announcements. twitter.com, https://twitter.com/MoonwellDeFi
 
-[^49]: [Moonwell Discord](https://discord.gg/moonwell) - Community discussion.
+[^49]: Moonwell. (2025). Discord: Community discussion. discord.gg, https://discord.gg/moonwell
 
-[^50]: [Moonwell GitHub](https://github.com/moonwell-fi) - Open-source repositories.
+[^50]: Moonwell. (2025). GitHub: Open-source repositories. github.com, https://github.com/moonwell-fi
 
-[^51]: [CFTC Regulatory Precedents](https://www.cftc.gov/) - DeFi regulatory context.
+[^51]: CFTC. (2025). Regulatory Precedents: DeFi regulatory context. cftc.gov, https://www.cftc.gov/
 
-[^52]: [SEC DeFi Enforcement](https://www.sec.gov/) - Securities regulation.
+[^52]: SEC. (2025). DeFi Enforcement: Securities regulation. sec.gov, https://www.sec.gov/
 
-[^53]: [Trail of Bits](https://www.trailofbits.com/) - Security audit standards.
+[^53]: Trail of Bits. (2025). Security audit standards. trailofbits.com, https://www.trailofbits.com/
 
-[^54]: [OpenZeppelin](https://www.openzeppelin.com/) - Smart contract security.
+[^54]: OpenZeppelin. (2025). Smart contract security. openzeppelin.com, https://www.openzeppelin.com/
 
-[^55]: [DefiLlama - Moonwell Revenue](https://defillama.com/protocol/moonwell) - Protocol metrics tracking. 🔷 HARD DATA
+[^55]: DefiLlama. (2025, December 31). Moonwell Revenue: Protocol metrics tracking, 24h fees $12,518, all-time fees $15.1M retrieved via API. defillama.com, https://defillama.com/protocol/moonwell 🔷 HARD DATA
