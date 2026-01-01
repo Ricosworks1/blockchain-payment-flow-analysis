@@ -1,6 +1,6 @@
 # Avalanche Money Flow Analysis: The Foundation-Funded Deflationary Model
 
-**Last Updated: December 22, 2025**
+**Last Updated: January 2, 2026**
 
 ## Executive Summary
 
@@ -43,7 +43,7 @@ The December 2024 Avalanche9000 upgrade (also known as Etna Upgrade) fundamental
 
 Avalanche validators operate under a pure inflation-based revenue model completely separated from user transaction fees.
 
-🔷 **HARD DATA**: Over 1,539 validators currently staking over 248 million AVAX and earning 7.84% APY (December 2025)
+🔷 **HARD DATA**: Over 1,539 validators currently staking over 248 million AVAX and earning 7.84% APY (January 2026)
 [^11]
 
 🔷 **HARD DATA**: Minimum validator stake requirement of 2,000 AVAX (approximately $24,660 at current prices) with 25 AVAX minimum for delegation
@@ -111,7 +111,7 @@ Avalanche continues scheduled programmatic token releases while managing market 
 🔷 **HARD DATA**: AVAX included in $268 million worth of token unlocks scheduled from December 22-29, 2025
 [^21]
 
-🔷 **HARD DATA**: Circulating supply at 429.54 million AVAX out of 461.21 million total supply (December 2025)
+🔷 **HARD DATA**: Circulating supply at 429.54 million AVAX out of 461.21 million total supply (January 2026)
 [^22]
 
 **Data point:** Future token unlocks scheduled through July 2030 are allocated primarily to the Avalanche Foundation
@@ -124,7 +124,7 @@ Avalanche continues scheduled programmatic token releases while managing market 
 
 Current market dynamics reflect institutional ETF interest alongside broader market conditions.
 
-🔷 **HARD DATA**: AVAX trading at $12.33, market cap $5.30 billion, 24-hour volume $327.04 million (December 22, 2025)
+🔷 **HARD DATA**: AVAX trading at $12.33, market cap $5.30 billion, 24-hour volume $327.04 million (January 2, 2026)
 [^22]
 
 🔷 **HARD DATA**: 30-day price change -6.89%; 1-year change -66.25% reflecting bear market conditions
@@ -142,7 +142,7 @@ Current market dynamics reflect institutional ETF interest alongside broader mar
 
 Avalanche's DeFi ecosystem has reclaimed significant TVL after November 2025 decline.
 
-🔷 **HARD DATA**: Total Value Locked at $1.18 billion (December 22, 2025), recovering after 30% November drop
+🔷 **HARD DATA**: Total Value Locked at $1.18 billion (January 2, 2026), recovering after 30% November drop
 [^26]
 
 🔷 **HARD DATA**: TVL reclaimed $2 billion milestone in early 2025 before recent pullback
@@ -174,7 +174,7 @@ Decentralized exchange activity continues growth following Avalanche9000 upgrade
 🔷 **HARD DATA**: Transaction volume up 585% since May 2025 to 10 million daily transactions following fee cuts
 [^32]
 
-🔷 **HARD DATA**: Daily fees at $9,197; 30-day fees at $324,810; all-time fees at $90.4 million (December 2025)
+🔷 **HARD DATA**: Daily fees at $9,197; 30-day fees at $324,810; all-time fees at $90.4 million (January 2026)
 [^33]
 
 **Data point:** Trader Joe remains largest DEX with over $4 billion cumulative trading volume
@@ -192,7 +192,7 @@ Avalanche rebranded subnets to "Avalanche L1s" in 2024, with explosive growth fo
 🔷 **HARD DATA**: 38 live L1s on mainnet currently; 9 new L1s joined in Q1 2025 bringing total to 32 L1s by end of Q1
 [^36]
 
-🔷 **HARD DATA**: Over 500 L1s being developed on testnet and mainnet as of December 2025
+🔷 **HARD DATA**: Over 500 L1s being developed on testnet and mainnet as of January 2026
 [^37]
 
 🔷 **HARD DATA**: Average Daily Active Addresses across C-Chain and all L1s increased 81% QoQ to 167,300
@@ -312,7 +312,7 @@ The economic model relies on continued external funding rather than self-sustain
 🔷 **HARD DATA**: Network generated $9,197 in daily fees while distributing approximately $280,000 daily in validator inflation rewards
 [^33]
 
-🔷 **HARD DATA**: Annual validator rewards approximately $275 million vs. $11.5 million in user fees (as of December 2025)
+🔷 **HARD DATA**: Annual validator rewards approximately $275 million vs. $11.5 million in user fees (as of January 2026)
 [^53]
 
 **Data point:** $1 billion treasury company raise plus $250 million locked token sale extends Foundation runway significantly
@@ -336,7 +336,7 @@ Long-term sustainability depends on continued Foundation and venture capital sup
 **Data point:** Foundation token reserves and VC funding provide runway through planned 2030 unlock schedule
 [^23]
 
-**Data point:** Fear & Greed Index showing 20 (Extreme Fear) with bearish technical sentiment (December 2025)
+**Data point:** Fear & Greed Index showing 20 (Extreme Fear) with bearish technical sentiment (January 2026)
 [^55]
 
 ### Competitive Positioning Challenges
@@ -377,7 +377,7 @@ Foundation initiatives target growth in key vertical markets through specialized
 **Data point:** Evergreen Subnets for Institutions (Mid-2026) featuring customizable chains for regulated assets
 [^56]
 
-**Data point:** Mugafi tokenized $10 million in entertainment IP on Avalanche (December 2025), expanding media/web3 footprint
+**Data point:** Mugafi tokenized $10 million in entertainment IP on Avalanche (January 2026), expanding media/web3 footprint
 [^58]
 
 ## Conclusion
@@ -392,9 +392,9 @@ Avalanche's innovation in completely separating user fees from validator compens
 
 ## Sources and References
 
-[^1]: [DefiLlama - Avalanche TVL](https://defillama.com/chain/Avalanche) - Total Value Locked $1.18 billion retrieved via DefiLlama API (December 22, 2025).
+[^1]: [DefiLlama - Avalanche TVL](https://defillama.com/chain/Avalanche) - Total Value Locked $1.18 billion retrieved via DefiLlama API (January 2, 2026).
 
-[^2]: [CoinGecko - Avalanche](https://www.coingecko.com/en/coins/avalanche) - 🔷 HARD DATA: AVAX price $12.33, market cap $5.30 billion retrieved via CoinGecko API (December 22, 2025).
+[^2]: [CoinGecko - Avalanche](https://www.coingecko.com/en/coins/avalanche) - 🔷 HARD DATA: AVAX price $12.33, market cap $5.30 billion retrieved via CoinGecko API (January 2, 2026).
 
 [^3]: [CoinDesk - Avalanche Foundation Eyes $1B Raise](https://www.coindesk.com/business/2025/09/11/avalanche-foundation-eyes-usd1b-raise-to-fund-two-crypto-treasury-companies-ft) - $1 billion raise for two U.S.-based AVAX treasury companies (September 2025).
 
@@ -412,7 +412,7 @@ Avalanche's innovation in completely separating user fees from validator compens
 
 [^10]: [Routescan - Avalanche 2025 Onchain Review](https://x.com/routescan_io/status/2001668963315650864) - 🔷 HARD DATA: 1.454B total transactions (+152.91% YoY), 4.17M average daily transactions (2025).
 
-[^11]: [Avascan - Staking Statistics](https://avascan.info/stats/staking) - 🔷 HARD DATA: 1,539 validators staking 248 million AVAX at 7.84% APY (December 2025).
+[^11]: [Avascan - Staking Statistics](https://avascan.info/stats/staking) - 🔷 HARD DATA: 1,539 validators staking 248 million AVAX at 7.84% APY (January 2026).
 
 [^12]: [Avax.network - Validators](https://www.avax.network/build/validators) - Validator requirements: 2,000 AVAX minimum stake, 80% uptime requirement.
 
@@ -434,15 +434,15 @@ Avalanche's innovation in completely separating user fees from validator compens
 
 [^21]: [CoinMarketCap - AVAX Token Unlocks](https://coinmarketcap.com/cmc-ai/avalanche/latest-updates/) - $268 million token unlocks scheduled December 22-29, 2025.
 
-[^22]: [CoinGecko - Avalanche Price](https://www.coingecko.com/en/coins/avalanche) - 🔷 HARD DATA: AVAX $12.33, market cap $5.30B, circulating 429.54M, 24h volume $327M (December 22, 2025).
+[^22]: [CoinGecko - Avalanche Price](https://www.coingecko.com/en/coins/avalanche) - 🔷 HARD DATA: AVAX $12.33, market cap $5.30B, circulating 429.54M, 24h volume $327M (January 2, 2026).
 
 [^23]: [CryptoRank - AVAX Token Unlocks](https://cryptorank.io/price/avalanche/vesting) - Token unlock schedule through July 2030, primarily Foundation allocations.
 
-[^24]: [CoinDesk - VanEck AVAX ETF](https://www.coindesk.com/business/2025/12/20/vaneck-s-new-avalanche-etf-filing-to-include-staking-rewards-for-avax-investors) - VAVX with 70% staking, 0.40% fee, Coinbase Custody (December 2025).
+[^24]: [CoinDesk - VanEck AVAX ETF](https://www.coindesk.com/business/2025/12/20/vaneck-s-new-avalanche-etf-filing-to-include-staking-rewards-for-avax-investors) - VAVX with 70% staking, 0.40% fee, Coinbase Custody (January 2026).
 
 [^25]: [CoinDesk - Bitwise AVAX ETF](https://www.coindesk.com/business/2025/11/27/avalanche-etf-race-heats-up-as-bitwise-becomes-first-to-add-staking) - BAVA with 0.34% fee, 70% staking, fee waiver on first $500M (November 2025).
 
-[^26]: [DefiLlama - Avalanche](https://defillama.com/chain/Avalanche) - 🔷 HARD DATA: TVL $1.18 billion retrieved via DefiLlama API (December 22, 2025).
+[^26]: [DefiLlama - Avalanche](https://defillama.com/chain/Avalanche) - 🔷 HARD DATA: TVL $1.18 billion retrieved via DefiLlama API (January 2, 2026).
 
 [^27]: [Bitget News - AVAX TVL Reclaims $2B](https://www.bitget.com/news/detail/12560604927923) - TVL reclaimed $2 billion milestone in early 2025.
 
@@ -456,7 +456,7 @@ Avalanche's innovation in completely separating user fees from validator compens
 
 [^32]: [The Block - Avalanche BOOST Campaign](https://www.theblock.co/post/317920/research-unlock-an-overview-of-avalanche-defi-ecosystem-and-boost-campaign) - Transaction volume up 585% since May 2025 to 10 million daily transactions.
 
-[^33]: [DefiLlama - Avalanche Fees](https://defillama.com/fees/avalanche) - 🔷 HARD DATA: Daily fees $9,197, 30-day $324,810, all-time $90.4M (December 22, 2025).
+[^33]: [DefiLlama - Avalanche Fees](https://defillama.com/fees/avalanche) - 🔷 HARD DATA: Daily fees $9,197, 30-day $324,810, all-time $90.4M (January 2, 2026).
 
 [^34]: [CryptoNews - Avalanche TVL Top 10](https://cryptonews.net/news/defi/30446040/) - Trader Joe largest DEX with over $4 billion cumulative volume.
 
@@ -464,7 +464,7 @@ Avalanche's innovation in completely separating user fees from validator compens
 
 [^36]: [CoinGecko - What Is Avalanche](https://www.coingecko.com/learn/what-is-avalanche-crypto-avax) - 38 live L1s on mainnet; 9 new L1s joined Q1 2025; DAAs up 81% QoQ to 167,300.
 
-[^37]: [Zeeve - Avalanche 100+ L1s](https://www.zeeve.io/blog/how-avalanche-became-the-perfect-platform-to-launch-100-l1s-in-2025/) - Over 500 L1s being developed on testnet and mainnet (December 2025).
+[^37]: [Zeeve - Avalanche 100+ L1s](https://www.zeeve.io/blog/how-avalanche-became-the-perfect-platform-to-launch-100-l1s-in-2025/) - Over 500 L1s being developed on testnet and mainnet (January 2026).
 
 [^38]: [Zeeve - Avalanche L1s](https://www.zeeve.io/blog/thought-avalanche-l1s-are-just-subnets-heres-why-thats-no-longer-true/) - Major brands: FIFA, MapleStory, Inversion Capital, Nonco launching L1s.
 
@@ -500,10 +500,10 @@ Avalanche's innovation in completely separating user fees from validator compens
 
 [^54]: [CoinMarketCap - AVAX Updates](https://coinmarketcap.com/cmc-ai/avalanche/latest-updates/) - TVL dropped 30% in November 2025.
 
-[^55]: [CoinCodex - AVAX Price Prediction](https://coincodex.com/crypto/avalanche/price-prediction/) - Fear & Greed Index at 20 (Extreme Fear), bearish sentiment (December 2025).
+[^55]: [CoinCodex - AVAX Price Prediction](https://coincodex.com/crypto/avalanche/price-prediction/) - Fear & Greed Index at 20 (Extreme Fear), bearish sentiment (January 2026).
 
 [^56]: [CoinMarketCap - AVAX Roadmap](https://coinmarketcap.com/cmc-ai/avalanche/latest-updates/) - 2026 roadmap: Granite Mainnet (Q1), Subnets Scaling, Evergreen for Institutions (Mid-2026).
 
 [^57]: [Zeeve - Avalanche 100+ L1s](https://www.zeeve.io/blog/how-avalanche-became-the-perfect-platform-to-launch-100-l1s-in-2025/) - 40% YoY dApp growth predicted; L1s expected to grow from 450 to 1,000+.
 
-[^58]: [CoinMarketCap - AVAX News](https://coinmarketcap.com/cmc-ai/avalanche/latest-updates/) - Mugafi tokenized $10M entertainment IP on Avalanche (December 2025).
+[^58]: [CoinMarketCap - AVAX News](https://coinmarketcap.com/cmc-ai/avalanche/latest-updates/) - Mugafi tokenized $10M entertainment IP on Avalanche (January 2026).

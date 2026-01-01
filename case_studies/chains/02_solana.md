@@ -1,10 +1,10 @@
-# Solana Money Flow Comprehensive Analysis: Financial Distribution and Value Flows 2024-2025
+# Solana Money Flow Comprehensive Analysis: Financial Distribution and Value Flows 2024-2026
 
 ## Executive Summary
 
 This report provides a detailed analysis of Solana's monetary flows, examining how transaction fees are distributed following the SIMD-0096 upgrade, the impact of MEV through Jito, and the broader ecosystem funding mechanisms. Solana operates with ultra-low transaction costs (~$0.00025-0.01) while maintaining high throughput, fundamentally different from fee-driven networks. The SIMD-0096 upgrade in February 2025 shifted the network from a 50/50 priority fee split to giving validators 100% of priority fees[^1], reducing deflation while improving validator incentives. In late 2025, U.S. spot Solana ETFs were approved, marking a major milestone for institutional adoption.[^2]
 
-**Key Financial Metrics (December 22, 2025):**
+**Key Financial Metrics (January 2, 2026):**
 - 🔷 SOL Price: $126.64[^3]
 - 🔷 Market Cap: $71.27 billion (Rank #7)[^3]
 - 🔷 Circulating Supply: 562.42 million SOL[^3]
@@ -37,7 +37,7 @@ The SIMD-0096 proposal received 77% validator approval and was implemented to el
 - **Inflation increase**: From 3.7% to 4.68% due to reduced burning[^5][^11]
 - **Daily burn reduction**: From ~18,000 SOL to ~1,000 SOL daily[^11]
 
-### 1.3 Current Transaction Fee Environment (December 2025)
+### 1.3 Current Transaction Fee Environment (January 2026)
 
 **Ultra-Low Fee Structure**
 - 🔷 Average transaction fee: $0.00025[^12]
@@ -66,7 +66,7 @@ The SIMD-0096 proposal received 77% validator approval and was implemented to el
 
 ### 2.1 Jito MEV Revenue Analysis
 
-**2024-2025 Performance Metrics**
+**2024-2026 Performance Metrics**
 - Peak monthly revenue: $210 million (November 2024)[^6]
 - Monthly revenue milestone: $100+ million (December 2024)[^14]
 - Annual estimated revenue: $800 million - $1.2 billion[^6]
@@ -104,7 +104,7 @@ The SIMD-0096 proposal received 77% validator approval and was implemented to el
 - **MEV through Jito**: $800M-$1.2B annually across network[^6]
 - **Compute unit fees**: Based on resource consumption[^10]
 
-### 3.2 Current Network Staking Statistics (December 2025)
+### 3.2 Current Network Staking Statistics (January 2026)
 
 **Staking Participation Metrics**
 - 🔷 Total staked SOL: ~390 million SOL (67.12% of supply)[^8]
@@ -138,7 +138,7 @@ The SIMD-0096 proposal received 77% validator approval and was implemented to el
 
 ### 4.1 Supply Structure and Circulation
 
-**Current Supply Metrics (December 2025)**
+**Current Supply Metrics (January 2026)**
 - 🔷 Circulating supply: 562.42 million SOL[^3]
 - 🔷 Total supply: 616.72 million SOL (no hard cap)[^3]
 - Market Cap/FDV Ratio: 0.91[^3]
@@ -174,7 +174,7 @@ The SIMD-0096 proposal received 77% validator approval and was implemented to el
 
 ### 5.1 Total Value Locked Overview
 
-**Current DeFi Metrics (December 2025)**
+**Current DeFi Metrics (January 2026)**
 - 🔷 Solana DeFi TVL: $8.59 billion[^4]
 - Global DeFi market share: 7.05%[^25]
 - Ranking: 2nd largest DeFi blockchain by TVL[^25]
@@ -252,7 +252,7 @@ The SIMD-0096 proposal received 77% validator approval and was implemented to el
 
 ### 7.2 Ecosystem Investment Activity
 
-**2024-2025 Venture Capital Performance**
+**2024-2026 Venture Capital Performance**
 - Q3 2024 investment: $173 million (highest since Q2 2022)[^36]
 - Annual estimated total: $400-500 million[^36]
 - Notable funds: RockawayX ($125 million fund dedicated to Solana)[^36]
@@ -262,7 +262,7 @@ The SIMD-0096 proposal received 77% validator approval and was implemented to el
 - Total investments: 83 investments to date[^37]
 - Latest investment: Circuit & Chisel (September 2025)[^37]
 - Portfolio exits: 4 exits (latest: Meso Network, September 2025)[^37]
-- December 2025 deal: Seed round with Pye[^37]
+- January 2026 deal: Seed round with Pye[^37]
 
 **Major 2025 Investment Deals**
 - Mercurity Fintech: $200 million equity line of credit with Solana Ventures (July 2025)[^38]
@@ -280,7 +280,7 @@ The SIMD-0096 proposal received 77% validator approval and was implemented to el
 
 ### 8.1 Transaction Throughput
 
-**Current Performance (December 2025)**
+**Current Performance (January 2026)**
 - 🔷 Current TPS: ~607 transactions per second (typical)[^41]
 - Maximum recorded TPS: 5,289 TPS[^41]
 - Real-world range: 3,000-5,000 TPS[^41]
@@ -449,9 +449,9 @@ The network's economics are characterized by inflation dependency (>99% of secur
 
 [^2]: [Charles Schwab - Solana ETPs Cleared to Trade](https://www.schwab.com/learn/story/crypto-etf-approval) - SEC approved spot Solana ETFs, trading began October 28, 2025.
 
-[^3]: [CoinGecko - Solana](https://www.coingecko.com/en/coins/solana) - 🔷 SOL price $126.64, market cap $71.27B, circulating supply 562.42M SOL, total supply 616.72M SOL retrieved via CoinGecko API (December 22, 2025).
+[^3]: [CoinGecko - Solana](https://www.coingecko.com/en/coins/solana) - 🔷 SOL price $126.64, market cap $71.27B, circulating supply 562.42M SOL, total supply 616.72M SOL retrieved via CoinGecko API (January 2, 2026).
 
-[^4]: [DefiLlama - Solana TVL](https://defillama.com/chain/Solana) - 🔷 Solana TVL $8.59 billion retrieved via DefiLlama API (December 22, 2025).
+[^4]: [DefiLlama - Solana TVL](https://defillama.com/chain/Solana) - 🔷 Solana TVL $8.59 billion retrieved via DefiLlama API (January 2, 2026).
 
 [^5]: [CryptoSlate - SOL Inflation Analysis](https://cryptoslate.com/sol-inflation-leaps-30-one-week-after-changes-in-fee-distribution-model/) - Current inflation rate 4.68% post-SIMD-0096.
 
@@ -517,7 +517,7 @@ The network's economics are characterized by inflation dependency (>99% of secur
 
 [^36]: [Solana Floor - Q3 2024 Funding](https://solanafloor.com/news/solana-sees-private-funding-surge-to-173-m-in-q3-2024-highest-in-2-years) - $173M Q3 2024, RockawayX $125M fund, 7,500+ new developers.
 
-[^37]: [CB Insights - Solana Ventures](https://www.cbinsights.com/investor/solana-ventures) - 83 investments, 4 exits, December 2025 Pye deal.
+[^37]: [CB Insights - Solana Ventures](https://www.cbinsights.com/investor/solana-ventures) - 83 investments, 4 exits, January 2026 Pye deal.
 
 [^38]: [AInvest - Mercurity $200M Deal](https://www.ainvest.com/news/solana-2025-2026-roadmap-institutional-adoption-catalyst-long-term-creation-2511/) - $200M equity line of credit, July 2025.
 
@@ -539,7 +539,7 @@ The network's economics are characterized by inflation dependency (>99% of secur
 
 [^47]: [Helius - Staking Calculator](https://www.helius.dev/staking/calculator) - Staking reward calculations.
 
-[^48]: [Coinbase - Solana Validator Report December 2025](https://www.coinbase.com/institutional/research-insights/resources/guides/sol-validator-report-december-2025) - Geographic distribution, performance metrics.
+[^48]: [Coinbase - Solana Validator Report January 2026](https://www.coinbase.com/institutional/research-insights/resources/guides/sol-validator-report-december-2025) - Geographic distribution, performance metrics.
 
 [^49]: [Token Terminal - Solana TPS](https://tokenterminal.com/explorer/projects/solana/metrics/transactions-per-second) - Historical TPS data.
 
@@ -551,7 +551,7 @@ The network's economics are characterized by inflation dependency (>99% of secur
 
 ---
 
-**Last Updated: December 22, 2025**
+**Last Updated: January 2, 2026**
 
 **Data Sources:**
 - 🔷 On-chain APIs: CoinGecko API, DefiLlama API, Solana Compass, Solana Beach

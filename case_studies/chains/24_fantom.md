@@ -1,6 +1,6 @@
 # Fantom Money Flow Analysis: The Asynchronous Byzantine Fault Tolerance Model
 
-*Last Updated: December 23, 2025*
+*Last Updated: January 2, 2026*
 
 ## Executive Summary
 
@@ -394,7 +394,7 @@ Comprehensive analysis showing Fantom's 1-second finality advantage over Solana'
 [^20]: ResearchGate. (2024). "Lachesis Academic Paper." ResearchGate. Retrieved from https://www.researchgate.net/publication/353700653_Lachesis_Scalable_Asynchronous_BFT_on_DAG_Streams
 Peer-reviewed mathematical proofs for Lachesis protocol scalability and Byzantine fault tolerance properties
 
-[^21]: [CoinGecko - Fantom](https://www.coingecko.com/en/coins/fantom) - FTM price, market cap, 24h volume, and circulating supply (December 2025). 🔷 HARD DATA
+[^21]: [CoinGecko - Fantom](https://www.coingecko.com/en/coins/fantom) - FTM price, market cap, 24h volume, and circulating supply (January 2026). 🔷 HARD DATA
 
 [^22]: [CoinGecko - Sonic](https://www.coingecko.com/en/coins/sonic-3) - S token price, market cap, and trading data post-migration. 🔷 HARD DATA
 

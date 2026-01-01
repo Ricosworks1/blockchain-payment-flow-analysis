@@ -1,6 +1,6 @@
 # Aster DEX: Comprehensive Analysis & Payment Flow Study
 
-*Last Updated: December 23, 2025*
+*Last Updated: January 2, 2026*
 
 **Research Date:** October 25, 2025
 **Protocol Type:** Multi-Chain Perpetual Decentralized Exchange

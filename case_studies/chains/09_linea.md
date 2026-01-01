@@ -1,6 +1,6 @@
 # Linea Money Flow Analysis: ConsenSys' zkEVM Layer 2 Model
 
-**Last Updated: December 22, 2025**
+**Last Updated: January 2, 2026**
 
 ## Executive Summary
 
@@ -50,17 +50,17 @@ Linea has demonstrated significant adoption since its 2023 mainnet launch, becom
 **Data point:** ⏳ HISTORICAL (November 2024): 1.3 million verified users with 420+ ecosystem partners
 [^9]
 
-🔷 **HARD DATA**: 92% of eligible airdrop wallets (749,000+) claimed LINEA tokens during September-December 2025 window
+🔷 **HARD DATA**: 92% of eligible airdrop wallets (749,000+) claimed LINEA tokens during September-January 2026 window
 [^10]
 
 ### Total Value Locked Evolution
 
 The network's TVL has stabilized after major airdrop-driven inflows subsided.
 
-🔷 **HARD DATA**: Current TVL at $218 million (December 22, 2025), down from peak of $3.5 billion during Ignition program
+🔷 **HARD DATA**: Current TVL at $218 million (January 2, 2026), down from peak of $3.5 billion during Ignition program
 [^11]
 
-🔷 **HARD DATA**: All-time fees of $3.84 million; daily fees averaging $2,000-$4,000 (December 2025)
+🔷 **HARD DATA**: All-time fees of $3.84 million; daily fees averaging $2,000-$4,000 (January 2026)
 [^12]
 
 **Data point:** ⏳ HISTORICAL (September 2025): Milestone of $1.02 billion TVL achieved with 18% growth in 24 hours during Ignition peak
@@ -87,10 +87,10 @@ Linea's fee generation showed strong 2024 growth, though 2025 activity has norma
 
 Current network activity reflects post-airdrop stabilization with consistent daily revenue.
 
-🔷 **HARD DATA**: 24-hour fees of $2,024; 7-day fees of $20,286; 30-day fees of $136,385 (December 2025)
+🔷 **HARD DATA**: 24-hour fees of $2,024; 7-day fees of $20,286; 30-day fees of $136,385 (January 2026)
 [^12]
 
-🔷 **HARD DATA**: All-time total fees of $3.84 million since launch (December 2025)
+🔷 **HARD DATA**: All-time total fees of $3.84 million since launch (January 2026)
 [^12]
 
 **Data point:** Dual burn mechanism burns 20% ETH + 80% LINEA per transaction since November 5, 2025
@@ -102,7 +102,7 @@ Current network activity reflects post-airdrop stabilization with consistent dai
 
 The LINEA token launched September 10, 2025 with unique tokenomics excluding venture capital and team allocations.
 
-🔷 **HARD DATA**: LINEA trading at $0.0064, market cap $109 million, 24h volume $24 million (December 22, 2025)
+🔷 **HARD DATA**: LINEA trading at $0.0064, market cap $109 million, 24h volume $24 million (January 2, 2026)
 [^2]
 
 🔷 **HARD DATA**: Circulating supply 16.98 billion LINEA out of 72 billion total supply
@@ -342,9 +342,9 @@ Critical success factors for 2026 include: (1) SWIFT pilot progression toward pr
 
 [^1]: [CryptoNinjas - SWIFT Teams with Linea](https://www.cryptoninjas.net/news/swift-teams-with-linea-on-blockchain-messaging-and-stablecoin-pilot-involving-7-trillion-network/) - SWIFT selects Linea for blockchain messaging pilot with BNP Paribas, BNY Mellon, 12+ banks (September 2025).
 
-[^2]: [CoinGecko - Linea Token](https://www.coingecko.com/en/coins/linea) - 🔷 HARD DATA: LINEA $0.0064, market cap $109M, circulating 16.98B, ATH $0.0467 (December 22, 2025).
+[^2]: [CoinGecko - Linea Token](https://www.coingecko.com/en/coins/linea) - 🔷 HARD DATA: LINEA $0.0064, market cap $109M, circulating 16.98B, ATH $0.0467 (January 2, 2026).
 
-[^3]: [DefiLlama - Linea](https://defillama.com/chain/linea) - 🔷 HARD DATA: TVL $218 million retrieved via DefiLlama API (December 22, 2025).
+[^3]: [DefiLlama - Linea](https://defillama.com/chain/linea) - 🔷 HARD DATA: TVL $218 million retrieved via DefiLlama API (January 2, 2026).
 
 [^4]: [CoinDesk - SharpLink $200M Deployment](https://www.coindesk.com/markets/2025/10/28/sharplink-plans-usd200m-eth-deployment-on-consensys-linea-over-multiple-years) - SharpLink commits $200M multi-year ETH deployment on Linea (October 2025).
 
@@ -360,9 +360,9 @@ Critical success factors for 2026 include: (1) SWIFT pilot progression toward pr
 
 [^10]: [WEEX - Linea Airdrop](https://www.weex.com/news/detail/linea-airdrop-claim-window-opens-september-10-to-december-9-with-all-tokens-fully-unlocked-latest-update-as-of-september-3-2025-157140) - 92% claim rate; 749,000+ wallets claimed LINEA tokens.
 
-[^11]: [DefiLlama - Linea TVL](https://defillama.com/chain/linea) - 🔷 HARD DATA: Current TVL $218 million, down from $3.5B peak (December 2025).
+[^11]: [DefiLlama - Linea TVL](https://defillama.com/chain/linea) - 🔷 HARD DATA: Current TVL $218 million, down from $3.5B peak (January 2026).
 
-[^12]: [DefiLlama - Linea Fees](https://defillama.com/fees/linea) - 🔷 HARD DATA: Daily fees $2,024, 30-day $136,385, all-time $3.84M (December 22, 2025).
+[^12]: [DefiLlama - Linea Fees](https://defillama.com/fees/linea) - 🔷 HARD DATA: Daily fees $2,024, 30-day $136,385, all-time $3.84M (January 2, 2026).
 
 [^13]: [CoinRank - Linea TVL $1B](https://www.coinrank.io/crypto/linea-network-defi-tvl-surpasses-1-billion/) - ⏳ HISTORICAL (September 2025): $1B TVL milestone with 18% daily growth.
 

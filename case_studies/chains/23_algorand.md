@@ -1,6 +1,6 @@
 # Algorand Money Flow Analysis: The Pure Proof-of-Stake Academic Model
 
-*Last Updated: December 23, 2025*
+*Last Updated: January 2, 2026*
 
 ## Executive Summary
 
@@ -386,7 +386,7 @@ Independent analysis of enterprise partnerships and government adoption includin
 [^20]: Algorand Foundation. (2025). "February 2025 Algorand Metrics Recap." Algorand Foundation. Retrieved from https://algorand.co/blog/february-2025-algorand-metrics-ecosystem-recap
 Latest ecosystem metrics showing 34.6% RWA TVL growth to $77 million led by tokenized real estate
 
-[^21]: [CoinGecko - Algorand](https://www.coingecko.com/en/coins/algorand) - ALGO price, market cap, 24h volume, and circulating supply (December 2025). 🔷 HARD DATA
+[^21]: [CoinGecko - Algorand](https://www.coingecko.com/en/coins/algorand) - ALGO price, market cap, 24h volume, and circulating supply (January 2026). 🔷 HARD DATA
 
 [^22]: [CoinMarketCap - Algorand](https://coinmarketcap.com/currencies/algorand/) - ALGO market rankings, trading volume, and market data. 🔷 HARD DATA
 

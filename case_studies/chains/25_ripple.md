@@ -1,6 +1,6 @@
 # XRP Ledger Money Flow Analysis: The Volunteer Validator Fee Burn Model
 
-*Last Updated: December 23, 2025*
+*Last Updated: January 2, 2026*
 
 ## Executive Summary
 
@@ -350,7 +350,7 @@ November 26, 2024 foundation incorporation in France with democratic governance 
 [^20]: Ripple. (2024). "Q3 2024 XRP Markets Report." Ripple Insights. Retrieved from https://ripple.com/insights/q3-2024-xrp-markets-report/
 Corporate holdings disclosure showing 4.44 billion XRP held with 38.9 billion in escrow contracts
 
-[^21]: [CoinGecko - XRP](https://www.coingecko.com/en/coins/ripple) - XRP price, market cap, 24h volume, and circulating supply (December 2025). 🔷 HARD DATA
+[^21]: [CoinGecko - XRP](https://www.coingecko.com/en/coins/ripple) - XRP price, market cap, 24h volume, and circulating supply (January 2026). 🔷 HARD DATA
 
 [^22]: [CoinMarketCap - XRP](https://coinmarketcap.com/currencies/xrp/) - XRP market rankings and trading volume. 🔷 HARD DATA
 

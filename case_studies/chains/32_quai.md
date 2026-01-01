@@ -1,6 +1,6 @@
 # Quai Network Fee Flow Analysis: Where Every Dollar Goes
 
-*Last Updated: December 23, 2025*
+*Last Updated: January 2, 2026*
 
 **Last Updated:** November 13, 2025
 **Data Current As Of:** November 13, 2025

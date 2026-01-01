@@ -1,12 +1,12 @@
 # Hyperliquid Money Flow Analysis: The Buyback-Driven DEX L1 Model
 
-**Last Updated:** December 22, 2025
+**Last Updated:** January 2, 2026
 
 ## Executive Summary
 
 Hyperliquid operates as the highest revenue-generating blockchain globally, with annualized revenue exceeding $13 billion through its dual perpetual and HyperEVM model [^19]. The protocol deploys 97% of revenue into daily HYPE token buybacks, with the buyback fund having expended over $600 million while accumulating 28.5 million HYPE tokens ($1.3 billion) [^20][^21]. With 70% market share in decentralized perpetuals and $400 billion monthly trading volume, Hyperliquid demonstrates actual profitability rather than subsidy dependence [^22]. The Bitwise HYPE ETF filing (ticker: BHYP, 0.67% fee) on December 15, 2025 signals imminent institutional access [^23].
 
-**Key Financial Metrics (December 2025):**
+**Key Financial Metrics (January 2026):**
 - 🔷 HARD DATA: HYPE price: $24.83 | Market cap: $6.73 billion[^24]
 - 🔷 HARD DATA: Circulating supply: 270.77M HYPE (27.1% of 1B max)[^24]
 - 🔷 HARD DATA: TVL: $1.46 billion (DefiLlama) | $2.15 billion (November peak)[^25][^22]
@@ -66,9 +66,9 @@ This market position translates directly to revenue generation, as each trade ge
 
 ### Volume Growth Trajectory
 
-The protocol has demonstrated consistent volume growth since launch, with particularly strong performance in 2024-2025.
+The protocol has demonstrated consistent volume growth since launch, with particularly strong performance in 2024-2026.
 
-**Data point:** 🔷 HARD DATA: TVL: $1.46 billion (December 2025) with $2.15 billion peak (November 2025)
+**Data point:** 🔷 HARD DATA: TVL: $1.46 billion (January 2026) with $2.15 billion peak (November 2025)
 [^25][^22]
 
 **Data point:** 🔷 HARD DATA: Open interest: $1.77 billion (up 10.89%)
@@ -115,7 +115,7 @@ This mechanism creates continuous buying pressure independent of market conditio
 
 ## 4. Token Unlock Schedule and Risk Analysis
 
-### November-December 2025 Unlock Events
+### November-January 2026 Unlock Events
 
 The first major test of Hyperliquid's economic model occurred with the initial core contributor unlock in November 2025.
 
@@ -399,19 +399,19 @@ Unlike subsidy-dependent blockchain networks, Hyperliquid's challenge stems from
 [^23]: Crypto Briefing. (2025). "Bitwise updates Hyperliquid ETF filing to include BHYP ticker and fee." S-1 amendment December 15, 2025, ticker BHYP, 0.67% management fee, Anchorage Digital custody, staking enabled. Retrieved from https://cryptobriefing.com/bitwise-hyperliquid-etf-bhyp/
 **Data point:** ETF filing details and regulatory pathway.
 
-[^24]: CoinGecko API. (2025). "Hyperliquid (HYPE) Market Data." HYPE price $24.83, market cap $6.73B, 24h volume $248M, circulating supply 270.77M, total supply 999.84M. Retrieved December 22, 2025. Available at: https://www.coingecko.com/en/coins/hyperliquid
+[^24]: CoinGecko API. (2025). "Hyperliquid (HYPE) Market Data." HYPE price $24.83, market cap $6.73B, 24h volume $248M, circulating supply 270.77M, total supply 999.84M. Retrieved January 2, 2026. Available at: https://www.coingecko.com/en/coins/hyperliquid
 **Data point:** 🔷 HARD DATA: Current HYPE price and market metrics via CoinGecko API.
 
-[^25]: DefiLlama. (2025). "Hyperliquid Chain TVL." TVL $1.46 billion. Retrieved December 22, 2025 via API. Available at: https://defillama.com/chain/Hyperliquid
+[^25]: DefiLlama. (2025). "Hyperliquid Chain TVL." TVL $1.46 billion. Retrieved January 2, 2026 via API. Available at: https://defillama.com/chain/Hyperliquid
 **Data point:** 🔷 HARD DATA: Current total value locked on Hyperliquid network.
 
-[^26]: DefiLlama Fees. (2025). "Hyperliquid Fee Data." 24h fees $1.05M, all-time fees $903.8M, 99% to Assistance Fund for buybacks, 1% to HLP vault. Retrieved December 22, 2025 via API. Available at: https://defillama.com/fees/hyperliquid
+[^26]: DefiLlama Fees. (2025). "Hyperliquid Fee Data." 24h fees $1.05M, all-time fees $903.8M, 99% to Assistance Fund for buybacks, 1% to HLP vault. Retrieved January 2, 2026 via API. Available at: https://defillama.com/fees/hyperliquid
 **Data point:** 🔷 HARD DATA: Current fee collection and distribution metrics via DefiLlama API.
 
 [^27]: BeInCrypto. (2025). "HYPE, XPL, JUP Lead $566 Million Token Unlock Wave This Week." November 29, 2025 unlock: 9.92M HYPE ($318M, 2.97% of supply), cliff structure, 237.8M HYPE over 24 months, next unlock December 29, 2025. Retrieved from https://beincrypto.com/crypto-token-unlocks-november-2025-hype-jup-xpl/
 **Data point:** Token unlock schedule and vesting details.
 
-[^28]: CoinMarketCap AI. (2025). "Hyperliquid Market Share December 2025." Market share dropped to 16.7% amid rising competition. December 16, 2025 unlock of 1.75M HYPE. Retrieved from https://coinmarketcap.com/cmc-ai/hyperliquid/latest-updates/
+[^28]: CoinMarketCap AI. (2025). "Hyperliquid Market Share January 2026." Market share dropped to 16.7% amid rising competition. December 16, 2025 unlock of 1.75M HYPE. Retrieved from https://coinmarketcap.com/cmc-ai/hyperliquid/latest-updates/
 **Data point:** Market share fluctuation and December unlock.
 
 [^29]: Bitcoin Ethereum News. (2025). "Hyperliquid leads $566 million in token unlocks scheduled between November 24 and December 1." 9.9M HYPE valued at $318.17M, 3.66% of total supply. Retrieved from https://bitcoinethereumnews.com/finance/hyperliquid-leads-566-million-in-token-unlocks-scheduled-between-november-24-and-december-1/

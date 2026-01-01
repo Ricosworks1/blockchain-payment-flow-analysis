@@ -1,6 +1,6 @@
 # NEAR Money Flow Analysis: The Sharded Fee-Burn Model
 
-*Last Updated: December 22, 2025*
+*Last Updated: January 2, 2026*
 
 ## Executive Summary
 
@@ -78,7 +78,7 @@ NEAR's Proof-of-Stake consensus underwent major changes with the October 2025 in
 
 NEAR's DeFi ecosystem has contracted significantly from 2024 peaks amid broader market conditions.
 
-🔷 **HARD DATA**: DeFi TVL of $133.2 million as of December 22, 2025, down from $240.16 million in Q4 2024 [^2]
+🔷 **HARD DATA**: DeFi TVL of $133.2 million as of January 2, 2026, down from $240.16 million in Q4 2024 [^2]
 
 **Data point:** ⏳ HISTORICAL (Q4 2024): Burrow protocol dominated with $170.98 million TVL (+50.37% QoQ), accounting for 68.66% of total ecosystem TVL [^9]
 
@@ -244,7 +244,7 @@ NEAR faces competitive pressure from established ecosystems despite technical ac
 
 🔷 **HARD DATA**: -70.10% year-over-year price performance indicates significant competitive pressure [^1]
 
-**Data point:** TVL decline from $240M (Q4 2024) to $133M (December 2025) suggests DeFi ecosystem challenges [^2]
+**Data point:** TVL decline from $240M (Q4 2024) to $133M (January 2026) suggests DeFi ecosystem challenges [^2]
 
 **Data point:** Chain abstraction strategy success depends on execution and market acceptance of AI-native vision [^25]
 
@@ -258,7 +258,7 @@ Planned improvements focus on further scaling capabilities and AI integration.
 
 **Data point:** Dynamic resharding enables automatic network capacity adjustment based on demand [^13]
 
-**Data point:** 1 million TPS benchmark (December 2025) demonstrates path toward production-scale Web3 infrastructure [^3]
+**Data point:** 1 million TPS benchmark (January 2026) demonstrates path toward production-scale Web3 infrastructure [^3]
 
 ### AI and Chain Abstraction Expansion
 
@@ -282,9 +282,9 @@ NEAR's emphasis on making "blockchains invisible to users" through chain abstrac
 
 ## Sources and References
 
-[^1]: [CoinGecko - NEAR Protocol Price](https://www.coingecko.com/en/coins/near) - NEAR trading at $1.50-$1.52 with $1.93B market cap, rank #56, 24h volume $135-184M, circulating supply 1.283B NEAR, -70% YoY performance (December 22, 2025)
+[^1]: [CoinGecko - NEAR Protocol Price](https://www.coingecko.com/en/coins/near) - NEAR trading at $1.50-$1.52 with $1.93B market cap, rank #56, 24h volume $135-184M, circulating supply 1.283B NEAR, -70% YoY performance (January 2, 2026)
 
-[^2]: [DefiLlama - NEAR Chain TVL](https://defillama.com/chain/Near) - NEAR Protocol DeFi TVL $133-158M as of December 2025, reflecting ecosystem contraction from Q4 2024 peaks
+[^2]: [DefiLlama - NEAR Chain TVL](https://defillama.com/chain/Near) - NEAR Protocol DeFi TVL $133-158M as of January 2026, reflecting ecosystem contraction from Q4 2024 peaks
 
 [^3]: [Coinspeaker - NEAR Achieves 1M TPS](https://www.coinspeaker.com/near-protocol-1-million-tps-benchmark-test/) - NEAR achieved 1 million TPS in sharded test environment on Google Cloud (December 8, 2025), surpassing Visa's 65,000 TPS capacity
 

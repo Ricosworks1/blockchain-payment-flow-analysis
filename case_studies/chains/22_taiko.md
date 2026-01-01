@@ -1,9 +1,9 @@
 # Taiko Fee Flow Analysis: Where Every Dollar Goes
 
-*Last Updated: December 23, 2025*
+*Last Updated: January 2, 2026*
 
 ## Executive Summary
-🔷 **HARD DATA**: With TAIKO trading at $0.17, market cap $38.52 million, and 193.34 million circulating supply (December 2025), Taiko operates as the world's first profitable based rollup (achieved in 90 days) [^1][^2]. Ethereum's December 3, 2025 Fusaka upgrade introduced PeerDAS for cheaper data storage, enabling Taiko to offer 20-30x faster transaction finality with blob fees reduced and preconfirmations settling in ~2 seconds vs. Ethereum's 12-second blocks [^3][^4]. When users spend $1 on Taiko, fees are distributed across a fully decentralized ecosystem: priority fees go to permissionless proposers (~40%), base fees to Taiko DAO treasury (~10%), proving rewards to decentralized provers (~25%), and L1 data costs to Ethereum (~25%). Taiko surged 30% between Dec 3-12 following the Fusaka upgrade improvements to L2 efficiency, though subsequently retraced 22% of gains [^5][^6].
+🔷 **HARD DATA**: With TAIKO trading at $0.17, market cap $38.52 million, and 193.34 million circulating supply (January 2026), Taiko operates as the world's first profitable based rollup (achieved in 90 days) [^1][^2]. Ethereum's December 3, 2025 Fusaka upgrade introduced PeerDAS for cheaper data storage, enabling Taiko to offer 20-30x faster transaction finality with blob fees reduced and preconfirmations settling in ~2 seconds vs. Ethereum's 12-second blocks [^3][^4]. When users spend $1 on Taiko, fees are distributed across a fully decentralized ecosystem: priority fees go to permissionless proposers (~40%), base fees to Taiko DAO treasury (~10%), proving rewards to decentralized provers (~25%), and L1 data costs to Ethereum (~25%). Taiko surged 30% between Dec 3-12 following the Fusaka upgrade improvements to L2 efficiency, though subsequently retraced 22% of gains [^5][^6].
 
 ## User Types and Fee Distribution
 
@@ -212,13 +212,13 @@ DEX with $50M TVL
 
 ## Data Sources and References
 
-[^1]: [CoinGecko - Taiko](https://www.coingecko.com/en/coins/taiko) - TAIKO price $0.17, ATL $0.1556 (Dec 19, 2025), 1B max supply with 193.34M circulating (December 23, 2025). 🔷 HARD DATA
+[^1]: [CoinGecko - Taiko](https://www.coingecko.com/en/coins/taiko) - TAIKO price $0.17, ATL $0.1556 (Dec 19, 2025), 1B max supply with 193.34M circulating (January 2, 2026). 🔷 HARD DATA
 
 [^2]: [CoinMarketCap - Taiko](https://coinmarketcap.com/currencies/taiko/) - TAIKO market cap $38.52M, 24h volume $5.53M, -89.94% over last year from ATH $2.01. 🔷 HARD DATA
 
 [^3]: [CoinMarketCap AI - Taiko Analysis](https://coinmarketcap.com/cmc-ai/taiko/price-analysis/) - Ethereum Fusaka upgrade Dec 3, 2025 enabled 20-30x faster transaction finality for Taiko, preconfirmations settling in ~2 seconds
 
-[^4]: [Bitget - Taiko Price](https://www.bitget.com/price/taiko) - TAIKO trading volume and market data with 24-hour analysis (December 2025). 🔷 HARD DATA
+[^4]: [Bitget - Taiko Price](https://www.bitget.com/price/taiko) - TAIKO trading volume and market data with 24-hour analysis (January 2026). 🔷 HARD DATA
 
 [^5]: [CryptoRank - Taiko](https://cryptorank.io/price/taikoxyz) - TAIKO surged 30% Dec 3-12 post-Fusaka, retraced 22% of gains, blob fees reduced for users
 

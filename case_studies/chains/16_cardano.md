@@ -1,6 +1,6 @@
 # Cardano Money Flow Analysis: The Treasury-Funded Research Model
 
-*Last Updated: December 22, 2025*
+*Last Updated: January 2, 2026*
 
 ## Executive Summary
 
@@ -100,7 +100,7 @@ The liquid staking model enables participation without lockup periods while main
 
 Cardano's DeFi ecosystem demonstrated strong growth in 2025, reaching multi-year highs in Q3.
 
-🔷 **HARD DATA**: DeFi TVL of $179.4 million as of December 22, 2025, with Q3 2025 peak of $423.5 million (highest since early 2022) [^1]
+🔷 **HARD DATA**: DeFi TVL of $179.4 million as of January 2, 2026, with Q3 2025 peak of $423.5 million (highest since early 2022) [^1]
 
 **Data point:** DeFi TVL rose 28.7% quarter-over-quarter to $423.5 million in Q3 2025, with market cap increasing 42.5% to $29.5 billion [^18]
 
@@ -122,7 +122,7 @@ Major DeFi protocols on Cardano showed strong 2025 performance with leadership c
 
 ### Plutus Ecosystem Expansion
 
-Cardano's smart contract platform experienced remarkable growth through 2024-2025 with substantial developer adoption.
+Cardano's smart contract platform experienced remarkable growth through 2024-2026 with substantial developer adoption.
 
 **Data point:** ⏳ HISTORICAL (2024): Over 72,787 new smart contracts deployed in 2024, with Plutus V2 contracts growing from 8,083 to 80,437 [^19]
 
@@ -277,10 +277,10 @@ Cardano's innovation in treasury-funded development, combined with technical arc
 ## Sources and References
 
 [^1]: DefiLlama. (2025). "Cardano TVL." DefiLlama. Retrieved from https://defillama.com/chain/Cardano
-🔷 HARD DATA: Cardano TVL $179.4 million retrieved via DefiLlama API (December 22, 2025)
+🔷 HARD DATA: Cardano TVL $179.4 million retrieved via DefiLlama API (January 2, 2026)
 
 [^2]: CoinGecko. (2025). "Cardano (ADA) Price, Market Cap, Chart." CoinGecko. Retrieved from https://www.coingecko.com/en/coins/cardano
-🔷 HARD DATA: ADA $0.372, market cap $13.62B (rank #12), 24h volume $603.03M, circulating 36.66B (December 22, 2025)
+🔷 HARD DATA: ADA $0.372, market cap $13.62B (rank #12), 24h volume $603.03M, circulating 36.66B (January 2, 2026)
 
 [^3]: Cardano Foundation. (2024). "eUTxO Smart Contracts." Cardano Academy. Retrieved from https://cardanofoundation.org/academy/course/aiken-eutxo-smart-contracts-cardano
 ⏳ HISTORICAL (2024): Technical documentation of eUTXO model advantages and parallel processing

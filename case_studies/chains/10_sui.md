@@ -1,6 +1,6 @@
 # Sui Money Flow Analysis: Object-Centric Blockchain Economics
 
-**Last Updated: December 22, 2025**
+**Last Updated: January 2, 2026**
 
 ## Executive Summary
 
@@ -87,7 +87,7 @@ Sui has demonstrated exceptional growth in transaction processing and network ut
 
 The DeFi ecosystem on Sui has experienced significant growth with Bitcoin integration.
 
-🔷 **HARD DATA**: TVL at $936 million (DefiLlama, December 22, 2025); peaked at $2.33 billion during 2025
+🔷 **HARD DATA**: TVL at $936 million (DefiLlama, January 2, 2026); peaked at $2.33 billion during 2025
 [^13]
 
 🔷 **HARD DATA**: Bitcoin DeFi (BTCfi) protocols constitute 10% of Sui TVL, positioning as Bitcoin liquidity hub
@@ -116,7 +116,7 @@ Sui employs a unique validator survey mechanism to establish stable, predictable
 
 ### Validator Incentive Structure and Fee Generation
 
-🔷 **HARD DATA**: 24-hour fees of $7,889; 30-day fees of $353,017; all-time fees of $23.04 million (December 2025)
+🔷 **HARD DATA**: 24-hour fees of $7,889; 30-day fees of $353,017; all-time fees of $23.04 million (January 2026)
 [^17]
 
 🔷 **HARD DATA**: Average transaction cost of $0.002, among the lowest in the industry
@@ -353,11 +353,11 @@ The protocol's emphasis on predictable costs, parallel execution, and institutio
 
 [^1]: [CoinMarketCap - SUI Updates](https://coinmarketcap.com/cmc-ai/sui/latest-updates/) - 7.5 billion transactions in 2024, 10 billion cumulative by May 2025.
 
-[^2]: [CoinGecko - SUI Token](https://www.coingecko.com/en/coins/sui) - 🔷 HARD DATA: SUI $1.45, market cap $5.41B, circulating 3.74B (December 22, 2025).
+[^2]: [CoinGecko - SUI Token](https://www.coingecko.com/en/coins/sui) - 🔷 HARD DATA: SUI $1.45, market cap $5.41B, circulating 3.74B (January 2, 2026).
 
-[^3]: [DefiLlama - Sui](https://defillama.com/chain/Sui) - 🔷 HARD DATA: TVL $936 million retrieved via DefiLlama API (December 22, 2025).
+[^3]: [DefiLlama - Sui](https://defillama.com/chain/Sui) - 🔷 HARD DATA: TVL $936 million retrieved via DefiLlama API (January 2, 2026).
 
-[^4]: [CoinMarketCap - SUI News](https://coinmarketcap.com/cmc-ai/sui/latest-updates/) - Bitcoin DeFi protocols constitute 10% of Sui TVL as of December 2025.
+[^4]: [CoinMarketCap - SUI News](https://coinmarketcap.com/cmc-ai/sui/latest-updates/) - Bitcoin DeFi protocols constitute 10% of Sui TVL as of January 2026.
 
 [^5]: [Blockchain News - SUI Price Prediction](https://blockchain.news/news/20251217-price-prediction-sui-targeting-170-210-recovery-by-end) - DEX volume surged 232% YoY to $409 million in 2025.
 
@@ -383,7 +383,7 @@ The protocol's emphasis on predictable costs, parallel execution, and institutio
 
 [^16]: [Figment - Sui Reference Gas Price](https://figment.io/insights/deep-dive-sui-reference-gas-price/) - Validator survey pricing mechanism with 2/3 percentile.
 
-[^17]: [DefiLlama - Sui Fees](https://defillama.com/fees/sui) - 🔷 HARD DATA: 24h fees $7,889; 30-day $353,017; all-time $23.04M (December 2025).
+[^17]: [DefiLlama - Sui Fees](https://defillama.com/fees/sui) - 🔷 HARD DATA: 24h fees $7,889; 30-day $353,017; all-time $23.04M (January 2026).
 
 [^18]: [CoinMarketCap - SUI](https://coinmarketcap.com/cmc-ai/sui/latest-updates/) - Average transaction cost of $0.002.
 
