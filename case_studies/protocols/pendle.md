@@ -306,112 +306,112 @@ Based on ~$3.7B+ TVL[^7]:
 
 ## Footnotes
 
-[^1]: [Greythorn - Pendle 2025](https://medium.com/@greythorn) - TVL analysis showing historical Ethena USDe dominance (~70% of TVL).
+[^1]: Greythorn. (2025). Pendle 2025: TVL analysis showing historical Ethena USDe dominance (~70% of TVL). medium.com, https://medium.com/@greythorn
 
-[^2]: [CoinBureau - Pendle Guide](https://www.coinbureau.com/) - Fee structure: 3% on accrued yield, 10-30 bps swap fees, 100% revenue to vePENDLE holders.
+[^2]: CoinBureau. (2025). Pendle Guide: Fee structure: 3% on accrued yield, 10-30 bps swap fees, 100% revenue to vePENDLE holders. coinbureau.com, https://www.coinbureau.com/
 
 [^3]: Author's calculation based on TVL, estimated yields, and fee structure from documentation and on-chain data.
 
-[^4]: [Pendle Documentation - Yield Tokenization](https://docs.pendle.finance/) - Technical explanation of SY → PT/YT minting mechanism.
+[^4]: Pendle. (2025). Yield Tokenization: Technical explanation of SY to PT/YT minting mechanism. docs.pendle.finance, https://docs.pendle.finance/
 
-[^5]: [Greythorn - Pendle Strategy](https://medium.com/@greythorn) - Strategic vision for DeFi fixed income layer.
+[^5]: Greythorn. (2025). Pendle Strategy: Strategic vision for DeFi fixed income layer. medium.com, https://medium.com/@greythorn
 
-[^6]: [Pendle Documentation](https://docs.pendle.finance/) - Official protocol documentation covering PT/YT mechanics and AMM design. 🔷 HARD DATA
+[^6]: Pendle. (2025). Documentation: Official protocol documentation covering PT/YT mechanics and AMM design. docs.pendle.finance, https://docs.pendle.finance/ 🔷 HARD DATA
 
-[^7]: [DefiLlama - Pendle TVL](https://defillama.com/protocol/pendle) - Total Value Locked: ~$3.7B+ across 11 chains retrieved via DefiLlama API (December 31, 2025). 🔷 HARD DATA
+[^7]: DefiLlama. (2025, December 31). Pendle TVL: ~$3.7B+ across 11 chains retrieved via API. defillama.com, https://defillama.com/protocol/pendle 🔷 HARD DATA
 
-[^8]: [CoinGecko - PENDLE Token](https://www.coingecko.com/en/coins/pendle) - PENDLE token: $2.00, Market Cap $333M, FDV $564M retrieved via CoinGecko API (December 31, 2025). 🔷 HARD DATA
+[^8]: CoinGecko. (2025, December 31). PENDLE Token: $2.00, Market Cap $333M, FDV $564M retrieved via API. coingecko.com, https://www.coingecko.com/en/coins/pendle 🔷 HARD DATA
 
-[^9]: [Dune Analytics - Pendle](https://dune.com/pendle) - On-chain analytics for trading volume and fee metrics. 🔷 HARD DATA
+[^9]: Dune Analytics. (2025). Pendle: On-chain analytics for trading volume and fee metrics. dune.com, https://dune.com/pendle 🔷 HARD DATA
 
-[^10]: [Pendle App](https://app.pendle.finance/) - Official protocol interface for PT/YT trading. 🔷 HARD DATA
+[^10]: Pendle. (2025). App: Official protocol interface for PT/YT trading. app.pendle.finance, https://app.pendle.finance/ 🔷 HARD DATA
 
-[^11]: [Messari - Pendle Research](https://messari.io/project/pendle) - Comprehensive protocol analysis. 🔷 HARD DATA
+[^11]: Messari. (2025). Pendle Research: Comprehensive protocol analysis. messari.io, https://messari.io/project/pendle 🔷 HARD DATA
 
-[^12]: [Token Terminal - Pendle](https://tokenterminal.com/terminal/projects/pendle) - Protocol revenue and financial metrics. 🔷 HARD DATA
+[^12]: Token Terminal. (2025). Pendle: Protocol revenue and financial metrics. tokenterminal.com, https://tokenterminal.com/terminal/projects/pendle 🔷 HARD DATA
 
-[^13]: [The Block - Pendle](https://www.theblock.co/tag/pendle) - News coverage and market analysis.
+[^13]: The Block. (2025). Pendle: News coverage and market analysis. theblock.co, https://www.theblock.co/tag/pendle
 
-[^14]: [CoinDesk - Pendle News](https://www.coindesk.com/tag/pendle/) - Breaking news and developments.
+[^14]: CoinDesk. (2025). Pendle News: Breaking news and developments. coindesk.com, https://www.coindesk.com/tag/pendle/
 
-[^15]: [vePENDLE Staking](https://app.pendle.finance/vependle) - Vote-escrowed staking interface. 🔷 HARD DATA
+[^15]: Pendle. (2025). vePENDLE Staking: Vote-escrowed staking interface. app.pendle.finance, https://app.pendle.finance/vependle 🔷 HARD DATA
 
-[^16]: [Etherscan - Pendle](https://etherscan.io/token/0x808507121b80c02388fad14726482e061b8da827) - On-chain PENDLE token contract. 🔷 HARD DATA
+[^16]: Etherscan. (2025). PENDLE Token: On-chain token contract. etherscan.io, https://etherscan.io/token/0x808507121b80c02388fad14726482e061b8da827 🔷 HARD DATA
 
-[^17]: [Pendle Arbitrum](https://app.pendle.finance/?chainId=42161) - Arbitrum deployment interface.
+[^17]: Pendle. (2025). Arbitrum: Arbitrum deployment interface. app.pendle.finance, https://app.pendle.finance/?chainId=42161
 
-[^18]: [Pendle BNB Chain](https://app.pendle.finance/?chainId=56) - BNB Chain deployment.
+[^18]: Pendle. (2025). BNB Chain: BNB Chain deployment. app.pendle.finance, https://app.pendle.finance/?chainId=56
 
-[^19]: [Pendle Mantle](https://app.pendle.finance/) - Mantle network deployment.
+[^19]: Pendle. (2025). Mantle: Mantle network deployment. app.pendle.finance, https://app.pendle.finance/
 
-[^20]: [Electric Capital - Pendle](https://www.developerreport.com/) - Developer activity metrics. 🔷 HARD DATA
+[^20]: Electric Capital. (2025). Developer Report: Pendle developer activity metrics. developerreport.com, https://www.developerreport.com/ 🔷 HARD DATA
 
-[^21]: [Pendle Governance](https://gov.pendle.finance/) - Governance proposals and voting.
+[^21]: Pendle. (2025). Governance: Proposals and voting. gov.pendle.finance, https://gov.pendle.finance/
 
-[^22]: [Snapshot - Pendle](https://snapshot.org/#/pendle.eth) - Off-chain governance voting history.
+[^22]: Snapshot. (2025). Pendle: Off-chain governance voting history. snapshot.org, https://snapshot.org/#/pendle.eth
 
-[^23]: [Pendle Blog](https://medium.com/pendle) - Official announcements and updates.
+[^23]: Pendle. (2025). Blog: Official announcements and updates. medium.com, https://medium.com/pendle
 
-[^24]: [Pendle Twitter](https://twitter.com/penaboratory) - Official announcements and updates.
+[^24]: Pendle. (2025). Twitter: Official announcements and updates. twitter.com, https://twitter.com/penaboratory
 
-[^25]: [Pendle Discord](https://discord.gg/pendle) - Community discussion and support.
+[^25]: Pendle. (2025). Discord: Community discussion and support. discord.gg, https://discord.gg/pendle
 
-[^26]: [Pendle GitHub](https://github.com/pendle-finance) - Open-source protocol repositories.
+[^26]: Pendle. (2025). GitHub: Open-source protocol repositories. github.com, https://github.com/pendle-finance
 
-[^27]: [Ethena USDe - Pendle](https://app.pendle.finance/) - USDe markets on Pendle. 🔷 HARD DATA
+[^27]: Pendle. (2025). Ethena USDe: USDe markets on Pendle. app.pendle.finance, https://app.pendle.finance/ 🔷 HARD DATA
 
-[^28]: [Lido stETH - Pendle](https://app.pendle.finance/) - stETH yield tokenization.
+[^28]: Pendle. (2025). Lido stETH: stETH yield tokenization. app.pendle.finance, https://app.pendle.finance/
 
-[^29]: [Aave aTokens - Pendle](https://app.pendle.finance/) - Aave asset integration.
+[^29]: Pendle. (2025). Aave aTokens: Aave asset integration. app.pendle.finance, https://app.pendle.finance/
 
-[^30]: [Compound cTokens - Pendle](https://app.pendle.finance/) - Compound asset integration.
+[^30]: Pendle. (2025). Compound cTokens: Compound asset integration. app.pendle.finance, https://app.pendle.finance/
 
-[^31]: [OpenZeppelin - Pendle Audit](https://blog.openzeppelin.com/) - Security audit reports.
+[^31]: OpenZeppelin. (2025). Pendle Audit: Security audit reports. blog.openzeppelin.com, https://blog.openzeppelin.com/
 
-[^32]: [Spearbit - Pendle Audit](https://spearbit.com/) - Security assessment findings.
+[^32]: Spearbit. (2025). Pendle Audit: Security assessment findings. spearbit.com, https://spearbit.com/
 
-[^33]: [DeFiSafety - Pendle](https://www.defisafety.com/) - Protocol safety scoring. 🔷 HARD DATA
+[^33]: DeFiSafety. (2025). Pendle: Protocol safety scoring. defisafety.com, https://www.defisafety.com/ 🔷 HARD DATA
 
-[^34]: [Nansen - Pendle](https://portfolio.nansen.ai/) - Smart money tracking.
+[^34]: Nansen. (2025). Pendle: Smart money tracking. nansen.ai, https://portfolio.nansen.ai/
 
-[^35]: [Parsec Finance - Pendle](https://parsec.finance/) - Real-time protocol analytics.
+[^35]: Parsec Finance. (2025). Pendle: Real-time protocol analytics. parsec.finance, https://parsec.finance/
 
-[^36]: [PT Token Mechanics](https://docs.pendle.finance/ProtocolMechanics/Mechanism/pt) - Principal Token documentation.
+[^36]: Pendle. (2025). PT Token Mechanics: Principal Token documentation. docs.pendle.finance, https://docs.pendle.finance/ProtocolMechanics/Mechanism/pt
 
-[^37]: [YT Token Mechanics](https://docs.pendle.finance/ProtocolMechanics/Mechanism/yt) - Yield Token documentation.
+[^37]: Pendle. (2025). YT Token Mechanics: Yield Token documentation. docs.pendle.finance, https://docs.pendle.finance/ProtocolMechanics/Mechanism/yt
 
-[^38]: [SY Token Standard](https://docs.pendle.finance/ProtocolMechanics/Mechanism/sy) - Standardized Yield token docs.
+[^38]: Pendle. (2025). SY Token Standard: Standardized Yield token docs. docs.pendle.finance, https://docs.pendle.finance/ProtocolMechanics/Mechanism/sy
 
-[^39]: [Pendle AMM Design](https://docs.pendle.finance/ProtocolMechanics/AMM) - Custom AMM documentation.
+[^39]: Pendle. (2025). AMM Design: Custom AMM documentation. docs.pendle.finance, https://docs.pendle.finance/ProtocolMechanics/AMM
 
-[^40]: [3% Yield Fee](https://docs.pendle.finance/ProtocolMechanics/Fees) - Protocol fee structure.
+[^40]: Pendle. (2025). 3% Yield Fee: Protocol fee structure. docs.pendle.finance, https://docs.pendle.finance/ProtocolMechanics/Fees
 
-[^41]: [LP Rewards](https://docs.pendle.finance/ProtocolMechanics/VePendle) - Liquidity provider incentives.
+[^41]: Pendle. (2025). LP Rewards: Liquidity provider incentives. docs.pendle.finance, https://docs.pendle.finance/ProtocolMechanics/VePendle
 
-[^42]: [Mechanism Capital - Pendle](https://www.mechanism.capital/) - Early investor background.
+[^42]: Mechanism Capital. (2025). Pendle: Early investor background. mechanism.capital, https://www.mechanism.capital/
 
-[^43]: [Hashkey Capital - Pendle](https://www.hashkey.com/) - Strategic investor.
+[^43]: Hashkey Capital. (2025). Pendle: Strategic investor. hashkey.com, https://www.hashkey.com/
 
-[^44]: [Binance Labs - Pendle](https://labs.binance.com/) - Ecosystem investment.
+[^44]: Binance Labs. (2025). Pendle: Ecosystem investment. labs.binance.com, https://labs.binance.com/
 
-[^45]: [Spartan Group - Pendle](https://www.spartangroup.io/) - Investment partner.
+[^45]: Spartan Group. (2025). Pendle: Investment partner. spartangroup.io, https://www.spartangroup.io/
 
-[^46]: [Pendle Fixed Income](https://docs.pendle.finance/) - Fixed yield strategies documentation.
+[^46]: Pendle. (2025). Fixed Income: Fixed yield strategies documentation. docs.pendle.finance, https://docs.pendle.finance/
 
-[^47]: [Pendle Yield Trading](https://docs.pendle.finance/) - Yield speculation documentation.
+[^47]: Pendle. (2025). Yield Trading: Yield speculation documentation. docs.pendle.finance, https://docs.pendle.finance/
 
-[^48]: [L2Beat - Pendle](https://l2beat.com/) - Layer 2 deployment tracking. 🔷 HARD DATA
+[^48]: L2Beat. (2025). Pendle: Layer 2 deployment tracking. l2beat.com, https://l2beat.com/ 🔷 HARD DATA
 
-[^49]: [Aave - Pendle Integration](https://app.aave.com/) - PT tokens as collateral.
+[^49]: Aave. (2025). Pendle Integration: PT tokens as collateral. app.aave.com, https://app.aave.com/
 
-[^50]: [Morpho - Pendle Integration](https://app.morpho.org/) - Pendle asset lending.
+[^50]: Morpho. (2025). Pendle Integration: Pendle asset lending. app.morpho.org, https://app.morpho.org/
 
-[^51]: [Pendle Revenue Share](https://app.pendle.finance/vependle) - 100% to vePENDLE holders. 🔷 HARD DATA
+[^51]: Pendle. (2025). Revenue Share: 100% to vePENDLE holders. app.pendle.finance, https://app.pendle.finance/vependle 🔷 HARD DATA
 
-[^52]: [Pendle Market Analytics](https://app.pendle.finance/markets) - Pool performance data. 🔷 HARD DATA
+[^52]: Pendle. (2025). Market Analytics: Pool performance data. app.pendle.finance, https://app.pendle.finance/markets 🔷 HARD DATA
 
-[^53]: [Pendle Calculator](https://app.pendle.finance/) - Yield calculation tools.
+[^53]: Pendle. (2025). Calculator: Yield calculation tools. app.pendle.finance, https://app.pendle.finance/
 
-[^54]: [TN Lee (Pendle CEO)](https://twitter.com/tn_pendle) - CEO communications.
+[^54]: Lee, T. (2025). Pendle CEO: Communications. twitter.com, https://twitter.com/tn_pendle
 
-[^55]: [DefiLlama - Pendle Revenue](https://defillama.com/protocol/pendle) - Protocol revenue tracking. 🔷 HARD DATA
+[^55]: DefiLlama. (2025, December 31). Pendle Revenue: Protocol revenue tracking retrieved via API. defillama.com, https://defillama.com/protocol/pendle 🔷 HARD DATA
