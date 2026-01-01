@@ -443,283 +443,283 @@ edgeX aims to become a **financial settlement chain** offering:
 
 ## Footnotes
 
-[^1]: [Amber Group](https://www.ambergroup.io/) - EdgeX incubator, $5B AUM digital asset firm founded 2017.
+[^1]: Amber Group. (2025). EdgeX incubator: $5B AUM digital asset firm founded 2017. ambergroup.io, https://www.ambergroup.io/
 
-[^2]: [StarkWare - StarkEx](https://starkware.co/starkex/) - ZK-rollup technology powering EdgeX's Layer 2 infrastructure.
+[^2]: StarkWare. (2025). StarkEx: ZK-rollup technology powering EdgeX's Layer 2 infrastructure. starkware.co, https://starkware.co/starkex/
 
-[^3]: [GlobeNewswire - EdgeX Mainnet Launch](https://www.globenewswire.com/news-release/2024/10/03/2957743/0/en/EdgeX-Exchange-The-Disruptor-Of-The-Centralized-Derivatives-Trading-Landscape-Launches-On-The-Mainnet.html) - September 2024 mainnet announcement.
+[^3]: GlobeNewswire. (2024, October 3). EdgeX Exchange launches on mainnet: The disruptor of the centralized derivatives trading landscape. globenewswire.com, https://www.globenewswire.com/news-release/2024/10/03/2957743/0/en/EdgeX-Exchange-The-Disruptor-Of-The-Centralized-Derivatives-Trading-Landscape-Launches-On-The-Mainnet.html
 
-[^4]: [PANews - F4 Perp DEX Analysis](https://www.panewslab.com/en/articles/38a838c1-371c-4f73-a772-e43e319041b0) - Analysis of top 4 perpetual DEXs market structure.
+[^4]: PANews. (2025, December). F4 Perp DEX Analysis: Top 4 perpetual DEXs market structure. panewslab.com, https://www.panewslab.com/en/articles/38a838c1-371c-4f73-a772-e43e319041b0
 
-[^5]: [PANews - Market Share Analysis](https://www.panewslab.com/en/articles/38a838c1-371c-4f73-a772-e43e319041b0) - EdgeX captures 5.5-12% of perp DEX market share.
+[^5]: PANews. (2025, December). Market Share Analysis: EdgeX captures 5.5-12% of perp DEX market share. panewslab.com, https://www.panewslab.com/en/articles/38a838c1-371c-4f73-a772-e43e319041b0
 
-[^6]: [edgeX Documentation - Performance](https://edgex-1.gitbook.io/edgeX-documentation) - 200,000 orders/second throughput specification.
+[^6]: edgeX. (2025). Documentation: 200,000 orders/second throughput specification. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^7]: [L2BEAT - EdgeX](https://l2beat.com/scaling/projects/edgex) - ZK-rollup self-custody architecture details.
+[^7]: L2BEAT. (2025). EdgeX: ZK-rollup self-custody architecture details. l2beat.com, https://l2beat.com/scaling/projects/edgex
 
-[^8]: [DefiLlama - EdgeX TVL](https://defillama.com/protocol/edgex) - 🔷 HARD DATA: Total TVL $362.3M retrieved via DefiLlama API (December 31, 2025).
+[^8]: DefiLlama. (2025, December 31). EdgeX TVL: Total $362.3M retrieved via API. defillama.com, https://defillama.com/protocol/edgex 🔷 HARD DATA
 
-[^9]: [DefiLlama - EdgeX TVL](https://defillama.com/protocol/edgex) - 🔷 HARD DATA: Ethereum TVL $343.7M retrieved via DefiLlama API (December 31, 2025).
+[^9]: DefiLlama. (2025, December 31). EdgeX TVL: Ethereum $343.7M retrieved via API. defillama.com, https://defillama.com/protocol/edgex 🔷 HARD DATA
 
-[^10]: [DefiLlama - EdgeX TVL](https://defillama.com/protocol/edgex) - 🔷 HARD DATA: Arbitrum TVL $18.5M retrieved via DefiLlama API (December 31, 2025).
+[^10]: DefiLlama. (2025, December 31). EdgeX TVL: Arbitrum $18.5M retrieved via API. defillama.com, https://defillama.com/protocol/edgex 🔷 HARD DATA
 
-[^11]: [DefiLlama - EdgeX TVL](https://defillama.com/protocol/edgex) - 🔷 HARD DATA: BSC TVL $189K retrieved via DefiLlama API (December 31, 2025).
+[^11]: DefiLlama. (2025, December 31). EdgeX TVL: BSC $189K retrieved via API. defillama.com, https://defillama.com/protocol/edgex 🔷 HARD DATA
 
-[^12]: [DefiLlama - EdgeX Fees](https://defillama.com/fees/edgex) - 🔷 HARD DATA: 24-hour fees $577K retrieved via DefiLlama API (December 31, 2025).
+[^12]: DefiLlama. (2025, December 31). EdgeX Fees: 24-hour fees $577K retrieved via API. defillama.com, https://defillama.com/fees/edgex 🔷 HARD DATA
 
-[^13]: [DefiLlama - EdgeX Fees](https://defillama.com/fees/edgex) - 🔷 HARD DATA: 7-day fees $3.99M retrieved via DefiLlama API (December 31, 2025).
+[^13]: DefiLlama. (2025, December 31). EdgeX Fees: 7-day fees $3.99M retrieved via API. defillama.com, https://defillama.com/fees/edgex 🔷 HARD DATA
 
-[^14]: [DefiLlama - EdgeX Fees](https://defillama.com/fees/edgex) - 🔷 HARD DATA: 30-day fees $39.05M retrieved via DefiLlama API (December 31, 2025).
+[^14]: DefiLlama. (2025, December 31). EdgeX Fees: 30-day fees $39.05M retrieved via API. defillama.com, https://defillama.com/fees/edgex 🔷 HARD DATA
 
-[^15]: [DefiLlama - EdgeX Fees](https://defillama.com/fees/edgex) - 🔷 HARD DATA: All-time fees $222.6M retrieved via DefiLlama API (December 31, 2025).
+[^15]: DefiLlama. (2025, December 31). EdgeX Fees: All-time fees $222.6M retrieved via API. defillama.com, https://defillama.com/fees/edgex 🔷 HARD DATA
 
-[^16]: [DropsTab - EdgeX TGE](https://dropstab.com/coins/edgex-exchange) - Token Generation Event expected Q4 2025, not yet on CoinGecko.
+[^16]: DropsTab. (2025). EdgeX TGE: Token Generation Event expected Q4 2025, not yet on CoinGecko. dropstab.com, https://dropstab.com/coins/edgex-exchange
 
-[^17]: [edgeX Documentation - Trading](https://edgex-1.gitbook.io/edgeX-documentation) - Maximum leverage 100x on perpetual contracts.
+[^17]: edgeX. (2025). Documentation: Maximum leverage 100x on perpetual contracts. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^18]: [edgeX Official Website](https://www.edgex.exchange/) - 70+ trading markets available.
+[^18]: edgeX. (2025). Official Website: 70+ trading markets available. edgex.exchange, https://www.edgex.exchange/
 
-[^19]: [Amber Group - About](https://www.ambergroup.io/about) - EdgeX incubator company information.
+[^19]: Amber Group. (2025). About: EdgeX incubator company information. ambergroup.io, https://www.ambergroup.io/about
 
-[^20]: [Amber Group - History](https://www.ambergroup.io/about) - Founded 2017, headquartered in Hong Kong.
+[^20]: Amber Group. (2025). History: Founded 2017, headquartered in Hong Kong. ambergroup.io, https://www.ambergroup.io/about
 
-[^21]: [Amber Group - AUM](https://www.ambergroup.io/) - $5 billion assets under management.
+[^21]: Amber Group. (2025). AUM: $5 billion assets under management. ambergroup.io, https://www.ambergroup.io/
 
-[^22]: [Amber Group - Clients](https://www.ambergroup.io/) - Serves 30+ banks and 2,000+ institutional clients.
+[^22]: Amber Group. (2025). Clients: Serves 30+ banks and 2,000+ institutional clients. ambergroup.io, https://www.ambergroup.io/
 
-[^23]: [Amber Group - Compliance](https://www.ambergroup.io/about) - Multi-jurisdictional compliance operations.
+[^23]: Amber Group. (2025). Compliance: Multi-jurisdictional compliance operations. ambergroup.io, https://www.ambergroup.io/about
 
-[^24]: [CoinBureau - Amber Group Funding](https://coinbureau.com/review/what-is-edgex-exchange/) - $628M+ total funding, Series C at $3B valuation (2022).
+[^24]: CoinBureau. (2025). Amber Group Funding: $628M+ total funding, Series C at $3B valuation (2022). coinbureau.com, https://coinbureau.com/review/what-is-edgex-exchange/
 
-[^25]: [edgeX Documentation - Team](https://edgex-1.gitbook.io/edgeX-documentation) - Team composition overview.
+[^25]: edgeX. (2025). Documentation: Team composition overview. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^26]: [CoinBureau - EdgeX Team](https://coinbureau.com/review/what-is-edgex-exchange/) - Team members from Morgan Stanley, Barclays, Goldman Sachs.
+[^26]: CoinBureau. (2025). EdgeX Team: Members from Morgan Stanley, Barclays, Goldman Sachs. coinbureau.com, https://coinbureau.com/review/what-is-edgex-exchange/
 
-[^27]: [CoinBureau - EdgeX Team](https://coinbureau.com/review/what-is-edgex-exchange/) - Team members from Binance, Bybit.
+[^27]: CoinBureau. (2025). EdgeX Team: Members from Binance, Bybit. coinbureau.com, https://coinbureau.com/review/what-is-edgex-exchange/
 
-[^28]: [edgeX Documentation - Experience](https://edgex-1.gitbook.io/edgeX-documentation) - 7+ years exchange operation experience.
+[^28]: edgeX. (2025). Documentation: 7+ years exchange operation experience. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^29]: [edgeX Documentation - Team](https://edgex-1.gitbook.io/edgeX-documentation) - Technology and security team credentials.
+[^29]: edgeX. (2025). Documentation: Technology and security team credentials. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^30]: [StarkWare - StarkEx](https://starkware.co/starkex/) - StarkEx ZK-rollup technology documentation.
+[^30]: StarkWare. (2025). StarkEx: ZK-rollup technology documentation. starkware.co, https://starkware.co/starkex/
 
-[^31]: [StarkWare - Statistics](https://starkware.co/starkex/) - $1.28 trillion cumulative trading volume since 2020.
+[^31]: StarkWare. (2025). Statistics: $1.28 trillion cumulative trading volume since 2020. starkware.co, https://starkware.co/starkex/
 
-[^32]: [L2BEAT - EdgeX Technology](https://l2beat.com/scaling/projects/edgex) - EdgeX uses StarkEx (app-specific), NOT StarkNet (general L2).
+[^32]: L2BEAT. (2025). EdgeX Technology: Uses StarkEx (app-specific), NOT StarkNet (general L2). l2beat.com, https://l2beat.com/scaling/projects/edgex
 
-[^33]: [edgeX Documentation - Architecture](https://edgex-1.gitbook.io/edgeX-documentation) - Transaction flow architecture.
+[^33]: edgeX. (2025). Documentation: Transaction flow architecture. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^34]: [edgeX Documentation - Execution](https://edgex-1.gitbook.io/edgeX-documentation) - Transaction execution to StarkEx process.
+[^34]: edgeX. (2025). Documentation: Transaction execution to StarkEx process. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^35]: [StarkWare - SHARP](https://starkware.co/sharp/) - Shared Prover (SHARP) batch processing.
+[^35]: StarkWare. (2025). SHARP: Shared Prover batch processing. starkware.co, https://starkware.co/sharp/
 
-[^36]: [StarkWare - STARK Proofs](https://starkware.co/stark/) - STARK proof generation process.
+[^36]: StarkWare. (2025). STARK Proofs: Proof generation process. starkware.co, https://starkware.co/stark/
 
-[^37]: [L2BEAT - Verification](https://l2beat.com/scaling/projects/edgex) - Ethereum on-chain STARK verification.
+[^37]: L2BEAT. (2025). Verification: Ethereum on-chain STARK verification. l2beat.com, https://l2beat.com/scaling/projects/edgex
 
-[^38]: [edgeX Documentation - Settlement](https://edgex-1.gitbook.io/edgeX-documentation) - State update submission to smart contract.
+[^38]: edgeX. (2025). Documentation: State update submission to smart contract. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^39]: [edgeX Documentation - Performance](https://edgex-1.gitbook.io/edgeX-documentation) - 200,000 orders/second processing capacity.
+[^39]: edgeX. (2025). Documentation: 200,000 orders/second processing capacity. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^40]: [edgeX Documentation - Latency](https://edgex-1.gitbook.io/edgeX-documentation) - <10 milliseconds matching latency.
+[^40]: edgeX. (2025). Documentation: <10 milliseconds matching latency. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^41]: [L2BEAT - Settlement](https://l2beat.com/scaling/projects/edgex) - Ethereum L1 finality for settlements.
+[^41]: L2BEAT. (2025). Settlement: Ethereum L1 finality for settlements. l2beat.com, https://l2beat.com/scaling/projects/edgex
 
-[^42]: [edgeX Official Website](https://www.edgex.exchange/) - 70+ blockchain cross-chain support.
+[^42]: edgeX. (2025). Official Website: 70+ blockchain cross-chain support. edgex.exchange, https://www.edgex.exchange/
 
-[^43]: [edgeX Documentation - Architecture](https://edgex-1.gitbook.io/edgeX-documentation) - Modular architecture layer description.
+[^43]: edgeX. (2025). Documentation: Modular architecture layer description. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^44]: [L2BEAT - Settlement Layer](https://l2beat.com/scaling/projects/edgex) - Ethereum mainnet settlement details.
+[^44]: L2BEAT. (2025). Settlement Layer: Ethereum mainnet settlement details. l2beat.com, https://l2beat.com/scaling/projects/edgex
 
-[^45]: [edgeX Documentation - Match Engine](https://edgex-1.gitbook.io/edgeX-documentation) - Match engine layer specifications.
+[^45]: edgeX. (2025). Documentation: Match engine layer specifications. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^46]: [edgeX Documentation - Liquidity](https://edgex-1.gitbook.io/edgeX-documentation) - Hybrid liquidity layer design.
+[^46]: edgeX. (2025). Documentation: Hybrid liquidity layer design. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^47]: [edgeX Documentation - edgeXFlow](https://edgex-1.gitbook.io/edgeX-documentation) - Execution layer parallel to StarkEx.
+[^47]: edgeX. (2025). Documentation: edgeXFlow execution layer parallel to StarkEx. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^48]: [edgeX Documentation - Security](https://edgex-1.gitbook.io/edgeX-documentation) - Core security features overview.
+[^48]: edgeX. (2025). Documentation: Core security features overview. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^49]: [edgeX Documentation - Cold Storage](https://edgex-1.gitbook.io/edgeX-documentation) - 95% assets in offline cold wallets.
+[^49]: edgeX. (2025). Documentation: 95% assets in offline cold wallets. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^50]: [edgeX Documentation - 2FA](https://edgex-1.gitbook.io/edgeX-documentation) - Two-factor authentication implementation.
+[^50]: edgeX. (2025). Documentation: Two-factor authentication implementation. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^51]: [edgeX Documentation - Audits](https://edgex-1.gitbook.io/edgeX-documentation) - Regular independent security audit schedule.
+[^51]: edgeX. (2025). Documentation: Regular independent security audit schedule. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^52]: [L2BEAT - Smart Contracts](https://l2beat.com/scaling/projects/edgex) - Audited, upgradeable smart contract architecture.
+[^52]: L2BEAT. (2025). Smart Contracts: Audited, upgradeable architecture. l2beat.com, https://l2beat.com/scaling/projects/edgex
 
-[^53]: [edgeX Documentation - User Protection](https://edgex-1.gitbook.io/edgeX-documentation) - User protection mechanism overview.
+[^53]: edgeX. (2025). Documentation: User protection mechanism overview. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^54]: [L2BEAT - Forced Withdrawals](https://l2beat.com/scaling/projects/edgex) - Forced withdrawal mechanism details.
+[^54]: L2BEAT. (2025). Forced Withdrawals: Mechanism details. l2beat.com, https://l2beat.com/scaling/projects/edgex
 
-[^55]: [L2BEAT - Frozen State](https://l2beat.com/scaling/projects/edgex) - Merkle-proof withdrawal in frozen state.
+[^55]: L2BEAT. (2025). Frozen State: Merkle-proof withdrawal mechanism. l2beat.com, https://l2beat.com/scaling/projects/edgex
 
-[^56]: [edgeX Documentation - Key Control](https://edgex-1.gitbook.io/edgeX-documentation) - Private key control requirement for transactions.
+[^56]: edgeX. (2025). Documentation: Private key control requirement for transactions. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^57]: [edgeX Official Website - Perpetuals](https://www.edgex.exchange/) - Perpetual futures product overview.
+[^57]: edgeX. (2025). Official Website: Perpetual futures product overview. edgex.exchange, https://www.edgex.exchange/
 
-[^58]: [edgeX Official Website - Markets](https://www.edgex.exchange/) - 70+ trading pair availability.
+[^58]: edgeX. (2025). Official Website: 70+ trading pair availability. edgex.exchange, https://www.edgex.exchange/
 
-[^59]: [edgeX Documentation - Leverage](https://edgex-1.gitbook.io/edgeX-documentation) - Up to 100x leverage specification.
+[^59]: edgeX. (2025). Documentation: Up to 100x leverage specification. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^60]: [edgeX Official Website - Features](https://www.edgex.exchange/) - Real-time funding rates and OI metrics.
+[^60]: edgeX. (2025). Official Website: Real-time funding rates and OI metrics. edgex.exchange, https://www.edgex.exchange/
 
-[^61]: [edgeX Documentation - Order Types](https://edgex-1.gitbook.io/edgeX-documentation) - Available order types including trailing TP/SL.
+[^61]: edgeX. (2025). Documentation: Available order types including trailing TP/SL. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^62]: [edgeX Documentation - Leverage Products](https://edgex-1.gitbook.io/edgeX-documentation) - edgeX Leverage product suite.
+[^62]: edgeX. (2025). Documentation: edgeX Leverage product suite. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^63]: [edgeX Documentation - Stocks](https://edgex-1.gitbook.io/edgeX-documentation) - US stocks leveraged exposure.
+[^63]: edgeX. (2025). Documentation: US stocks leveraged exposure. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^64]: [edgeX Documentation - Forex](https://edgex-1.gitbook.io/edgeX-documentation) - Forex currency pair trading.
+[^64]: edgeX. (2025). Documentation: Forex currency pair trading. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^65]: [edgeX Documentation - Commodities](https://edgex-1.gitbook.io/edgeX-documentation) - 3X/5X commodity futures products.
+[^65]: edgeX. (2025). Documentation: 3X/5X commodity futures products. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^66]: [edgeX Documentation - ETFs](https://edgex-1.gitbook.io/edgeX-documentation) - Leveraged ETF index products.
+[^66]: edgeX. (2025). Documentation: Leveraged ETF index products. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^67]: [edgeX Documentation - Insurance](https://edgex-1.gitbook.io/edgeX-documentation) - edgeX Insurance product overview.
+[^67]: edgeX. (2025). Documentation: edgeX Insurance product overview. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^68]: [edgeX Documentation - 2x Compensation](https://edgex-1.gitbook.io/edgeX-documentation) - Double payout on liquidation trigger.
+[^68]: edgeX. (2025). Documentation: 2x compensation - double payout on liquidation trigger. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^69]: [edgeX Documentation - Risk Reduction](https://edgex-1.gitbook.io/edgeX-documentation) - Loss exposure reduction mechanism.
+[^69]: edgeX. (2025). Documentation: Loss exposure reduction mechanism. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^70]: [edgeX Documentation - Premiums](https://edgex-1.gitbook.io/edgeX-documentation) - Premium-based coverage purchase.
+[^70]: edgeX. (2025). Documentation: Premium-based coverage purchase. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^71]: [edgeX Documentation - eLP Vault](https://edgex-1.gitbook.io/edgeX-documentation) - Liquidity provider vault overview.
+[^71]: edgeX. (2025). Documentation: eLP Vault liquidity provider overview. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^72]: [Phemex - eLP Record Revenue](https://phemex.com/news/article/edgex-elp-vault-achieves-record-revenue-and-yield-on-major-liquidation-day-26202) - $3.934M single day record (October 11, 2025).
+[^72]: Phemex. (2025, October 11). eLP Record Revenue: $3.934M single day record on major liquidation day. phemex.com, https://phemex.com/news/article/edgex-elp-vault-achieves-record-revenue-and-yield-on-major-liquidation-day-26202
 
-[^73]: [Phemex - eLP Record Yield](https://phemex.com/news/article/edgex-elp-vault-achieves-record-revenue-and-yield-on-major-liquidation-day-26202) - 3.08% single day yield record.
+[^73]: Phemex. (2025, October 11). eLP Record Yield: 3.08% single day yield record. phemex.com, https://phemex.com/news/article/edgex-elp-vault-achieves-record-revenue-and-yield-on-major-liquidation-day-26202
 
-[^74]: [Phemex - eLP Cumulative P&L](https://phemex.com/news/article/edgex-elp-vault-achieves-record-revenue-and-yield-on-major-liquidation-day-26202) - $7.434 million cumulative profit.
+[^74]: Phemex. (2025, October 11). eLP Cumulative P&L: $7.434 million cumulative profit. phemex.com, https://phemex.com/news/article/edgex-elp-vault-achieves-record-revenue-and-yield-on-major-liquidation-day-26202
 
-[^75]: [PANews - eLP Returns](https://www.panewslab.com/en/articles/38a838c1-371c-4f73-a772-e43e319041b0) - ~57% annualized return estimate.
+[^75]: PANews. (2025, December). eLP Returns: ~57% annualized return estimate. panewslab.com, https://www.panewslab.com/en/articles/38a838c1-371c-4f73-a772-e43e319041b0
 
-[^76]: [edgeX Documentation - Redemption](https://edgex-1.gitbook.io/edgeX-documentation) - Maximum 2-day redemption lock-up.
+[^76]: edgeX. (2025). Documentation: Maximum 2-day redemption lock-up. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^77]: [edgeX Documentation - eLP Revenue](https://edgex-1.gitbook.io/edgeX-documentation) - Revenue sources for liquidity providers.
+[^77]: edgeX. (2025). Documentation: eLP revenue sources for liquidity providers. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^78]: [edgeX Documentation - eLP Token](https://edgex-1.gitbook.io/edgeX-documentation) - Tokenized LP shares tradeable on secondary markets.
+[^78]: edgeX. (2025). Documentation: eLP tokenized LP shares tradeable on secondary markets. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^79]: [edgeX Documentation - Epool](https://edgex-1.gitbook.io/edgeX-documentation) - B2B institutional asset management product.
+[^79]: edgeX. (2025). Documentation: Epool B2B institutional asset management product. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^80]: [edgeX Documentation - Lend](https://edgex-1.gitbook.io/edgeX-documentation) - edgeX Lend product overview.
+[^80]: edgeX. (2025). Documentation: edgeX Lend product overview. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^81]: [edgeX Documentation - DeFi Integration](https://edgex-1.gitbook.io/edgeX-documentation) - Aave and Compound integration.
+[^81]: edgeX. (2025). Documentation: Aave and Compound DeFi integration. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^82]: [edgeX Documentation - Telegram](https://edgex-1.gitbook.io/edgeX-documentation) - Telegram bot and TON ecosystem integration.
+[^82]: edgeX. (2025). Documentation: Telegram bot and TON ecosystem integration. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^83]: [CryptoRank - Polymarket Partnership](https://cryptorank.io/news/feed/5a8f6-edgex-polymarket-partnership-decentralized-trading) - Strategic partnership announcement.
+[^83]: CryptoRank. (2025). Polymarket Partnership: Strategic partnership announcement. cryptorank.io, https://cryptorank.io/news/feed/5a8f6-edgex-polymarket-partnership-decentralized-trading
 
-[^84]: [CryptoRank - Integration Details](https://cryptorank.io/news/feed/5a8f6-edgex-polymarket-partnership-decentralized-trading) - Polymarket integration in EdgeX.
+[^84]: CryptoRank. (2025). Integration Details: Polymarket integration in EdgeX. cryptorank.io, https://cryptorank.io/news/feed/5a8f6-edgex-polymarket-partnership-decentralized-trading
 
-[^85]: [CryptoRank - Mobile Integration](https://cryptorank.io/news/feed/5a8f6-edgex-polymarket-partnership-decentralized-trading) - Prediction markets in mobile app.
+[^85]: CryptoRank. (2025). Mobile Integration: Prediction markets in mobile app. cryptorank.io, https://cryptorank.io/news/feed/5a8f6-edgex-polymarket-partnership-decentralized-trading
 
-[^86]: [CryptoRank - Single-Click Access](https://cryptorank.io/news/feed/5a8f6-edgex-polymarket-partnership-decentralized-trading) - Simplified prediction event participation.
+[^86]: CryptoRank. (2025). Single-Click Access: Simplified prediction event participation. cryptorank.io, https://cryptorank.io/news/feed/5a8f6-edgex-polymarket-partnership-decentralized-trading
 
-[^87]: [CryptoRank - Joint Products](https://cryptorank.io/news/feed/5a8f6-edgex-polymarket-partnership-decentralized-trading) - Leveraged prediction product development.
+[^87]: CryptoRank. (2025). Joint Products: Leveraged prediction product development. cryptorank.io, https://cryptorank.io/news/feed/5a8f6-edgex-polymarket-partnership-decentralized-trading
 
-[^88]: [CryptoRank - Unified Interface](https://cryptorank.io/news/feed/5a8f6-edgex-polymarket-partnership-decentralized-trading) - Combined derivatives and prediction trading.
+[^88]: CryptoRank. (2025). Unified Interface: Combined derivatives and prediction trading. cryptorank.io, https://cryptorank.io/news/feed/5a8f6-edgex-polymarket-partnership-decentralized-trading
 
-[^89]: [CryptoRank - Partnership Significance](https://cryptorank.io/news/feed/5a8f6-edgex-polymarket-partnership-decentralized-trading) - DeFi specialization and collaboration trend.
+[^89]: CryptoRank. (2025). Partnership Significance: DeFi specialization and collaboration trend. cryptorank.io, https://cryptorank.io/news/feed/5a8f6-edgex-polymarket-partnership-decentralized-trading
 
-[^90]: [Airdrops.io - EdgeX Points](https://airdrops.io/edgex/) - Points program history overview.
+[^90]: Airdrops.io. (2025). EdgeX Points: Program history overview. airdrops.io, https://airdrops.io/edgex/
 
-[^91]: [OAK Research - Season 1](https://oakresearch.io/en/analyses/fundamentals/ultimate-guide-farming-perp-dex-airdrop-2025) - Alpha Season December 2024 - May 2025.
+[^91]: OAK Research. (2025). Season 1: Alpha Season December 2024 - May 2025. oakresearch.io, https://oakresearch.io/en/analyses/fundamentals/ultimate-guide-farming-perp-dex-airdrop-2025
 
-[^92]: [OAK Research - Season 2](https://oakresearch.io/en/analyses/fundamentals/ultimate-guide-farming-perp-dex-airdrop-2025) - Open Season launch June 2025.
+[^92]: OAK Research. (2025). Season 2: Open Season launch June 2025. oakresearch.io, https://oakresearch.io/en/analyses/fundamentals/ultimate-guide-farming-perp-dex-airdrop-2025
 
-[^93]: [DL News - Deposit Growth](https://www.dlnews.com/articles/defi/hyperliquid-competitor-edgex-nabs-100m-with-airdrop-promise/) - 1,000%+ deposit growth to $100M+.
+[^93]: DL News. (2025, July). Deposit Growth: Hyperliquid competitor EdgeX nabs $100M+ with 1,000%+ growth. dlnews.com, https://www.dlnews.com/articles/defi/hyperliquid-competitor-edgex-nabs-100m-with-airdrop-promise/
 
-[^94]: [DL News - Volume Records](https://www.dlnews.com/articles/defi/hyperliquid-competitor-edgex-nabs-100m-with-airdrop-promise/) - $13B+ July volume, $1B+ daily peak.
+[^94]: DL News. (2025, July). Volume Records: $13B+ July volume, $1B+ daily peak. dlnews.com, https://www.dlnews.com/articles/defi/hyperliquid-competitor-edgex-nabs-100m-with-airdrop-promise/
 
-[^95]: [Airdrops.io - Allocation Structure](https://airdrops.io/edgex/) - Points allocation breakdown by activity.
+[^95]: Airdrops.io. (2025). Allocation Structure: Points breakdown by activity. airdrops.io, https://airdrops.io/edgex/
 
-[^96]: [Airdrops.io - Earning Mechanics](https://airdrops.io/edgex/) - Point earning and distribution mechanics.
+[^96]: Airdrops.io. (2025). Earning Mechanics: Point earning and distribution mechanics. airdrops.io, https://airdrops.io/edgex/
 
-[^97]: [DropsTab - Token Conversion](https://dropstab.com/coins/edgex-exchange) - 1:1 points to token conversion at TGE.
+[^97]: DropsTab. (2025). Token Conversion: 1:1 points to token conversion at TGE. dropstab.com, https://dropstab.com/coins/edgex-exchange
 
-[^98]: [OAK Research - NFT Rewards](https://oakresearch.io/en/analyses/fundamentals/ultimate-guide-farming-perp-dex-airdrop-2025) - Season 1 NFT tier benefits.
+[^98]: OAK Research. (2025). NFT Rewards: Season 1 NFT tier benefits. oakresearch.io, https://oakresearch.io/en/analyses/fundamentals/ultimate-guide-farming-perp-dex-airdrop-2025
 
-[^99]: [DropsTab - TGE Overview](https://dropstab.com/coins/edgex-exchange) - Token generation event details.
+[^99]: DropsTab. (2025). TGE Overview: Token generation event details. dropstab.com, https://dropstab.com/coins/edgex-exchange
 
-[^100]: [DropsTab - TGE Timeline](https://dropstab.com/coins/edgex-exchange) - Q4 2025 expected TGE.
+[^100]: DropsTab. (2025). TGE Timeline: Q4 2025 expected. dropstab.com, https://dropstab.com/coins/edgex-exchange
 
-[^101]: [edgeX Twitter](https://twitter.com/edgeX_exchange) - Token name vote launched October 28, 2025.
+[^101]: edgeX. (2025, October 28). Twitter: Token name vote launched. twitter.com, https://twitter.com/edgeX_exchange
 
-[^102]: [DropsTab - Token Symbol](https://dropstab.com/coins/edgex-exchange) - EX symbol speculation (unconfirmed).
+[^102]: DropsTab. (2025). Token Symbol: EX speculation (unconfirmed). dropstab.com, https://dropstab.com/coins/edgex-exchange
 
-[^103]: [OAK Research - Tokenomics](https://oakresearch.io/en/analyses/fundamentals/ultimate-guide-farming-perp-dex-airdrop-2025) - Anticipated tokenomics structure.
+[^103]: OAK Research. (2025). Tokenomics: Anticipated structure. oakresearch.io, https://oakresearch.io/en/analyses/fundamentals/ultimate-guide-farming-perp-dex-airdrop-2025
 
-[^104]: [OAK Research - FDV Projection](https://oakresearch.io/en/analyses/fundamentals/ultimate-guide-farming-perp-dex-airdrop-2025) - $2-2.4B FDV estimate at launch.
+[^104]: OAK Research. (2025). FDV Projection: $2-2.4B estimate at launch. oakresearch.io, https://oakresearch.io/en/analyses/fundamentals/ultimate-guide-farming-perp-dex-airdrop-2025
 
-[^105]: [OAK Research - Points Allocation](https://oakresearch.io/en/analyses/fundamentals/ultimate-guide-farming-perp-dex-airdrop-2025) - 20-35% supply to points holders.
+[^105]: OAK Research. (2025). Points Allocation: 20-35% supply to points holders. oakresearch.io, https://oakresearch.io/en/analyses/fundamentals/ultimate-guide-farming-perp-dex-airdrop-2025
 
-[^106]: [OAK Research - Unlocked Supply](https://oakresearch.io/en/analyses/fundamentals/ultimate-guide-farming-perp-dex-airdrop-2025) - 25% unlocked at distribution.
+[^106]: OAK Research. (2025). Unlocked Supply: 25% unlocked at distribution. oakresearch.io, https://oakresearch.io/en/analyses/fundamentals/ultimate-guide-farming-perp-dex-airdrop-2025
 
-[^107]: [CoinBureau - No VC Pre-allocation](https://coinbureau.com/review/what-is-edgex-exchange/) - Community-first model with no early VC allocation.
+[^107]: CoinBureau. (2025). No VC Pre-allocation: Community-first model. coinbureau.com, https://coinbureau.com/review/what-is-edgex-exchange/
 
-[^108]: [OAK Research - Unique Characteristics](https://oakresearch.io/en/analyses/fundamentals/ultimate-guide-farming-perp-dex-airdrop-2025) - Token distribution unique features.
+[^108]: OAK Research. (2025). Unique Characteristics: Token distribution features. oakresearch.io, https://oakresearch.io/en/analyses/fundamentals/ultimate-guide-farming-perp-dex-airdrop-2025
 
-[^109]: [edgeX Documentation - Fee Structure](https://edgex-1.gitbook.io/edgeX-documentation) - Trading and liquidation fee rates.
+[^109]: edgeX. (2025). Documentation: Trading and liquidation fee structure. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^110]: [DefiLlama - Fee Calculation](https://defillama.com/fees/edgex) - Revenue calculation methodology using API data.
+[^110]: DefiLlama. (2025). Fee Calculation: Revenue methodology using API data. defillama.com, https://defillama.com/fees/edgex
 
-[^111]: [edgeX Documentation - Revenue Distribution](https://edgex-1.gitbook.io/edgeX-documentation) - Revenue allocation to stakeholders.
+[^111]: edgeX. (2025). Documentation: Revenue distribution to stakeholders. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^112]: [DefiLlama - Protocol Comparison](https://defillama.com/fees) - 30-day fee comparison across perp DEXs.
+[^112]: DefiLlama. (2025). Protocol Comparison: 30-day fee comparison across perp DEXs. defillama.com, https://defillama.com/fees
 
-[^113]: [PANews - F4 Market](https://www.panewslab.com/en/articles/38a838c1-371c-4f73-a772-e43e319041b0) - F4 perp DEX market structure December 2025.
+[^113]: PANews. (2025, December). F4 Market: Perp DEX market structure. panewslab.com, https://www.panewslab.com/en/articles/38a838c1-371c-4f73-a772-e43e319041b0
 
-[^114]: [PANews - Hyperliquid Share](https://www.panewslab.com/en/articles/38a838c1-371c-4f73-a772-e43e319041b0) - Hyperliquid ~50% open interest share.
+[^114]: PANews. (2025, December). Hyperliquid Share: ~50% open interest. panewslab.com, https://www.panewslab.com/en/articles/38a838c1-371c-4f73-a772-e43e319041b0
 
-[^115]: [PANews - Aster Share](https://www.panewslab.com/en/articles/38a838c1-371c-4f73-a772-e43e319041b0) - Aster ~20% open interest share.
+[^115]: PANews. (2025, December). Aster Share: ~20% open interest. panewslab.com, https://www.panewslab.com/en/articles/38a838c1-371c-4f73-a772-e43e319041b0
 
-[^116]: [PANews - Lighter Share](https://www.panewslab.com/en/articles/38a838c1-371c-4f73-a772-e43e319041b0) - Lighter ~10% open interest share.
+[^116]: PANews. (2025, December). Lighter Share: ~10% open interest. panewslab.com, https://www.panewslab.com/en/articles/38a838c1-371c-4f73-a772-e43e319041b0
 
-[^117]: [PANews - EdgeX Share](https://www.panewslab.com/en/articles/38a838c1-371c-4f73-a772-e43e319041b0) - EdgeX ~5.5-12% open interest share.
+[^117]: PANews. (2025, December). EdgeX Share: ~5.5-12% open interest. panewslab.com, https://www.panewslab.com/en/articles/38a838c1-371c-4f73-a772-e43e319041b0
 
-[^118]: [PANews - F4 Dominance](https://www.panewslab.com/en/articles/38a838c1-371c-4f73-a772-e43e319041b0) - F4 control ~85% of total perp DEX market.
+[^118]: PANews. (2025, December). F4 Dominance: ~85% of total perp DEX market. panewslab.com, https://www.panewslab.com/en/articles/38a838c1-371c-4f73-a772-e43e319041b0
 
-[^119]: [CoinBureau - Strategic Positioning](https://coinbureau.com/review/what-is-edgex-exchange/) - EdgeX target markets and strategy.
+[^119]: CoinBureau. (2025). Strategic Positioning: EdgeX target markets and strategy. coinbureau.com, https://coinbureau.com/review/what-is-edgex-exchange/
 
-[^120]: [PANews - Vault Comparison](https://www.panewslab.com/en/articles/38a838c1-371c-4f73-a772-e43e319041b0) - LP vault TVL comparison across protocols.
+[^120]: PANews. (2025, December). Vault Comparison: LP vault TVL across protocols. panewslab.com, https://www.panewslab.com/en/articles/38a838c1-371c-4f73-a772-e43e319041b0
 
-[^121]: [L2BEAT - Protocol Risks](https://l2beat.com/scaling/projects/edgex) - Smart contract and oracle risk assessment.
+[^121]: L2BEAT. (2025). Protocol Risks: Smart contract and oracle risk assessment. l2beat.com, https://l2beat.com/scaling/projects/edgex
 
-[^122]: [L2BEAT - Operational Risks](https://l2beat.com/scaling/projects/edgex) - Keeper and network risk assessment.
+[^122]: L2BEAT. (2025). Operational Risks: Keeper and network risk assessment. l2beat.com, https://l2beat.com/scaling/projects/edgex
 
-[^123]: [edgeX Documentation - Market Risks](https://edgex-1.gitbook.io/edgeX-documentation) - Counterparty and volatility risk details.
+[^123]: edgeX. (2025). Documentation: Market risks - counterparty and volatility details. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^124]: [edgeX Documentation - V2 Roadmap](https://edgex-1.gitbook.io/edgeX-documentation) - V2 development feature overview.
+[^124]: edgeX. (2025). Documentation: V2 Roadmap development features. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^125]: [edgeX Documentation - Unified Accounts](https://edgex-1.gitbook.io/edgeX-documentation) - Q4 2025 unified accounts launch.
+[^125]: edgeX. (2025). Documentation: Unified Accounts Q4 2025 launch. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^126]: [edgeX Documentation - Ecosystem Vision](https://edgex-1.gitbook.io/edgeX-documentation) - Financial settlement chain vision.
+[^126]: edgeX. (2025). Documentation: Ecosystem vision - financial settlement chain. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^127]: [CoinBureau - Bullish Factors](https://coinbureau.com/review/what-is-edgex-exchange/) - Investment bullish considerations.
+[^127]: CoinBureau. (2025). Bullish Factors: Investment considerations. coinbureau.com, https://coinbureau.com/review/what-is-edgex-exchange/
 
-[^128]: [CoinBureau - Bearish Factors](https://coinbureau.com/review/what-is-edgex-exchange/) - Investment bearish considerations.
+[^128]: CoinBureau. (2025). Bearish Factors: Investment considerations. coinbureau.com, https://coinbureau.com/review/what-is-edgex-exchange/
 
-[^129]: [PANews - Metrics to Monitor](https://www.panewslab.com/en/articles/38a838c1-371c-4f73-a772-e43e319041b0) - Key performance indicators for EdgeX.
+[^129]: PANews. (2025, December). Metrics to Monitor: Key performance indicators. panewslab.com, https://www.panewslab.com/en/articles/38a838c1-371c-4f73-a772-e43e319041b0
 
-[^130]: [DefiLlama - EdgeX Protocol Page](https://defillama.com/protocol/edgex) - Official DefiLlama protocol dashboard.
+[^130]: DefiLlama. (2025). EdgeX Protocol Page: Official dashboard. defillama.com, https://defillama.com/protocol/edgex
 
-[^131]: [edgeX Documentation](https://edgex-1.gitbook.io/edgeX-documentation) - Official protocol documentation.
+[^131]: edgeX. (2025). Documentation: Official protocol documentation. gitbook.io, https://edgex-1.gitbook.io/edgeX-documentation
 
-[^132]: [edgeX Official Website](https://www.edgex.exchange/) - Main platform website.
+[^132]: edgeX. (2025). Official Website: Main platform. edgex.exchange, https://www.edgex.exchange/
 
-[^133]: [L2BEAT - EdgeX](https://l2beat.com/scaling/projects/edgex) - L2 scaling project analysis.
+[^133]: L2BEAT. (2025). EdgeX: L2 scaling project analysis. l2beat.com, https://l2beat.com/scaling/projects/edgex
 
-[^134]: [GlobeNewswire - Mainnet Launch](https://www.globenewswire.com/news-release/2024/10/03/2957743/0/en/EdgeX-Exchange-The-Disruptor-Of-The-Centralized-Derivatives-Trading-Landscape-Launches-On-The-Mainnet.html) - Official mainnet launch announcement.
+[^134]: GlobeNewswire. (2024, October 3). Mainnet Launch: Official announcement. globenewswire.com, https://www.globenewswire.com/news-release/2024/10/03/2957743/0/en/EdgeX-Exchange-The-Disruptor-Of-The-Centralized-Derivatives-Trading-Landscape-Launches-On-The-Mainnet.html
 
-[^135]: [PANews - Perp DEX Analysis](https://www.panewslab.com/en/articles/38a838c1-371c-4f73-a772-e43e319041b0) - Comprehensive perp DEX market analysis.
+[^135]: PANews. (2025, December). Perp DEX Analysis: Comprehensive market analysis. panewslab.com, https://www.panewslab.com/en/articles/38a838c1-371c-4f73-a772-e43e319041b0
 
-[^136]: [OAK Research - Airdrop Guide](https://oakresearch.io/en/analyses/fundamentals/ultimate-guide-farming-perp-dex-airdrop-2025) - Perp DEX airdrop farming guide 2025.
+[^136]: OAK Research. (2025). Airdrop Guide: Perp DEX airdrop farming guide 2025. oakresearch.io, https://oakresearch.io/en/analyses/fundamentals/ultimate-guide-farming-perp-dex-airdrop-2025
 
-[^137]: [CoinBureau - Exchange Guide](https://coinbureau.com/review/what-is-edgex-exchange/) - Comprehensive EdgeX exchange review.
+[^137]: CoinBureau. (2025). Exchange Guide: Comprehensive EdgeX review. coinbureau.com, https://coinbureau.com/review/what-is-edgex-exchange/
 
-[^138]: [DL News - EdgeX Deposits](https://www.dlnews.com/articles/defi/hyperliquid-competitor-edgex-nabs-100m-with-airdrop-promise/) - Coverage of $100M deposit milestone.
+[^138]: DL News. (2025, July). EdgeX Deposits: Coverage of $100M deposit milestone. dlnews.com, https://www.dlnews.com/articles/defi/hyperliquid-competitor-edgex-nabs-100m-with-airdrop-promise/
 
-[^139]: [CryptoRank - Polymarket Partnership](https://cryptorank.io/news/feed/5a8f6-edgex-polymarket-partnership-decentralized-trading) - Polymarket integration announcement coverage.
+[^139]: CryptoRank. (2025). Polymarket Partnership: Integration announcement coverage. cryptorank.io, https://cryptorank.io/news/feed/5a8f6-edgex-polymarket-partnership-decentralized-trading
 
 ---
 
