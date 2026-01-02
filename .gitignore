@@ -39,6 +39,9 @@ twitter_feed/
 # Case studies archive (all old versions)
 case_studies/z_archive/
 
+# Legal documents (hosted separately on website)
+case_studies/terms_and_conditions.md
+
 # macOS
 .DS_Store
 .AppleDouble
