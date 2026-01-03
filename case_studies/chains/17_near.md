@@ -282,112 +282,112 @@ NEAR's emphasis on making "blockchains invisible to users" through chain abstrac
 
 ## Sources and References
 
-[^1]: [CoinGecko - NEAR Protocol Price](https://www.coingecko.com/en/coins/near) - NEAR trading at $1.50-$1.52 with $1.93B market cap, rank #56, 24h volume $135-184M, circulating supply 1.283B NEAR, -70% YoY performance (January 2, 2026)
+[^1]: CoinGecko. (2026, January 2). NEAR Protocol Price. *CoinGecko*. Retrieved January 2, 2026, from https://www.coingecko.com/en/coins/near 🔷 HARD DATA
 
-[^2]: [DefiLlama - NEAR Chain TVL](https://defillama.com/chain/Near) - NEAR Protocol DeFi TVL $133-158M as of January 2026, reflecting ecosystem contraction from Q4 2024 peaks
+[^2]: DefiLlama. (2026, January). NEAR Chain TVL. *DefiLlama*. Retrieved January 2, 2026, from https://defillama.com/chain/Near 🔷 HARD DATA
 
-[^3]: [Coinspeaker - NEAR Achieves 1M TPS](https://www.coinspeaker.com/near-protocol-1-million-tps-benchmark-test/) - NEAR achieved 1 million TPS in sharded test environment on Google Cloud (December 8, 2025), surpassing Visa's 65,000 TPS capacity
+[^3]: Coinspeaker. (2025, December 8). NEAR Achieves 1M TPS. *Coinspeaker*. Retrieved January 2, 2026, from https://www.coinspeaker.com/near-protocol-1-million-tps-benchmark-test/
 
-[^4]: [BeInCrypto - NEAR Intents Record Volume](https://beincrypto.com/near-intents-hits-record-transaction-volume/) - NEAR Intents crossed $900M+ total volume with 1.8M+ swaps, approaching $3B all-time volume by late 2025
+[^4]: BeInCrypto. (2025). NEAR Intents Record Volume. *BeInCrypto*. Retrieved January 2, 2026, from https://beincrypto.com/near-intents-hits-record-transaction-volume/
 
-[^5]: [NEAR Protocol Blog - Shade Agents](https://pages.near.org/blog/shade-agents-the-first-truly-autonomous-ai-agents/) - Shade Agents launched February 2025 as multichain AI-powered smart contracts with TEE-verified worker agents for autonomous DeFi and governance
+[^5]: NEAR Protocol Blog. (2025, February). Shade Agents - The First Truly Autonomous AI Agents. *NEAR Protocol Blog*. Retrieved January 2, 2026, from https://pages.near.org/blog/shade-agents-the-first-truly-autonomous-ai-agents/
 
-[^6]: [THORWallet Blog - NEAR Intents Integration](https://www.thorwallet.org/thorwallet-blog/thorwallet-integrates-near-intents-expanding-cross-chain-swaps-offering-to-additional-networks) - THORWallet integrated NEAR Intents (November 13, 2025) enabling cross-chain swaps
+[^6]: THORWallet Blog. (2025, November 13). THORWallet Integrates NEAR Intents. *THORWallet Blog*. Retrieved January 2, 2026, from https://www.thorwallet.org/thorwallet-blog/thorwallet-integrates-near-intents-expanding-cross-chain-swaps-offering-to-additional-networks
 
-[^7]: [The Block - Infinex Chain Signatures Partnership](https://www.theblock.co/post/325371/infinex-partners-with-near-foundation-to-integrate-chain-signatures) - Infinex integrated NEAR Chain Signatures enabling Bitcoin, Ripple, and other non-smart contract chain transactions from single account
+[^7]: The Block. (2025). Infinex Chain Signatures Partnership. *The Block*. Retrieved January 2, 2026, from https://www.theblock.co/post/325371/infinex-partners-with-near-foundation-to-integrate-chain-signatures
 
-[^8]: [NEAR Documentation - Storage Staking](https://docs.near.org/protocol/storage/storage-staking) - Official storage staking documentation: 30% fees to validators, 70% burned; 1 NEAR per 100KB storage requirement
+[^8]: NEAR Documentation. (2025). Storage Staking. *NEAR Documentation*. Retrieved January 2, 2026, from https://docs.near.org/protocol/storage/storage-staking
 
-[^9]: [Messari - State of NEAR Q4 2024](https://messari.io/report/state-of-near-q4-2024) - ⏳ HISTORICAL (Q4 2024): $2.11M quarterly revenue (+26.81% QoQ), 7.42M daily transactions, $0.0031 average fee
+[^9]: Messari. (2024, December). State of NEAR Q4 2024. *Messari*. Retrieved January 2, 2026, from https://messari.io/report/state-of-near-q4-2024 ⏳ HISTORICAL
 
-[^10]: [Crypto.news - NEAR Inflation Halving](https://crypto.news/near-protocol-halves-inflation-rate-despite-failing-approval-threshold/) - October 30, 2025: Inflation reduced from 5% to 2.4%, cutting annual minting by ~60M tokens despite failed community vote
+[^10]: Crypto.news. (2025, October 30). NEAR Inflation Halving. *Crypto.news*. Retrieved January 2, 2026, from https://crypto.news/near-protocol-halves-inflation-rate-despite-failing-approval-threshold/
 
-[^11]: [NEAR Documentation - Protocol Storage](https://docs.near.org/protocol/storage/storage-staking) - Account creation requires 0.1 NEAR funding with 0.35 NEAR reserved for fees/storage
+[^11]: NEAR Documentation. (2025). Protocol Storage. *NEAR Documentation*. Retrieved January 2, 2026, from https://docs.near.org/protocol/storage/storage-staking
 
-[^12]: [TronWeekly - 1M TPS Sharding](https://www.tronweekly.com/1-million-tps-on-near-protocol-sharding-unlocks/) - Mainnet operates 9 shards, 600ms block time, 1.2s finality; each shard handles 10,000-20,000 TPS
+[^12]: TronWeekly. (2025). 1M TPS Sharding. *TronWeekly*. Retrieved January 2, 2026, from https://www.tronweekly.com/1-million-tps-on-near-protocol-sharding-unlocks/
 
-[^13]: [NEAR Protocol Blog - Nightshade 2.0](https://pages.near.org/blog/nightshade-2-launches-on-near-mainnet-introducing-stateless-validation/) - Nightshade 2.0 introduced stateless validation, dynamic resharding capability, cross-shard composability
+[^13]: NEAR Protocol Blog. (2025). Nightshade 2.0 Launches on NEAR Mainnet. *NEAR Protocol Blog*. Retrieved January 2, 2026, from https://pages.near.org/blog/nightshade-2-launches-on-near-mainnet-introducing-stateless-validation/
 
-[^14]: [Everstake - NEAR Staking](https://everstake.one/staking/near) - 100 validator seats, 67,000 NEAR minimum stake, ~4.5% APY post-inflation reduction, no slashing mechanism
+[^14]: Everstake. (2025). NEAR Staking. *Everstake*. Retrieved January 2, 2026, from https://everstake.one/staking/near
 
-[^15]: [Rhea Foundation - Burrow V2](https://rheafdn.medium.com/burrow-v2-leading-the-near-protocol-defi-ecosystem-ea5617788d69) - Rhea Finance (Ref + Burrow merger) holds 95.2% of NEAR DeFi TVL at $148M+
+[^15]: Rhea Foundation. (2025). Burrow V2. *Rhea Foundation on Medium*. Retrieved January 2, 2026, from https://rheafdn.medium.com/burrow-v2-leading-the-near-protocol-defi-ecosystem-ea5617788d69
 
-[^16]: [Aurora Documentation - Rainbow Bridge](https://doc.aurora.dev/bridge/introduction/) - Rainbow Bridge archived April 2025, migrating to Omnibridge; processed 66,659 transactions historically
+[^16]: Aurora Documentation. (2025). Rainbow Bridge. *Aurora Documentation*. Retrieved January 2, 2026, from https://doc.aurora.dev/bridge/introduction/
 
-[^17]: [NEAR Protocol Medium - JavaScript SDK](https://medium.com/nearprotocol/near-releases-javascript-sdk-bringing-web3-to-20-million-developers-b084efef0a9c) - JavaScript SDK targets 20M developers vs 2.5M blockchain developers worldwide
+[^17]: NEAR Protocol Medium. (2025). JavaScript SDK. *NEAR Protocol on Medium*. Retrieved January 2, 2026, from https://medium.com/nearprotocol/near-releases-javascript-sdk-bringing-web3-to-20-million-developers-b084efef0a9c
 
-[^18]: [GitHub - near-sdk-rs](https://github.com/near/near-sdk-rs) - Official Rust SDK for high-performance WebAssembly smart contracts
+[^18]: GitHub. (2025). near-sdk-rs. *GitHub*. Retrieved January 2, 2026, from https://github.com/near/near-sdk-rs
 
-[^19]: [NEAR Protocol - Named Accounts](https://docs.near.org/concepts/basics/accounts/model) - Human-readable accounts like 'alice.near' with subdomain functionality and social recovery
+[^19]: NEAR Protocol. (2025). Named Accounts. *NEAR Documentation*. Retrieved January 2, 2026, from https://docs.near.org/concepts/basics/accounts/model
 
-[^20]: [CoinDesk - Nuffle Labs $13M Funding](https://www.coindesk.com/business/2024/06/13/near-foundation-forms-nuffle-labs-with-13m-in-funding) - ⏳ HISTORICAL (2024): Nuffle Labs formed with $13M from NEAR Foundation and Electric Capital
+[^20]: CoinDesk. (2024, June 13). Nuffle Labs $13M Funding. *CoinDesk*. Retrieved January 2, 2026, from https://www.coindesk.com/business/2024/06/13/near-foundation-forms-nuffle-labs-with-13m-in-funding ⏳ HISTORICAL
 
-[^21]: [NEAR Protocol - Get Funding](https://pages.near.org/ecosystem/get-funding/) - 300+ VC partners, $30B capital deployed $300M across 60 projects; 6 regional hubs globally
+[^21]: NEAR Protocol. (2025). Get Funding. *NEAR Protocol*. Retrieved January 2, 2026, from https://pages.near.org/ecosystem/get-funding/
 
-[^22]: [Brave New Coin - Governance Controversy](https://bravenewcoin.com/insights/near-protocol-cuts-inflation-in-half-despite-failed-community-vote) - Community vote failed 45% (needed 66.67%); upgrade implemented anyway; 8% price drop followed
+[^22]: Brave New Coin. (2025). Governance Controversy. *Brave New Coin*. Retrieved January 2, 2026, from https://bravenewcoin.com/insights/near-protocol-cuts-inflation-in-half-despite-failed-community-vote
 
-[^23]: [NEAR Protocol Blog - NVIDIA GTC 2025](https://pages.near.org/blog/nvidia-gtc-2025/) - Illia Polosukhin presented confidential AI computation research at NVIDIA GTC (March 2025); only Web3 founder speaking
+[^23]: NEAR Protocol Blog. (2025, March). NVIDIA GTC 2025. *NEAR Protocol Blog*. Retrieved January 2, 2026, from https://pages.near.org/blog/nvidia-gtc-2025/
 
-[^24]: [NEAR Protocol Blog - BUIDL Asia 2025](https://pages.near.org/blog/buidl-asia-2025-builders-stay-building/) - Polosukhin keynote positioning NEAR as "safeguard against centralized AI"
+[^24]: NEAR Protocol Blog. (2025). BUIDL Asia 2025. *NEAR Protocol Blog*. Retrieved January 2, 2026, from https://pages.near.org/blog/buidl-asia-2025-builders-stay-building/
 
-[^25]: [The Block - Chain Abstraction Vision](https://www.theblock.co/post/285565/chain-abstraction-near-protocol) - Illia Polosukhin: "Blockchains must be abstracted away from the user so they are not barriers to entry"
+[^25]: The Block. (2025). Chain Abstraction Vision. *The Block*. Retrieved January 2, 2026, from https://www.theblock.co/post/285565/chain-abstraction-near-protocol
 
-[^26]: [Coinspeaker - TravAI Launch](https://www.coinspeaker.com/near-protocol-travai-ai-travel-booking-platform-launch/) - TravAI AI travel platform launched December 5, 2025 processing crypto payments via NEAR Intents
+[^26]: Coinspeaker. (2025, December 5). TravAI Launch. *Coinspeaker*. Retrieved January 2, 2026, from https://www.coinspeaker.com/near-protocol-travai-ai-travel-booking-platform-launch/
 
-[^27]: [Coinspeaker - NEAR Live on Solana](https://www.coinspeaker.com/near-now-live-solana-cross-chain-integration/) - NEAR token tradeable on Solana via Orb Markets/NEAR Intents (December 18, 2025); Jupiter, Phantom integration
+[^27]: Coinspeaker. (2025, December 18). NEAR Live on Solana. *Coinspeaker*. Retrieved January 2, 2026, from https://www.coinspeaker.com/near-now-live-solana-cross-chain-integration/
 
-[^28]: [BeInCrypto - THORWallet TRON Integration](https://beincrypto.com/thorwallet-tron-cross-chain-swaps/) - THORWallet integrated TRON (November 28, 2025) enabling native TRX/USDT swaps across BTC, ETH, SOL via NEAR Intents
+[^28]: BeInCrypto. (2025, November 28). THORWallet TRON Integration. *BeInCrypto*. Retrieved January 2, 2026, from https://beincrypto.com/thorwallet-tron-cross-chain-swaps/
 
-[^29]: [Coinspeaker - Kalshi NEAR Integration](https://www.coinspeaker.com/kalshi-adds-near-protocol-support-prediction-markets/) - Kalshi prediction market added NEAR deposits/withdrawals for US users (November 25, 2025)
+[^29]: Coinspeaker. (2025, November 25). Kalshi NEAR Integration. *Coinspeaker*. Retrieved January 2, 2026, from https://www.coinspeaker.com/kalshi-adds-near-protocol-support-prediction-markets/
 
-[^30]: [CoinJournal - NEAR AI Developments](https://coinjournal.net/news/near-price-surges-9-as-ai-developments-boost-ecosystem/) - Allora Network integration (September 16, 2025) enhanced Shade Agent infrastructure with predictive AI
+[^30]: CoinJournal. (2025, September 16). NEAR AI Developments. *CoinJournal*. Retrieved January 2, 2026, from https://coinjournal.net/news/near-price-surges-9-as-ai-developments-boost-ecosystem/
 
-[^31]: [Brave.com - NEAR AI Integration](https://brave.com/blog/near-aurora/) - Brave Browser integrated NEAR AI Private Chat (December 3, 2025) using NEAR's Confidential LLM on TEEs
+[^31]: Brave.com. (2025, December 3). NEAR AI Integration. *Brave*. Retrieved January 2, 2026, from https://brave.com/blog/near-aurora/
 
-[^32]: [NEAR Protocol Blog - Infinex Integration](https://pages.near.org/blog/infinex-integrates-near-protocol-chain-signatures-and-near-intents/) - NEAR Foundation is primary Chain Abstraction partner for Infinex; Synthetix founder Kain Warwick's project
+[^32]: NEAR Protocol Blog. (2025). Infinex Integration. *NEAR Protocol Blog*. Retrieved January 2, 2026, from https://pages.near.org/blog/infinex-integrates-near-protocol-chain-signatures-and-near-intents/
 
-[^33]: [Messari - State of NEAR Q1 2025](https://messari.io/report/state-of-near-q1-25) - Q1 2025: 254 active validators, 44.9% supply staked, 8 shards (upgraded from 6 on March 23, 2025)
+[^33]: Messari. (2025). State of NEAR Q1 2025. *Messari*. Retrieved January 2, 2026, from https://messari.io/report/state-of-near-q1-25
 
-[^34]: [CryptoBriefing - 1M TPS Milestone](https://cryptobriefing.com/near-protocol-1-million-tps-milestone/) - Benchmark achieved 1,029,497 to 1,037,495 TPS peaks; sustained 1M TPS for nearly one hour each test
+[^34]: CryptoBriefing. (2025). 1M TPS Milestone. *CryptoBriefing*. Retrieved January 2, 2026, from https://cryptobriefing.com/near-protocol-1-million-tps-milestone/
 
-[^35]: [InvestingHaven - NEAR December Outlook](https://investinghaven.com/crypto-blockchain/coins/near-protocol-december-outlook-1m-tps-milestone-growth-signs-and-price-view) - 70-shard test configuration on Google Cloud commercial hardware (~$900/month per validator)
+[^35]: InvestingHaven. (2025, December). NEAR December Outlook. *InvestingHaven*. Retrieved January 2, 2026, from https://investinghaven.com/crypto-blockchain/coins/near-protocol-december-outlook-1m-tps-milestone-growth-signs-and-price-view
 
-[^36]: [StakingRewards - NEAR Protocol](https://www.stakingrewards.com/asset/near-protocol) - Current staking yield ~4.49% APY; epoch duration ~12 hours; unstaking period 4 epochs (52-65 hours)
+[^36]: StakingRewards. (2025). NEAR Protocol. *StakingRewards*. Retrieved January 2, 2026, from https://www.stakingrewards.com/asset/near-protocol
 
-[^37]: [NEAR Documentation - Validator Staking](https://docs.near.org/protocol/network/staking) - No slashing in NEAR Protocol; rewards distributed each epoch; lower hardware requirements with Nightshade 2.0
+[^37]: NEAR Documentation. (2025). Validator Staking. *NEAR Documentation*. Retrieved January 2, 2026, from https://docs.near.org/protocol/network/staking
 
-[^38]: [DefiLlama - NEAR Intents](https://defillama.com/protocol/near-intents) - NEAR Intents processed 6.41M+ swaps across 124 assets on 20+ blockchains since December 2024 launch
+[^38]: DefiLlama. (2025). NEAR Intents. *DefiLlama*. Retrieved January 2, 2026, from https://defillama.com/protocol/near-intents 🔷 HARD DATA
 
-[^39]: [FXStreet - NEAR Intent Layer Volume](https://www.fxstreet.com/cryptocurrencies/news/near-protocol-price-forecast-near-rallies-as-on-chain-demand-grows-on-intent-layer-202511071212) - NEAR Intents approaching $4B all-time volume (November 2025); $969M weekly volume week of Nov 10
+[^39]: FXStreet. (2025, November 7). NEAR Intent Layer Volume. *FXStreet*. Retrieved January 2, 2026, from https://www.fxstreet.com/cryptocurrencies/news/near-protocol-price-forecast-near-rallies-as-on-chain-demand-grows-on-intent-layer-202511071212
 
-[^40]: [TronWeekly - NEAR Q1 2025](https://www.tronweekly.com/near-protocol-q1-2025-3b-cap-dev-decline/) - Market cap dropped 47.4% in Q1 2025 to $3B; DEX daily volume doubled to $17M
+[^40]: TronWeekly. (2025). NEAR Q1 2025. *TronWeekly*. Retrieved January 2, 2026, from https://www.tronweekly.com/near-protocol-q1-2025-3b-cap-dev-decline/
 
-[^41]: [CoinMarketCap - NEAR Protocol](https://coinmarketcap.com/currencies/near-protocol/) - All-time high $20.44 (January 16, 2022); current price 92.63% below ATH
+[^41]: CoinMarketCap. (2025). NEAR Protocol. *CoinMarketCap*. Retrieved January 2, 2026, from https://coinmarketcap.com/currencies/near-protocol/ 🔷 HARD DATA
 
-[^42]: [AMINA Bank - NEAR AI Research](https://aminagroup.com/research/near-protocol-bringing-ai-and-smart-ux-onchain/) - NEAR purpose-built for AI from founding; Illia Polosukhin co-authored "Attention Is All You Need" (2017 Transformer paper)
+[^42]: AMINA Bank. (2025). NEAR AI Research. *AMINA Bank*. Retrieved January 2, 2026, from https://aminagroup.com/research/near-protocol-bringing-ai-and-smart-ux-onchain/
 
-[^43]: [Nansen Research - NEAR Q2 2025](https://research.nansen.ai/articles/near-quarterly-report-q2-2025) - Q2 2025: 600ms block times, 1.2s finality launched May 14, 2025; $20M Agent Fund for AI startups
+[^43]: Nansen Research. (2025). NEAR Q2 2025. *Nansen Research*. Retrieved January 2, 2026, from https://research.nansen.ai/articles/near-quarterly-report-q2-2025
 
-[^44]: [Learn NEAR Club - Rainbow Bridge Status](https://learnnear.club/auroras-rainbow-bridge-is-no-longer-active/) - Rainbow Bridge archived June 2025; migration to Omnibridge in progress
+[^44]: Learn NEAR Club. (2025). Rainbow Bridge Status. *Learn NEAR Club*. Retrieved January 2, 2026, from https://learnnear.club/auroras-rainbow-bridge-is-no-longer-active/
 
-[^45]: [IQ.wiki - Shade Agents](https://iq.wiki/wiki/shade-agents) - Shade Agents use Chain Signatures for decentralized key management; worker agents run in TEEs for off-chain data access
+[^45]: IQ.wiki. (2025). Shade Agents. *IQ.wiki*. Retrieved January 2, 2026, from https://iq.wiki/wiki/shade-agents
 
-[^46]: [NEAR Protocol Blog - Mindshare Index Agent](https://pages.near.org/blog/introducing-the-mindshare-index-ai-agent-autonomous-trading-powered-by-shade-agents/) - Mindshare Trading Agents track social metrics and execute multichain trades autonomously
+[^46]: NEAR Protocol Blog. (2025). Mindshare Index Agent. *NEAR Protocol Blog*. Retrieved January 2, 2026, from https://pages.near.org/blog/introducing-the-mindshare-index-ai-agent-autonomous-trading-powered-by-shade-agents/
 
-[^47]: [Decrypt - NEAR Infinex Partnership](https://decrypt.co/333807/how-near-protocol-and-infinex-are-redefining-the-defi-user-experience) - Infinex $125M+ TVL; provides CEX-like experience on decentralized infrastructure
+[^47]: Decrypt. (2025). NEAR Infinex Partnership. *Decrypt*. Retrieved January 2, 2026, from https://decrypt.co/333807/how-near-protocol-and-infinex-are-redefining-the-defi-user-experience
 
-[^48]: [Blockchain.news - Inflation Implementation](https://blockchain.news/news/near-protocol-implements-inflation-rate-cut-despite-governance-vote-setback) - CTO Bowen Wang: vote was "primarily a signaling exercise"; House of Stake governance to decide future economic parameters
+[^48]: Blockchain.news. (2025). Inflation Implementation. *Blockchain.news*. Retrieved January 2, 2026, from https://blockchain.news/news/near-protocol-implements-inflation-rate-cut-despite-governance-vote-setback
 
-[^49]: [The Defiant - NEAR Inflation Vote](https://thedefiant.io/news/blockchains/near-protocol-halving-upgrade-community-vote) - Chorus One ($2.3B AUM) criticized decision as "dangerous precedent undermining integrity"
+[^49]: The Defiant. (2025). NEAR Inflation Vote. *The Defiant*. Retrieved January 2, 2026, from https://thedefiant.io/news/blockchains/near-protocol-halving-upgrade-community-vote
 
-[^50]: [CoinDesk - NEAR Blockchain Upgrade](https://www.coindesk.com/tech/2024/08/22/near-blockchain-gets-major-upgrade-to-add-stateless-validation) - ⏳ HISTORICAL (Aug 2024): Nightshade 2.0 mainnet launch introduced stateless validation
+[^50]: CoinDesk. (2024, August 22). NEAR Blockchain Upgrade. *CoinDesk*. Retrieved January 2, 2026, from https://www.coindesk.com/tech/2024/08/22/near-blockchain-gets-major-upgrade-to-add-stateless-validation ⏳ HISTORICAL
 
-[^51]: [CryptoWinRate - NEAR Protocol Guide](https://www.cryptowinrate.com/guides/near-protocol) - Aurora EVM compatibility allows Ethereum apps to run on NEAR without smart contract rewrites
+[^51]: CryptoWinRate. (2025). NEAR Protocol Guide. *CryptoWinRate*. Retrieved January 2, 2026, from https://www.cryptowinrate.com/guides/near-protocol
 
-[^52]: [Coin Bureau - Top NEAR Projects](https://coinbureau.com/analysis/top-near-projects/) - Burrow/Rhea Finance leading lending protocol; Ref Finance primary DEX; comprehensive ecosystem overview
+[^52]: Coin Bureau. (2025). Top NEAR Projects. *Coin Bureau*. Retrieved January 2, 2026, from https://coinbureau.com/analysis/top-near-projects/
 
-[^53]: [NEAR Forum - Inflation Proposal](https://gov.near.org/t/reduce-inflation-for-near-protocol/41140) - Original community governance discussion on inflation reduction and economic sustainability
+[^53]: NEAR Forum. (2025). Inflation Proposal. *NEAR Forum*. Retrieved January 2, 2026, from https://gov.near.org/t/reduce-inflation-for-near-protocol/41140
 
-[^54]: [CoinLaw - NEAR Statistics 2025](https://coinlaw.io/near-protocol-statistics/) - Comprehensive NEAR statistics and market data aggregation for 2025
+[^54]: CoinLaw. (2025). NEAR Statistics 2025. *CoinLaw*. Retrieved January 2, 2026, from https://coinlaw.io/near-protocol-statistics/
 
-[^55]: [CoinMarketCap - NEAR AI Updates](https://coinmarketcap.com/cmc-ai/near-protocol/latest-updates/) - AI-native L1 pivot July 2025; NEAR AI Cloud and Private Chat launches; continuous protocol updates
+[^55]: CoinMarketCap. (2025). NEAR AI Updates. *CoinMarketCap*. Retrieved January 2, 2026, from https://coinmarketcap.com/cmc-ai/near-protocol/latest-updates/

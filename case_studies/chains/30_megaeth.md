@@ -990,112 +990,112 @@ MegaETH is a **high-risk, high-reward investment** in the Ethereum scaling thesi
 
 ## Formatted Footnotes
 
-[^1]: [MegaETH Official Website](https://www.megaeth.com/) - "The First Real-Time Blockchain." Target 100,000+ TPS with sub-millisecond latency.
+[^1]: MegaETH. (2025). Official Website - The First Real-Time Blockchain. *MegaETH*. Retrieved January 2, 2026, from https://www.megaeth.com/
 
-[^2]: [The Block - MegaETH Testnet Launch](https://www.theblock.co/post/344385/megaeth-set-to-deploy-public-testnet-this-week) - March 2025 testnet achieving 20,000 TPS with 10ms blocks. 🔷 HARD DATA
+[^2]: The Block. (2025, March). MegaETH Testnet Launch. *The Block*. Retrieved January 2, 2026, from https://www.theblock.co/post/344385/megaeth-set-to-deploy-public-testnet-this-week 🔷 HARD DATA
 
-[^3]: [The Block - Vitalik Buterin Backs MegaETH](https://www.theblock.co/post/302271/vitalik-buterin-megaeth-funding-token-valuation) - $20M seed round led by Dragonfly Capital (June 2024).
+[^3]: The Block. (2024, June). Vitalik Buterin Backs MegaETH. *The Block*. Retrieved January 2, 2026, from https://www.theblock.co/post/302271/vitalik-buterin-megaeth-funding-token-valuation
 
-[^4]: [The Block - $50M Token Sale](https://www.theblock.co/post/376265/megaeth-raises-50-million-minutes-mega-token-sale-tops-3x-demand) - October 2025 public sale 3x oversubscribed. 🔷 HARD DATA
+[^4]: The Block. (2025, October 27). MegaETH $50M Token Sale. *The Block*. Retrieved January 2, 2026, from https://www.theblock.co/post/376265/megaeth-raises-50-million-minutes-mega-token-sale-tops-3x-demand 🔷 HARD DATA
 
-[^5]: [The Block - MiCA Whitepaper Tokenomics](https://www.theblock.co/post/375871/megaeths-mica-whitepaper-tokenomics-team-allocation-sequencer-features) - 9.5% team allocation, sequencer infrastructure details.
+[^5]: The Block. (2025, October). MiCA Whitepaper Tokenomics. *The Block*. Retrieved January 2, 2026, from https://www.theblock.co/post/375871/megaeths-mica-whitepaper-tokenomics-team-allocation-sequencer-features
 
-[^6]: [Stanford Blockchain Review - MegaETH Analysis](https://review.stanfordblockchain.xyz/p/66-megaeth-building-a-real-time-blockchain) - Technical architecture with JIT compilation and node specialization.
+[^6]: Stanford Blockchain Review. (2025). MegaETH: Building a Real-Time Blockchain. *Stanford Blockchain Review*. Retrieved January 2, 2026, from https://review.stanfordblockchain.xyz/p/66-megaeth-building-a-real-time-blockchain
 
-[^7]: [The Block - USDm Stablecoin Launch](https://www.theblock.co/post/369786/megaeth-usdm-stablecoin) - Partnership with Ethena to subsidize sequencer fees.
+[^7]: The Block. (2025, March). USDm Stablecoin Launch. *The Block*. Retrieved January 2, 2026, from https://www.theblock.co/post/369786/megaeth-usdm-stablecoin
 
-[^8]: [Crypto Briefing - Public Sale Details](https://cryptobriefing.com/megaeth-public-sale-hyperliquid/) - $5B FDV pre-launch expectations.
+[^8]: Crypto Briefing. (2025, October). Public Sale Details. *Crypto Briefing*. Retrieved January 2, 2026, from https://cryptobriefing.com/megaeth-public-sale-hyperliquid/
 
-[^9]: [Ecoinimist - MegaETH Testnet Launch](https://ecoinimist.com/2025/03/22/megaeth-launches-testnet/) - Public testnet performance validation.
+[^9]: Ecoinimist. (2025, March 22). MegaETH Testnet Launch. *Ecoinimist*. Retrieved January 2, 2026, from https://ecoinimist.com/2025/03/22/megaeth-launches-testnet/
 
-[^10]: [CoinGecko - What Is MegaETH](https://www.coingecko.com/learn/what-is-megaeth) - Founder profiles Da Bing and Shuyao Kong.
+[^10]: CoinGecko. (2025). What Is MegaETH. *CoinGecko*. Retrieved January 2, 2026, from https://www.coingecko.com/learn/what-is-megaeth 🔷 HARD DATA
 
-[^11]: [MegaETH Labs GitHub](https://github.com/megaeth-labs) - Development activity in Rust, Go, C++.
+[^11]: MegaETH Labs. (2025). GitHub Repository. *GitHub*. Retrieved January 2, 2026, from https://github.com/megaeth-labs
 
-[^12]: [Gate.io - MegaETH Analysis](https://www.gate.com/news/detail/15234051) - HFT and institutional use cases.
+[^12]: Gate.io. (2025). MegaETH Analysis. *Gate.io*. Retrieved January 2, 2026, from https://www.gate.com/news/detail/15234051
 
-[^13]: [Medium - Foolproof Labs - MegaETH DApps](https://medium.com/foolproof-labs/the-rise-of-megaeth-meet-the-dapps-unlocking-blockchains-fast-lane-1b97dc6559cd) - Ecosystem applications overview.
+[^13]: Foolproof Labs. (2025). MegaETH DApps Overview. *Medium*. Retrieved January 2, 2026, from https://medium.com/foolproof-labs/the-rise-of-megaeth-meet-the-dapps-unlocking-blockchains-fast-lane-1b97dc6559cd
 
-[^14]: [MegaETH Token Sale Platform](https://token.megaeth.com/) - MEGA token specifications and sale details.
+[^14]: MegaETH. (2025). Token Sale Platform. *MegaETH*. Retrieved January 2, 2026, from https://token.megaeth.com/
 
-[^15]: [DL News - Vitalik MegaETH Investment](https://www.dlnews.com/articles/defi/ethereum-co-founder-vitalik-buterin-funds-megaeth-raise/) - $10M community round on Echo platform.
+[^15]: DL News. (2024, June). Vitalik MegaETH Investment. *DL News*. Retrieved January 2, 2026, from https://www.dlnews.com/articles/defi/ethereum-co-founder-vitalik-buterin-funds-megaeth-raise/
 
-[^16]: [The Block - MEGA Token Auction](https://www.theblock.co/post/375712/megaeth-to-offer-5-of-its-total-mega-supply-in-english-auction-at-baseline-1-million-fully-diluted-valuation) - 5% supply auction details.
+[^16]: The Block. (2025, October). MEGA Token Auction. *The Block*. Retrieved January 2, 2026, from https://www.theblock.co/post/375712/megaeth-to-offer-5-of-its-total-mega-supply-in-english-auction-at-baseline-1-million-fully-diluted-valuation
 
-[^17]: [MegaETH Labs Substack](https://megaethlabs.substack.com) - "ENDGAME: How we've achieved 10ms blocks."
+[^17]: MegaETH Labs. (2025). ENDGAME: 10ms Blocks. *MegaETH Labs Substack*. Retrieved January 2, 2026, from https://megaethlabs.substack.com
 
-[^18]: [Transak - MegaETH vs Monad](https://transak.com/blog/megaeth-vs-monad) - Competitive comparison analysis.
+[^18]: Transak. (2025). MegaETH vs Monad. *Transak*. Retrieved January 2, 2026, from https://transak.com/blog/megaeth-vs-monad
 
-[^19]: [Hyperliquid Documentation](https://docs.hyperliquid.xyz/) - Competitive comparison reference.
+[^19]: Hyperliquid. (2025). Documentation. *Hyperliquid Docs*. Retrieved January 2, 2026, from https://docs.hyperliquid.xyz/
 
-[^20]: [MegaETH Research Documentation](https://www.megaeth.com/research) - Technical specifications and whitepapers.
+[^20]: MegaETH. (2025). Research Documentation. *MegaETH*. Retrieved January 2, 2026, from https://www.megaeth.com/research
 
-[^21]: [MegaETH MiCA Whitepaper PDF](https://static.megaeth.com/MEGA%20MiCA%20Whitepaper.pdf) - Regulatory compliance documentation.
+[^21]: MegaETH. (2025). MiCA Whitepaper PDF. *MegaETH*. Retrieved January 2, 2026, from https://static.megaeth.com/MEGA%20MiCA%20Whitepaper.pdf
 
-[^22]: [MegaETH Testnet](https://testnet.megaeth.com/) - Public testnet access.
+[^22]: MegaETH. (2025). Testnet Portal. *MegaETH*. Retrieved January 2, 2026, from https://testnet.megaeth.com/
 
-[^23]: [MegaETH Twitter/X](https://x.com/megaeth_labs) - Official social media and announcements.
+[^23]: MegaETH Labs. (2025). Twitter/X. *Twitter*. Retrieved January 2, 2026, from https://x.com/megaeth_labs
 
-[^24]: [MegaETH Discord](https://discord.gg/megaeth) - Community channel.
+[^24]: MegaETH. (2025). Discord Community. *Discord*. Retrieved January 2, 2026, from https://discord.gg/megaeth
 
-[^25]: [MegaETH Telegram](https://t.me/megaeth_labs) - Community updates.
+[^25]: MegaETH Labs. (2025). Telegram. *Telegram*. Retrieved January 2, 2026, from https://t.me/megaeth_labs
 
-[^26]: [EigenDA Documentation](https://docs.eigenda.xyz/) - Data availability layer integration.
+[^26]: EigenDA. (2025). Documentation. *EigenDA Docs*. Retrieved January 2, 2026, from https://docs.eigenda.xyz/
 
-[^27]: [Ethena Labs](https://ethena.fi/) - USDm stablecoin partnership.
+[^27]: Ethena Labs. (2025). Platform. *Ethena*. Retrieved January 2, 2026, from https://ethena.fi/
 
-[^28]: [Dragonfly Capital Portfolio](https://dragonfly.xyz/portfolio) - Lead investor in seed round.
+[^28]: Dragonfly Capital. (2024). Portfolio. *Dragonfly*. Retrieved January 2, 2026, from https://dragonfly.xyz/portfolio
 
-[^29]: [Figment Capital](https://figment.io/capital) - Investor participation.
+[^29]: Figment Capital. (2024). Portfolio. *Figment*. Retrieved January 2, 2026, from https://figment.io/capital
 
-[^30]: [Robot Ventures](https://robvc.com/) - Investor participation.
+[^30]: Robot Ventures. (2024). Portfolio. *Robot Ventures*. Retrieved January 2, 2026, from https://robvc.com/
 
-[^31]: [Messari - Layer 2 Research](https://messari.io/research/layer-2) - Comparative blockchain analysis.
+[^31]: Messari. (2025). Layer 2 Research. *Messari*. Retrieved January 2, 2026, from https://messari.io/research/layer-2
 
-[^32]: [CryptoRank - MegaETH](https://cryptorank.io/ico/megaeth) - ICO and funding analysis. 🔷 HARD DATA
+[^32]: CryptoRank. (2025). MegaETH ICO. *CryptoRank*. Retrieved January 2, 2026, from https://cryptorank.io/ico/megaeth 🔷 HARD DATA
 
-[^33]: [DefiLlama - Layer 2](https://defillama.com/chains/Rollup) - L2 TVL comparisons. 🔷 HARD DATA
+[^33]: DefiLlama. (2025). Layer 2 TVL. *DefiLlama*. Retrieved January 2, 2026, from https://defillama.com/chains/Rollup 🔷 HARD DATA
 
-[^34]: [L2Beat - Ethereum Layer 2](https://l2beat.com/) - L2 risk assessment and metrics. 🔷 HARD DATA
+[^34]: L2Beat. (2025). Ethereum Layer 2. *L2Beat*. Retrieved January 2, 2026, from https://l2beat.com/ 🔷 HARD DATA
 
-[^35]: [Dune Analytics - L2 Metrics](https://dune.com/) - On-chain analytics. 🔷 HARD DATA
+[^35]: Dune Analytics. (2025). L2 Metrics. *Dune Analytics*. Retrieved January 2, 2026, from https://dune.com/ 🔷 HARD DATA
 
-[^36]: [Bankless - Ethereum Analysis](https://www.bankless.com/) - Industry news and analysis.
+[^36]: Bankless. (2025). Ethereum Analysis. *Bankless*. Retrieved January 2, 2026, from https://www.bankless.com/
 
-[^37]: [Blockworks - Market Analysis](https://blockworks.co/) - Crypto market coverage.
+[^37]: Blockworks. (2025). Market Analysis. *Blockworks*. Retrieved January 2, 2026, from https://blockworks.co/
 
-[^38]: [OAK Research](https://oak.gg/) - Technical investigations.
+[^38]: OAK Research. (2025). Technical Investigations. *OAK Research*. Retrieved January 2, 2026, from https://oak.gg/
 
-[^39]: [CoinDesk - MegaETH Coverage](https://www.coindesk.com/) - News and analysis.
+[^39]: CoinDesk. (2025). MegaETH Coverage. *CoinDesk*. Retrieved January 2, 2026, from https://www.coindesk.com/
 
-[^40]: [Decrypt - Layer 2 News](https://decrypt.co/) - Industry coverage.
+[^40]: Decrypt. (2025). Layer 2 News. *Decrypt*. Retrieved January 2, 2026, from https://decrypt.co/
 
-[^41]: [The Defiant - DeFi Analysis](https://thedefiant.io/) - DeFi-focused coverage.
+[^41]: The Defiant. (2025). DeFi Analysis. *The Defiant*. Retrieved January 2, 2026, from https://thedefiant.io/
 
-[^42]: [Token Terminal - L2 Metrics](https://tokenterminal.com/) - Protocol revenue data. 🔷 HARD DATA
+[^42]: Token Terminal. (2025). L2 Metrics. *Token Terminal*. Retrieved January 2, 2026, from https://tokenterminal.com/ 🔷 HARD DATA
 
-[^43]: [Nansen - L2 Flows](https://www.nansen.ai/) - Wallet and flow analytics.
+[^43]: Nansen. (2025). L2 Flows. *Nansen*. Retrieved January 2, 2026, from https://www.nansen.ai/
 
-[^44]: [Arbitrum Documentation](https://docs.arbitrum.io/) - Competitor comparison reference.
+[^44]: Arbitrum. (2025). Documentation. *Arbitrum Docs*. Retrieved January 2, 2026, from https://docs.arbitrum.io/
 
-[^45]: [Base Documentation](https://docs.base.org/) - Competitor comparison reference.
+[^45]: Base. (2025). Documentation. *Base Docs*. Retrieved January 2, 2026, from https://docs.base.org/
 
-[^46]: [Optimism Documentation](https://docs.optimism.io/) - Competitor comparison reference.
+[^46]: Optimism. (2025). Documentation. *Optimism Docs*. Retrieved January 2, 2026, from https://docs.optimism.io/
 
-[^47]: [Solana Documentation](https://docs.solana.com/) - Performance comparison reference.
+[^47]: Solana. (2025). Documentation. *Solana Docs*. Retrieved January 2, 2026, from https://docs.solana.com/
 
-[^48]: [CoinMarketCap - MEGA](https://coinmarketcap.com/currencies/megaeth/) - Token market data. 🔷 HARD DATA
+[^48]: CoinMarketCap. (2025). MEGA Token. *CoinMarketCap*. Retrieved January 2, 2026, from https://coinmarketcap.com/currencies/megaeth/ 🔷 HARD DATA
 
-[^49]: [CoinGecko - MEGA Token](https://www.coingecko.com/en/coins/megaeth) - Price and market data. 🔷 HARD DATA
+[^49]: CoinGecko. (2025). MEGA Token. *CoinGecko*. Retrieved January 2, 2026, from https://www.coingecko.com/en/coins/megaeth 🔷 HARD DATA
 
-[^50]: [Crunchbase - MegaETH](https://www.crunchbase.com/organization/megaeth) - Company and funding information.
+[^50]: Crunchbase. (2025). MegaETH Profile. *Crunchbase*. Retrieved January 2, 2026, from https://www.crunchbase.com/organization/megaeth
 
-[^51]: [PitchBook - MegaETH](https://pitchbook.com/) - Investment data.
+[^51]: PitchBook. (2025). MegaETH. *PitchBook*. Retrieved January 2, 2026, from https://pitchbook.com/
 
-[^52]: [LinkedIn - MegaETH Labs](https://www.linkedin.com/company/megaeth-labs/) - Team and company profile.
+[^52]: LinkedIn. (2025). MegaETH Labs. *LinkedIn*. Retrieved January 2, 2026, from https://www.linkedin.com/company/megaeth-labs/
 
-[^53]: [ICO Drops - MegaETH](https://icodrops.com/megaeth/) - Token sale tracking. 🔷 HARD DATA
+[^53]: ICO Drops. (2025). MegaETH. *ICO Drops*. Retrieved January 2, 2026, from https://icodrops.com/megaeth/ 🔷 HARD DATA
 
-[^54]: [SEC - Digital Asset Framework](https://www.sec.gov/) - Regulatory context.
+[^54]: SEC. (2025). Digital Asset Framework. *SEC*. Retrieved January 2, 2026, from https://www.sec.gov/
 
-[^55]: [MiCA Regulation EU](https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica) - EU regulatory framework for crypto assets.
+[^55]: ESMA. (2024). MiCA Regulation. *ESMA*. Retrieved January 2, 2026, from https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica

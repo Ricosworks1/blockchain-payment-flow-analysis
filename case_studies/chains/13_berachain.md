@@ -383,106 +383,106 @@ Critical success factors include proving PoL V2 can reverse BERA's value capture
 
 ## Sources and References
 
-[^1]: [Berachain Documentation - What is Proof-of-Liquidity](https://docs.berachain.com/learn/what-is-proof-of-liquidity) - Official explanation of PoL consensus mechanism and tri-token model.
+[^1]: Berachain Documentation. (2026, January). What is Proof-of-Liquidity. *Berachain Docs*. Retrieved January 2, 2026, from https://docs.berachain.com/learn/what-is-proof-of-liquidity
 
-[^2]: [CoinGecko - Berachain (BERA)](https://www.coingecko.com/en/coins/berachain) - 🔷 HARD DATA: BERA $0.60, market cap $83.09M, circulating 137.95M, ATH $14.83 (January 2, 2026).
+[^2]: CoinGecko. (2026, January 2). Berachain (BERA). *CoinGecko*. Retrieved January 2, 2026, from https://www.coingecko.com/en/coins/berachain 🔷 HARD DATA
 
-[^3]: [DefiLlama - Berachain TVL](https://defillama.com/chain/berachain) - 🔷 HARD DATA: Current TVL $245.8 million retrieved via DefiLlama API (January 2, 2026).
+[^3]: DefiLlama. (2026, January 2). Berachain TVL. *DefiLlama*. Retrieved January 2, 2026, from https://defillama.com/chain/berachain 🔷 HARD DATA
 
-[^4]: [OAK Research - Berachain Report](https://oakresearch.io/en/reports/protocols/berachain-bera-stand-report-three-months-after-mainnet-airdrop) - Testnet statistics (31.8M addresses, 513M transactions) and funding information.
+[^4]: OAK Research. (2025). Berachain BERA Stand Report: Three Months After Mainnet Airdrop. *OAK Research*. Retrieved January 2, 2026, from https://oakresearch.io/en/reports/protocols/berachain-bera-stand-report-three-months-after-mainnet-airdrop
 
-[^5]: [Nasdaq - Greenlane $110M Private Placement](https://www.nasdaq.com/press-release/greenlane-holdings-inc-announces-110-million-private-placement-initiate-berachain) - 🔷 HARD DATA: $110M PIPE ($50M cash + $60M BERA), led by Polychain Capital (October 2025).
+[^5]: Nasdaq. (2025, October 20). Greenlane Holdings Inc Announces $110 Million Private Placement to Initiate Berachain Strategy. *Nasdaq*. Retrieved January 2, 2026, from https://www.nasdaq.com/press-release/greenlane-holdings-inc-announces-110-million-private-placement-initiate-berachain 🔷 HARD DATA
 
-[^6]: [Gate.io - Berachain V2 BERA Value Capture](https://www.gate.com/learn/articles/how-does-berachain-v2-proposal-improve-bera-value-capture/10515) - PoL V2: 33% incentive redirect, 103% staking yield, MC/TVL analysis.
+[^6]: Gate.io Learn. (2025). How Does Berachain V2 Proposal Improve BERA Value Capture. *Gate.io*. Retrieved January 2, 2026, from https://www.gate.com/learn/articles/how-does-berachain-v2-proposal-improve-bera-value-capture/10515
 
-[^7]: [Bitget News - Infrared TGE](https://www.bitget.com/news/detail/12560605115083) - 🔷 HARD DATA: Infrared IR token TGE December 17, 2025, airdrop claim through January 1, 2026.
+[^7]: Bitget News. (2025, December 17). Infrared TGE. *Bitget*. Retrieved January 2, 2026, from https://www.bitget.com/news/detail/12560605115083 🔷 HARD DATA
 
-[^8]: [Greenlane Holdings - BERA Purchase Update](https://investor.gnln.com/news-events/press-releases/detail/182/greenlane-buys-8-million-worth-of-bera-maintains) - 🔷 HARD DATA: $8M BERA purchased, 180K+ BERA earned, 30% annualized yield (January 2026).
+[^8]: Greenlane Holdings Investor Relations. (2026, January). BERA Purchase Update. *Greenlane Holdings*. Retrieved January 2, 2026, from https://investor.gnln.com/news-events/press-releases/detail/182/greenlane-buys-8-million-worth-of-bera-maintains 🔷 HARD DATA
 
-[^9]: [CoinMarketCap - Berachain Latest Updates](https://coinmarketcap.com/cmc-ai/berachain/latest-updates/) - Brevan Howard $25M refund rights controversy, Shima Capital issues (January 2026).
+[^9]: CoinMarketCap. (2026, January). Berachain Latest Updates. *CoinMarketCap*. Retrieved January 2, 2026, from https://coinmarketcap.com/cmc-ai/berachain/latest-updates/
 
-[^10]: [CoinMarketCap - Berachain Latest Updates](https://coinmarketcap.com/cmc-ai/berachain/latest-updates/) - ATL $0.5379 on December 18, 2025, BeaconKit Q4 2025 upgrades, 1M BERA annual burn target.
+[^10]: CoinMarketCap. (2025, December). Berachain Latest Updates. *CoinMarketCap*. Retrieved January 2, 2026, from https://coinmarketcap.com/cmc-ai/berachain/latest-updates/
 
-[^11]: [OAK Research - Berachain Report](https://oakresearch.io/en/reports/protocols/berachain-bera-stand-report-three-months-after-mainnet-airdrop) - Testnet: 31.8M addresses, 513M transactions, 2.5M addresses deploying 201.2M contracts.
+[^11]: OAK Research. (2025). Berachain Report. *OAK Research*. Retrieved January 2, 2026, from https://oakresearch.io/en/reports/protocols/berachain-bera-stand-report-three-months-after-mainnet-airdrop
 
-[^12]: [CoinDesk - Berachain Testnet Launch](https://www.coindesk.com/tech/2024/01/11/liquidity-focused-berachain-opens-layer-1-testnet-to-public) - ⏳ HISTORICAL (January 2024): Testnet launch and early adoption metrics.
+[^12]: CoinDesk. (2024, January 11). Liquidity-Focused Berachain Opens Layer 1 Testnet to Public. *CoinDesk*. Retrieved January 2, 2026, from https://www.coindesk.com/tech/2024/01/11/liquidity-focused-berachain-opens-layer-1-testnet-to-public ⏳ HISTORICAL
 
-[^13]: [Cointelegraph - Berachain TVL $3.2B](https://cointelegraph.com/news/berachain-defi-tvl-3-billion-passes-base-arbitrum) - Peak TVL $3.27B surpassing Arbitrum and Base (February 2025).
+[^13]: Cointelegraph. (2025, February). Berachain DeFi TVL Passes $3 Billion, Surpasses Base and Arbitrum. *Cointelegraph*. Retrieved January 2, 2026, from https://cointelegraph.com/news/berachain-defi-tvl-3-billion-passes-base-arbitrum 🔷 HARD DATA
 
-[^14]: [Cointelegraph - $632M BERA Airdrop](https://cointelegraph.com/news/berachain-632-million-bera-airdrop-mainnet-launch) - 🔷 HARD DATA: $632M airdrop, 200+ dApps deployed, mainnet February 6, 2025.
+[^14]: Cointelegraph. (2025, February 6). Berachain $632 Million BERA Airdrop Mainnet Launch. *Cointelegraph*. Retrieved January 2, 2026, from https://cointelegraph.com/news/berachain-632-million-bera-airdrop-mainnet-launch 🔷 HARD DATA
 
-[^15]: [Berachain Blog - PoL V2](https://blog.berachain.com/blog/introducing-pol-v2) - PoL V2 proposal: 33% bribe fee, 7-day unbonding, LST staking mechanism.
+[^15]: Berachain Blog. (2025, July). Introducing PoL V2. *Berachain Blog*. Retrieved January 2, 2026, from https://blog.berachain.com/blog/introducing-pol-v2
 
-[^16]: [Infrared Finance Medium - BGT Incentives](https://medium.com/@infraredfinance/understanding-the-bgt-and-ibgt-vote-incentives-markets-4e6333679ce1) - BGT emission: 54.52M annual, 1.05M weekly, $8.8M estimated annual value.
+[^16]: Infrared Finance - Medium. (2025). Understanding the BGT and iBGT Vote Incentives Markets. *Medium*. Retrieved January 2, 2026, from https://medium.com/@infraredfinance/understanding-the-bgt-and-ibgt-vote-incentives-markets-4e6333679ce1
 
-[^17]: [DAIC Capital - Berachain Tokens](https://daic.capital/blog/berachain-tokens-explained) - Tri-token economics: BERA, BGT, HONEY, 1:1 BGT-BERA conversion.
+[^17]: DAIC Capital. (2025). Berachain Tokens Explained. *DAIC Capital*. Retrieved January 2, 2026, from https://daic.capital/blog/berachain-tokens-explained
 
-[^18]: [Berachain Documentation - PoL Participants](https://docs.berachain.com/learn/pol/participants) - 100% gas fees to validators, 0.5 BGT per block retained.
+[^18]: Berachain Documentation. (2026, January). PoL Participants. *Berachain Docs*. Retrieved January 2, 2026, from https://docs.berachain.com/learn/pol/participants
 
-[^19]: [Berachain Documentation - FAQs](https://docs.berachain.com/learn/help/faqs) - Transaction costs $0.05-0.20, gas fee structure.
+[^19]: Berachain Documentation. (2026, January). FAQs. *Berachain Docs*. Retrieved January 2, 2026, from https://docs.berachain.com/learn/help/faqs
 
-[^20]: [Fireblocks - Berachain and PoL](https://www.fireblocks.com/blog/what-is-berachain-and-proof-of-liquidity) - Validators direct BGT to reward vaults, bribe competition dynamics.
+[^20]: Fireblocks. (2025). What is Berachain and Proof of Liquidity. *Fireblocks*. Retrieved January 2, 2026, from https://www.fireblocks.com/blog/what-is-berachain-and-proof-of-liquidity
 
-[^21]: [DAIC Capital - BeraHub Guide](https://daic.capital/blog/berachain-berahub-guide) - BGT delegation: no slashing, BEX/HONEY fee sharing, commission strategies.
+[^21]: DAIC Capital. (2025). BeraHub Guide. *DAIC Capital*. Retrieved January 2, 2026, from https://daic.capital/blog/berachain-berahub-guide
 
-[^22]: [PANews - Berachain Mining Guide](https://www.panewslab.com/en/articles/epj9dft2) - First-day RFRV: $500K+ bribes at mainnet launch.
+[^22]: PANews. (2025, February). Berachain Mining Guide. *PANews*. Retrieved January 2, 2026, from https://www.panewslab.com/en/articles/epj9dft2
 
-[^23]: [Berachain Blog - Battle for BGT](https://blog.berachain.com/blog/battle-for-bgt-exploring-user-validator-and-protocol-demand-for-bgt) - Bribe economics: $1 bribe = $1+ BGT value, market efficiency.
+[^23]: Berachain Blog. (2025). Battle for BGT: Exploring User, Validator, and Protocol Demand for BGT. *Berachain Blog*. Retrieved January 2, 2026, from https://blog.berachain.com/blog/battle-for-bgt-exploring-user-validator-and-protocol-demand-for-bgt
 
-[^24]: [Figment - PoL Consensus](https://figment.io/insights/berachain-beyond-the-basics-exploring-proof-of-liquidity-consensus/) - LP revenue: trading fees + BGT emissions + bribes + HONEY rewards.
+[^24]: Figment. (2025). Berachain Beyond the Basics: Exploring Proof of Liquidity Consensus. *Figment*. Retrieved January 2, 2026, from https://figment.io/insights/berachain-beyond-the-basics-exploring-proof-of-liquidity-consensus/
 
-[^25]: [CryptoNinjas - Berachain Ecosystem Surge](https://www.cryptoninjas.net/news/berachain-ecosystem-surges-as-tvl-soars-with-innovative-proof-of-liquidity-model/) - Infrared $1.52B, Kodiak $1.12B, Concrete ~$800M at peak.
+[^25]: CryptoNinjas. (2025, February). Berachain Ecosystem Surges as TVL Soars with Innovative Proof of Liquidity Model. *CryptoNinjas*. Retrieved January 2, 2026, from https://www.cryptoninjas.net/news/berachain-ecosystem-surges-as-tvl-soars-with-innovative-proof-of-liquidity-model/ 🔷 HARD DATA
 
-[^26]: [CoinMarketCap - Infrared What Is](https://coinmarketcap.com/cmc-ai/infrared/what-is/) - 🔷 HARD DATA: IR 1B total supply, 205M circulating, price ~$0.22.
+[^26]: CoinMarketCap. (2026, January). Infrared What Is. *CoinMarketCap*. Retrieved January 2, 2026, from https://coinmarketcap.com/cmc-ai/infrared/what-is/ 🔷 HARD DATA
 
-[^27]: [CoinDesk - Infrared $16M Raise](https://www.coindesk.com/business/2025/03/04/infrared-raises-usd16m-to-roll-out-first-liquidity-staking-protocol-on-berachain) - Infrared funding: $18.75M total ($2.5M seed, $2.25M strategic, $14M Series A).
+[^27]: CoinDesk. (2025, March 4). Infrared Raises $16M to Roll Out First Liquidity Staking Protocol on Berachain. *CoinDesk*. Retrieved January 2, 2026, from https://www.coindesk.com/business/2025/03/04/infrared-raises-usd16m-to-roll-out-first-liquidity-staking-protocol-on-berachain
 
-[^28]: [The Coinomist - Berachain Three-Token Model](https://thecoinomist.com/learn/berachain-the-blockchain-merging-proof-of-liquidity-with-a-three-token-model/) - HONEY stablecoin mechanics and governance.
+[^28]: The Coinomist. (2025). Berachain: The Blockchain Merging Proof of Liquidity with a Three-Token Model. *The Coinomist*. Retrieved January 2, 2026, from https://thecoinomist.com/learn/berachain-the-blockchain-merging-proof-of-liquidity-with-a-three-token-model/
 
-[^29]: [Verse2 Medium - Tri-token Model](https://medium.com/verse2/dive-to-berachain-2-tri-token-model-a934dee39b45) - Trading fees 0.05-0.3% to LPs, example swap cost analysis.
+[^29]: Verse2 - Medium. (2025). Dive to Berachain 2: Tri-Token Model. *Medium*. Retrieved January 2, 2026, from https://medium.com/verse2/dive-to-berachain-2-tri-token-model-a934dee39b45
 
-[^30]: [CoinDesk - Series A $42M](https://www.coindesk.com/business/2023/04/20/defi-focused-layer-1-berachain-raises-42m-series-a-at-42069m-valuation) - ⏳ HISTORICAL (April 2023): Polychain Capital led at $420.69M valuation.
+[^30]: CoinDesk. (2023, April 20). DeFi-Focused Layer 1 Berachain Raises $42M Series A at $420.69M Valuation. *CoinDesk*. Retrieved January 2, 2026, from https://www.coindesk.com/business/2023/04/20/defi-focused-layer-1-berachain-raises-42m-series-a-at-42069m-valuation ⏳ HISTORICAL
 
-[^31]: [The Block - Series B $100M](https://www.theblock.co/post/288066/layer-1-blockchain-developer-berachain-raises-100-million-in-series-b-funding) - ⏳ HISTORICAL (April 2024): Framework Ventures, Brevan Howard led at $1.5B valuation.
+[^31]: The Block. (2024, April). Layer 1 Blockchain Developer Berachain Raises $100 Million in Series B Funding. *The Block*. Retrieved January 2, 2026, from https://www.theblock.co/post/288066/layer-1-blockchain-developer-berachain-raises-100-million-in-series-b-funding ⏳ HISTORICAL
 
-[^32]: [Berachain Documentation - What is PoL](https://docs.berachain.com/learn/what-is-proof-of-liquidity) - PoL eliminates staking vs liquidity conflict, aligns validator incentives.
+[^32]: Berachain Documentation. (2026, January). What is PoL. *Berachain Docs*. Retrieved January 2, 2026, from https://docs.berachain.com/learn/what-is-proof-of-liquidity
 
-[^33]: [Medium - PoL Deep Dive](https://medium.com/@ankitacode11/deep-dive-into-proof-of-liquidity-berachains-game-changing-consensus-mechanism-0e95bb057112) - MEV opportunities and validator economics analysis.
+[^33]: Medium. (2025). Deep Dive into Proof of Liquidity: Berachain's Game-Changing Consensus Mechanism. *Medium*. Retrieved January 2, 2026, from https://medium.com/@ankitacode11/deep-dive-into-proof-of-liquidity-berachains-game-changing-consensus-mechanism-0e95bb057112
 
-[^34]: [CoinMarketCap - What Is Berachain](https://coinmarketcap.com/cmc-ai/berachain/what-is/) - EVM compatibility, development ecosystem, tooling.
+[^34]: CoinMarketCap. (2026, January). What Is Berachain. *CoinMarketCap*. Retrieved January 2, 2026, from https://coinmarketcap.com/cmc-ai/berachain/what-is/
 
-[^35]: [Everstake - Validators in Berachain](https://everstake.one/blog/shaping-liquidity-and-growth-the-role-of-validators-in-berachain) - Validator requirements: 250K-10M BERA stake, block parameters.
+[^35]: Everstake. (2025). Shaping Liquidity and Growth: The Role of Validators in Berachain. *Everstake*. Retrieved January 2, 2026, from https://everstake.one/blog/shaping-liquidity-and-growth-the-role-of-validators-in-berachain
 
-[^36]: [Berachain Foundation](https://x.com/berachain) - Roadmap announcements and development updates.
+[^36]: Berachain Foundation - X (Twitter). (2026, January). *X (Twitter)*. Retrieved January 2, 2026, from https://x.com/berachain
 
-[^37]: [Blockworks - $1.6B Pre-Launch Liquidity](https://blockworks.co/news/berachain-pre-launch-liquidity) - Pre-launch liquidity flooding before mainnet.
+[^37]: Blockworks. (2025, February). Berachain Pre-Launch Liquidity. *Blockworks*. Retrieved January 2, 2026, from https://blockworks.co/news/berachain-pre-launch-liquidity
 
-[^38]: [Cryptodamus - Berachain TVL Surge](https://cryptodamus.io/en/articles/news/berachain-s-3-27b-tvl-surge-how-did-they-do-it-a-deep-dive) - TVL growth analysis, $3.27B peak deep dive.
+[^38]: Cryptodamus. (2025, February). Berachain's $3.27B TVL Surge: How Did They Do It - A Deep Dive. *Cryptodamus*. Retrieved January 2, 2026, from https://cryptodamus.io/en/articles/news/berachain-s-3-27b-tvl-surge-how-did-they-do-it-a-deep-dive
 
-[^39]: [Ormi Labs - Berachain Case Study](https://blog.ormilabs.com/ormi-berachain-case-study/) - 2025 mainnet launch and TGE analysis.
+[^39]: Ormi Labs Blog. (2025). Berachain Case Study. *Ormi Labs*. Retrieved January 2, 2026, from https://blog.ormilabs.com/ormi-berachain-case-study/
 
-[^40]: [Bitget News - PoL V2 Analysis](https://www.bitget.site/news/detail/12560605028618) - PoL V2 mechanism upgrades and improvements.
+[^40]: Bitget News. (2025). PoL V2 Analysis. *Bitget*. Retrieved January 2, 2026, from https://www.bitget.site/news/detail/12560605028618
 
-[^41]: [OKX Learn - PoL V2 Yield Asset](https://www.okx.com/learn/berachain-pol-v2-bera-yield-asset) - BERA transformation to yield-generating asset.
+[^41]: OKX Learn. (2025). Berachain PoL V2: BERA as Yield Asset. *OKX*. Retrieved January 2, 2026, from https://www.okx.com/learn/berachain-pol-v2-bera-yield-asset
 
-[^42]: [Crypto.news - PoL V2 33% Incentives](https://crypto.news/berachain-shares-new-proof-of-liquidity-proposal-with-33-incentives-going-to-bera-rewards/) - PoL V2 proposal details and community response.
+[^42]: Crypto.news. (2025, July). Berachain Shares New Proof of Liquidity Proposal with 33% Incentives Going to BERA Rewards. *Crypto.news*. Retrieved January 2, 2026, from https://crypto.news/berachain-shares-new-proof-of-liquidity-proposal-with-33-incentives-going-to-bera-rewards/
 
-[^43]: [NODERS Team - PoL Explained](https://medium.com/@NODERS_TEAM/summary-berachain-proof-of-liquidity-explained-d10dd72fc5e1) - PoL summary and mechanism explanation.
+[^43]: NODERS Team - Medium. (2025). Summary: Berachain Proof of Liquidity Explained. *Medium*. Retrieved January 2, 2026, from https://medium.com/@NODERS_TEAM/summary-berachain-proof-of-liquidity-explained-d10dd72fc5e1
 
-[^44]: [Luganodes - Exploring Berachain](https://www.luganodes.com/blog/berachain-proofofliquidity/) - PoL exploration and validator perspective.
+[^44]: Luganodes. (2025). Exploring Berachain Proof of Liquidity. *Luganodes*. Retrieved January 2, 2026, from https://www.luganodes.com/blog/berachain-proofofliquidity/
 
-[^45]: [Decrypt - What Is Berachain](https://decrypt.co/resources/what-is-berachain-proof-of-liquidity-blockchain) - Berachain overview and BERA airdrop details.
+[^45]: Decrypt. (2025). What Is Berachain Proof of Liquidity Blockchain. *Decrypt*. Retrieved January 2, 2026, from https://decrypt.co/resources/what-is-berachain-proof-of-liquidity-blockchain
 
-[^46]: [Kraken Blog - IR Trading](https://blog.kraken.com/product/asset-listings/ir-is-available-for-trading) - 🔷 HARD DATA: Kraken IR listing announcement.
+[^46]: Kraken Blog. (2025, December). IR Is Available for Trading. *Kraken*. Retrieved January 2, 2026, from https://blog.kraken.com/product/asset-listings/ir-is-available-for-trading 🔷 HARD DATA
 
-[^47]: [MEXC Blog - Infrared Finance](https://blog.mexc.com/what-is-infrared-finance-ir-and-how-to-trade-it/) - IR token utility and trading information.
+[^47]: MEXC Blog. (2025). What Is Infrared Finance (IR) and How to Trade It. *MEXC*. Retrieved January 2, 2026, from https://blog.mexc.com/what-is-infrared-finance-ir-and-how-to-trade-it/
 
-[^48]: [ChainCatcher - Infrared TGE](https://www.chaincatcher.com/en/article/2229341) - Infrared TGE December 17 confirmation.
+[^48]: ChainCatcher. (2025, December). Infrared TGE. *ChainCatcher*. Retrieved January 2, 2026, from https://www.chaincatcher.com/en/article/2229341
 
-[^49]: [Investing.com - Greenlane $8M BERA](https://www.investing.com/news/company-news/greenlane-expands-berachain-holdings-with-8-million-bera-purchase-93CH-4396238) - Greenlane BERA accumulation details.
+[^49]: Investing.com. (2026, January). Greenlane Expands Berachain Holdings with $8 Million BERA Purchase. *Investing.com*. Retrieved January 2, 2026, from https://www.investing.com/news/company-news/greenlane-expands-berachain-holdings-with-8-million-bera-purchase-93CH-4396238 🔷 HARD DATA
 
-[^50]: [Ventureburn - Greenlane $110M](https://ventureburn.com/greenlane-holdings-raises-110-million/) - Greenlane treasury strategy financing details.
+[^50]: Ventureburn. (2025, October). Greenlane Holdings Raises $110 Million. *Ventureburn*. Retrieved January 2, 2026, from https://ventureburn.com/greenlane-holdings-raises-110-million/
 
-[^51]: [Messari - Berachain](https://messari.io/project/berachain) - Berachain research and fundraising data.
+[^51]: Messari. (2025). Berachain. *Messari*. Retrieved January 2, 2026, from https://messari.io/project/berachain
 
-[^52]: [Bitget News - Berachain BERA](https://www.bitget.com/price/berachain/news) - Real-time Berachain news and updates.
+[^52]: Bitget News. (2026, January). Berachain BERA. *Bitget*. Retrieved January 2, 2026, from https://www.bitget.com/price/berachain/news

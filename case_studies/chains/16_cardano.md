@@ -276,158 +276,106 @@ Cardano's innovation in treasury-funded development, combined with technical arc
 
 ## Sources and References
 
-[^1]: DefiLlama. (2025). "Cardano TVL." DefiLlama. Retrieved from https://defillama.com/chain/Cardano
-🔷 HARD DATA: Cardano TVL $179.4 million retrieved via DefiLlama API (January 2, 2026)
+[^1]: DefiLlama. (2026, January 2). Cardano TVL. *DefiLlama*. Retrieved January 2, 2026, from https://defillama.com/chain/Cardano 🔷 HARD DATA
 
-[^2]: CoinGecko. (2025). "Cardano (ADA) Price, Market Cap, Chart." CoinGecko. Retrieved from https://www.coingecko.com/en/coins/cardano
-🔷 HARD DATA: ADA $0.372, market cap $13.62B (rank #12), 24h volume $603.03M, circulating 36.66B (January 2, 2026)
+[^2]: CoinGecko. (2026, January 2). Cardano (ADA) Price, Market Cap, Chart. *CoinGecko*. Retrieved January 2, 2026, from https://www.coingecko.com/en/coins/cardano 🔷 HARD DATA
 
-[^3]: Cardano Foundation. (2024). "eUTxO Smart Contracts." Cardano Academy. Retrieved from https://cardanofoundation.org/academy/course/aiken-eutxo-smart-contracts-cardano
-⏳ HISTORICAL (2024): Technical documentation of eUTXO model advantages and parallel processing
+[^3]: Cardano Foundation. (2024). eUTxO Smart Contracts. *Cardano Foundation Academy*. Retrieved January 2, 2026, from https://cardanofoundation.org/academy/course/aiken-eutxo-smart-contracts-cardano ⏳ HISTORICAL
 
-[^4]: The Crypto Basic. (2025). "Here's Why Cardano Is About to Evolve Into Something Bigger in 2026." The Crypto Basic. Retrieved from https://thecryptobasic.com/2025/12/18/heres-why-cardano-is-about-to-evolve-into-something-bigger-in-2026/
-70M ADA treasury for stablecoins, Ouroboros Leios 2026 roadmap, Bitcoin DeFi integration plans
+[^4]: The Crypto Basic. (2025, December 18). Here's Why Cardano Is About to Evolve Into Something Bigger in 2026. *The Crypto Basic*. Retrieved January 2, 2026, from https://thecryptobasic.com/2025/12/18/heres-why-cardano-is-about-to-evolve-into-something-bigger-in-2026/
 
-[^5]: CryptoRank. (2025). "Cardano's Momentum Builds as Midnight Unlocks Hydra Scalability." CryptoRank. Retrieved from https://cryptorank.io/news/feed/6b7fe-cardanos-momentum-builds-as-midnight-unlocks-hydra-scalability
-Hydra v1.0 mainnet launch October 2025, $71M ADA treasury budget for upgrades
+[^5]: CryptoRank. (2025). Cardano's Momentum Builds as Midnight Unlocks Hydra Scalability. *CryptoRank*. Retrieved January 2, 2026, from https://cryptorank.io/news/feed/6b7fe-cardanos-momentum-builds-as-midnight-unlocks-hydra-scalability
 
-[^6]: Cardano Docs. (2025). "Chang | Cardano Docs." Cardano Documentation. Retrieved from https://docs.cardano.org/about-cardano/evolution/upgrades/chang
-Plomin hard fork governance action submitted epoch 529 (December 20, 2025), Conway era implementation
+[^6]: Cardano Docs. (2025, December 20). Chang | Cardano Docs. *Cardano Documentation*. Retrieved January 2, 2026, from https://docs.cardano.org/about-cardano/evolution/upgrades/chang
 
-[^7]: Cardano Docs. (2024). "Fee structure." Cardano Documentation. Retrieved from https://docs.cardano.org/about-cardano/explore-more/fee-structure
-Official fee structure documentation and stake pool operator revenue model
+[^7]: Cardano Docs. (2024). Fee structure. *Cardano Documentation*. Retrieved January 2, 2026, from https://docs.cardano.org/about-cardano/explore-more/fee-structure ⏳ HISTORICAL
 
-[^8]: Essential Cardano. (2024). "Stake Pool Fees." Essential Cardano. Retrieved from https://www.essentialcardano.io/faq/stake-pool-fees
-⏳ HISTORICAL (2024): Fixed fee component 0.155381 ADA plus 0.000043946 ADA per byte
+[^8]: Essential Cardano. (2024). Stake Pool Fees. *Essential Cardano*. Retrieved January 2, 2026, from https://www.essentialcardano.io/faq/stake-pool-fees ⏳ HISTORICAL
 
-[^9]: TradingView. (2024). "Best 5 Cardano Staking Pools." TradingView News. Retrieved from https://www.tradingview.com/news/cryptopotato:bc49b5ecd094b:0-best-5-cardano-staking-pools-how-to-stake-ada-in-2024/
-⏳ HISTORICAL (2024): Transaction cost analysis and staking pool selection
+[^9]: TradingView. (2024). Best 5 Cardano Staking Pools. *TradingView*. Retrieved January 2, 2026, from https://www.tradingview.com/news/cryptopotato:bc49b5ecd094b:0-best-5-cardano-staking-pools-how-to-stake-ada-in-2024/ ⏳ HISTORICAL
 
-[^10]: Cardano Docs. (2024). "Plutus." Cardano Documentation. Retrieved from https://docs.cardano.org/developer-resources/smart-contracts/plutus
-Native token capabilities and smart contract development framework
+[^10]: Cardano Docs. (2024). Plutus. *Cardano Documentation*. Retrieved January 2, 2026, from https://docs.cardano.org/developer-resources/smart-contracts/plutus ⏳ HISTORICAL
 
-[^11]: IOHK Blog. (2025). "Shaping Cardano's future: Input | Output Engineering proposal." IOHK. Retrieved from https://iohk.io/en/blog/posts/2025/06/26/shaping-cardanos-future-input-output-engineering-development-proposal/
-IOE $13.4M (26.848M ADA) funding with 73.93% community approval
+[^11]: IOHK Blog. (2025, June 26). Shaping Cardano's future: Input | Output Engineering proposal. *IOHK Blog*. Retrieved January 2, 2026, from https://iohk.io/en/blog/posts/2025/06/26/shaping-cardanos-future-input-output-engineering-development-proposal/
 
-[^12]: Cardano Foundation. (2024). "2024 Financial Insights Report." Cardano Foundation. Retrieved from https://cardanofoundation.org/blog/2024-financial-insights-report
-⏳ HISTORICAL (2024): Foundation $22.1M budget, $659.1M assets, NASA/Barcelona FC partnerships
+[^12]: Cardano Foundation. (2024). 2024 Financial Insights Report. *Cardano Foundation Blog*. Retrieved January 2, 2026, from https://cardanofoundation.org/blog/2024-financial-insights-report ⏳ HISTORICAL
 
-[^13]: Project Catalyst. (2025). "Innovation grants to build on Cardano." Project Catalyst. Retrieved from https://projectcatalyst.io/
-Fund 14 20M ADA allocation, 9,950 proposals, 3,083,068 total votes cast
+[^13]: Project Catalyst. (2025). Innovation grants to build on Cardano. *Project Catalyst*. Retrieved January 2, 2026, from https://projectcatalyst.io/
 
-[^14]: Medium. (2024). "Catalyst Fund 12 Voting Results." Tap In With TapTools. Retrieved from https://medium.com/tap-in-with-taptools/catalyst-fund-12-voting-results-b16f5cb26a54
-⏳ HISTORICAL (2024): Fund 12 approved 258 proposals
+[^14]: Medium. (2024). Catalyst Fund 12 Voting Results. *TapTools on Medium*. Retrieved January 2, 2026, from https://medium.com/tap-in-with-taptools/catalyst-fund-12-voting-results-b16f5cb26a54 ⏳ HISTORICAL
 
-[^15]: Cointelegraph. (2025). "Cardano's Chang hard fork successful as it shifts to decentralized governance." Cointelegraph. Retrieved from https://cointelegraph.com/news/cardano-chang-hard-fork-successful-shifts-decentralized-governance
-Constitutional convention December 4-6, 2024 Buenos Aires/Nairobi, 95% delegate approval
+[^15]: Cointelegraph. (2025). Cardano's Chang hard fork successful as it shifts to decentralized governance. *Cointelegraph*. Retrieved January 2, 2026, from https://cointelegraph.com/news/cardano-chang-hard-fork-successful-shifts-decentralized-governance
 
-[^16]: Cardano.org. (2024). "Delegate your stake." Cardano Foundation. Retrieved from https://cardano.org/stake-pool-delegation/
-⏳ HISTORICAL (2024): K-parameter 500 optimal pools, 64M ADA saturation limit
+[^16]: Cardano.org. (2024). Delegate your stake. *Cardano*. Retrieved January 2, 2026, from https://cardano.org/stake-pool-delegation/ ⏳ HISTORICAL
 
-[^17]: Everstake. (2025). "Cardano (ADA) Staking: Calculator, Rewards & APY." Everstake. Retrieved from https://everstake.one/staking/cardano
-Staking APY 4-6%, no slashing, epoch-based 5-day rewards
+[^17]: Everstake. (2025). Cardano (ADA) Staking: Calculator, Rewards & APY. *Everstake*. Retrieved January 2, 2026, from https://everstake.one/staking/cardano
 
-[^18]: The Crypto Basic. (2025). "Cardano Sees 28% DeFi TVL Growth to 3-Year Peak." The Crypto Basic. Retrieved from https://thecryptobasic.com/2025/11/11/cardano-sees-28-defi-tvl-growth-to-3-year-peak-42-rise-in-market-cap-in-q3-2025/
-Q3 2025: TVL $423.5M (+28.7% QoQ), market cap $29.5B (+42.5%), stablecoin $38.1M
+[^18]: The Crypto Basic. (2025, November 11). Cardano Sees 28% DeFi TVL Growth to 3-Year Peak. *The Crypto Basic*. Retrieved January 2, 2026, from https://thecryptobasic.com/2025/11/11/cardano-sees-28-defi-tvl-growth-to-3-year-peak-42-rise-in-market-cap-in-q3-2025/
 
-[^19]: FinBold. (2024). "Cardano adds over 70,000 smart contracts in 2024." FinBold. Retrieved from https://finbold.com/cardano-adds-over-70000-smart-contracts-in-2024/
-⏳ HISTORICAL (2024): 72,787 smart contracts, Plutus V2 growth from 8,083 to 80,437
+[^19]: FinBold. (2024). Cardano adds over 70,000 smart contracts in 2024. *FinBold*. Retrieved January 2, 2026, from https://finbold.com/cardano-adds-over-70000-smart-contracts-in-2024/ ⏳ HISTORICAL
 
-[^20]: Midnight Network. (2025). "Scaling infrastructure for NIGHT token distribution with Hydra." Midnight Blog. Retrieved from https://midnight.network/blog/hydra-heads-overview
-NIGHT Glacier Drop using Hydra for 34M addresses across 8 blockchain ecosystems
+[^20]: Midnight Network. (2025). Scaling infrastructure for NIGHT token distribution with Hydra. *Midnight Network Blog*. Retrieved January 2, 2026, from https://midnight.network/blog/hydra-heads-overview
 
-[^21]: LeveX. (2025). "Cardano Hydra Layer 2 Scaling 2025: The Complete Guide." LeveX. Retrieved from https://levex.com/en/blog/cardano-hydra-layer-2-scaling-2025
-Hydra 1,000 TPS per head, linear scalability, no off-chain fees
+[^21]: LeveX. (2025). Cardano Hydra Layer 2 Scaling 2025: The Complete Guide. *LeveX*. Retrieved January 2, 2026, from https://levex.com/en/blog/cardano-hydra-layer-2-scaling-2025
 
-[^22]: IOHK Blog. (2021). "Hydra – Cardano's solution for ultimate Layer 2 scalability." IOHK. Retrieved from https://iohk.io/en/blog/posts/2021/09/17/hydra-cardano-s-solution-for-ultimate-scalability/
-⏳ HISTORICAL: Mithril light client protocol, scaling roadmap
+[^22]: IOHK Blog. (2021, September 17). Hydra – Cardano's solution for ultimate Layer 2 scalability. *IOHK Blog*. Retrieved January 2, 2026, from https://iohk.io/en/blog/posts/2021/09/17/hydra-cardano-s-solution-for-ultimate-scalability/ ⏳ HISTORICAL
 
-[^23]: The Crypto Basic. (2025). "Hoskinson Says Midnight Won't Kill Cardano, Will Expand DeFi 10x." The Crypto Basic. Retrieved from https://thecryptobasic.com/2025/12/22/hoskinson-says-midnight-wont-kill-cardano-but-will-expand-its-defi-ecosystem-by-10x/
-Midnight 2026 target, RLUSD Ripple discussions, potential $1.78B TVL
+[^23]: The Crypto Basic. (2025, December 22). Hoskinson Says Midnight Won't Kill Cardano, Will Expand DeFi 10x. *The Crypto Basic*. Retrieved January 2, 2026, from https://thecryptobasic.com/2025/12/22/hoskinson-says-midnight-wont-kill-cardano-but-will-expand-its-defi-ecosystem-by-10x/
 
-[^24]: Statista. (2024). "Cardano network transactions per day 2025." Statista. Retrieved from https://www.statista.com/statistics/1202328/average-number-cardano-transactions/
-⏳ HISTORICAL (2024): Network capacity 250 TPS, 0.5479 kWh per transaction
+[^24]: Statista. (2024). Cardano network transactions per day 2025. *Statista*. Retrieved January 2, 2026, from https://www.statista.com/statistics/1202328/average-number-cardano-transactions/ ⏳ HISTORICAL
 
-[^25]: IOHK. (2022). "Cardano's foundational research overview." IOHK Blog. Retrieved from https://iohk.io/en/blog/posts/2022/06/10/cardanos-foundational-research-overview/
-⏳ HISTORICAL: Peer-review process, academic partnerships, formal verification
+[^25]: IOHK. (2022, June 10). Cardano's foundational research overview. *IOHK Blog*. Retrieved January 2, 2026, from https://iohk.io/en/blog/posts/2022/06/10/cardanos-foundational-research-overview/ ⏳ HISTORICAL
 
-[^26]: Cardano.org. (2024). "What is Ouroboros?" Cardano Foundation. Retrieved from https://cardano.org/ouroboros/
-⏳ HISTORICAL (2024): Ouroboros consensus protocol design and energy efficiency
+[^26]: Cardano.org. (2024). What is Ouroboros? *Cardano*. Retrieved January 2, 2026, from https://cardano.org/ouroboros/ ⏳ HISTORICAL
 
-[^27]: CoinMarketCap. (2025). "Cardano price today, ADA to USD live price." CoinMarketCap. Retrieved from https://coinmarketcap.com/currencies/cardano/
-Fee distribution comparison: Cardano 100% to validators vs Ethereum 80% burn
+[^27]: CoinMarketCap. (2025). Cardano price today, ADA to USD live price. *CoinMarketCap*. Retrieved January 2, 2026, from https://coinmarketcap.com/currencies/cardano/
 
-[^28]: Cardano Docs. (2024). "CIP-1694 Treasury." GitHub. Retrieved from https://github.com/cardano-foundation/CIPs/tree/master/CIP-1694
-⏳ HISTORICAL (2024): Treasury mechanism specification and funding model
+[^28]: Cardano Docs. (2024). CIP-1694 Treasury. *GitHub*. Retrieved January 2, 2026, from https://github.com/cardano-foundation/CIPs/tree/master/CIP-1694 ⏳ HISTORICAL
 
-[^29]: Messari. (2024). "Cardano | Market Data & Trends." Messari. Retrieved from https://messari.io/project/cardano/charts/market
-⏳ HISTORICAL (2024): 4.5% inflation rate, 40-year reserve depletion timeline
+[^29]: Messari. (2024). Cardano | Market Data & Trends. *Messari*. Retrieved January 2, 2026, from https://messari.io/project/cardano/charts/market ⏳ HISTORICAL
 
-[^30]: EMURGO. (2024). "Development on Cardano 2024." EMURGO Africa. Retrieved from https://www.emurgo.africa/blog/posts/blockchain-education-dev-on-cardano-2024
-⏳ HISTORICAL (2024): Developer ecosystem growth and competitive analysis
+[^30]: EMURGO. (2024). Development on Cardano 2024. *EMURGO Africa*. Retrieved January 2, 2026, from https://www.emurgo.africa/blog/posts/blockchain-education-dev-on-cardano-2024 ⏳ HISTORICAL
 
-[^31]: Medium. (2025). "Cardano Ecosystem Guide Q4 2025." Tap In With TapTools. Retrieved from https://medium.com/tap-in-with-taptools/cardano-ecosystem-guide-q3-2025-af9d194020e2
-Q4 2025 ecosystem overview, DeFi protocol performance
+[^31]: Medium. (2025). Cardano Ecosystem Guide Q4 2025. *TapTools on Medium*. Retrieved January 2, 2026, from https://medium.com/tap-in-with-taptools/cardano-ecosystem-guide-q3-2025-af9d194020e2
 
-[^32]: Cointelegraph. (2025). "DeFi done differently: Cardano's innovative DEX leaders in focus." Cointelegraph. Retrieved from https://cointelegraph.com/market-releases/defi-done-differently-cardanos-innovative-dex-leaders-in-focus
-Minswap and Liqwid competitive analysis
+[^32]: Cointelegraph. (2025). DeFi done differently: Cardano's innovative DEX leaders in focus. *Cointelegraph*. Retrieved January 2, 2026, from https://cointelegraph.com/market-releases/defi-done-differently-cardanos-innovative-dex-leaders-in-focus
 
-[^33]: Messari. (2025). "Understanding Liqwid on Cardano." Messari Copilot. Retrieved from https://messari.io/copilot/share/understanding-liqwid-on-cardano-7e6d0a80-08d5-449e-ab6b-9f740b013ef3
-Liqwid Finance TVL leadership, qToken adoption, RWA lending
+[^33]: Messari. (2025). Understanding Liqwid on Cardano. *Messari*. Retrieved January 2, 2026, from https://messari.io/copilot/share/understanding-liqwid-on-cardano-7e6d0a80-08d5-449e-ab6b-9f740b013ef3
 
-[^34]: Minswap. (2025). "Minswap DEX | Multi-pool decentralized exchange on Cardano." Minswap. Retrieved from https://minswap.org/
-Official Minswap platform, 75% trading volume share
+[^34]: Minswap. (2025). Minswap DEX | Multi-pool decentralized exchange on Cardano. *Minswap*. Retrieved January 2, 2026, from https://minswap.org/
 
-[^35]: Learn Cardano. (2025). "Cardano ADA News Update, 19th May 2025." Learn Cardano. Retrieved from https://learncardano.io/podcasts/cardano-ada-news-update-19th-may-2025/
-May 2025 ecosystem news and development updates
+[^35]: Learn Cardano. (2025, May 19). Cardano ADA News Update, 19th May 2025. *Learn Cardano*. Retrieved January 2, 2026, from https://learncardano.io/podcasts/cardano-ada-news-update-19th-may-2025/
 
-[^36]: EMURGO. (2024). "What to Know About the Chang Hard Fork." EMURGO. Retrieved from https://www.emurgo.io/press-news/what-to-know-about-the-chang-hard-fork-cardano/
-Chang hard fork technical overview and Conway era features
+[^36]: EMURGO. (2024). What to Know About the Chang Hard Fork. *EMURGO*. Retrieved January 2, 2026, from https://www.emurgo.io/press-news/what-to-know-about-the-chang-hard-fork-cardano/ ⏳ HISTORICAL
 
-[^37]: ZyCrypto. (2025). "Cardano Founder Outlines Future Plans For ADA Network Post-Chang." ZyCrypto. Retrieved from https://zycrypto.com/cardano-founder-outlines-future-plans-for-ada-network-post-chang-hardfork/
-Hoskinson 2026 roadmap and development priorities
+[^37]: ZyCrypto. (2025). Cardano Founder Outlines Future Plans For ADA Network Post-Chang. *ZyCrypto*. Retrieved January 2, 2026, from https://zycrypto.com/cardano-founder-outlines-future-plans-for-ada-network-post-chang-hardfork/
 
-[^38]: CryptoPotato. (2025). "Cardano Transitions to Decentralized Governance Following Chang Hard Fork." CryptoPotato. Retrieved from https://cryptopotato.com/cardano-transitions-to-decentralized-governance-following-chang-hard-fork/
-Governance transition and ADA holder voting rights
+[^38]: CryptoPotato. (2025). Cardano Transitions to Decentralized Governance Following Chang Hard Fork. *CryptoPotato*. Retrieved January 2, 2026, from https://cryptopotato.com/cardano-transitions-to-decentralized-governance-following-chang-hard-fork/
 
-[^39]: DL News. (2024). "Cardano set for hard fork that will hand control to ADA holders." DL News. Retrieved from https://www.dlnews.com/articles/defi/cardano-hard-fork-chang-will-give-control-to-ada-holders/
-⏳ HISTORICAL (2024): Pre-Chang governance structure analysis
+[^39]: DL News. (2024). Cardano set for hard fork that will hand control to ADA holders. *DL News*. Retrieved January 2, 2026, from https://www.dlnews.com/articles/defi/cardano-hard-fork-chang-will-give-control-to-ada-holders/ ⏳ HISTORICAL
 
-[^40]: Phemex. (2025). "Cardano's Hydra Live on Midnight, Targets 2026 Milestone." Phemex News. Retrieved from https://phemex.com/news/article/cardanos-hydra-goes-live-on-midnight-network-aims-for-2026-milestone-28281
-Hydra-Midnight integration and 2026 development targets
+[^40]: Phemex. (2025). Cardano's Hydra Live on Midnight, Targets 2026 Milestone. *Phemex*. Retrieved January 2, 2026, from https://phemex.com/news/article/cardanos-hydra-goes-live-on-midnight-network-aims-for-2026-milestone-28281
 
-[^41]: OKX. (2025). "Cardano's Evolution: How Hydra and Midnight Updates Are Shaping ADA's Future." OKX Learn. Retrieved from https://www.okx.com/en-us/learn/cardano-hydra-midnight-updates
-Technical analysis of Hydra and Midnight developments
+[^41]: OKX. (2025). Cardano's Evolution: How Hydra and Midnight Updates Are Shaping ADA's Future. *OKX*. Retrieved January 2, 2026, from https://www.okx.com/en-us/learn/cardano-hydra-midnight-updates
 
-[^42]: Coin Bureau. (2025). "Cardano Review 2025: Midnight, Hydra and Other Updates." Coin Bureau. Retrieved from https://coinbureau.com/review/cardano-review/
-Comprehensive 2025 ecosystem review
+[^42]: Coin Bureau. (2025). Cardano Review 2025: Midnight, Hydra and Other Updates. *Coin Bureau*. Retrieved January 2, 2026, from https://coinbureau.com/review/cardano-review/
 
-[^43]: CoinDCX. (2025). "Top Cardano News: NIGHT Token Airdrop and Hoskinson's Bold ADA Prediction." CoinDCX. Retrieved from https://coindcx.com/blog/crypto-news-global/top-cardano-news/
-NIGHT token distribution and Hoskinson predictions
+[^43]: CoinDCX. (2025). Top Cardano News: NIGHT Token Airdrop and Hoskinson's Bold ADA Prediction. *CoinDCX*. Retrieved January 2, 2026, from https://coindcx.com/blog/crypto-news-global/top-cardano-news/
 
-[^44]: CoinMarketCap. (2025). "Latest Cardano News - (ADA) Future Outlook." CoinMarketCap. Retrieved from https://coinmarketcap.com/cmc-ai/cardano/latest-updates/
-AI-curated Cardano news and market insights
+[^44]: CoinMarketCap. (2025). Latest Cardano News - (ADA) Future Outlook. *CoinMarketCap*. Retrieved January 2, 2026, from https://coinmarketcap.com/cmc-ai/cardano/latest-updates/
 
-[^45]: MEXC. (2025). "How Cardano Plans to Become Something Bigger in 2026." MEXC News. Retrieved from https://www.mexc.com/news/301313
-2026 roadmap analysis and scaling plans
+[^45]: MEXC. (2025). How Cardano Plans to Become Something Bigger in 2026. *MEXC*. Retrieved January 2, 2026, from https://www.mexc.com/news/301313
 
-[^46]: LeveX. (2025). "Cardano DeFi Ecosystem Explodes: $300M TVL and Growing Fast." LeveX. Retrieved from https://levex.com/en/blog/cardano-defi-ecosystem-explodes-300m-tvl-growth
-DeFi ecosystem growth trajectory analysis
+[^46]: LeveX. (2025). Cardano DeFi Ecosystem Explodes: $300M TVL and Growing Fast. *LeveX*. Retrieved January 2, 2026, from https://levex.com/en/blog/cardano-defi-ecosystem-explodes-300m-tvl-growth
 
-[^47]: The Crypto Basic. (2025). "US Treasury Compares Ripple Stablecoin, USDT, and USDC." The Crypto Basic. Retrieved from https://thecryptobasic.com/2025/05/28/us-treasury-compares-ripple-stablecoin-usdt-and-usdc-in-recent-report/
-RLUSD $1.26B market cap, third-largest US-regulated stablecoin
+[^47]: The Crypto Basic. (2025, May 28). US Treasury Compares Ripple Stablecoin, USDT, and USDC. *The Crypto Basic*. Retrieved January 2, 2026, from https://thecryptobasic.com/2025/05/28/us-treasury-compares-ripple-stablecoin-usdt-and-usdc-in-recent-report/
 
-[^48]: Ripple. (2025). "Ripple USD (RLUSD) Stablecoin." Ripple. Retrieved from https://ripple.com/solutions/stablecoin/
-Official RLUSD documentation and multi-chain expansion plans
+[^48]: Ripple. (2025). Ripple USD (RLUSD) Stablecoin. *Ripple*. Retrieved January 2, 2026, from https://ripple.com/solutions/stablecoin/
 
-[^49]: NFT Evening. (2025). "The Rise of Stablecoins: 2025 Market Update." NFT Evening. Retrieved from https://nftevening.com/the-rise-of-stablecoins/
-$250B stablecoin market, GENIUS Act July 2025, BNY custody
+[^49]: NFT Evening. (2025). The Rise of Stablecoins: 2025 Market Update. *NFT Evening*. Retrieved January 2, 2026, from https://nftevening.com/the-rise-of-stablecoins/
 
-[^50]: CoinLaw. (2025). "RLUSD Statistics 2025: Powering Stablecoin Growth." CoinLaw. Retrieved from https://coinlaw.io/rlusd-statistics/
-RLUSD 1,278% YTD growth, 80% Ethereum / 20% XRPL distribution
+[^50]: CoinLaw. (2025). RLUSD Statistics 2025: Powering Stablecoin Growth. *CoinLaw*. Retrieved January 2, 2026, from https://coinlaw.io/rlusd-statistics/
 
-[^51]: Bitcoin Ethereum News. (2025). "Cardano DeFi Surges as Stablecoin Market Expands in Q3 2025." Bitcoin Ethereum News. Retrieved from https://bitcoinethereumnews.com/finance/cardano-defi-surges-as-stablecoin-market-expands-in-q3-2025/
-Q3 2025 stablecoin expansion and DeFi performance
+[^51]: Bitcoin Ethereum News. (2025). Cardano DeFi Surges as Stablecoin Market Expands in Q3 2025. *Bitcoin Ethereum News*. Retrieved January 2, 2026, from https://bitcoinethereumnews.com/finance/cardano-defi-surges-as-stablecoin-market-expands-in-q3-2025/
 
-[^52]: Project Catalyst. (2025). "DeFi Buddy: Simplifying DeFi for Everyone." Project Catalyst Fund 14. Retrieved from https://projectcatalyst.io/funds/14/cardano-use-cases-concepts/defi-buddy-simplifying-defi-for-everyone
-Fund 14 DeFi proposal example and community innovation
+[^52]: Project Catalyst. (2025). DeFi Buddy: Simplifying DeFi for Everyone. *Project Catalyst*. Retrieved January 2, 2026, from https://projectcatalyst.io/funds/14/cardano-use-cases-concepts/defi-buddy-simplifying-defi-for-everyone

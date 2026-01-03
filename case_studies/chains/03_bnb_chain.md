@@ -525,109 +525,109 @@ Unlike Ethereum's fee-burning approach or Solana's inflation-based model, BNB Ch
 
 ## References
 
-[^1]: [BNB Chain Blog](https://bitcoinethereumnews.com/tech/bnb-chain-completes-33rd-token-burn-over-1-4-million-bnb-removed/) - "BNB Chain Completes 33rd Token Burn: Over 1.4 Million BNB Removed" (October 2025). 1.44M BNB burned (~$1.2B), remaining supply 137.7M BNB.
+[^1]: Bitcoin Ethereum News. (2025, October). BNB Chain Completes 33rd Token Burn: Over 1.4 Million BNB Removed. *Bitcoin Ethereum News*. Retrieved January 2, 2026, from https://bitcoinethereumnews.com/tech/bnb-chain-completes-33rd-token-burn-over-1-4-million-bnb-removed/
 
-[^2]: [BNB Chain Blog](https://www.bnbchain.org/en/blog/bnb-chain-announces-maxwell-hardfork-bsc-moves-to-0-75-second-block-times) - "Maxwell Hardfork: BSC Moves to 0.75-Second Block Times" (June 30, 2025). Block time reduced from 1.5s to 0.75s.
+[^2]: BNB Chain. (2025, June 30). Maxwell Hardfork: BSC Moves to 0.75-Second Block Times. *BNB Chain Blog*. Retrieved January 2, 2026, from https://www.bnbchain.org/en/blog/bnb-chain-announces-maxwell-hardfork-bsc-moves-to-0-75-second-block-times
 
-[^3]: 🔷 HARD DATA - [CoinGecko API](https://www.coingecko.com/en/coins/bnb) - BNB price $864.18, market cap $119.05B, circulating supply 137.7M BNB. Retrieved January 2, 2026.
+[^3]: CoinGecko. (2026, January 2). BNB Price, Market Cap & Charts. *CoinGecko*. Retrieved January 2, 2026, from https://www.coingecko.com/en/coins/bnb 🔷 HARD DATA
 
-[^4]: 🔷 HARD DATA - [DefiLlama](https://defillama.com/chain/BSC) - BNB Chain TVL $6.58 billion. Retrieved January 2, 2026.
+[^4]: DefiLlama. (2026, January 2). BNB Chain TVL. *DefiLlama*. Retrieved January 2, 2026, from https://defillama.com/chain/BSC 🔷 HARD DATA
 
-[^5]: [BNB Chain Blog](https://www.bnbchain.org/en/blog/introducing-bep-95-with-a-real-time-burning-mechanism) - "Introducing BEP-95 With a Real-Time Burning Mechanism." 10% burn, 90% validators, governance-adjustable ratio.
+[^5]: BNB Chain. (2021). Introducing BEP-95 With a Real-Time Burning Mechanism. *BNB Chain Blog*. Retrieved January 2, 2026, from https://www.bnbchain.org/en/blog/introducing-bep-95-with-a-real-time-burning-mechanism
 
-[^6]: [BNB Chain Documentation](https://docs.bnbchain.org/) - Transaction costs <$0.01 post-Maxwell upgrade. Gas reduced from 3 gwei to 0.1 gwei.
+[^6]: BNB Chain. (2025). BNB Chain Documentation. *BNB Chain Docs*. Retrieved January 2, 2026, from https://docs.bnbchain.org/
 
-[^7]: [BNB Chain Blog](https://www.bnbchain.org/en/blog/bsc-feynman-hardfork-bnb-chain-fusion-native-staking-and-native-governence) - "BSC Feynman Hardfork" (April 2024). 45 validators (21 Cabinets, 24 Candidates), native staking introduced.
+[^7]: BNB Chain. (2024, April). BSC Feynman Hardfork: BNB Chain Fusion, Native Staking and Native Governance. *BNB Chain Blog*. Retrieved January 2, 2026, from https://www.bnbchain.org/en/blog/bsc-feynman-hardfork-bnb-chain-fusion-native-staking-and-native-governence
 
-[^8]: [Invezz](https://invezz.com/news/2025/10/27/bnb-foundation-confirms-1-66b-quarterly-burn-as-token-scarcity-continues/) - "BNB Foundation Confirms $1.66B Quarterly Burn" (October 2025). Annualized deflation rate 3.5%.
+[^8]: Invezz. (2025, October 27). BNB Foundation Confirms $1.66B Quarterly Burn. *Invezz*. Retrieved January 2, 2026, from https://invezz.com/news/2025/10/27/bnb-foundation-confirms-1-66b-quarterly-burn-as-token-scarcity-continues/
 
-[^9]: [BNB Chain Blog](https://www.bnbchain.org/en/blog/29th-bnb-burn) - "29th BNB Burn." Auto-burn mechanism details, blackhole address, Pioneer Burn Program, 242K BNB burned via BEP-95.
+[^9]: BNB Chain. (2024). 29th BNB Burn. *BNB Chain Blog*. Retrieved January 2, 2026, from https://www.bnbchain.org/en/blog/29th-bnb-burn
 
-[^10]: [BNB Chain Blog](https://www.bnbchain.org/en/blog/bnb-chains-infrastructure-just-levelled-up-heres-what-changed) - "BNB Chain's Infrastructure Just Levelled Up." Lorentz hardfork April 29, 2025, block time 3s to 1.5s.
+[^10]: BNB Chain. (2025, April 29). BNB Chain's Infrastructure Just Levelled Up. *BNB Chain Blog*. Retrieved January 2, 2026, from https://www.bnbchain.org/en/blog/bnb-chains-infrastructure-just-levelled-up-heres-what-changed
 
-[^11]: [CryptoRank](https://cryptorank.io/news/feed/be8a6-understanding-bnbs-maxwell-upgrade) - "Understanding BNB's Maxwell Upgrade." 0.75s blocks, 1.875s finality, 100M gas/second throughput.
+[^11]: CryptoRank. (2025). Understanding BNB's Maxwell Upgrade. *CryptoRank*. Retrieved January 2, 2026, from https://cryptorank.io/news/feed/be8a6-understanding-bnbs-maxwell-upgrade
 
-[^12]: [Bitcoin Ethereum News](https://bitcoinethereumnews.com/finance/bnb-chain-validators-propose-to-halve-fees-after-bnb-scales-1000) - "BNB Chain Validators Propose to Halve Fees." Gas 3 gwei to 0.1 gwei, 75% fee drop, 140% volume increase.
+[^12]: Bitcoin Ethereum News. (2024). BNB Chain Validators Propose to Halve Fees. *Bitcoin Ethereum News*. Retrieved January 2, 2026, from https://bitcoinethereumnews.com/finance/bnb-chain-validators-propose-to-halve-fees-after-bnb-scales-1000
 
-[^13]: [Invezz](https://invezz.com/news/2025/09/24/bnb-chain-eyes-ultra-cheap-fees-as-validators-propose-50-gas-reduction/) - "BNB Chain Eyes Ultra-Cheap Fees" (September 2025). 50% additional gas reduction proposed.
+[^13]: Invezz. (2025, September 24). BNB Chain Eyes Ultra-Cheap Fees. *Invezz*. Retrieved January 2, 2026, from https://invezz.com/news/2025/09/24/bnb-chain-eyes-ultra-cheap-fees-as-validators-propose-50-gas-reduction/
 
-[^14]: [Messari](https://messari.io/report/state-of-bnb-chain-q3-2025) - "State of BNB Chain Q3 2025." 13.3M daily transactions, 2.3M daily addresses, $772B PancakeSwap volume, 1B gas limit roadmap.
+[^14]: Messari. (2025). State of BNB Chain Q3 2025. *Messari*. Retrieved January 2, 2026, from https://messari.io/report/state-of-bnb-chain-q3-2025
 
-[^15]: [Bitcoin Ethereum News](https://bitcoinethereumnews.com/tech/goodwill-alliance-drastically-reduces-sandwich-attacks-on-bnb-chain/) - "Goodwill Alliance Drastically Reduces Sandwich Attacks." 95% reduction, 140K to <1K daily attacks, 90%+ GWA builder blocks.
+[^15]: Bitcoin Ethereum News. (2025, March). Goodwill Alliance Drastically Reduces Sandwich Attacks on BNB Chain. *Bitcoin Ethereum News*. Retrieved January 2, 2026, from https://bitcoinethereumnews.com/tech/goodwill-alliance-drastically-reduces-sandwich-attacks-on-bnb-chain/
 
-[^16]: [PancakeSwap](https://pancakeswap.finance/) - DEX swap fees 0.25%, dominant BSC DEX.
+[^16]: PancakeSwap. (2025). PancakeSwap DEX. *PancakeSwap*. Retrieved January 2, 2026, from https://pancakeswap.finance/
 
-[^17]: [Panda Academy](https://pandaacademy.medium.com/bscs-45-validator-nodes-exposed-who-s-pulling-the-strings-143c3dc3c5c3) - "BSC's 45 Validator Nodes." 29.2M BNB staked, minimum 73,446 BNB stake, daily 00:00 UTC selection.
+[^17]: Panda Academy. (2025). BSC's 45 Validator Nodes Exposed. *Medium*. Retrieved January 2, 2026, from https://pandaacademy.medium.com/bscs-45-validator-nodes-exposed-who-s-pulling-the-strings-143c3dc3c5c3
 
-[^18]: [BscScan](https://bscscan.com/stat/miner?range=7&blocktype=blocks) - "Top 25 Validators by Blocks." 873,440 blocks validated by 45 validators in 7 days.
+[^18]: BscScan. (2026, January 2). Top 25 Validators by Blocks. *BscScan*. Retrieved January 2, 2026, from https://bscscan.com/stat/miner?range=7&blocktype=blocks 🔷 HARD DATA
 
-[^19]: [BNB Chain Staking](https://www.bnbchain.org/en/bnb-staking) - Official staking portal. ~25.5M BNB staked, 45 of 52 validators active.
+[^19]: BNB Chain. (2026). BNB Staking Portal. *BNB Chain*. Retrieved January 2, 2026, from https://www.bnbchain.org/en/bnb-staking
 
-[^20]: [Staking Rewards](https://www.stakingrewards.com/asset/binance-smart-chain) - BNB staking APY 0.7%-7.28%, 7-10% commission, auto-compounding, 7-day unbonding.
+[^20]: Staking Rewards. (2026, January 2). Binance Smart Chain Staking. *Staking Rewards*. Retrieved January 2, 2026, from https://www.stakingrewards.com/asset/binance-smart-chain 🔷 HARD DATA
 
-[^21]: [ChainCatcher](https://www.chaincatcher.com/en/article/2154208) - "Lista DAO: Reshaping BNB Financial Ecosystem." 18.3% APY vs native 11.8%.
+[^21]: ChainCatcher. (2025). Lista DAO: Reshaping BNB Financial Ecosystem. *ChainCatcher*. Retrieved January 2, 2026, from https://www.chaincatcher.com/en/article/2154208
 
-[^22]: [Binance](https://www.binance.com/en/square/post/2024-07-22-bnb-foundation-completes-28th-quarterly-bnb-burn-11130310123249) - "BNB Foundation Completes Quarterly BNB Burn." Network activity-based formula, target 100M BNB supply.
+[^22]: Binance. (2024, July 22). BNB Foundation Completes Quarterly BNB Burn. *Binance Square*. Retrieved January 2, 2026, from https://www.binance.com/en/square/post/2024-07-22-bnb-foundation-completes-28th-quarterly-bnb-burn-11130310123249 ⏳ HISTORICAL
 
-[^23]: [BNB Chain Blog](https://www.bnbchain.org/en/blog/binance-labs-invests-in-five-exceptional-projects-from-bnb-chains-mvb-season-7-2) - "Binance Labs Invests in MVB Season 7." Up to $200K grants, $300K LaaS packages.
+[^23]: BNB Chain. (2024). Binance Labs Invests in MVB Season 7. *BNB Chain Blog*. Retrieved January 2, 2026, from https://www.bnbchain.org/en/blog/binance-labs-invests-in-five-exceptional-projects-from-bnb-chains-mvb-season-7-2
 
-[^24]: [DropStab](https://dropstab.com/research/crypto/bnb-ecosystem-in-2025) - "The State of the BNB Chain Ecosystem 2025." YZi Labs $1B Builder Fund.
+[^24]: DropStab. (2025). The State of the BNB Chain Ecosystem 2025. *DropStab*. Retrieved January 2, 2026, from https://dropstab.com/research/crypto/bnb-ecosystem-in-2025
 
-[^25]: [DefiLlama](https://defillama.com/protocol/pancakeswap) - PancakeSwap TVL ~$1.67B, 85% BSC DEX market share.
+[^25]: DefiLlama. (2026, January 2). PancakeSwap TVL. *DefiLlama*. Retrieved January 2, 2026, from https://defillama.com/protocol/pancakeswap 🔷 HARD DATA
 
-[^26]: [Blockchain News](https://blockchain.news/news/bnb-chain-weekly-highlights-ecosystem-developments) - PancakeSwap volume $5B to $11B weekly (2x YoY), 29.18% spot DEX market share.
+[^26]: Blockchain News. (2025). BNB Chain Weekly Highlights: Ecosystem Developments. *Blockchain News*. Retrieved January 2, 2026, from https://blockchain.news/news/bnb-chain-weekly-highlights-ecosystem-developments
 
-[^27]: [Messari](https://messari.io/report/state-of-venus-q3-2025) - "State of Venus Q3 2025." $2.8B TVL (24.4% QoQ), $958M borrowed, 50% BSC lending share.
+[^27]: Messari. (2025). State of Venus Q3 2025. *Messari*. Retrieved January 2, 2026, from https://messari.io/report/state-of-venus-q3-2025
 
-[^28]: [Crypto Economy](https://crypto-economy.com/venus-protocol-tvl-climbs-24-in-q3-to-reach-2-8-billion/) - "Venus Protocol TVL Climbs 24% to $2.8 Billion."
+[^28]: Crypto Economy. (2025). Venus Protocol TVL Climbs 24% to $2.8 Billion. *Crypto Economy*. Retrieved January 2, 2026, from https://crypto-economy.com/venus-protocol-tvl-climbs-24-in-q3-to-reach-2-8-billion/
 
-[^29]: [AInvest](https://www.ainvest.com/news/lista-dao-tvl-doubles-1-3-billion-month-driven-28-74-bnb-staking-yield-2505/) - "Lista DAO TVL Nearly Doubles to $1.3B" (May 2025), later reached $2.5B+.
+[^29]: AInvest. (2025, May). Lista DAO TVL Nearly Doubles to $1.3B. *AInvest*. Retrieved January 2, 2026, from https://www.ainvest.com/news/lista-dao-tvl-doubles-1-3-billion-month-driven-28-74-bnb-staking-yield-2505/
 
-[^30]: [CoinTelegraph](https://cointelegraph.com/press-releases/lista-lending-reshaping-lending-on-bnb-chain) - "Lista Lending: Reshaping Lending on BNB Chain" (April 2025). $189M deposits in 4 days, 0.58%-1.86% borrow rates.
+[^30]: CoinTelegraph. (2025, April). Lista Lending: Reshaping Lending on BNB Chain. *CoinTelegraph*. Retrieved January 2, 2026, from https://cointelegraph.com/press-releases/lista-lending-reshaping-lending-on-bnb-chain
 
-[^31]: [Bitcoin Ethereum News](https://bitcoinethereumnews.com/tech/bnb-chains-weekly-highlights-ecosystem-developments-and-user-engagement/) - "BNB Chain Weekly Highlights" (Dec 4-10, 2025). $11B TVL, $33.2B weekly volume.
+[^31]: Bitcoin Ethereum News. (2025, December 10). BNB Chain Weekly Highlights: Ecosystem Developments and User Engagement. *Bitcoin Ethereum News*. Retrieved January 2, 2026, from https://bitcoinethereumnews.com/tech/bnb-chains-weekly-highlights-ecosystem-developments-and-user-engagement/
 
-[^32]: [Bitcoin Ethereum News](https://bitcoinethereumnews.com/finance/bnb-chain-wraps-up-fifth-round-of-tvl-incentive-program-driving-growth-in-restaking-and-liquid-staking-ecosystem/) - "Fifth Round TVL Incentive Program." Lista DAO 1,704 BNB delegation support.
+[^32]: Bitcoin Ethereum News. (2025). Fifth Round TVL Incentive Program. *Bitcoin Ethereum News*. Retrieved January 2, 2026, from https://bitcoinethereumnews.com/finance/bnb-chain-wraps-up-fifth-round-of-tvl-incentive-program-driving-growth-in-restaking-and-liquid-staking-ecosystem/
 
-[^33]: [opBNB Documentation](https://docs.bnbchain.org/bnb-opbnb/overview/) - opBNB overview. 10,000 TPS peak, <$0.001 transactions, OP Stack based.
+[^33]: BNB Chain. (2025). opBNB Documentation. *BNB Chain Docs*. Retrieved January 2, 2026, from https://docs.bnbchain.org/bnb-opbnb/overview/
 
-[^34]: [BNB Chain](https://opbnb.bnbchain.org/en) - opBNB official. High-performance optimistic L2, transaction batching, data compression.
+[^34]: BNB Chain. (2025). opBNB Official. *opBNB*. Retrieved January 2, 2026, from https://opbnb.bnbchain.org/en
 
-[^35]: [BNB Chain Blog](https://www.bnbchain.org/en/blog) - opBNB metrics January 2026. 1.7-2.0M DAU, 22-25M daily transactions.
+[^35]: BNB Chain. (2026, January). BNB Chain Blog. *BNB Chain Blog*. Retrieved January 2, 2026, from https://www.bnbchain.org/en/blog
 
-[^36]: [Messari](https://messari.io/report/state-of-bnb-chain-q3-2025) - Q3 2025 MEV data. 99.8% Builder API adoption, 95%+ sandwich attack reduction.
+[^36]: Messari. (2025). State of BNB Chain Q3 2025 - MEV Data. *Messari*. Retrieved January 2, 2026, from https://messari.io/report/state-of-bnb-chain-q3-2025
 
-[^37]: [BNB Chain Blog](https://www.bnbchain.org/en/blog/protecting-users-from-sandwich-attacks-bnb-chain-introduces-mev-protection-with-several-wallets) - "Protecting Users from Sandwich Attacks." Wallet integrations: Binance, Trust, OKX, TokenPocket.
+[^37]: BNB Chain. (2025, March). Protecting Users from Sandwich Attacks. *BNB Chain Blog*. Retrieved January 2, 2026, from https://www.bnbchain.org/en/blog/protecting-users-from-sandwich-attacks-bnb-chain-introduces-mev-protection-with-several-wallets
 
-[^38]: [Ankr](https://www.ankr.com/staking-crypto/binance-bnb/) - "BNB Liquid Staking with Ankr." ankrBNB liquid staking token, instant liquidity.
+[^38]: Ankr. (2025). BNB Liquid Staking with Ankr. *Ankr*. Retrieved January 2, 2026, from https://www.ankr.com/staking-crypto/binance-bnb/
 
-[^39]: [BNB Chain Blog](https://www.bnbchain.org/en/blog/bnb-chain-tech-roadmap-2025) - "BNB Chain Tech Roadmap 2025." 1B gas limit, 20,000 TPS, <150ms confirmations, AI integration.
+[^39]: BNB Chain. (2025). BNB Chain Tech Roadmap 2025. *BNB Chain Blog*. Retrieved January 2, 2026, from https://www.bnbchain.org/en/blog/bnb-chain-tech-roadmap-2025
 
-[^40]: [Crypto News Flash](https://www.crypto-news-flash.com/bnb-chain-unveils-2025-tech-roadmap-faster-speeds-ai-and-gasless-transactions/) - "2025 Tech Roadmap: Faster Speeds, AI, Gasless Transactions."
+[^40]: Crypto News Flash. (2025). 2025 Tech Roadmap: Faster Speeds, AI, Gasless Transactions. *Crypto News Flash*. Retrieved January 2, 2026, from https://www.crypto-news-flash.com/bnb-chain-unveils-2025-tech-roadmap-faster-speeds-ai-and-gasless-transactions/
 
-[^41]: [Blockchain News](https://blockchain.news/news/bnb-chain-highlights-key-ecosystem-developments-and-metrics) - Reth client alpha (September 2025), weekly snapshots for node syncing.
+[^41]: Blockchain News. (2025, September). BNB Chain Highlights Key Ecosystem Developments and Metrics. *Blockchain News*. Retrieved January 2, 2026, from https://blockchain.news/news/bnb-chain-highlights-key-ecosystem-developments-and-metrics
 
-[^42]: [Bitcoin Ethereum News](https://bitcoinethereumnews.com/finance/bnb-chain-teases-new-stablecoin-as-network-posts-breakout-q3-performance/) - "BNB Chain Teases New Stablecoin." Q3 2025 stablecoin initiative.
+[^42]: Bitcoin Ethereum News. (2025). BNB Chain Teases New Stablecoin. *Bitcoin Ethereum News*. Retrieved January 2, 2026, from https://bitcoinethereumnews.com/finance/bnb-chain-teases-new-stablecoin-as-network-posts-breakout-q3-performance/
 
-[^43]: [Binance Academy](https://academy.binance.com/en/glossary/proof-of-staked-authority-posa) - PoSA consensus mechanism. 3-second block time (pre-2025), hybrid PoA-DPoS.
+[^43]: Binance Academy. (2024). Proof of Staked Authority (PoSA). *Binance Academy*. Retrieved January 2, 2026, from https://academy.binance.com/en/glossary/proof-of-staked-authority-posa ⏳ HISTORICAL
 
-[^44]: [BscScan](https://bscscan.com/) - BSC block explorer. Real-time network statistics.
+[^44]: BscScan. (2026, January 2). BSC Block Explorer. *BscScan*. Retrieved January 2, 2026, from https://bscscan.com/ 🔷 HARD DATA
 
-[^45]: [CoinMarketCap](https://coinmarketcap.com/currencies/bnb/) - BNB market data and historical prices.
+[^45]: CoinMarketCap. (2026, January 2). BNB Price. *CoinMarketCap*. Retrieved January 2, 2026, from https://coinmarketcap.com/currencies/bnb/ 🔷 HARD DATA
 
-[^46]: [99Bitcoins](https://99bitcoins.com/cryptocurrency/best-crypto-staking-platforms/bnb/) - "How to Stake Binance Coin: BNB Staking Guide 2025."
+[^46]: 99Bitcoins. (2025). How to Stake Binance Coin: BNB Staking Guide 2025. *99Bitcoins*. Retrieved January 2, 2026, from https://99bitcoins.com/cryptocurrency/best-crypto-staking-platforms/bnb/
 
-[^47]: [CryptoTvPlus](https://cryptotvplus.com/2025/02/why-bnb-might-soar-in-2025-ai-1-sec-bnb-chain-block-time/) - "Why BNB Might Soar in 2025: AI & 1-sec Block Time."
+[^47]: CryptoTvPlus. (2025, February). Why BNB Might Soar in 2025: AI & 1-sec Block Time. *CryptoTvPlus*. Retrieved January 2, 2026, from https://cryptotvplus.com/2025/02/why-bnb-might-soar-in-2025-ai-1-sec-bnb-chain-block-time/
 
-[^48]: [Binance News](https://www.binance.com/en/square/post/2024-11-01-bnb-chain-completes-29th-quarterly-token-burn-eliminating-1-07-billion-in-bnb-15645348436154) - "29th Quarterly Token Burn: $1.07 Billion BNB Eliminated."
+[^48]: Binance News. (2024, November 1). 29th Quarterly Token Burn: $1.07 Billion BNB Eliminated. *Binance Square*. Retrieved January 2, 2026, from https://www.binance.com/en/square/post/2024-11-01-bnb-chain-completes-29th-quarterly-token-burn-eliminating-1-07-billion-in-bnb-15645348436154 ⏳ HISTORICAL
 
-[^49]: [DefiLlama](https://defillama.com/protocol/lista-dao) - Lista DAO TVL tracking.
+[^49]: DefiLlama. (2026, January 2). Lista DAO TVL. *DefiLlama*. Retrieved January 2, 2026, from https://defillama.com/protocol/lista-dao 🔷 HARD DATA
 
-[^50]: [DefiLlama](https://defillama.com/protocol/venus) - Venus Protocol TVL tracking.
+[^50]: DefiLlama. (2026, January 2). Venus Protocol TVL. *DefiLlama*. Retrieved January 2, 2026, from https://defillama.com/protocol/venus 🔷 HARD DATA
 
-[^51]: [BNBBurn.info](https://bnbburn.info/) - Real-time BNB burn tracking and Auto-Burn schedule.
+[^51]: BNBBurn.info. (2026, January 2). Real-time BNB Burn Tracking. *BNBBurn.info*. Retrieved January 2, 2026, from https://bnbburn.info/ 🔷 HARD DATA
 
-[^52]: [The Market Periodical](https://themarketperiodical.com/2025/10/28/binance-news-bnb-chain-burns-1-2-billion-worth-of-bnb-tokens/) - "Binance News: BNB Chain Burns $1.2 Billion Worth of BNB Tokens" (October 2025).
+[^52]: The Market Periodical. (2025, October 28). Binance News: BNB Chain Burns $1.2 Billion Worth of BNB Tokens. *The Market Periodical*. Retrieved January 2, 2026, from https://themarketperiodical.com/2025/10/28/binance-news-bnb-chain-burns-1-2-billion-worth-of-bnb-tokens/
 
 ---
 

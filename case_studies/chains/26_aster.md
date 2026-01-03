@@ -763,112 +763,112 @@ Monthly Volume per User: $187.654B / 330,000 users = $568,648 per user
 
 ## Sources and References
 
-[^1]: [DefiLlama - Aster Protocol](https://defillama.com/protocol/aster) - Total Value Locked $1.784B and protocol metrics (October 2025). 🔷 HARD DATA
+[^1]: DeFiLlama. (2025, October). Aster Protocol. *DeFiLlama*. Retrieved January 2, 2026, from https://defillama.com/protocol/aster 🔷 HARD DATA
 
-[^2]: [CoinGecko - Aster](https://www.coingecko.com/en/coins/aster-defi) - $ASTER token price $1.10, market cap $2.222B, 24h volume $431.15M (October 2025). 🔷 HARD DATA
+[^2]: CoinGecko. (2025, October). Aster. *CoinGecko*. Retrieved January 2, 2026, from https://www.coingecko.com/en/coins/aster-defi 🔷 HARD DATA
 
-[^3]: [CoinMarketCap - Aster DEX](https://coinmarketcap.com/currencies/aster-dex/) - Market capitalization and trading volume data. 🔷 HARD DATA
+[^3]: CoinMarketCap. (2025, October). Aster DEX. *CoinMarketCap*. Retrieved January 2, 2026, from https://coinmarketcap.com/currencies/aster-dex/ 🔷 HARD DATA
 
-[^4]: [Aster DEX Official Documentation](https://docs.asterdex.com/) - Technical specifications, fee structures, and protocol mechanics.
+[^4]: Aster DEX. (2025). Official Documentation. *Aster DEX Documentation*. Retrieved January 2, 2026, from https://docs.asterdex.com/
 
-[^5]: [Aster DEX Official Website](https://asterdex.com/) - Protocol overview and feature announcements.
+[^5]: Aster DEX. (2025). Official Website. *Aster DEX*. Retrieved January 2, 2026, from https://asterdex.com/
 
-[^6]: [APX Finance Documentation](https://docs.apx.finance/) - Pre-merger perpetual protocol documentation.
+[^6]: APX Finance. (2025). Documentation. *APX Finance*. Retrieved January 2, 2026, from https://docs.apx.finance/
 
-[^7]: [Astherus Protocol](https://astherus.io/) - Pre-merger yield-bearing collateral protocol information.
+[^7]: Astherus. (2025). Protocol Information. *Astherus*. Retrieved January 2, 2026, from https://astherus.io/
 
-[^8]: [CoinDesk - APX Finance and Astherus Merge](https://www.coindesk.com/markets/2025/09/25/apx-finance-astherus-merge-to-form-aster-dex/) - Merger announcement September 2025.
+[^8]: CoinDesk. (2025, September 25). APX Finance and Astherus Merge. *CoinDesk*. Retrieved January 2, 2026, from https://www.coindesk.com/markets/2025/09/25/apx-finance-astherus-merge-to-form-aster-dex/
 
-[^9]: [The Block - Aster DEX Launch](https://www.theblock.co/post/320000/aster-dex-launches-with-1001x-leverage) - Launch coverage and initial metrics.
+[^9]: The Block. (2025, September). Aster DEX Launch. *The Block*. Retrieved January 2, 2026, from https://www.theblock.co/post/320000/aster-dex-launches-with-1001x-leverage
 
-[^10]: [Cryptonews - Aster DEX Fee Analysis](https://cryptonews.com/news/aster-dex-fee-structure-analysis/) - Fee structure breakdown and revenue model.
+[^10]: Cryptonews. (2025). Aster DEX Fee Analysis. *Cryptonews*. Retrieved January 2, 2026, from https://cryptonews.com/news/aster-dex-fee-structure-analysis/
 
-[^11]: [Coin Bureau - Aster DEX Review](https://www.coinbureau.com/review/aster-dex/) - Comprehensive protocol review and risk assessment.
+[^11]: Coin Bureau. (2025). Aster DEX Review. *Coin Bureau*. Retrieved January 2, 2026, from https://www.coinbureau.com/review/aster-dex/
 
-[^12]: [Atomic Wallet - Aster DEX Guide](https://atomicwallet.io/academy/articles/aster-dex-guide) - User guide and feature overview.
+[^12]: Atomic Wallet. (2025). Aster DEX Guide. *Atomic Wallet*. Retrieved January 2, 2026, from https://atomicwallet.io/academy/articles/aster-dex-guide
 
-[^13]: [YZi Labs Announcement](https://yzi.labs/portfolio/aster) - Investment and backing confirmation from YZi Labs.
+[^13]: YZi Labs. (2025). Aster Investment. *YZi Labs*. Retrieved January 2, 2026, from https://yzi.labs/portfolio/aster
 
-[^14]: [BNBChain Blog - Aster Integration](https://www.bnbchain.org/en/blog/aster-dex-integration) - BNB Chain ecosystem integration details.
+[^14]: BNB Chain. (2025). Aster Integration. *BNB Chain*. Retrieved January 2, 2026, from https://www.bnbchain.org/en/blog/aster-dex-integration
 
-[^15]: [Ethereum Foundation - Layer 2 Perpetuals](https://ethereum.org/en/developers/docs/scaling/) - Ethereum scaling solutions context.
+[^15]: Ethereum Foundation. (2025). Layer 2 Scaling. *Ethereum*. Retrieved January 2, 2026, from https://ethereum.org/en/developers/docs/scaling/
 
-[^16]: [Arbitrum Developer Docs](https://developer.arbitrum.io/) - Arbitrum integration specifications.
+[^16]: Arbitrum. (2025). Developer Docs. *Arbitrum*. Retrieved January 2, 2026, from https://developer.arbitrum.io/
 
-[^17]: [Solana Documentation](https://docs.solana.com/) - Solana chain integration details.
+[^17]: Solana. (2025). Documentation. *Solana Documentation*. Retrieved January 2, 2026, from https://docs.solana.com/
 
-[^18]: [Dune Analytics - Aster Metrics](https://dune.com/queries/aster-dex) - On-chain analytics and transaction data. 🔷 HARD DATA
+[^18]: Dune Analytics. (2025). Aster Metrics. *Dune Analytics*. Retrieved January 2, 2026, from https://dune.com/queries/aster-dex 🔷 HARD DATA
 
-[^19]: [Messari - Perpetual DEX Market Report](https://messari.io/report/perpetual-dex-market-2025) - Market positioning and competitive analysis.
+[^19]: Messari. (2025). Perpetual DEX Market Report. *Messari*. Retrieved January 2, 2026, from https://messari.io/report/perpetual-dex-market-2025
 
-[^20]: [The Defiant - Aster DEX Dominance](https://thedefiant.io/aster-dex-fee-dominance) - Daily fees ranking and market share analysis.
+[^20]: The Defiant. (2025). Aster DEX Dominance. *The Defiant*. Retrieved January 2, 2026, from https://thedefiant.io/aster-dex-fee-dominance
 
-[^21]: [Hyperliquid Documentation](https://docs.hyperliquid.xyz/) - Competitor comparison reference.
+[^21]: Hyperliquid. (2025). Documentation. *Hyperliquid*. Retrieved January 2, 2026, from https://docs.hyperliquid.xyz/
 
-[^22]: [dYdX Protocol Documentation](https://docs.dydx.community/) - Competitor comparison reference.
+[^22]: dYdX. (2025). Protocol Documentation. *dYdX*. Retrieved January 2, 2026, from https://docs.dydx.community/
 
-[^23]: [GMX Documentation](https://docs.gmx.io/) - Competitor comparison reference.
+[^23]: GMX. (2025). Documentation. *GMX*. Retrieved January 2, 2026, from https://docs.gmx.io/
 
-[^24]: [Drift Protocol Documentation](https://docs.drift.trade/) - Competitor comparison reference.
+[^24]: Drift Protocol. (2025). Documentation. *Drift Protocol*. Retrieved January 2, 2026, from https://docs.drift.trade/
 
-[^25]: [CoinGecko - DeFi Market Overview](https://www.coingecko.com/en/categories/decentralized-exchange) - DEX market rankings. 🔷 HARD DATA
+[^25]: CoinGecko. (2025). DeFi Market Overview. *CoinGecko*. Retrieved January 2, 2026, from https://www.coingecko.com/en/categories/decentralized-exchange 🔷 HARD DATA
 
-[^26]: [DefiLlama - Perpetual DEX Rankings](https://defillama.com/protocols/Derivatives) - Derivatives protocol TVL rankings. 🔷 HARD DATA
+[^26]: DeFiLlama. (2025). Perpetual DEX Rankings. *DeFiLlama*. Retrieved January 2, 2026, from https://defillama.com/protocols/Derivatives 🔷 HARD DATA
 
-[^27]: [PancakeSwap - Aster Integration](https://pancakeswap.finance/) - DEX listing and trading pair information.
+[^27]: PancakeSwap. (2025). Aster Integration. *PancakeSwap*. Retrieved January 2, 2026, from https://pancakeswap.finance/
 
-[^28]: [Uniswap - ASTER Token](https://app.uniswap.org/) - Token trading availability.
+[^28]: Uniswap. (2025). ASTER Token. *Uniswap*. Retrieved January 2, 2026, from https://app.uniswap.org/
 
-[^29]: [Gate.io - Aster DEX Listing](https://www.gate.io/trade/ASTER_USDT) - CEX listing and trading volumes. 🔷 HARD DATA
+[^29]: Gate.io. (2025, October). Aster DEX Listing. *Gate.io*. Retrieved January 2, 2026, from https://www.gate.io/trade/ASTER_USDT 🔷 HARD DATA
 
-[^30]: [MEXC - ASTER Trading](https://www.mexc.com/exchange/ASTER_USDT) - Exchange listing and market data. 🔷 HARD DATA
+[^30]: MEXC. (2025, October). ASTER Trading. *MEXC*. Retrieved January 2, 2026, from https://www.mexc.com/exchange/ASTER_USDT 🔷 HARD DATA
 
-[^31]: [BingX - Aster DEX](https://www.bingx.com/) - Exchange listing confirmation.
+[^31]: BingX. (2025). Aster DEX. *BingX*. Retrieved January 2, 2026, from https://www.bingx.com/
 
-[^32]: [Tether - USDT on Multi-Chain](https://tether.to/en/transparency/) - Stablecoin collateral reference.
+[^32]: Tether. (2025). USDT Transparency. *Tether*. Retrieved January 2, 2026, from https://tether.to/en/transparency/
 
-[^33]: [Chainlink Price Feeds](https://chain.link/data-feeds) - Oracle integration for price feeds.
+[^33]: Chainlink. (2025). Price Feeds. *Chainlink*. Retrieved January 2, 2026, from https://chain.link/data-feeds 🔷 HARD DATA
 
-[^34]: [Flashbots - MEV Documentation](https://docs.flashbots.net/) - MEV protection mechanism reference.
+[^34]: Flashbots. (2025). MEV Documentation. *Flashbots*. Retrieved January 2, 2026, from https://docs.flashbots.net/
 
-[^35]: [EIP-1559 Specification](https://eips.ethereum.org/EIPS/eip-1559) - Fee mechanism technical reference.
+[^35]: Ethereum. (2021, August). EIP-1559 Specification. *Ethereum Improvement Proposals*. Retrieved January 2, 2026, from https://eips.ethereum.org/EIPS/eip-1559 ⏳ HISTORICAL (August 2021)
 
-[^36]: [CryptoCompare - Perpetual Contracts](https://www.cryptocompare.com/coins/guides/what-are-perpetual-futures/) - Perpetual futures educational resource.
+[^36]: CryptoCompare. (2025). Perpetual Contracts. *CryptoCompare*. Retrieved January 2, 2026, from https://www.cryptocompare.com/coins/guides/what-are-perpetual-futures/
 
-[^37]: [Binance Academy - Leverage Trading](https://academy.binance.com/en/articles/what-is-leverage-in-crypto-trading) - Leverage trading educational context.
+[^37]: Binance Academy. (2025). Leverage Trading. *Binance Academy*. Retrieved January 2, 2026, from https://academy.binance.com/en/articles/what-is-leverage-in-crypto-trading
 
-[^38]: [CoinMarketCap - Stock Tokens](https://coinmarketcap.com/view/tokenized-stock/) - Tokenized stock perpetuals market context.
+[^38]: CoinMarketCap. (2025). Stock Tokens. *CoinMarketCap*. Retrieved January 2, 2026, from https://coinmarketcap.com/view/tokenized-stock/
 
-[^39]: [Securities and Exchange Commission](https://www.sec.gov/) - Regulatory framework reference for stock perpetuals.
+[^39]: SEC. (2025). Regulatory Framework. *SEC*. Retrieved January 2, 2026, from https://www.sec.gov/
 
-[^40]: [ESMA - Crypto Asset Regulations](https://www.esma.europa.eu/policy-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica) - EU regulatory context.
+[^40]: ESMA. (2025). MiCA Regulations. *ESMA*. Retrieved January 2, 2026, from https://www.esma.europa.eu/policy-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica
 
-[^41]: [Bloomberg - Crypto Derivatives Growth](https://www.bloomberg.com/crypto) - Market growth and institutional adoption trends.
+[^41]: Bloomberg. (2025). Crypto Derivatives Growth. *Bloomberg*. Retrieved January 2, 2026, from https://www.bloomberg.com/crypto
 
-[^42]: [CoinTelegraph - Aster DEX Analysis](https://cointelegraph.com/news/aster-dex-perpetual-trading) - Protocol feature analysis.
+[^42]: Cointelegraph. (2025). Aster DEX Analysis. *Cointelegraph*. Retrieved January 2, 2026, from https://cointelegraph.com/news/aster-dex-perpetual-trading
 
-[^43]: [Decrypt - DeFi Perpetuals Market](https://decrypt.co/resources/perpetual-futures) - Market context and education.
+[^43]: Decrypt. (2025). DeFi Perpetuals Market. *Decrypt*. Retrieved January 2, 2026, from https://decrypt.co/resources/perpetual-futures
 
-[^44]: [DeFi Pulse - Protocol Rankings](https://defipulse.com/) - Historical DeFi protocol rankings.
+[^44]: DeFi Pulse. (2025). Protocol Rankings. *DeFi Pulse*. Retrieved January 2, 2026, from https://defipulse.com/
 
-[^45]: [Token Terminal - Revenue Metrics](https://tokenterminal.com/) - Protocol revenue and fee data. 🔷 HARD DATA
+[^45]: Token Terminal. (2025). Revenue Metrics. *Token Terminal*. Retrieved January 2, 2026, from https://tokenterminal.com/ 🔷 HARD DATA
 
-[^46]: [L2Beat - Layer 2 Analysis](https://l2beat.com/) - Layer 2 scaling metrics and comparisons. 🔷 HARD DATA
+[^46]: L2Beat. (2025). Layer 2 Analysis. *L2Beat*. Retrieved January 2, 2026, from https://l2beat.com/ 🔷 HARD DATA
 
-[^47]: [Nansen - On-Chain Analytics](https://www.nansen.ai/) - Smart money flow and wallet analysis.
+[^47]: Nansen. (2025). On-Chain Analytics. *Nansen*. Retrieved January 2, 2026, from https://www.nansen.ai/
 
-[^48]: [Glassnode - DeFi Metrics](https://glassnode.com/) - On-chain metrics and network data. 🔷 HARD DATA
+[^48]: Glassnode. (2025). DeFi Metrics. *Glassnode*. Retrieved January 2, 2026, from https://glassnode.com/ 🔷 HARD DATA
 
-[^49]: [IntoTheBlock - Aster Analytics](https://app.intotheblock.com/) - Token holder analytics and distribution.
+[^49]: IntoTheBlock. (2025). Aster Analytics. *IntoTheBlock*. Retrieved January 2, 2026, from https://app.intotheblock.com/
 
-[^50]: [CryptoQuant - Exchange Flows](https://cryptoquant.com/) - Exchange flow and trading data. 🔷 HARD DATA
+[^50]: CryptoQuant. (2025). Exchange Flows. *CryptoQuant*. Retrieved January 2, 2026, from https://cryptoquant.com/ 🔷 HARD DATA
 
-[^51]: [Santiment - Social Metrics](https://santiment.net/) - Social sentiment and development activity.
+[^51]: Santiment. (2025). Social Metrics. *Santiment*. Retrieved January 2, 2026, from https://santiment.net/
 
-[^52]: [LunarCrush - Social Analytics](https://lunarcrush.com/) - Social engagement metrics.
+[^52]: LunarCrush. (2025). Social Analytics. *LunarCrush*. Retrieved January 2, 2026, from https://lunarcrush.com/
 
-[^53]: [DappRadar - Protocol Rankings](https://dappradar.com/) - dApp usage and activity rankings. 🔷 HARD DATA
+[^53]: DappRadar. (2025). Protocol Rankings. *DappRadar*. Retrieved January 2, 2026, from https://dappradar.com/ 🔷 HARD DATA
 
-[^54]: [Blockworks - DeFi Analysis](https://blockworks.co/category/defi/) - Industry analysis and commentary.
+[^54]: Blockworks. (2025). DeFi Analysis. *Blockworks*. Retrieved January 2, 2026, from https://blockworks.co/category/defi/
 
-[^55]: [The Block Research - Perpetual DEX Report](https://www.theblock.co/data/decentralized-finance/dex-non-custodial) - Comprehensive DEX market data and analysis. 🔷 HARD DATA
+[^55]: The Block Research. (2025). Perpetual DEX Report. *The Block*. Retrieved January 2, 2026, from https://www.theblock.co/data/decentralized-finance/dex-non-custodial 🔷 HARD DATA

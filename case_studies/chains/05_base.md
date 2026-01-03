@@ -354,106 +354,106 @@ The network's long-term sustainability depends on maintaining competitive advant
 
 ## References
 
-[^1]: [CryptoSlate - Ethereum L2 Revenue 2024](https://cryptoslate.com/insights/ethereum-layer-2-revenue-hits-277-million-in-2024-spearheaded-by-bases-92-million) - Base generated $92M (33% of total L2 revenue), leading Arbitrum ($42M), Linea ($36.6M), Scroll ($35M), and Optimism ($26M).
+[^1]: CryptoSlate. (2024). Ethereum Layer-2 Revenue Hits $277 Million in 2024, Spearheaded by Base's $92 Million. *CryptoSlate*. Retrieved January 2, 2026, from https://cryptoslate.com/insights/ethereum-layer-2-revenue-hits-277-million-in-2024-spearheaded-by-bases-92-million
 
-[^2]: [Coin Metrics - Coinbase Q4 2024 Earnings Preview](https://coinmetrics.substack.com/p/state-of-the-network-issue-298) - Q4 2024: 8,047 ETH ($26.36M) revenue, 7,417 ETH ($24.18M) profit, 80-100% margins declining to 45% in December.
+[^2]: Coin Metrics. (2024). State of the Network Issue 298: Coinbase Q4 2024 Earnings Preview. *Coin Metrics Substack*. Retrieved January 2, 2026, from https://coinmetrics.substack.com/p/state-of-the-network-issue-298
 
-[^3]: [DL News - Base Fee Revenue Analysis](https://www.dlnews.com/articles/markets/coinbases-fee-revenue-from-its-base-network-spikes) - Total settlement costs $4.9M vs $98M revenue since Dencun, 99.9% cost reduction from EIP-4844 blob implementation.
+[^3]: DL News. (2024). Coinbase's Fee Revenue From Its Base Network Spikes. *DL News*. Retrieved January 2, 2026, from https://www.dlnews.com/articles/markets/coinbases-fee-revenue-from-its-base-network-spikes
 
-[^4]: [Optimism Collective - Superchain Fee Distribution](https://optimism.mirror.xyz/ciJzgxmb_fJU8wgiqrEXG_XYnAkuBrdG1biVk0BseiU) - 2.5% of Base revenue OR 15% of net profit to Optimism Collective, up to 118M OP tokens over 6 years.
+[^4]: Optimism Collective. (2024). Superchain Fee Distribution. *Optimism Mirror*. Retrieved January 2, 2026, from https://optimism.mirror.xyz/ciJzgxmb_fJU8wgiqrEXG_XYnAkuBrdG1biVk0BseiU
 
-[^5]: [Unchained - Base Revenue Impact on Coinbase](https://unchainedcrypto.com/what-bases-rapidly-growing-revenue-and-usage-means-for-coinbase-stock) - $30M monthly revenue annualizing to $360M, sequencer fee model analysis.
+[^5]: Unchained. (2024). What Base's Rapidly Growing Revenue and Usage Means for Coinbase Stock. *Unchained Crypto*. Retrieved January 2, 2026, from https://unchainedcrypto.com/what-bases-rapidly-growing-revenue-and-usage-means-for-coinbase-stock
 
-[^6]: [Binance Square - Base TVL Rankings](https://www.binance.com/en/square/post/2024-05-29-base-tvl-aerodrome-uniswap-extrafi-8737839728025) - ⏳ HISTORICAL (May 2024): Aerodrome $720M TVL, Uniswap $280M. See [^10] for current data.
+[^6]: Binance Square. (2024, May 29). Base TVL Rankings: Aerodrome, Uniswap, ExtraFi. *Binance Square*. Retrieved January 2, 2026, from https://www.binance.com/en/square/post/2024-05-29-base-tvl-aerodrome-uniswap-extrafi-8737839728025 ⏳ HISTORICAL
 
-[^7]: [DefiLlama - Base Chain TVL](https://defillama.com/chain/Base) - 🔷 HARD DATA: Total Value Locked $4.4 billion across all protocols. Retrieved via DefiLlama API (January 2, 2026).
+[^7]: DefiLlama. (2026, January 2). Base Chain TVL. *DefiLlama*. Retrieved January 2, 2026, from https://defillama.com/chain/Base 🔷 HARD DATA
 
-[^8]: [L2Beat - Base Risk Assessment](https://l2beat.com/scaling/projects/base) - 🔷 HARD DATA: Total Value Secured $12.01 billion, 141.18 UOPS daily, Stage 1 status with fraud proofs. Retrieved January 2, 2026.
+[^8]: L2Beat. (2026, January 2). Base Risk Assessment. *L2Beat*. Retrieved January 2, 2026, from https://l2beat.com/scaling/projects/base 🔷 HARD DATA
 
-[^9]: [DefiLlama - Base Fees Summary](https://defillama.com/fees/base) - 🔷 HARD DATA: 24h fees $59,261, 30-day fees $2.79M, all-time fees $178.4M. Retrieved via DefiLlama API (January 2, 2026).
+[^9]: DefiLlama. (2026, January 2). Base Fees Summary. *DefiLlama*. Retrieved January 2, 2026, from https://defillama.com/fees/base 🔷 HARD DATA
 
-[^10]: [DefiLlama - Aerodrome Protocol](https://defillama.com/protocol/aerodrome) - 🔷 HARD DATA: Aerodrome TVL $429 million on Base, down from $1.7B peak. Retrieved via DefiLlama API (January 2, 2026).
+[^10]: DefiLlama. (2026, January 2). Aerodrome Protocol TVL. *DefiLlama*. Retrieved January 2, 2026, from https://defillama.com/protocol/aerodrome 🔷 HARD DATA
 
-[^11]: [CoinDesk - Base News](https://www.coindesk.com/tag/base/) - Recent news: Jesse Pollak named Most Influential, Chainlink CCIP integration, Base-Solana bridge launch. Retrieved January 2, 2026.
+[^11]: CoinDesk. (2026, January 2). Base News and Updates. *CoinDesk*. Retrieved January 2, 2026, from https://www.coindesk.com/tag/base/
 
-[^12]: [CoinDesk - Base Token Exploration](https://www.coindesk.com/tag/base/) - Base exploring native token issuance per Jesse Pollak at BaseCamp (September 2025).
+[^12]: CoinDesk. (2025, September). Base Token Exploration. *CoinDesk*. Retrieved January 2, 2026, from https://www.coindesk.com/tag/base/
 
-[^13]: [Ethereum.org - EIP-4844](https://eips.ethereum.org/EIPS/eip-4844) - Proto-Danksharding specification enabling blob transactions for L2 data availability.
+[^13]: Ethereum Foundation. (2024). EIP-4844: Proto-Danksharding. *Ethereum Improvement Proposals*. Retrieved January 2, 2026, from https://eips.ethereum.org/EIPS/eip-4844
 
-[^14]: [L2Beat - Base Data Availability](https://l2beat.com/scaling/projects/base) - Base posts data to Ethereum as blobs, built on OP Stack with 7-day challenge periods.
+[^14]: L2Beat. (2026, January 2). Base Data Availability. *L2Beat*. Retrieved January 2, 2026, from https://l2beat.com/scaling/projects/base 🔷 HARD DATA
 
-[^15]: [Coinbase - Base Documentation](https://docs.base.org/) - Official Base technical documentation and developer resources.
+[^15]: Coinbase. (2025). Base Documentation. *Base Docs*. Retrieved January 2, 2026, from https://docs.base.org/
 
-[^16]: [Optimism Documentation - OP Stack](https://docs.optimism.io/) - OP Stack architecture and Superchain specifications.
+[^16]: Optimism. (2025). OP Stack Documentation. *Optimism Docs*. Retrieved January 2, 2026, from https://docs.optimism.io/
 
-[^17]: [Basescan - Block Explorer](https://basescan.org/) - Official Base network block explorer for transaction verification.
+[^17]: Basescan. (2026, January 2). Base Block Explorer. *Basescan*. Retrieved January 2, 2026, from https://basescan.org/ 🔷 HARD DATA
 
-[^18]: [Token Terminal - Base Analytics](https://tokenterminal.com/terminal/projects/base) - Base financial metrics platform tracking revenue, fees, and user activity.
+[^18]: Token Terminal. (2026, January 2). Base Analytics. *Token Terminal*. Retrieved January 2, 2026, from https://tokenterminal.com/terminal/projects/base 🔷 HARD DATA
 
-[^19]: [CoinGecko - Ethereum Price](https://www.coingecko.com/en/coins/ethereum) - 🔷 HARD DATA: ETH price $2,984.87 for Base gas calculations. Retrieved via CoinGecko API (January 2, 2026).
+[^19]: CoinGecko. (2026, January 2). Ethereum Price Data. *CoinGecko*. Retrieved January 2, 2026, from https://www.coingecko.com/en/coins/ethereum 🔷 HARD DATA
 
-[^20]: [Chainlink - CCIP Documentation](https://docs.chain.link/ccip) - Cross-Chain Interoperability Protocol enabling Base-Solana bridge.
+[^20]: Chainlink. (2025). CCIP Documentation. *Chainlink Docs*. Retrieved January 2, 2026, from https://docs.chain.link/ccip
 
-[^21]: [Aerodrome Finance](https://aerodrome.finance/) - Leading DEX on Base with ve(3,3) tokenomics model.
+[^21]: Aerodrome Finance. (2025). Leading DEX on Base. *Aerodrome Finance*. Retrieved January 2, 2026, from https://aerodrome.finance/
 
-[^22]: [Uniswap - Base Deployment](https://app.uniswap.org/) - Uniswap V3 deployment on Base network.
+[^22]: Uniswap. (2025). Base Deployment. *Uniswap*. Retrieved January 2, 2026, from https://app.uniswap.org/
 
-[^23]: [Aave - Base Market](https://aave.com/) - Aave lending protocol deployment on Base.
+[^23]: Aave. (2025). Base Market. *Aave*. Retrieved January 2, 2026, from https://aave.com/
 
-[^24]: [Coinbase Prime](https://prime.coinbase.com/) - Institutional trading and custody services integrated with Base.
+[^24]: Coinbase Prime. (2025). Institutional Services. *Coinbase Prime*. Retrieved January 2, 2026, from https://prime.coinbase.com/
 
-[^25]: [Coinbase Wallet](https://wallet.coinbase.com/) - Self-custody wallet with native Base support.
+[^25]: Coinbase Wallet. (2025). Self-Custody Wallet. *Coinbase Wallet*. Retrieved January 2, 2026, from https://wallet.coinbase.com/
 
-[^26]: [Base Bridge](https://bridge.base.org/) - Official Base-Ethereum bridge interface.
+[^26]: Coinbase. (2025). Base Bridge. *Base*. Retrieved January 2, 2026, from https://bridge.base.org/
 
-[^27]: [OP Mainnet - Superchain](https://www.optimism.io/superchain) - Superchain ecosystem including Base and other OP Stack chains.
+[^27]: Optimism. (2025). Superchain Ecosystem. *Optimism*. Retrieved January 2, 2026, from https://www.optimism.io/superchain
 
-[^28]: [Flashbots - MEV Research](https://docs.flashbots.net/) - MEV documentation relevant to L2 sequencer economics.
+[^28]: Flashbots. (2025). MEV Research Documentation. *Flashbots Docs*. Retrieved January 2, 2026, from https://docs.flashbots.net/
 
-[^29]: [Dune Analytics - Base Dashboards](https://dune.com/browse/dashboards?q=base) - Community-created Base analytics dashboards.
+[^29]: Dune Analytics. (2025). Base Dashboards. *Dune Analytics*. Retrieved January 2, 2026, from https://dune.com/browse/dashboards?q=base
 
-[^30]: [The Block - L2 Data](https://www.theblock.co/data/scaling-solutions) - Layer 2 scaling solutions market data and analytics.
+[^30]: The Block. (2026, January 2). Layer 2 Scaling Solutions Data. *The Block*. Retrieved January 2, 2026, from https://www.theblock.co/data/scaling-solutions 🔷 HARD DATA
 
-[^31]: [Messari - Base Profile](https://messari.io/project/base) - Base fundamental analysis and ecosystem overview.
+[^31]: Messari. (2025). Base Profile. *Messari*. Retrieved January 2, 2026, from https://messari.io/project/base
 
-[^32]: [Growthepie - Base Metrics](https://www.growthepie.com/fundamentals/base) - Base network metrics including TVL, transactions, and fees.
+[^32]: Growthepie. (2026, January 2). Base Metrics. *Growthepie*. Retrieved January 2, 2026, from https://www.growthepie.com/fundamentals/base 🔷 HARD DATA
 
-[^33]: [Coinbase Investor Relations](https://investor.coinbase.com/) - Coinbase quarterly earnings including Base revenue disclosure.
+[^33]: Coinbase Investor Relations. (2025). Quarterly Earnings. *Coinbase Investor Relations*. Retrieved January 2, 2026, from https://investor.coinbase.com/
 
-[^34]: [Iron Fish](https://ironfish.network/) - Privacy technology acquired by Coinbase for Base private transactions.
+[^34]: Iron Fish. (2025). Privacy Technology. *Iron Fish*. Retrieved January 2, 2026, from https://ironfish.network/
 
-[^35]: [Centrifuge - Base RWA](https://centrifuge.io/) - Real-world asset tokenization platform on Base.
+[^35]: Centrifuge. (2025). Base RWA Platform. *Centrifuge*. Retrieved January 2, 2026, from https://centrifuge.io/
 
-[^36]: [S&P Dow Jones Indices](https://www.spglobal.com/spdji/) - Licensing partner for tokenized index fund on Base.
+[^36]: S&P Dow Jones Indices. (2025). Index Licensing. *S&P Global*. Retrieved January 2, 2026, from https://www.spglobal.com/spdji/
 
-[^37]: [Base Ecosystem Fund](https://base.org/ecosystem) - Coinbase ecosystem development grants and funding.
+[^37]: Base. (2025). Ecosystem Fund. *Base*. Retrieved January 2, 2026, from https://base.org/ecosystem
 
-[^38]: [OP Labs](https://www.oplabs.co/) - Developer of OP Stack technology powering Base.
+[^38]: OP Labs. (2025). OP Stack Development. *OP Labs*. Retrieved January 2, 2026, from https://www.oplabs.co/
 
-[^39]: [Coinbase Ventures](https://ventures.coinbase.com/) - Coinbase investment arm supporting Base ecosystem projects.
+[^39]: Coinbase Ventures. (2025). Ecosystem Investments. *Coinbase Ventures*. Retrieved January 2, 2026, from https://ventures.coinbase.com/
 
-[^40]: [EIP-4844 Implementation](https://www.eip4844.com/) - Blob transaction tracking and Dencun upgrade details.
+[^40]: EIP-4844.com. (2024). Blob Transaction Tracking. *EIP-4844*. Retrieved January 2, 2026, from https://www.eip4844.com/
 
-[^41]: [Dencun Upgrade](https://ethereum.org/en/roadmap/dencun/) - Ethereum upgrade enabling reduced L2 data costs.
+[^41]: Ethereum.org. (2024). Dencun Upgrade. *Ethereum.org*. Retrieved January 2, 2026, from https://ethereum.org/en/roadmap/dencun/
 
-[^42]: [Base Status Page](https://status.base.org/) - Base network uptime and performance monitoring.
+[^42]: Base. (2026, January 2). Status Page. *Base*. Retrieved January 2, 2026, from https://status.base.org/ 🔷 HARD DATA
 
-[^43]: [Coinbase Cloud](https://www.coinbase.com/cloud) - Infrastructure services supporting Base operations.
+[^43]: Coinbase Cloud. (2025). Infrastructure Services. *Coinbase*. Retrieved January 2, 2026, from https://www.coinbase.com/cloud
 
-[^44]: [Base GitHub](https://github.com/base-org) - Base open-source repositories and technical development.
+[^44]: Base. (2025). GitHub Repositories. *GitHub*. Retrieved January 2, 2026, from https://github.com/base-org
 
-[^45]: [Superchain Registry](https://github.com/ethereum-optimism/superchain-registry) - Official registry of OP Stack chains including Base.
+[^45]: Optimism. (2025). Superchain Registry. *GitHub*. Retrieved January 2, 2026, from https://github.com/ethereum-optimism/superchain-registry
 
-[^46]: [L2Fees](https://l2fees.info/) - Real-time Layer 2 transaction fee comparison including Base.
+[^46]: L2Fees. (2026, January 2). Layer 2 Fee Comparison. *L2Fees*. Retrieved January 2, 2026, from https://l2fees.info/ 🔷 HARD DATA
 
-[^47]: [Coinbase SEC Filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001679788) - Regulatory filings disclosing Base business operations.
+[^47]: U.S. SEC. (2025). Coinbase SEC Filings. *U.S. Securities and Exchange Commission*. Retrieved January 2, 2026, from https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001679788
 
-[^48]: [Bitcoin Magazine - Coinbase](https://bitcoinmagazine.com/tags/coinbase) - News coverage of Coinbase and Base developments.
+[^48]: Bitcoin Magazine. (2025). Coinbase News Coverage. *Bitcoin Magazine*. Retrieved January 2, 2026, from https://bitcoinmagazine.com/tags/coinbase
 
-[^49]: [The Defiant - Base Coverage](https://thedefiant.io/search?q=base) - DeFi news and analysis of Base ecosystem.
+[^49]: The Defiant. (2025). Base Ecosystem Coverage. *The Defiant*. Retrieved January 2, 2026, from https://thedefiant.io/search?q=base
 
-[^50]: [Bankless - Base Analysis](https://www.bankless.com/) - Crypto media coverage of Base and L2 economics.
+[^50]: Bankless. (2025). Base and L2 Economics Analysis. *Bankless*. Retrieved January 2, 2026, from https://www.bankless.com/
 
-[^51]: [Artemis - L2 Analytics](https://www.artemis.xyz/) - Cross-chain analytics platform tracking Base metrics.
+[^51]: Artemis. (2026, January 2). L2 Analytics Platform. *Artemis*. Retrieved January 2, 2026, from https://www.artemis.xyz/ 🔷 HARD DATA
 
-[^52]: [Nansen - Base Dashboard](https://www.nansen.ai/) - On-chain analytics and wallet tracking for Base network.
+[^52]: Nansen. (2026, January 2). Base Dashboard. *Nansen*. Retrieved January 2, 2026, from https://www.nansen.ai/ 🔷 HARD DATA

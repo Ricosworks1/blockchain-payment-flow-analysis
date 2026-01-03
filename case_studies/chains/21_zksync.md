@@ -374,132 +374,112 @@ zkSync Era's emphasis on ZK-rollup security, developer-focused infrastructure, a
 
 ## Sources and References
 
-[^1]: The Block. (2024). "Matter Labs CEO anticipates zkSync governance will explore value accrual mechanisms in near future." The Block. Retrieved from https://www.theblock.co/post/340629/matter-labs-ceo-anticipates-zksync-governance-will-explore-value-accrual-mechanisms-in-near-future
-Revenue model confirmation and value accrual mechanism development for zkSync Era governance and token economics
+[^1]: The Block. (2024, December). Matter Labs CEO anticipates zkSync governance will explore value accrual mechanisms in near future. *The Block*. Retrieved January 2, 2026, from https://www.theblock.co/post/340629/matter-labs-ceo-anticipates-zksync-governance-will-explore-value-accrual-mechanisms-in-near-future
 
-[^2]: L2Beat. (2024). "zkSync Era." L2Beat. Retrieved from https://l2beat.com/scaling/projects/zksync-era
-Comprehensive risk assessment, sequencer profit data, and centralization analysis for zkSync Era network operations
+[^2]: L2Beat. (2024). zkSync Era Risk Assessment. *L2Beat*. Retrieved January 2, 2026, from https://l2beat.com/scaling/projects/zksync-era 🔷 HARD DATA
 
-[^3]: zkSync Documentation. (2024). "Fee Mechanism." zkSync Documentation. Retrieved from https://docs.zksync.io/zk-stack/concepts/fee-mechanism
-Official fee structure documentation including gas pricing, pubdata costs, and L1 operating cost breakdown
+[^3]: zkSync Documentation. (2024). Fee Mechanism. *zkSync Documentation*. Retrieved January 2, 2026, from https://docs.zksync.io/zk-stack/concepts/fee-mechanism
 
-[^4]: Messari. (2024). "State of zkSync Q4 2024." Messari. Retrieved from https://messari.io/report/state-of-zksync-q4-2024
-Comprehensive Q4 2024 performance metrics including TVL growth, DeFi ecosystem analysis, and transaction volume leadership
+[^4]: Messari. (2024, Q4). State of zkSync Q4 2024. *Messari*. Retrieved January 2, 2026, from https://messari.io/report/state-of-zksync-q4-2024
 
-[^5]: CoinTelegraph. (2024). "zkSync 2025 roadmap: Scalable blockchain privacy tech." CoinTelegraph. Retrieved from https://cointelegraph.com/news/zksync-2025-roadmap-scalable-blockchain-privacy-tech
-2025 roadmap targets including 10,000+ TPS capability and $0.0001 transaction cost objectives
+[^5]: CoinTelegraph. (2024). zkSync 2025 roadmap: Scalable blockchain privacy tech. *CoinTelegraph*. Retrieved January 2, 2026, from https://cointelegraph.com/news/zksync-2025-roadmap-scalable-blockchain-privacy-tech
 
-[^6]: Lagrange Labs. (2024). "A New Era for ZK." Lagrange Labs. Retrieved from https://www.lagrange.dev/blog/a-new-era-for-zk
-Decentralized proving partnership details including 75% outsourcing commitment and cost reduction targets
+[^6]: Lagrange Labs. (2024). A New Era for ZK. *Lagrange Labs*. Retrieved January 2, 2026, from https://www.lagrange.dev/blog/a-new-era-for-zk
 
-[^7]: Gate.io. (2024). "The Allure of MEV: Why Decentralizing Sequencers Is Hard." Gate.io. Retrieved from https://www.gate.com/learn/articles/the-allure-of-mev-why-decentralizing-sequencers-is-hard/1925
-MEV extraction analysis and economic incentives for maintaining centralized sequencer control
+[^7]: Gate.io. (2024). The Allure of MEV: Why Decentralizing Sequencers Is Hard. *Gate.io*. Retrieved January 2, 2026, from https://www.gate.com/learn/articles/the-allure-of-mev-why-decentralizing-sequencers-is-hard/1925
 
-[^8]: GitHub. (2024). "zkSync Fee Model." GitHub. Retrieved from https://github.com/code-423n4/2024-03-zksync/blob/main/docs/Smart%20contract%20Section/zkSync%20fee%20model.md
-Technical documentation of dynamic pricing model and L1 gas price volatility impact on fee structure
+[^8]: GitHub. (2024, March). zkSync Fee Model. *GitHub*. Retrieved January 2, 2026, from https://github.com/code-423n4/2024-03-zksync/blob/main/docs/Smart%20contract%20Section/zkSync%20fee%20model.md
 
-[^9]: CoinDesk. (2024). "zkSync's ZK airdrop is coming next week. Here's what to expect." CoinDesk. Retrieved from https://www.coindesk.com/tech/2024/06/11/zksyncs-zk-airdrop-is-coming-next-week-heres-what-to-expect
-ZK token launch details including total supply, market cap, and distribution structure for governance implementation
+[^9]: CoinDesk. (2024, June 11). zkSync's ZK airdrop is coming next week. Here's what to expect. *CoinDesk*. Retrieved January 2, 2026, from https://www.coindesk.com/tech/2024/06/11/zksyncs-zk-airdrop-is-coming-next-week-heres-what-to-expect
 
-[^10]: The Block. (2024). "zkSync airdrop: ZK tokens." The Block. Retrieved from https://www.theblock.co/post/299404/zksync-airdrop-zk-tokens
-Airdrop distribution breakdown and eligibility criteria for 695,232 wallets receiving ZK tokens
+[^10]: The Block. (2024, June). zkSync airdrop: ZK tokens. *The Block*. Retrieved January 2, 2026, from https://www.theblock.co/post/299404/zksync-airdrop-zk-tokens
 
-[^11]: zkSync Foundation. (2024). "zkSync 2025 Roadmap." zkSync Mirror. Retrieved from https://zksync.mirror.xyz/QG2Xr4lQdJTbyjeKftPVc6-pj2t9-H9WEGnvCcnusck
-Official decentralization timeline including prover and sequencer decentralization by 2025 with Stage 1 rollup maturity
+[^11]: zkSync Foundation. (2024). zkSync 2025 Roadmap. *zkSync Mirror*. Retrieved January 2, 2026, from https://zksync.mirror.xyz/QG2Xr4lQdJTbyjeKftPVc6-pj2t9-H9WEGnvCcnusck
 
-[^12]: DeFiLlama. (2024). "zkSync Era." DeFiLlama. Retrieved from https://defillama.com/chain/zkSync%20Era
-Real-time TVL tracking and protocol ecosystem metrics for zkSync Era DeFi infrastructure
+[^12]: DeFiLlama. (2024). zkSync Era. *DeFiLlama*. Retrieved January 2, 2026, from https://defillama.com/chain/zkSync%20Era 🔷 HARD DATA
 
-[^13]: Coin Bureau. (2024). "What is the Best Layer 2?" Coin Bureau. Retrieved from https://coinbureau.com/analysis/what-is-the-best-layer-2/
-Comparative Layer 2 analysis including TVL and TPS performance metrics across major Ethereum scaling solutions
+[^13]: Coin Bureau. (2024). What is the Best Layer 2? *Coin Bureau*. Retrieved January 2, 2026, from https://coinbureau.com/analysis/what-is-the-best-layer-2/
 
-[^14]: NFTScan. (2024). "Q3 2024 NFT Market Report." Medium. Retrieved from https://medium.com/nftscan/q3-2024-nft-market-report-trading-volume-exceeds-1-1-billion-amid-shifting-landscape-a4c94af0a70a
-NFT trading volume rankings and zkApes community metrics demonstrating strong gaming and collectibles adoption
+[^14]: NFTScan. (2024, Q3). Q3 2024 NFT Market Report. *Medium*. Retrieved January 2, 2026, from https://medium.com/nftscan/q3-2024-nft-market-report-trading-volume-exceeds-1-1-billion-amid-shifting-landscape-a4c94af0a70a ⏳ HISTORICAL (Q3 2024)
 
-[^15]: Fermah. (2024). "How Fermah Proves for zkSync." Fermah. Retrieved from https://www.fermah.xyz/blog-posts/how-fermah-proves-for-zksync
-Universal proof market integration providing competitive pricing and scalability enhancement through decentralized proving
+[^15]: Fermah. (2024). How Fermah Proves for zkSync. *Fermah*. Retrieved January 2, 2026, from https://www.fermah.xyz/blog-posts/how-fermah-proves-for-zksync
 
-[^16]: ChainPlay. (2024). "zkSync Games." ChainPlay. Retrieved from https://chainplay.gg/chain/zksync/
-Gaming ecosystem rankings and market cap analysis for NFT games on zkSync Era infrastructure
+[^16]: ChainPlay. (2024). zkSync Games. *ChainPlay*. Retrieved January 2, 2026, from https://chainplay.gg/chain/zksync/
 
-[^17]: TastyCrypto. (2024). "Layer 2 Networks." TastyCrypto. Retrieved from https://www.tastycrypto.com/blog/layer-2-networks/
-Technical comparison of ZK-rollup advantages including instant finality versus optimistic rollup withdrawal periods
+[^17]: TastyCrypto. (2024). Layer 2 Networks. *TastyCrypto*. Retrieved January 2, 2026, from https://www.tastycrypto.com/blog/layer-2-networks/
 
-[^18]: ArXiv. (2024). "Zero-Knowledge Proofs: A Survey." ArXiv. Retrieved from https://arxiv.org/html/2408.00243v1
-Academic analysis of ZK proof applications including zkSync distributed proving systems and security benefits
+[^18]: ArXiv. (2024, August). Zero-Knowledge Proofs: A Survey. *ArXiv*. Retrieved January 2, 2026, from https://arxiv.org/html/2408.00243v1 ⏳ HISTORICAL (August 2024)
 
-[^19]: TechCrunch. (2022). "Matter Labs raises $200 million to scale Ethereum." TechCrunch. Retrieved from https://techcrunch.com/2022/11/16/matter-labs-the-company-behind-zksync-raises-200-million-to-scale-ethereum/
-Series C funding round providing development resources for zkSync Era ecosystem expansion and decentralization
+[^19]: TechCrunch. (2022, November 16). Matter Labs raises $200 million to scale Ethereum. *TechCrunch*. Retrieved January 2, 2026, from https://techcrunch.com/2022/11/16/matter-labs-the-company-behind-zksync-raises-200-million-to-scale-ethereum/ ⏳ HISTORICAL (November 2022)
 
-[^20]: IACR. (2024). "Security Auditing for ZK Systems." IACR ePrint. Retrieved from https://eprint.iacr.org/2024/514
-Specialized security auditing methodologies for zero-knowledge proof systems including vulnerability detection frameworks
+[^20]: IACR. (2024, April). Security Auditing for ZK Systems. *IACR*. Retrieved January 2, 2026, from https://eprint.iacr.org/2024/514
 
-[^21]: [CoinGecko - ZKsync](https://www.coingecko.com/en/coins/zksync) - ZK token price $0.027-0.028, market sentiment bearish with Fear & Greed Index at 20 (January 2, 2026). 🔷 HARD DATA
+[^21]: CoinGecko. (2026, January 2). ZKsync. *CoinGecko*. Retrieved January 2, 2026, from https://www.coingecko.com/en/coins/zksync 🔷 HARD DATA
 
-[^22]: [CoinMarketCap - ZKsync](https://coinmarketcap.com/currencies/zksync/) - ZK 24-hour trading volume $17.5M, 173.08M ZK token unlock (December 15-22, 2025) representing 3.26% of total supply. 🔷 HARD DATA
+[^22]: CoinMarketCap. (2026, January 2). ZKsync. *CoinMarketCap*. Retrieved January 2, 2026, from https://coinmarketcap.com/currencies/zksync/ 🔷 HARD DATA
 
-[^23]: [CoinMarketCap AI - ZKsync Updates](https://coinmarketcap.com/cmc-ai/zksync/latest-updates/) - Fusaka Upgrade December 3, 2025 enhancing Layer-2 interoperability; Atlas upgrade October 2025 enabling 15,000+ TPS with 1-second finality
+[^23]: CoinMarketCap AI. (2025, December). ZKsync Updates. *CoinMarketCap*. Retrieved January 2, 2026, from https://coinmarketcap.com/cmc-ai/zksync/latest-updates/
 
-[^24]: [CCN - ZKsync Price Analysis](https://www.ccn.com/analysis/crypto/zksync-zk-price-prediction/) - TVL at $44.5M with ~10k daily addresses, Atlas upgrade achievements including $0.0001 transaction costs
+[^24]: CCN. (2025). ZKsync Price Analysis. *CCN*. Retrieved January 2, 2026, from https://www.ccn.com/analysis/crypto/zksync-zk-price-prediction/
 
-[^25]: [Bitget - ZKsync Price](https://www.bitget.com/price/zksync) - Current ZK price data and market metrics with 24-hour trading analysis (January 2026). 🔷 HARD DATA
+[^25]: Bitget. (2026, January). ZKsync Price. *Bitget*. Retrieved January 2, 2026, from https://www.bitget.com/price/zksync 🔷 HARD DATA
 
-[^26]: [CoinCodex - ZKsync Prediction](https://coincodex.com/crypto/zksync/price-prediction/) - ZK forecast $0.024-0.028 range January 2026, 9/30 green days with 14.02% volatility over 30 days
+[^26]: CoinCodex. (2026, January). ZKsync Prediction. *CoinCodex*. Retrieved January 2, 2026, from https://coincodex.com/crypto/zksync/price-prediction/
 
-[^27]: [Bitget Academy - ZKsync Analysis](https://www.bitget.com/academy/zkync-zk-price-prediction-2025-2030-forecast-latest-analysis) - TVL at $56.49M comparing unfavorably to Arbitrum ($2.49B) and Polygon ($1.02B)
+[^27]: Bitget Academy. (2025). ZKsync Analysis. *Bitget Academy*. Retrieved January 2, 2026, from https://www.bitget.com/academy/zkync-zk-price-prediction-2025-2030-forecast-latest-analysis
 
-[^28]: [CryptoNews - ZKsync Prediction](https://cryptonews.com/price-predictions/zksync-price-prediction/) - Technical analysis and Layer-2 competitive positioning for zkSync Era
+[^28]: CryptoNews. (2025). ZKsync Prediction. *CryptoNews*. Retrieved January 2, 2026, from https://cryptonews.com/price-predictions/zksync-price-prediction/
 
-[^29]: [CoinMarketCap AI - ZK Price Prediction](https://coinmarketcap.com/cmc-ai/zksync/price-prediction/) - AI-powered analysis of ZK token performance and market outlook
+[^29]: CoinMarketCap AI. (2025). ZK Price Prediction. *CoinMarketCap*. Retrieved January 2, 2026, from https://coinmarketcap.com/cmc-ai/zksync/price-prediction/
 
-[^30]: [CoinDataFlow - ZKsync Forecast](https://coindataflow.com/en/prediction/zksync) - Price prediction models and historical performance analysis for ZK token
+[^30]: CoinDataFlow. (2025). ZKsync Forecast. *CoinDataFlow*. Retrieved January 2, 2026, from https://coindataflow.com/en/prediction/zksync
 
-[^31]: [DefiLlama - zkSync Era](https://defillama.com/chain/zkSync%20Era) - Real-time TVL tracking, protocol breakdown, and DeFi ecosystem metrics. 🔷 HARD DATA
+[^31]: DeFiLlama. (2026, January). zkSync Era. *DeFiLlama*. Retrieved January 2, 2026, from https://defillama.com/chain/zkSync%20Era 🔷 HARD DATA
 
-[^32]: [L2Beat - zkSync Era](https://l2beat.com/scaling/projects/zksync-era) - Risk assessment, TPS metrics, and decentralization status for zkSync Era. 🔷 HARD DATA
+[^32]: L2Beat. (2026, January). zkSync Era. *L2Beat*. Retrieved January 2, 2026, from https://l2beat.com/scaling/projects/zksync-era 🔷 HARD DATA
 
-[^33]: [Dune Analytics - zkSync Era Stats](https://dune.com/outputlayer/zksync-era-stats) - Community analytics dashboard with on-chain metrics and user activity data
+[^33]: Dune Analytics. (2025). zkSync Era Stats. *Dune Analytics*. Retrieved January 2, 2026, from https://dune.com/outputlayer/zksync-era-stats
 
-[^34]: [SyncSwap](https://syncswap.xyz/) - Leading DEX on zkSync Era with concentrated liquidity and trading statistics
+[^34]: SyncSwap. (2025). SyncSwap DEX. *SyncSwap*. Retrieved January 2, 2026, from https://syncswap.xyz/
 
-[^35]: [Matter Labs Official](https://matter-labs.io/) - Official company updates, technical announcements, and development roadmap
+[^35]: Matter Labs. (2025). Official Website. *Matter Labs*. Retrieved January 2, 2026, from https://matter-labs.io/
 
-[^36]: [zkSync Documentation](https://docs.zksync.io/) - Complete technical documentation including fee mechanism, ZK Stack, and developer resources
+[^36]: zkSync Documentation. (2025). Technical Documentation. *zkSync Documentation*. Retrieved January 2, 2026, from https://docs.zksync.io/
 
-[^37]: [zkSync Mirror - 2025 Roadmap](https://zksync.mirror.xyz/) - Official blog with roadmap updates, decentralization timeline, and ecosystem announcements
+[^37]: zkSync Mirror. (2025). 2025 Roadmap. *zkSync Mirror*. Retrieved January 2, 2026, from https://zksync.mirror.xyz/
 
-[^38]: [Berkeley Research - ZK Theory to Practice](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2024/EECS-2024-35.pdf) - Academic research on ZK proof implementation and security practices ⏳ HISTORICAL (2024)
+[^38]: UC Berkeley. (2024). ZK Theory to Practice. *UC Berkeley EECS*. Retrieved January 2, 2026, from https://www2.eecs.berkeley.edu/Pubs/TechRpts/2024/EECS-2024-35.pdf ⏳ HISTORICAL (2024)
 
-[^39]: [GitHub - zkSync Era](https://github.com/matter-labs/zksync-era) - Open-source codebase with development activity and community contributions
+[^39]: GitHub. (2025). zkSync Era. *GitHub*. Retrieved January 2, 2026, from https://github.com/matter-labs/zksync-era
 
-[^40]: [Messari - ZKsync Reports](https://messari.io/asset/zksync) - Professional research reports and quarterly state of zkSync analysis
+[^40]: Messari. (2025). ZKsync Reports. *Messari*. Retrieved January 2, 2026, from https://messari.io/asset/zksync
 
-[^41]: [The Block - zkSync Coverage](https://www.theblock.co/tag/zksync) - Industry news, governance updates, and Matter Labs announcements
+[^41]: The Block. (2025). zkSync Coverage. *The Block*. Retrieved January 2, 2026, from https://www.theblock.co/tag/zksync
 
-[^42]: [CoinDesk - ZKsync News](https://www.coindesk.com/tag/zksync/) - Breaking news and analysis on zkSync ecosystem developments
+[^42]: CoinDesk. (2025). ZKsync News. *CoinDesk*. Retrieved January 2, 2026, from https://www.coindesk.com/tag/zksync/
 
-[^43]: [Fermah - zkSync Proving](https://www.fermah.xyz/blog-posts/how-fermah-proves-for-zksync) - Universal proof market integration and decentralized proving infrastructure
+[^43]: Fermah. (2024). zkSync Proving. *Fermah*. Retrieved January 2, 2026, from https://www.fermah.xyz/blog-posts/how-fermah-proves-for-zksync
 
-[^44]: [Lagrange Labs Partnership](https://www.lagrange.dev/blog/a-new-era-for-zk) - 75% proof outsourcing commitment over 2 years with P2P, Nethermind, Black Sand participation
+[^44]: Lagrange Labs. (2024). Partnership Announcement. *Lagrange Labs*. Retrieved January 2, 2026, from https://www.lagrange.dev/blog/a-new-era-for-zk
 
-[^45]: [ArXiv - ZK Proofs Survey](https://arxiv.org/html/2408.00243v1) - Comprehensive academic survey of zero-knowledge proof systems and applications ⏳ HISTORICAL (August 2024)
+[^45]: ArXiv. (2024, August). ZK Proofs Survey. *ArXiv*. Retrieved January 2, 2026, from https://arxiv.org/html/2408.00243v1 ⏳ HISTORICAL (August 2024)
 
-[^46]: [TechCrunch - Matter Labs $200M Raise](https://techcrunch.com/2022/11/16/matter-labs-the-company-behind-zksync-raises-200-million-to-scale-ethereum/) - Series C funding providing development runway for ecosystem expansion ⏳ HISTORICAL (November 2022)
+[^46]: TechCrunch. (2022, November 16). Matter Labs $200M Raise. *TechCrunch*. Retrieved January 2, 2026, from https://techcrunch.com/2022/11/16/matter-labs-the-company-behind-zksync-raises-200-million-to-scale-ethereum/ ⏳ HISTORICAL (November 2022)
 
-[^47]: [NFTScan Q3 2024 Report](https://medium.com/nftscan/q3-2024-nft-market-report-trading-volume-exceeds-1-1-billion-amid-shifting-landscape-a4c94af0a70a) - zkSync Era ranked #5 globally for NFT trading volume ⏳ HISTORICAL (Q3 2024)
+[^47]: NFTScan. (2024, Q3). Q3 2024 Report. *Medium*. Retrieved January 2, 2026, from https://medium.com/nftscan/q3-2024-nft-market-report-trading-volume-exceeds-1-1-billion-amid-shifting-landscape-a4c94af0a70a ⏳ HISTORICAL (Q3 2024)
 
-[^48]: [ChainPlay - zkSync Games](https://chainplay.gg/chain/zksync/) - Gaming ecosystem rankings and NFT game market cap on zkSync Era
+[^48]: ChainPlay. (2025). zkSync Games. *ChainPlay*. Retrieved January 2, 2026, from https://chainplay.gg/chain/zksync/
 
-[^49]: [TastyCrypto - Layer 2 Networks](https://www.tastycrypto.com/blog/layer-2-networks/) - ZK-rollup instant finality advantages vs optimistic rollup 7-day withdrawals
+[^49]: TastyCrypto. (2024). Layer 2 Networks. *TastyCrypto*. Retrieved January 2, 2026, from https://www.tastycrypto.com/blog/layer-2-networks/
 
-[^50]: [Gate.io - MEV Analysis](https://www.gate.com/learn/articles/the-allure-of-mev-why-decentralizing-sequencers-is-hard/1925) - MEV extraction economics and sequencer decentralization challenges
+[^50]: Gate.io. (2024). MEV Analysis. *Gate.io*. Retrieved January 2, 2026, from https://www.gate.com/learn/articles/the-allure-of-mev-why-decentralizing-sequencers-is-hard/1925
 
-[^51]: [Coin Bureau - Best Layer 2](https://coinbureau.com/analysis/what-is-the-best-layer-2/) - Comparative L2 analysis: zkSync vs Arbitrum ($18B TVL) vs Optimism ($9B TVL)
+[^51]: Coin Bureau. (2024). Best Layer 2. *Coin Bureau*. Retrieved January 2, 2026, from https://coinbureau.com/analysis/what-is-the-best-layer-2/
 
-[^52]: [zkSync Ecosystem](https://ecosystem.zksync.io/) - Official ecosystem directory with DeFi protocols, NFT projects, and gaming applications
+[^52]: zkSync. (2025). Ecosystem. *zkSync*. Retrieved January 2, 2026, from https://ecosystem.zksync.io/
 
-[^53]: [Aave on zkSync Era](https://app.aave.com/) - Lending protocol with 261% QoQ growth to $10.9M TVL demonstrating institutional adoption
+[^53]: Aave. (2025). Aave on zkSync Era. *Aave*. Retrieved January 2, 2026, from https://app.aave.com/
 
-[^54]: [Venus Protocol](https://venus.io/) - Multi-protocol DeFi with $12.1M TVL and 20% QoQ growth on zkSync Era
+[^54]: Venus Protocol. (2025). Venus on zkSync Era. *Venus Protocol*. Retrieved January 2, 2026, from https://venus.io/
 
-[^55]: [zkSync Forum](https://forum.zksync.io/) - Governance discussions, community proposals, and ecosystem development updates
+[^55]: zkSync Forum. (2025). Governance Forum. *zkSync Forum*. Retrieved January 2, 2026, from https://forum.zksync.io/

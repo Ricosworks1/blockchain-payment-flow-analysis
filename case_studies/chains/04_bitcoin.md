@@ -382,106 +382,106 @@ Unlike Ethereum's fee-burning model, Solana's mixed approach, or BNB Chain's cor
 
 ## References
 
-[^1]: [CNBC - Bitcoin Halving 2024](https://www.cnbc.com/2024/04/19/bitcoin-network-completes-fourth-ever-halving-of-rewards-to-miners.html) - ⏳ HISTORICAL (April 2024): Bitcoin network completes fourth-ever 'halving' of rewards to miners. Block reward reduced to 3.125 BTC. Referenced for halving mechanics which remain unchanged.
+[^1]: CNBC. (2024, April 19). Bitcoin network completes fourth-ever 'halving' of rewards to miners. *CNBC*. Retrieved January 2, 2026, from https://www.cnbc.com/2024/04/19/bitcoin-network-completes-fourth-ever-halving-of-rewards-to-miners.html ⏳ HISTORICAL
 
-[^2]: [YCharts - Bitcoin Transaction Fees](https://ycharts.com/indicators/bitcoin_average_transaction_fee) - Historical transaction fee data. See [^10] for current data.
+[^2]: YCharts. (2024). Bitcoin Average Transaction Fee. *YCharts*. Retrieved January 2, 2026, from https://ycharts.com/indicators/bitcoin_average_transaction_fee ⏳ HISTORICAL
 
-[^3]: [WisdomTree - Bitcoin Halving Mining Update](https://www.wisdomtree.com/investments/blog/2024/07/22/bitcoin-halving-and-mining-update-mid-2024-perspective) - ⏳ HISTORICAL (July 2024): Pre-halving $1.78B monthly vs post-halving $966M monthly (46% decline), hashprice analysis. Referenced for halving impact context.
+[^3]: WisdomTree. (2024, July 22). Bitcoin Halving and Mining Update: Mid-2024 Perspective. *WisdomTree*. Retrieved January 2, 2026, from https://www.wisdomtree.com/investments/blog/2024/07/22/bitcoin-halving-and-mining-update-mid-2024-perspective ⏳ HISTORICAL
 
-[^4]: [Statista - Bitcoin Energy Consumption](https://www.statista.com/statistics/881472/worldwide-bitcoin-energy-consumption) - Annual consumption 176.62 TWh, 54% renewable energy usage in mining operations (2024-2026 data).
+[^4]: Statista. (2025). Worldwide Bitcoin Energy Consumption. *Statista*. Retrieved January 2, 2026, from https://www.statista.com/statistics/881472/worldwide-bitcoin-energy-consumption
 
-[^5]: [99Bitcoins - Bitcoin Transaction Fees Guide](https://99bitcoins.com/cryptocurrency/bitcoin/fees) - Peak fee $91.89 (halving day April 2024), monthly aggregate analysis. See [^10] for current fee data.
+[^5]: 99Bitcoins. (2024). Bitcoin Transaction Fees Guide. *99Bitcoins*. Retrieved January 2, 2026, from https://99bitcoins.com/cryptocurrency/bitcoin/fees ⏳ HISTORICAL
 
-[^6]: [Business Research Insights - ASIC Mining Hardware Market](https://www.businessresearchinsights.com/market-reports/asic-bitcoin-mining-hardware-market-109497) - Bitmain 82%, MicroBT 15%, Canaan 2% market share, $10.5-15.28B annual market, projected $22.63B by 2033.
+[^6]: Business Research Insights. (2024). ASIC Bitcoin Mining Hardware Market. *Business Research Insights*. Retrieved January 2, 2026, from https://www.businessresearchinsights.com/market-reports/asic-bitcoin-mining-hardware-market-109497
 
-[^7]: [NoBs Bitcoin - Bitcoin Core Development Funding Report](https://www.nobsbitcoin.com/bitcoin-core-development-funded-with-8-4m-in-2023-report) - ⏳ HISTORICAL (2023): $8.4M total development funding, Chaincode Labs 46% employment, OpenSats/Spiral 62% grants, 41 active developers.
+[^7]: NoBs Bitcoin. (2023). Bitcoin Core Development Funded with $8.4M in 2023 Report. *NoBs Bitcoin*. Retrieved January 2, 2026, from https://www.nobsbitcoin.com/bitcoin-core-development-funded-with-8-4m-in-2023-report ⏳ HISTORICAL
 
-[^8]: [CoinGecko - Bitcoin Price Data](https://www.coingecko.com/en/coins/bitcoin) - 🔷 HARD DATA: BTC price $88,379 USD, market cap $1.76 trillion, 24h volume $41.61B, circulating supply 19,965,659 BTC. Retrieved via CoinGecko API (January 2, 2026).
+[^8]: CoinGecko. (2026, January 2). Bitcoin Price, Market Cap & Charts. *CoinGecko*. Retrieved January 2, 2026, from https://www.coingecko.com/en/coins/bitcoin 🔷 HARD DATA
 
-[^9]: [Blockchain.info - Total Bitcoin Supply](https://www.blockchain.com/explorer/charts/total-bitcoins) - 🔷 HARD DATA: Total BTC in circulation 19,965,678 BTC (95.07% of 21M max supply). Retrieved via Blockchain.info API (January 2, 2026).
+[^9]: Blockchain.com. (2026, January 2). Total Bitcoins in Circulation. *Blockchain.com*. Retrieved January 2, 2026, from https://www.blockchain.com/explorer/charts/total-bitcoins 🔷 HARD DATA
 
-[^10]: [BitInfoCharts - Bitcoin Average Transaction Fee](https://bitinfocharts.com/comparison/bitcoin-transactionfees.html) - 🔷 HARD DATA: Average transaction fee $0.376 USD (0.0000043 BTC), fee rate 2 sat/vB. Retrieved January 2, 2026.
+[^10]: BitInfoCharts. (2026, January 2). Bitcoin Average Transaction Fee. *BitInfoCharts*. Retrieved January 2, 2026, from https://bitinfocharts.com/comparison/bitcoin-transactionfees.html 🔷 HARD DATA
 
-[^11]: [Mempool.space - Bitcoin Hashrate](https://mempool.space/graphs/mining/hashrate-difficulty) - 🔷 HARD DATA: Network hashrate 1,050 EH/s (1.05 ZH/s), difficulty 148,195,306,640,205. Retrieved via Mempool.space API (January 2, 2026).
+[^11]: Mempool.space. (2026, January 2). Bitcoin Hashrate and Difficulty. *Mempool.space*. Retrieved January 2, 2026, from https://mempool.space/graphs/mining/hashrate-difficulty 🔷 HARD DATA
 
-[^12]: [Mempool.space - Fee Estimates](https://mempool.space/) - 🔷 HARD DATA: Fastest fee 3 sat/vB, medium 3 sat/vB, economy 1 sat/vB, minimum 1 sat/vB. Retrieved via Mempool.space API (January 2, 2026).
+[^12]: Mempool.space. (2026, January 2). Bitcoin Fee Estimates. *Mempool.space*. Retrieved January 2, 2026, from https://mempool.space/ 🔷 HARD DATA
 
-[^13]: [Blockchain.info - Network Statistics](https://www.blockchain.com/explorer/charts) - 🔷 HARD DATA: ~418,371 transactions/day, average block time 9.89 minutes, 929,025 total blocks. Retrieved via Blockchain.info API (January 2, 2026).
+[^13]: Blockchain.com. (2026, January 2). Bitcoin Network Statistics. *Blockchain.com*. Retrieved January 2, 2026, from https://www.blockchain.com/explorer/charts 🔷 HARD DATA
 
-[^14]: [Mempool.space - Mining Pools](https://mempool.space/graphs/mining/pools) - 🔷 HARD DATA: Foundry USA 26.6%, AntPool 19.3%, ViaBTC 11.5%, F2Pool 11.5%, SpiderPool 8.9%. Top 5 pools control 78% of hashrate. Retrieved January 2, 2026.
+[^14]: Mempool.space. (2026, January 2). Bitcoin Mining Pools. *Mempool.space*. Retrieved January 2, 2026, from https://mempool.space/graphs/mining/pools 🔷 HARD DATA
 
-[^15]: [1ML - Lightning Network Statistics](https://1ml.com/statistics) - 🔷 HARD DATA: Network capacity 5,287.45 BTC ($467.3M), 12,739 nodes (+0.84% monthly), 44,000 channels (-0.31% monthly). Retrieved January 2, 2026.
+[^15]: 1ML. (2026, January 2). Lightning Network Statistics. *1ML*. Retrieved January 2, 2026, from https://1ml.com/statistics 🔷 HARD DATA
 
-[^16]: [CoinDesk - Bitcoin News](https://www.coindesk.com/tag/bitcoin/) - Bitcoin market news: price below $88K, BlackRock ETF promotion, $28.5B options expiry, Binance surpassing CME in futures OI. Retrieved January 2, 2026.
+[^16]: CoinDesk. (2026, January 2). Bitcoin News and Market Updates. *CoinDesk*. Retrieved January 2, 2026, from https://www.coindesk.com/tag/bitcoin/
 
-[^17]: [Bitcoin Magazine - Markets](https://bitcoinmagazine.com/markets) - Bitcoin price outlook analysis, bulls targeting $94,000 resistance level. Retrieved January 2, 2026.
+[^17]: Bitcoin Magazine. (2026, January 2). Bitcoin Markets Analysis. *Bitcoin Magazine*. Retrieved January 2, 2026, from https://bitcoinmagazine.com/markets
 
-[^18]: [Cambridge Bitcoin Electricity Consumption Index](https://ccaf.io/cbnsi/cbeci) - Cambridge Centre for Alternative Finance methodology for Bitcoin energy consumption estimates using 7-day moving average.
+[^18]: Cambridge Centre for Alternative Finance. (2025). Cambridge Bitcoin Electricity Consumption Index. *CCAF*. Retrieved January 2, 2026, from https://ccaf.io/cbnsi/cbeci
 
-[^19]: [Ethereum.org - Proof of Stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/) - Reference for Ethereum's fee-burning model comparison in Section 7.
+[^19]: Ethereum.org. (2025). Proof of Stake Consensus Mechanism. *Ethereum.org*. Retrieved January 2, 2026, from https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/
 
-[^20]: [Solana Documentation - Economics](https://docs.solana.com/economics) - Reference for Solana's mixed inflation/fee model comparison in Section 7.
+[^20]: Solana Foundation. (2025). Solana Economics Documentation. *Solana Docs*. Retrieved January 2, 2026, from https://docs.solana.com/economics
 
-[^21]: [BNB Chain Documentation](https://docs.bnbchain.org/) - Reference for BNB Chain's corporate subsidy model comparison in Section 7.
+[^21]: BNB Chain. (2025). BNB Chain Documentation. *BNB Chain Docs*. Retrieved January 2, 2026, from https://docs.bnbchain.org/
 
-[^22]: [Bitcoin Core GitHub Repository](https://github.com/bitcoin/bitcoin) - Open-source protocol reference for transparency assessment in Section 8.
+[^22]: Bitcoin Core. (2025). Bitcoin Core GitHub Repository. *GitHub*. Retrieved January 2, 2026, from https://github.com/bitcoin/bitcoin
 
-[^23]: [Lightning Labs](https://lightning.engineering/) - Lightning Network development and infrastructure reference.
+[^23]: Lightning Labs. (2025). Lightning Network Development. *Lightning Labs*. Retrieved January 2, 2026, from https://lightning.engineering/
 
-[^24]: [Blockstream - Core Lightning](https://blockstream.com/lightning/) - Alternative Lightning Network implementation reference.
+[^24]: Blockstream. (2025). Core Lightning. *Blockstream*. Retrieved January 2, 2026, from https://blockstream.com/lightning/
 
-[^25]: [ACINQ - Eclair](https://acinq.co/) - Eclair Lightning Network implementation reference.
+[^25]: ACINQ. (2025). Eclair Lightning Implementation. *ACINQ*. Retrieved January 2, 2026, from https://acinq.co/
 
-[^26]: [Spiral - Lightning Development Kit](https://spiral.xyz/) - LDK development grants and Lightning ecosystem funding.
+[^26]: Spiral. (2025). Lightning Development Kit. *Spiral*. Retrieved January 2, 2026, from https://spiral.xyz/
 
-[^27]: [Chaincode Labs](https://chaincode.com/) - Bitcoin Core development funding organization (46% of employment funding).
+[^27]: Chaincode Labs. (2025). Bitcoin Core Development. *Chaincode Labs*. Retrieved January 2, 2026, from https://chaincode.com/
 
-[^28]: [OpenSats](https://opensats.org/) - Bitcoin and open-source development grant funding organization.
+[^28]: OpenSats. (2025). Open-Source Development Grants. *OpenSats*. Retrieved January 2, 2026, from https://opensats.org/
 
-[^29]: [Coinbase Custody](https://custody.coinbase.com/) - Institutional Bitcoin custody services reference.
+[^29]: Coinbase Custody. (2025). Institutional Custody Services. *Coinbase Custody*. Retrieved January 2, 2026, from https://custody.coinbase.com/
 
-[^30]: [Fidelity Digital Assets](https://www.fidelitydigitalassets.com/) - Institutional Bitcoin custody and prime brokerage reference.
+[^30]: Fidelity Digital Assets. (2025). Institutional Digital Asset Services. *Fidelity Digital Assets*. Retrieved January 2, 2026, from https://www.fidelitydigitalassets.com/
 
-[^31]: [Anchorage Digital](https://www.anchorage.com/) - Federally chartered digital asset bank reference.
+[^31]: Anchorage Digital. (2025). Digital Asset Banking. *Anchorage Digital*. Retrieved January 2, 2026, from https://www.anchorage.com/
 
-[^32]: [BitPay](https://bitpay.com/) - Bitcoin payment processor reference.
+[^32]: BitPay. (2025). Bitcoin Payment Processing. *BitPay*. Retrieved January 2, 2026, from https://bitpay.com/
 
-[^33]: [Strike](https://strike.me/) - Bitcoin and Lightning Network payment service reference.
+[^33]: Strike. (2025). Bitcoin and Lightning Payments. *Strike*. Retrieved January 2, 2026, from https://strike.me/
 
-[^34]: [Liquid Network - Blockstream](https://liquid.net/) - Bitcoin federated sidechain reference.
+[^34]: Blockstream. (2025). Liquid Network. *Liquid Network*. Retrieved January 2, 2026, from https://liquid.net/
 
-[^35]: [Ordinals Protocol](https://docs.ordinals.com/) - Bitcoin inscription and NFT infrastructure reference.
+[^35]: Ordinals Protocol. (2025). Bitcoin Inscriptions Documentation. *Ordinals Docs*. Retrieved January 2, 2026, from https://docs.ordinals.com/
 
-[^36]: [Bitcoin Optech](https://bitcoinops.org/) - Technical newsletter covering Bitcoin development and fee market improvements.
+[^36]: Bitcoin Optech. (2025). Bitcoin Operations Technology Group. *Bitcoin Optech*. Retrieved January 2, 2026, from https://bitcoinops.org/
 
-[^37]: [Clark Moody Bitcoin Dashboard](https://bitcoin.clarkmoody.com/dashboard/) - Real-time Bitcoin network statistics and mempool visualization.
+[^37]: Clark Moody. (2026, January 2). Bitcoin Dashboard. *Clark Moody Bitcoin Dashboard*. Retrieved January 2, 2026, from https://bitcoin.clarkmoody.com/dashboard/ 🔷 HARD DATA
 
-[^38]: [Glassnode Studio](https://studio.glassnode.com/) - On-chain analytics platform for Bitcoin metrics (MVRV, NUPL, holder behavior).
+[^38]: Glassnode. (2025). On-Chain Analytics Studio. *Glassnode*. Retrieved January 2, 2026, from https://studio.glassnode.com/
 
-[^39]: [Bitcoin Magazine Pro](https://www.bitcoinmagazinepro.com/charts/) - On-chain metrics including hashrate, mining revenue, and address balance distribution.
+[^39]: Bitcoin Magazine Pro. (2025). Bitcoin On-Chain Charts. *Bitcoin Magazine Pro*. Retrieved January 2, 2026, from https://www.bitcoinmagazinepro.com/charts/
 
-[^40]: [Bitbo Charts](https://charts.bitbo.io/) - Real-time Bitcoin dashboard with 50+ on-chain indicators.
+[^40]: Bitbo. (2026, January 2). Bitcoin Charts. *Bitbo*. Retrieved January 2, 2026, from https://charts.bitbo.io/ 🔷 HARD DATA
 
-[^41]: [Luxor Hashrate Index](https://data.hashrateindex.com/) - Bitcoin hashprice, hashrate, and mining profitability metrics.
+[^41]: Luxor Hashrate Index. (2026, January 2). Mining Profitability Metrics. *Hashrate Index*. Retrieved January 2, 2026, from https://data.hashrateindex.com/ 🔷 HARD DATA
 
-[^42]: [Bitmain](https://www.bitmain.com/) - Leading ASIC manufacturer (82% market share) reference.
+[^42]: Bitmain. (2025). ASIC Mining Hardware. *Bitmain*. Retrieved January 2, 2026, from https://www.bitmain.com/
 
-[^43]: [MicroBT](https://www.microbt.com/) - ASIC manufacturer (15% market share) reference.
+[^43]: MicroBT. (2025). Whatsminer ASIC Hardware. *MicroBT*. Retrieved January 2, 2026, from https://www.microbt.com/
 
-[^44]: [Canaan](https://www.canaan.io/) - ASIC manufacturer (2% market share) reference.
+[^44]: Canaan. (2025). Avalon ASIC Miners. *Canaan*. Retrieved January 2, 2026, from https://www.canaan.io/
 
-[^45]: [Foundry USA](https://foundrydigital.com/) - Largest Bitcoin mining pool (26.6% hashrate) reference.
+[^45]: Foundry USA. (2025). Bitcoin Mining Pool. *Foundry Digital*. Retrieved January 2, 2026, from https://foundrydigital.com/
 
-[^46]: [AntPool](https://www.antpool.com/) - Second largest mining pool (19.3% hashrate) reference.
+[^46]: AntPool. (2025). Bitcoin Mining Pool. *AntPool*. Retrieved January 2, 2026, from https://www.antpool.com/
 
-[^47]: [ViaBTC](https://www.viabtc.com/) - Third largest mining pool (11.5% hashrate) reference.
+[^47]: ViaBTC. (2025). Bitcoin Mining Pool. *ViaBTC*. Retrieved January 2, 2026, from https://www.viabtc.com/
 
-[^48]: [F2Pool](https://www.f2pool.com/) - Fourth largest mining pool (11.5% hashrate) reference.
+[^48]: F2Pool. (2025). Bitcoin Mining Pool. *F2Pool*. Retrieved January 2, 2026, from https://www.f2pool.com/
 
-[^49]: [Bitcoin Halving Clock](https://www.bitcoinblockhalf.com/) - Next halving countdown and historical halving data reference.
+[^49]: Bitcoin Block Half. (2025). Bitcoin Halving Countdown. *Bitcoin Block Half*. Retrieved January 2, 2026, from https://www.bitcoinblockhalf.com/
 
-[^50]: [Dune Analytics - Bitcoin](https://dune.com/browse/dashboards?q=bitcoin) - Community-created Bitcoin on-chain analytics dashboards.
+[^50]: Dune Analytics. (2025). Bitcoin On-Chain Dashboards. *Dune Analytics*. Retrieved January 2, 2026, from https://dune.com/browse/dashboards?q=bitcoin
 
-[^51]: [The Block - Bitcoin Data](https://www.theblock.co/data/crypto-markets/prices) - Bitcoin market data and on-chain metrics aggregator.
+[^51]: The Block. (2026, January 2). Bitcoin Market Data. *The Block*. Retrieved January 2, 2026, from https://www.theblock.co/data/crypto-markets/prices 🔷 HARD DATA
 
-[^52]: [Messari - Bitcoin Profile](https://messari.io/asset/bitcoin) - Bitcoin fundamental analysis and metrics overview.
+[^52]: Messari. (2025). Bitcoin Fundamental Analysis. *Messari*. Retrieved January 2, 2026, from https://messari.io/asset/bitcoin

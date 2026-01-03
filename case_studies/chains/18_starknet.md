@@ -286,112 +286,112 @@ Critical success factors include executing Phase 3 full consensus decentralizati
 
 ## Sources and References
 
-[^1]: [CoinGecko - StarkNet Price](https://www.coingecko.com/en/coins/starknet) - STRK trading at $0.078, $454M market cap, -98.3% from $5.30 ATH (February 20, 2024), 24h volume $42.9M (January 2, 2026)
+[^1]: CoinGecko. (2026, January 2). StarkNet Price. *CoinGecko*. Retrieved January 2, 2026, from https://www.coingecko.com/en/coins/starknet 🔷 HARD DATA
 
-[^2]: [DefiLlama - StarkNet TVL](https://defillama.com/chain/starknet) - StarkNet TVL $310-321M, 10.5% YTD increase, recovery from August 2025 lows (January 2026)
+[^2]: DefiLlama. (2026, January). StarkNet TVL. *DefiLlama*. Retrieved January 2, 2026, from https://defillama.com/chain/starknet 🔷 HARD DATA
 
-[^3]: [Crypto.news - StarkNet v0.14.0 Grinta](https://crypto.news/starknet-v0-14-0-upgrade-live-on-mainnet-2025/) - v0.14.0 launched September 1, 2025: Tendermint consensus, 3 sequencers, 6-second blocks, 500ms pre-confirmations
+[^3]: Crypto.news. (2025, September 1). StarkNet v0.14.0 Grinta. *Crypto.news*. Retrieved January 2, 2026, from https://crypto.news/starknet-v0-14-0-upgrade-live-on-mainnet-2025/
 
-[^4]: [Messari - StarkNet BTCFi Report](https://messari.io/report/starknet-borrowing-staking-and-real-world-utility-in-btcfi) - $321.2M TVL November 2025, $130M bridged BTC, 100M STRK BTCFi Season incentives
+[^4]: Messari. (2025, November). StarkNet BTCFi Report. *Messari*. Retrieved January 2, 2026, from https://messari.io/report/starknet-borrowing-staking-and-real-world-utility-in-btcfi
 
-[^5]: [StarkNet Blog - BTCFi on StarkNet](https://www.starknet.io/blog/starknet-x-bitcoin-the-next-step-btcfi-on-starknet/) - First trustless BTC staking on L2, wrapped BTC can stake up to 25% of network power
+[^5]: StarkNet Blog. (2025). BTCFi on StarkNet. *StarkNet Blog*. Retrieved January 2, 2026, from https://www.starknet.io/blog/starknet-x-bitcoin-the-next-step-btcfi-on-starknet/
 
-[^6]: [TradingView - Privacy Perps](https://www.tradingview.com/news/coinmarketcal:2271a2986094b:0-starknet-strk-privacy-perps-01-dec-2025/) - Privacy-focused perpetual trading activated December 15, 2025 with order/position masking
+[^6]: TradingView. (2025, December 15). Privacy Perps. *TradingView*. Retrieved January 2, 2026, from https://www.tradingview.com/news/coinmarketcal:2271a2986094b:0-starknet-strk-privacy-perps-01-dec-2025/
 
-[^7]: [The Block - S-two Prover](https://www.theblock.co/post/377248/starkware-deploys-s-two-prover-starknet) - S-two prover deployed January 2026: "world's fastest and most privacy-ready proof system"
+[^7]: The Block. (2026, January). S-two Prover. *The Block*. Retrieved January 2, 2026, from https://www.theblock.co/post/377248/starkware-deploys-s-two-prover-starknet
 
-[^8]: [StarkNet Blog - November 2024 Roundup](https://www.starknet.io/blog/november-2024-roundup/) - Average transaction fee $0.017, network performance metrics, staking participation data
+[^8]: StarkNet Blog. (2024, November). November 2024 Roundup. *StarkNet Blog*. Retrieved January 2, 2026, from https://www.starknet.io/blog/november-2024-roundup/ ⏳ HISTORICAL
 
-[^9]: [StarkNet Documentation - STRK Token](https://docs.starknet.io/architecture/strk/) - Official STRK utility documentation including native fee payments and governance functions
+[^9]: StarkNet Documentation. (2025). STRK Token. *StarkNet Documentation*. Retrieved January 2, 2026, from https://docs.starknet.io/architecture/strk/
 
-[^10]: [StarkNet Blog - DeFi Spring 2.0](https://www.starknet.io/blog/defi-spring-program-2-0/) - 90M STRK total allocation: Phase 1 (40M) + Phase 2 (50M), distributed through Q2 2025
+[^10]: StarkNet Blog. (2025). DeFi Spring 2.0. *StarkNet Blog*. Retrieved January 2, 2026, from https://www.starknet.io/blog/defi-spring-program-2-0/
 
-[^11]: [StarkNet Blog - Foundation Announcement](https://www.starknet.io/blog/welcome-to-the-world-starknet-foundation/) - Foundation controls 5.01B STRK (50.1% supply); 500M tokens claimed in first Provisions round
+[^11]: StarkNet Blog. (2024). Foundation Announcement. *StarkNet Blog*. Retrieved January 2, 2026, from https://www.starknet.io/blog/welcome-to-the-world-starknet-foundation/ ⏳ HISTORICAL
 
-[^12]: [Blockchain Reporter - 1.1B STRK Staked](https://blockchainreporter.net/strk-staking-reaches-a-new-all-time-high-with-1-1-billion-strk-tokens-locked) - 1.1B STRK staked (23% circulating supply), StarkWare validator capped at 10% of total stake
+[^12]: Blockchain Reporter. (2025). 1.1B STRK Staked. *Blockchain Reporter*. Retrieved January 2, 2026, from https://blockchainreporter.net/strk-staking-reaches-a-new-all-time-high-with-1-1-billion-strk-tokens-locked
 
-[^13]: [Kiln - StarkNet Staking Launch](https://www.kiln.fi/post/all-you-need-to-know-about-starknets-staking-launch) - November 26, 2024 launch: 170M STRK staked by 63,000 delegators, 106 validators
+[^13]: Kiln. (2024, November 26). StarkNet Staking Launch. *Kiln*. Retrieved January 2, 2026, from https://www.kiln.fi/post/all-you-need-to-know-about-starknets-staking-launch ⏳ HISTORICAL
 
-[^14]: [CoinDesk - STRK Staking Launch](https://www.coindesk.com/tech/2024/11/12/ethereum-layer-2-project-starknet-to-roll-out-staking-feature-later-this-month) - 20,000 STRK minimum for validators, 21-day unstaking lockup, no slashing mechanism
+[^14]: CoinDesk. (2024, November 12). STRK Staking Launch. *CoinDesk*. Retrieved January 2, 2026, from https://www.coindesk.com/tech/2024/11/12/ethereum-layer-2-project-starknet-to-roll-out-staking-feature-later-this-month ⏳ HISTORICAL
 
-[^15]: [Crypto.news - Staking v2 Launch](https://crypto.news/starknet-launch-strk-staking-v2-mainnet-june-17-2025/) - June 17, 2025: Block attestation, "all or nothing" rewards, 310M staked with 77/121 validators attesting
+[^15]: Crypto.news. (2025, June 17). Staking v2 Launch. *Crypto.news*. Retrieved January 2, 2026, from https://crypto.news/starknet-launch-strk-staking-v2-mainnet-june-17-2025/
 
-[^16]: [StarkNet Blog - Q3 2025](https://www.starknet.io/blog/how-starknets-q3-paved-the-way-for-bitcoin-decentralization-and-the-future-of-crypto/) - $365.4M consensus value including $135M from BTC staking; Anchorage institutional service launch
+[^16]: StarkNet Blog. (2025). Q3 2025. *StarkNet Blog*. Retrieved January 2, 2026, from https://www.starknet.io/blog/how-starknets-q3-paved-the-way-for-bitcoin-decentralization-and-the-future-of-crypto/
 
-[^17]: [CoinDesk - TPS Record](https://www.coindesk.com/tech/2024/10/30/starknet-claims-to-shatter-transaction-speed-record-among-ethereum-layer-2-networks) - ⏳ HISTORICAL (Oct 2024): 127.5 TPS record, 138M+ transactions, 5.2M+ contracts deployed
+[^17]: CoinDesk. (2024, October 30). TPS Record. *CoinDesk*. Retrieved January 2, 2026, from https://www.coindesk.com/tech/2024/10/30/starknet-claims-to-shatter-transaction-speed-record-among-ethereum-layer-2-networks ⏳ HISTORICAL
 
-[^18]: [Cryptonomist - StarkNet DeFi](https://en.cryptonomist.ch/2025/12/22/starknet-bitcoin-and-defi-the-new-frontier-of-decentralized-finance/) - Extended $100M+ TVL (40%+), Vesu lending, Endur $39.2M liquid staking, $147M stablecoins
+[^18]: Cryptonomist. (2025, December 22). StarkNet DeFi. *Cryptonomist*. Retrieved January 2, 2026, from https://en.cryptonomist.ch/2025/12/22/starknet-bitcoin-and-defi-the-new-frontier-of-decentralized-finance/
 
-[^19]: [PANews - StarkNet BTCFi Mindshare](https://www.panewslab.com/en/articles/d266414c-1a80-4e45-bb50-4b2643c2e6e4) - StarkNet #1 Bitcoin L2 by mindshare (69%); ecosystem data hitting new highs
+[^19]: PANews. (2025). StarkNet BTCFi Mindshare. *PANews*. Retrieved January 2, 2026, from https://www.panewslab.com/en/articles/d266414c-1a80-4e45-bb50-4b2643c2e6e4
 
-[^20]: [StarkNet Blog - Bitcoin Yield Guide](https://www.starknet.io/blog/bitcoin-yield/) - Opus: borrow CASH against BTC assets; Uncap: $1M TVL for USDU stablecoin; Vesu V2 BTCFi optimized
+[^20]: StarkNet Blog. (2025). Bitcoin Yield Guide. *StarkNet Blog*. Retrieved January 2, 2026, from https://www.starknet.io/blog/bitcoin-yield/
 
-[^21]: [StarkNet Blog - 2025 Year in Review](https://www.starknet.io/blog/starknet-2025-year-in-review/) - Ekubo AMM concentrated liquidity; AVNU aggregator; LayerAkira spot trading
+[^21]: StarkNet Blog. (2025). 2025 Year in Review. *StarkNet Blog*. Retrieved January 2, 2026, from https://www.starknet.io/blog/starknet-2025-year-in-review/
 
-[^22]: [StarkNet Roadmap](https://www.starknet.io/roadmap/) - Phase 3: Full validator consensus with permissionless participation, 2/3 stake finalization requirement
+[^22]: StarkNet. (2025). Roadmap. *StarkNet*. Retrieved January 2, 2026, from https://www.starknet.io/roadmap/
 
-[^23]: [Consensys - STARKs vs SNARKs](https://consensys.io/blog/zero-knowledge-proofs-starks-vs-snarks) - STARK quantum resistance via hash functions; no trusted setup; logarithmic proof scaling
+[^23]: Consensys. (2024). STARKs vs SNARKs. *Consensys*. Retrieved January 2, 2026, from https://consensys.io/blog/zero-knowledge-proofs-starks-vs-snarks ⏳ HISTORICAL
 
-[^24]: [StarkNet Blog - Bitcoin Quantum Problem](https://www.starknet.io/blog/bitcoin-has-a-quantum-problem-starknet-has-the-answer/) - STARK-based solution for Bitcoin post-quantum security challenges
+[^24]: StarkNet Blog. (2025). Bitcoin Quantum Problem. *StarkNet Blog*. Retrieved January 2, 2026, from https://www.starknet.io/blog/bitcoin-has-a-quantum-problem-starknet-has-the-answer/
 
-[^25]: [Hyperlane - StarkNet Integration](https://www.hyperlane.xyz/post/starknet-expansion-hyperlane-adds-cairovm-support) - December 15, 2025: 140+ chains connected; Pragma completed implementation; StarkGate Solana bridge
+[^25]: Hyperlane. (2025, December 15). StarkNet Integration. *Hyperlane*. Retrieved January 2, 2026, from https://www.hyperlane.xyz/post/starknet-expansion-hyperlane-adds-cairovm-support
 
-[^26]: [StarkNet Blog - November Recap](https://www.starknet.io/blog/starknets-november-recap/) - December additions: LayerZero, Stargate Finance, native USDC, CCTP v2, NEAR Intents
+[^26]: StarkNet Blog. (2025, November). November Recap. *StarkNet Blog*. Retrieved January 2, 2026, from https://www.starknet.io/blog/starknets-november-recap/
 
-[^27]: [StarkNet Blog - Ecosystem 2025](https://www.starknet.io/blog/the-state-of-the-starknet-ecosystem-2025/) - 168% growth to 193 projects; gaming 4→51 projects; fastest-growing L2 developer community
+[^27]: StarkNet Blog. (2025). Ecosystem 2025. *StarkNet Blog*. Retrieved January 2, 2026, from https://www.starknet.io/blog/the-state-of-the-starknet-ecosystem-2025/
 
-[^28]: [Nansen - StarkNet H1 2025](https://research.nansen.ai/articles/starknet-half-year-report-h1-2025) - SN Stack public release; Re{ignite}: 851 participants, 37,000+ lines Cairo; 15 Developer Basecamps
+[^28]: Nansen. (2025). StarkNet H1 2025. *Nansen Research*. Retrieved January 2, 2026, from https://research.nansen.ai/articles/starknet-half-year-report-h1-2025
 
-[^29]: [StarkNet Blog - Cairo Coder](https://www.starknet.io/blog/starknet-2025-year-in-review/) - Cairo Coder in Cursor; Garaga SDK for Noir developers; no Cairo code required to build
+[^29]: StarkNet Blog. (2025). Cairo Coder. *StarkNet Blog*. Retrieved January 2, 2026, from https://www.starknet.io/blog/starknet-2025-year-in-review/
 
-[^30]: [StarkNet Blog - Cairo Developer Survey](https://www.starknet.io/blog/cairo-gets-high-marks-from-starknet-devs-heres-why/) - 86% rate experience above average; Starkli 46.7% CLI preference; positive developer sentiment
+[^30]: StarkNet Blog. (2025). Cairo Developer Survey. *StarkNet Blog*. Retrieved January 2, 2026, from https://www.starknet.io/blog/cairo-gets-high-marks-from-starknet-devs-heres-why/
 
-[^31]: [StarkNet - Growth Grants](https://www.starknet.io/grants/growth-grants/) - Up to $1M per project non-dilutive; Seed Grants $25,000 USDC for 200+ teams
+[^31]: StarkNet. (2025). Growth Grants. *StarkNet*. Retrieved January 2, 2026, from https://www.starknet.io/grants/growth-grants/
 
-[^32]: [StarkNet Blog - 2024 Roundup](https://www.starknet.io/blog/2024-roundup/) - Gaming: 50M STRK reserved, Propulsion Pilot up to $1M; Catalyst: 20M+ STRK distributed
+[^32]: StarkNet Blog. (2024). 2024 Roundup. *StarkNet Blog*. Retrieved January 2, 2026, from https://www.starknet.io/blog/2024-roundup/ ⏳ HISTORICAL
 
-[^33]: [The Block - STRK Distribution](https://www.theblock.co/post/277379/starknet-strk-token-distribution-plan) - ⏳ HISTORICAL (Feb 2024): 700M STRK (7% supply) distributed to 1.3M eligible wallets
+[^33]: The Block. (2024, February). STRK Distribution. *The Block*. Retrieved January 2, 2026, from https://www.theblock.co/post/277379/starknet-strk-token-distribution-plan ⏳ HISTORICAL
 
-[^34]: [CoinMarketCap - StarkNet Updates](https://coinmarketcap.com/cmc-ai/starknet-token/latest-updates/) - December 15, 2025: 127M STRK unlock (5.07% supply, ~$13.2M); Hyperlane; Privacy Perps live
+[^34]: CoinMarketCap. (2025, December 15). StarkNet Updates. *CoinMarketCap*. Retrieved January 2, 2026, from https://coinmarketcap.com/cmc-ai/starknet-token/latest-updates/
 
-[^35]: [Messari - Understanding StarkNet](https://messari.io/report/understanding-starknet) - First L2 to support settlement on both Ethereum and Bitcoin; cross-chain infrastructure breakthrough
+[^35]: Messari. (2025). Understanding StarkNet. *Messari*. Retrieved January 2, 2026, from https://messari.io/report/understanding-starknet
 
-[^36]: [PANews - StarkNet Ecosystem](https://www.panewslab.com/en/articles/d266414c-1a80-4e45-bb50-4b2643c2e6e4) - Daily revenue ~$5,000 despite strong technical capabilities; ecosystem growth metrics
+[^36]: PANews. (2025). StarkNet Ecosystem. *PANews*. Retrieved January 2, 2026, from https://www.panewslab.com/en/articles/d266414c-1a80-4e45-bb50-4b2643c2e6e4
 
-[^37]: [OpenZeppelin - StarkNet Case Study](https://www.openzeppelin.com/customer-stories/starknet) - OZ contracts: 55% of TVL, $620M peak (April 2024), zero security incidents; Cairo contracts foundation
+[^37]: OpenZeppelin. (2024). StarkNet Case Study. *OpenZeppelin*. Retrieved January 2, 2026, from https://www.openzeppelin.com/customer-stories/starknet ⏳ HISTORICAL
 
-[^38]: [The Block - Bitcoin Staking](https://www.theblock.co/post/367800/starknet-bitcoin-staking-consensus-strk) - Bitcoin staking for network consensus alongside STRK; Lombard LBTC integration
+[^38]: The Block. (2025). Bitcoin Staking. *The Block*. Retrieved January 2, 2026, from https://www.theblock.co/post/367800/starknet-bitcoin-staking-consensus-strk
 
-[^39]: [ForkLog - BTC Staking Launch](https://forklog.com/en/starknet-introduces-bitcoin-staking-on-l2-network/) - First fully trustless BTC staking on any L2; BTC holders earn rewards without losing custody
+[^39]: ForkLog. (2025). BTC Staking Launch. *ForkLog*. Retrieved January 2, 2026, from https://forklog.com/en/starknet-introduces-bitcoin-staking-on-l2-network/
 
-[^40]: [Invezz - STRK Staking v2](https://invezz.com/news/2025/06/16/strk-price-gains-bullish-momentum-ahead-of-starknet-staking-v2-launch/) - STRK price momentum ahead of staking v2; validator transparency improvements
+[^40]: Invezz. (2025, June 16). STRK Staking v2. *Invezz*. Retrieved January 2, 2026, from https://invezz.com/news/2025/06/16/strk-price-gains-bullish-momentum-ahead-of-starknet-staking-v2-launch/
 
-[^41]: [Coindoo - Community Upgrade Approval](https://coindoo.com/starknet-community-approves-game-changing-upgrade-for-2025/) - Community vote approved v0.14.0 with decentralized sequencing infrastructure
+[^41]: Coindoo. (2025). Community Upgrade Approval. *Coindoo*. Retrieved January 2, 2026, from https://coindoo.com/starknet-community-approves-game-changing-upgrade-for-2025/
 
-[^42]: [ChainCatcher - 2025 Roadmap](https://www.chaincatcher.com/en/article/2169842) - Staking mechanisms, decentralized roadmap, Phase 3 consensus timeline for late 2025
+[^42]: ChainCatcher. (2025). 2025 Roadmap. *ChainCatcher*. Retrieved January 2, 2026, from https://www.chaincatcher.com/en/article/2169842
 
-[^43]: [StarkNet Research - STRK Staking](https://starknetresearch.substack.com/p/strk-staking-a-major-step-toward) - First L2 with permissionless staking; decentralization milestone analysis
+[^43]: StarkNet Research. (2025). STRK Staking. *StarkNet Research*. Retrieved January 2, 2026, from https://starknetresearch.substack.com/p/strk-staking-a-major-step-toward
 
-[^44]: [Vesu Knowledge Hub - DeFi Spring](https://docs.vesu.xyz/explore/defi-spring) - Earning strategies: 15%+ APY via LST + DeFi Spring; protocol eligibility criteria
+[^44]: Vesu Knowledge Hub. (2025). DeFi Spring. *Vesu Knowledge Hub*. Retrieved January 2, 2026, from https://docs.vesu.xyz/explore/defi-spring
 
-[^45]: [Bybit Learn - DeFi Spring Extension](https://learn.bybit.com/daily-bits/starknet-extends-52-million-defi-spring-campaign/) - $52M DeFi Spring campaign with 90M STRK; protocol categories and eligible assets
+[^45]: Bybit Learn. (2025). DeFi Spring Extension. *Bybit Learn*. Retrieved January 2, 2026, from https://learn.bybit.com/daily-bits/starknet-extends-52-million-defi-spring-campaign/
 
-[^46]: [Braavos - DeFi Spring Guide](https://braavos.app/starknet-defi-spring/) - Master guide to earning STRK through DeFi Spring participation; wallet integration
+[^46]: Braavos. (2025). DeFi Spring Guide. *Braavos*. Retrieved January 2, 2026, from https://braavos.app/starknet-defi-spring/
 
-[^47]: [The Defiant - DeFi Spring Extension](https://thedefiant.io/news/defi/starknet-extends-usd50-million-defi-spring-campaign) - $50M Phase 2 extension; liquidity incentives for protocol adoption
+[^47]: The Defiant. (2025). DeFi Spring Extension. *The Defiant*. Retrieved January 2, 2026, from https://thedefiant.io/news/defi/starknet-extends-usd50-million-defi-spring-campaign
 
-[^48]: [CoinPedia - STRK Price Prediction](https://coinpedia.org/price-analysis/starknet-price-prediction-2025-can-strk-turn-its-rebound-into-a-full-recovery/) - Price analysis: $0.078 current, recovery potential, TVL growth correlation
+[^48]: CoinPedia. (2025). STRK Price Prediction. *CoinPedia*. Retrieved January 2, 2026, from https://coinpedia.org/price-analysis/starknet-price-prediction-2025-can-strk-turn-its-rebound-into-a-full-recovery/
 
-[^49]: [CCN - STRK Price Analysis](https://www.ccn.com/analysis/crypto/starknet-strk-price-prediction/) - Bullish growth analysis; technical indicators; ecosystem strength indicators
+[^49]: CCN. (2025). STRK Price Analysis. *CCN*. Retrieved January 2, 2026, from https://www.ccn.com/analysis/crypto/starknet-strk-price-prediction/
 
-[^50]: [Chain Broker - StarkNet Project](https://chainbroker.io/projects/starknet/) - Project overview: $454M market cap, FDV $914M, investor and funding data
+[^50]: Chain Broker. (2025). StarkNet Project. *Chain Broker*. Retrieved January 2, 2026, from https://chainbroker.io/projects/starknet/
 
-[^51]: [OKX Learn - StarkNet TVL Analysis](https://www.okx.com/learn/starknet-token-tvl-growth-challenges) - TVL growth drivers, ecosystem challenges, BTCFi impact analysis
+[^51]: OKX Learn. (2025). StarkNet TVL Analysis. *OKX Learn*. Retrieved January 2, 2026, from https://www.okx.com/learn/starknet-token-tvl-growth-challenges
 
-[^52]: [AMBCrypto - ZK-Rollup Wars](https://eng.ambcrypto.com/zk-rollup-wars-starknet-vs-zksync-and-analyzing-tvl-growth/) - StarkNet vs zkSync comparison; TVL growth patterns; competitive positioning
+[^52]: AMBCrypto. (2025). ZK-Rollup Wars. *AMBCrypto*. Retrieved January 2, 2026, from https://eng.ambcrypto.com/zk-rollup-wars-starknet-vs-zksync-and-analyzing-tvl-growth/
 
-[^53]: [StarkNet Blog - NEAR Intents Integration](https://www.starknet.io/blog/bridging-the-gap-near-intents-brings-seamless-cross-chain-interoperability-to-starknet/) - NEAR Intents brings cross-chain interoperability; intent-based transactions
+[^53]: StarkNet Blog. (2025). NEAR Intents Integration. *StarkNet Blog*. Retrieved January 2, 2026, from https://www.starknet.io/blog/bridging-the-gap-near-intents-brings-seamless-cross-chain-interoperability-to-starknet/
 
-[^54]: [Bitwise - NEAR Staking ETP](https://bitwiseinvestments.eu/products/bitwise-near-staking-etp/) - Bitwise validator service for STRK staking; first L2 expansion for major crypto manager
+[^54]: Bitwise. (2025). NEAR Staking ETP. *Bitwise*. Retrieved January 2, 2026, from https://bitwiseinvestments.eu/products/bitwise-near-staking-etp/
 
-[^55]: [Medium - Hyperlane StarkNet Expansion](https://medium.com/@camelot.022544555/hyperlane-expands-to-starknet-what-it-means-for-the-ecosystem-1d1e2c3caca1) - Ecosystem implications of Hyperlane integration; cross-chain use case expansion
+[^55]: Medium. (2025). Hyperlane StarkNet Expansion. *Medium*. Retrieved January 2, 2026, from https://medium.com/@camelot.022544555/hyperlane-expands-to-starknet-what-it-means-for-the-ecosystem-1d1e2c3caca1

@@ -351,102 +351,102 @@ The protocol's emphasis on predictable costs, parallel execution, and institutio
 
 ## Sources and References
 
-[^1]: [CoinMarketCap - SUI Updates](https://coinmarketcap.com/cmc-ai/sui/latest-updates/) - 7.5 billion transactions in 2024, 10 billion cumulative by May 2025.
+[^1]: CoinMarketCap. (2025). SUI Latest Updates. *CoinMarketCap*. Retrieved January 2, 2026, from https://coinmarketcap.com/cmc-ai/sui/latest-updates/
 
-[^2]: [CoinGecko - SUI Token](https://www.coingecko.com/en/coins/sui) - 🔷 HARD DATA: SUI $1.45, market cap $5.41B, circulating 3.74B (January 2, 2026).
+[^2]: CoinGecko. (2026, January 2). SUI Token. *CoinGecko*. Retrieved January 2, 2026, from https://www.coingecko.com/en/coins/sui 🔷 HARD DATA
 
-[^3]: [DefiLlama - Sui](https://defillama.com/chain/Sui) - 🔷 HARD DATA: TVL $936 million retrieved via DefiLlama API (January 2, 2026).
+[^3]: DefiLlama. (2026, January 2). Sui. *DefiLlama*. Retrieved January 2, 2026, from https://defillama.com/chain/Sui 🔷 HARD DATA
 
-[^4]: [CoinMarketCap - SUI News](https://coinmarketcap.com/cmc-ai/sui/latest-updates/) - Bitcoin DeFi protocols constitute 10% of Sui TVL as of January 2026.
+[^4]: CoinMarketCap. (2026, January). SUI News. *CoinMarketCap*. Retrieved January 2, 2026, from https://coinmarketcap.com/cmc-ai/sui/latest-updates/
 
-[^5]: [Blockchain News - SUI Price Prediction](https://blockchain.news/news/20251217-price-prediction-sui-targeting-170-210-recovery-by-end) - DEX volume surged 232% YoY to $409 million in 2025.
+[^5]: Blockchain News. (2025, December 17). SUI Price Prediction. *Blockchain News*. Retrieved January 2, 2026, from https://blockchain.news/news/20251217-price-prediction-sui-targeting-170-210-recovery-by-end
 
-[^6]: [DefiLlama - Sui Fees](https://defillama.com/fees/sui) - 🔷 HARD DATA: All-time fees $23.04 million; daily fees averaging $7,889.
+[^6]: DefiLlama. (2026, January 2). Sui Fees. *DefiLlama*. Retrieved January 2, 2026, from https://defillama.com/fees/sui 🔷 HARD DATA
 
-[^7]: [Medium - Luganodes](https://medium.com/luganodes/a-glance-into-suis-object-centric-data-model-475db3deac9d) - Object-centric architecture benefits and parallel processing.
+[^7]: Medium - Luganodes. (2024). A Glance Into Sui's Object-Centric Data Model. *Medium*. Retrieved January 2, 2026, from https://medium.com/luganodes/a-glance-into-suis-object-centric-data-model-475db3deac9d
 
-[^8]: [Sui Documentation - Move](https://docs.sui.io/concepts/sui-move-concepts) - Move programming language and gas optimization.
+[^8]: Sui Documentation. (2026, January). Sui Move Concepts. *Sui Docs*. Retrieved January 2, 2026, from https://docs.sui.io/concepts/sui-move-concepts
 
-[^9]: [Sui Blog - Storage Fund](https://blog.sui.io/storage-fund-demystified/) - Storage fund mechanics and 99% rebate system.
+[^9]: Sui Blog. (2024). Storage Fund Demystified. *Sui Blog*. Retrieved January 2, 2026, from https://blog.sui.io/storage-fund-demystified/
 
-[^10]: [CoinMarketCap - SUI](https://coinmarketcap.com/cmc-ai/sui/latest-updates/) - 🔷 HARD DATA: 7.5 billion transactions in 2024, outperforming Tron, Polygon, Ethereum.
+[^10]: CoinMarketCap. (2025). SUI. *CoinMarketCap*. Retrieved January 2, 2026, from https://coinmarketcap.com/cmc-ai/sui/latest-updates/ 🔷 HARD DATA
 
-[^11]: [The Market Periodical - SUI 10B Transactions](https://themarketperiodical.com/2025/05/08/sui-hits-10b-transactions-targets-4-48-and-7-levels/) - 🔷 HARD DATA: Surpassed 10 billion cumulative transactions May 7, 2025.
+[^11]: The Market Periodical. (2025, May 8). SUI Hits 10B Transactions. *The Market Periodical*. Retrieved January 2, 2026, from https://themarketperiodical.com/2025/05/08/sui-hits-10b-transactions-targets-4-48-and-7-levels/ 🔷 HARD DATA
 
-[^12]: [Messari - State of Sui Q3 2025](https://messari.io/report/state-of-sui-q3-2025) - 🔷 HARD DATA: 4.7M avg daily txns (down 4.7% QoQ), 895,800 daily active addresses.
+[^12]: Messari. (2025, Q3). State of Sui Q3 2025. *Messari*. Retrieved January 2, 2026, from https://messari.io/report/state-of-sui-q3-2025 🔷 HARD DATA
 
-[^13]: [DefiLlama - Sui TVL](https://defillama.com/chain/Sui) - 🔷 HARD DATA: TVL $936 million; peaked at $2.33 billion in 2025.
+[^13]: DefiLlama. (2026, January 2). Sui TVL. *DefiLlama*. Retrieved January 2, 2026, from https://defillama.com/chain/Sui 🔷 HARD DATA
 
-[^14]: [Blockchain News - SUI](https://blockchain.news/news/20251222-price-prediction-target-sui-170-210-recovery-within-30-days) - 500,000 new accounts daily; TVL nearing annual highs.
+[^14]: Blockchain News. (2025, December 22). SUI Price Target. *Blockchain News*. Retrieved January 2, 2026, from https://blockchain.news/news/20251222-price-prediction-target-sui-170-210-recovery-within-30-days
 
-[^15]: [SuiVision - Validators](https://suivision.xyz/validators) - 106 active validators across 13 countries.
+[^15]: SuiVision. (2026, January). Validators. *SuiVision*. Retrieved January 2, 2026, from https://suivision.xyz/validators
 
-[^16]: [Figment - Sui Reference Gas Price](https://figment.io/insights/deep-dive-sui-reference-gas-price/) - Validator survey pricing mechanism with 2/3 percentile.
+[^16]: Figment. (2024). Deep Dive: Sui Reference Gas Price. *Figment*. Retrieved January 2, 2026, from https://figment.io/insights/deep-dive-sui-reference-gas-price/
 
-[^17]: [DefiLlama - Sui Fees](https://defillama.com/fees/sui) - 🔷 HARD DATA: 24h fees $7,889; 30-day $353,017; all-time $23.04M (January 2026).
+[^17]: DefiLlama. (2026, January 2). Sui Fees. *DefiLlama*. Retrieved January 2, 2026, from https://defillama.com/fees/sui 🔷 HARD DATA
 
-[^18]: [CoinMarketCap - SUI](https://coinmarketcap.com/cmc-ai/sui/latest-updates/) - Average transaction cost of $0.002.
+[^18]: CoinMarketCap. (2026, January). SUI. *CoinMarketCap*. Retrieved January 2, 2026, from https://coinmarketcap.com/cmc-ai/sui/latest-updates/ 🔷 HARD DATA
 
-[^19]: [Staking Rewards - SUI](https://www.stakingrewards.com/asset/sui) - Staking APY 0.21% to 5.30% depending on validator.
+[^19]: Staking Rewards. (2026, January). SUI. *Staking Rewards*. Retrieved January 2, 2026, from https://www.stakingrewards.com/asset/sui 🔷 HARD DATA
 
-[^20]: [Cointelegraph - Sui Object Model](https://cointelegraph.com/news/sui-object-centric-model-move-programming-language) - Programmable Transaction Blocks and atomic execution.
+[^20]: Cointelegraph. (2024). Sui Object-Centric Model and Move Programming Language. *Cointelegraph*. Retrieved January 2, 2026, from https://cointelegraph.com/news/sui-object-centric-model-move-programming-language
 
-[^21]: [Sui Documentation - Storage Fund](https://docs.sui.io/concepts/tokenomics/storage-fund) - Dual-fee structure with 70-80% computation, 20-30% storage.
+[^21]: Sui Documentation. (2026, January). Storage Fund. *Sui Docs*. Retrieved January 2, 2026, from https://docs.sui.io/concepts/tokenomics/storage-fund
 
-[^22]: [Cetus Protocol - Cetus Plus](https://medium.com/@CetusProtocol/introducing-cetus-plus-revolutionizing-swaps-on-the-sui-network-0131f279cfc1) - Cetus DEX with $167M TVL and concentrated liquidity.
+[^22]: Cetus Protocol - Medium. (2025). Introducing Cetus Plus. *Medium*. Retrieved January 2, 2026, from https://medium.com/@CetusProtocol/introducing-cetus-plus-revolutionizing-swaps-on-the-sui-network-0131f279cfc1 🔷 HARD DATA
 
-[^23]: [Vocal Media - Sui Development](https://vocal.media/education/why-top-web3-projects-are-choosing-sui-for-token-development-in-2025) - Enterprise cost benefits and transaction pricing.
+[^23]: Vocal Media. (2025). Why Top Web3 Projects Are Choosing Sui for Token Development. *Vocal Media*. Retrieved January 2, 2026, from https://vocal.media/education/why-top-web3-projects-are-choosing-sui-for-token-development-in-2025
 
-[^24]: [The Block - Bitwise SUI ETF](https://www.theblock.co/post/383207/bitwise-joins-race-to-launch-sui-etf-with-latest-sec-filing) - 🔷 HARD DATA: Bitwise S-1 filed December 18, 2025 (file 333-292227).
+[^24]: The Block. (2025, December 18). Bitwise Joins Race to Launch SUI ETF. *The Block*. Retrieved January 2, 2026, from https://www.theblock.co/post/383207/bitwise-joins-race-to-launch-sui-etf-with-latest-sec-filing 🔷 HARD DATA
 
-[^25]: [CoinMarketCap - SUI Updates](https://coinmarketcap.com/cmc-ai/sui/latest-updates/) - 🔷 HARD DATA: SUI included in Bitwise 10 Crypto Index ETF since December 10, 2025.
+[^25]: CoinMarketCap. (2025, December 10). SUI Updates. *CoinMarketCap*. Retrieved January 2, 2026, from https://coinmarketcap.com/cmc-ai/sui/latest-updates/ 🔷 HARD DATA
 
-[^26]: [CryptoNinjas - Bitwise SUI ETF](https://www.cryptoninjas.net/news/bitwise-files-spot-sui-etf-with-sec-offering-direct-exposure-and-staking-yield-to-tap-a-5b-token-market/) - Canary Capital's "Staked SUI ETF" plans for Nasdaq listing.
+[^26]: CryptoNinjas. (2025, December). Bitwise Files Spot SUI ETF with SEC. *CryptoNinjas*. Retrieved January 2, 2026, from https://www.cryptoninjas.net/news/bitwise-files-spot-sui-etf-with-sec-offering-direct-exposure-and-staking-yield-to-tap-a-5b-token-market/
 
-[^27]: [CoinMarketCap - SUI](https://coinmarketcap.com/cmc-ai/sui/latest-updates/) - 21Shares 2x leveraged SUI ETF (TXXS) launched following SEC greenlight.
+[^27]: CoinMarketCap. (2025, December). SUI. *CoinMarketCap*. Retrieved January 2, 2026, from https://coinmarketcap.com/cmc-ai/sui/latest-updates/
 
-[^28]: [Bankless Times - Bitwise SUI ETF](https://www.banklesstimes.com/articles/2025/12/19/bitwise-files-an-s-1-with-the-sec-for-a-spot-sui-etf/) - Coinbase custody with in-kind creation/redemption mechanism.
+[^28]: Bankless Times. (2025, December 19). Bitwise Files S-1 with SEC for Spot SUI ETF. *Bankless Times*. Retrieved January 2, 2026, from https://www.banklesstimes.com/articles/2025/12/19/bitwise-files-an-s-1-with-the-sec-for-a-spot-sui-etf/
 
-[^29]: [Sui Blog - Mysticeti v2](https://blog.sui.io/mysticeti-v2-sui-consensus/) - 🔷 HARD DATA: Mysticeti v2 deployed October 7, 2025; 35% latency reduction.
+[^29]: Sui Blog. (2025, October 7). Mysticeti v2 Sui Consensus. *Sui Blog*. Retrieved January 2, 2026, from https://blog.sui.io/mysticeti-v2-sui-consensus/ 🔷 HARD DATA
 
-[^30]: [Crypto News - Mysticeti v2](https://crypto.news/sui-launches-mysticeti-v2-consensus-upgrade-2025/) - Transaction Driver simplifies submission flow to single validator.
+[^30]: Crypto News. (2025, October). Sui Launches Mysticeti v2 Consensus Upgrade. *Crypto News*. Retrieved January 2, 2026, from https://crypto.news/sui-launches-mysticeti-v2-consensus-upgrade-2025/
 
-[^31]: [CoinMarketCap Academy - Sui Launch](https://coinmarketcap.com/academy/article/sui-to-launch-mainnet-and-token-what-you-need-to-know) - ⏳ HISTORICAL: Mainnet May 3, 2023; token trading April 23, 2023.
+[^31]: CoinMarketCap Academy. (2023, May). Sui to Launch Mainnet and Token. *CoinMarketCap Academy*. Retrieved January 2, 2026, from https://coinmarketcap.com/academy/article/sui-to-launch-mainnet-and-token-what-you-need-to-know ⏳ HISTORICAL
 
-[^32]: [Blockworks - Mysten Labs](https://blockworks.co/news/mysten-labs-launches-blockchain-platform-sui) - ⏳ HISTORICAL (2022): $336M raised, $2B valuation.
+[^32]: Blockworks. (2022). Mysten Labs Launches Blockchain Platform Sui. *Blockworks*. Retrieved January 2, 2026, from https://blockworks.co/news/mysten-labs-launches-blockchain-platform-sui ⏳ HISTORICAL
 
-[^33]: [Delphi Digital - MEV in Sui](https://members.delphidigital.io/feed/demystifying-mev-in-sui) - DAG-based consensus minimizes MEV opportunities.
+[^33]: Delphi Digital. (2024). Demystifying MEV in Sui. *Delphi Digital*. Retrieved January 2, 2026, from https://members.delphidigital.io/feed/demystifying-mev-in-sui
 
-[^34]: [Stakin - Sui Deep Dive](https://stakin.com/blog/sui-blockchain-a-deep-dive) - Parallel execution and state access parallelization.
+[^34]: Stakin Blog. (2024). Sui Blockchain: A Deep Dive. *Stakin Blog*. Retrieved January 2, 2026, from https://stakin.com/blog/sui-blockchain-a-deep-dive
 
-[^35]: [Sui Blog - $2B TVL](https://blog.sui.io/2-billion-tvl-milestone-defi/) - $2 billion TVL milestone with institutional adoption.
+[^35]: Sui Blog. (2025). $2 Billion TVL Milestone DeFi. *Sui Blog*. Retrieved January 2, 2026, from https://blog.sui.io/2-billion-tvl-milestone-defi/
 
-[^36]: [Figment - Sui Tokenomics](https://figment.io/insights/sui-tokenomics/) - Storage Fund sustainability and validator economics.
+[^36]: Figment. (2024). Sui Tokenomics. *Figment*. Retrieved January 2, 2026, from https://figment.io/insights/sui-tokenomics/
 
-[^37]: [GetBlock - Sui DEXs](https://getblock.io/blog/best-sui-dexs/) - DeFi protocol fee structures and network costs.
+[^37]: GetBlock Blog. (2025). Best Sui DEXs. *GetBlock Blog*. Retrieved January 2, 2026, from https://getblock.io/blog/best-sui-dexs/
 
-[^38]: [Sui Blog - Q3 2024 DeFi](https://blog.sui.io/q3-2024-defi-roundup/) - ⏳ HISTORICAL: Turbos and Scallop metrics.
+[^38]: Sui Blog. (2024, Q3). Q3 2024 DeFi Roundup. *Sui Blog*. Retrieved January 2, 2026, from https://blog.sui.io/q3-2024-defi-roundup/ ⏳ HISTORICAL
 
-[^39]: [Oodles Blockchain - Sui Development](https://blockchain.oodles.io/blog/sui-blockchain/) - Developer costs: package deployment $5-50.
+[^39]: Oodles Blockchain. (2025). Sui Blockchain. *Oodles Blockchain*. Retrieved January 2, 2026, from https://blockchain.oodles.io/blog/sui-blockchain/
 
-[^40]: [TokenInsight - Sui Testnet](https://tokeninsight.com/en/news/sui-testnet-has-100-globally-distributed-validators-peak-throughput-of-nearly-300-000-tps) - Theoretical 297,000 TPS in testnet.
+[^40]: TokenInsight. (2023). Sui Testnet Has 100 Globally Distributed Validators. *TokenInsight*. Retrieved January 2, 2026, from https://tokeninsight.com/en/news/sui-testnet-has-100-globally-distributed-validators-peak-throughput-of-nearly-300-000-tps
 
-[^41]: [Hashlock - TPS Comparison](https://hashlock.com/blog/understanding-tps-which-blockchains-are-the-fastest) - 120,000 TPS with 390ms completion under load.
+[^41]: Hashlock Blog. (2025). Understanding TPS: Which Blockchains Are the Fastest. *Hashlock Blog*. Retrieved January 2, 2026, from https://hashlock.com/blog/understanding-tps-which-blockchains-are-the-fastest
 
-[^42]: [Kraken Learn - Sui Network](https://www.kraken.com/learn/what-is-sui-network-sui) - Platform comparison and developer ecosystem.
+[^42]: Kraken Learn. (2025). What is Sui Network. *Kraken Learn*. Retrieved January 2, 2026, from https://www.kraken.com/learn/what-is-sui-network-sui
 
-[^43]: [Cryptomus - SUI vs Solana](https://cryptomus.com/blog/sui-vs-solana-complete-comparison) - Competitive analysis with high-performance chains.
+[^43]: Cryptomus Blog. (2025). SUI vs Solana Complete Comparison. *Cryptomus Blog*. Retrieved January 2, 2026, from https://cryptomus.com/blog/sui-vs-solana-complete-comparison
 
-[^44]: [Mudrex - SUI Explained](https://mudrex.com/learn/the-sui-network-explained/) - 480ms average latency and sub-second finality.
+[^44]: Mudrex Learn. (2025). The Sui Network Explained. *Mudrex Learn*. Retrieved January 2, 2026, from https://mudrex.com/learn/the-sui-network-explained/
 
-[^45]: [GasFees.org - Sui Fees](https://gasfees.org/what-are-sui-gas-fees/) - Transaction fee benchmarks: 0.001266 SUI (~$0.002).
+[^45]: GasFees.org. (2025). What Are Sui Gas Fees. *GasFees.org*. Retrieved January 2, 2026, from https://gasfees.org/what-are-sui-gas-fees/ 🔷 HARD DATA
 
-[^46]: [Tangem - Sui 2025](https://tangem.com/en/blog/post/sui-blockchain/) - Ecosystem unlocks and price outlook.
+[^46]: Tangem Blog. (2025). Sui Blockchain. *Tangem Blog*. Retrieved January 2, 2026, from https://tangem.com/en/blog/post/sui-blockchain/
 
-[^47]: [AInvest - SUI Path 2026](https://www.ainvest.com/news/sui-path-major-price-surge-2026-technical-resilience-macro-bullish-catalysts-2512/) - Technical resilience and institutional catalysts.
+[^47]: AInvest. (2025, December). SUI Path to Major Price Surge 2026. *AInvest*. Retrieved January 2, 2026, from https://www.ainvest.com/news/sui-path-major-price-surge-2026-technical-resilience-macro-bullish-catalysts-2512/
 
-[^48]: [Messari - State of Sui Q1 2025](https://messari.io/report/state-of-sui-q1-2025) - Q1 2025 network metrics and ecosystem growth.
+[^48]: Messari. (2025, Q1). State of Sui Q1 2025. *Messari*. Retrieved January 2, 2026, from https://messari.io/report/state-of-sui-q1-2025
 
-[^49]: [Sui Blog - Q2 2025 DeFi](https://blog.sui.io/q2-2025-defi-roundup/) - H1 2025: 2.7 billion transactions; peak 30M+ daily.
+[^49]: Sui Blog. (2025, Q2). Q2 2025 DeFi Roundup. *Sui Blog*. Retrieved January 2, 2026, from https://blog.sui.io/q2-2025-defi-roundup/
 
-[^50]: [BSC News - Sui Updates](https://bsc.news/post/sui-network-updates) - Mysticeti v2 and Transaction Driver technical details.
+[^50]: BSC News. (2025). Sui Network Updates. *BSC News*. Retrieved January 2, 2026, from https://bsc.news/post/sui-network-updates

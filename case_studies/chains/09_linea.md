@@ -340,102 +340,102 @@ Critical success factors for 2026 include: (1) SWIFT pilot progression toward pr
 
 ## Sources and References
 
-[^1]: [CryptoNinjas - SWIFT Teams with Linea](https://www.cryptoninjas.net/news/swift-teams-with-linea-on-blockchain-messaging-and-stablecoin-pilot-involving-7-trillion-network/) - SWIFT selects Linea for blockchain messaging pilot with BNP Paribas, BNY Mellon, 12+ banks (September 2025).
+[^1]: CryptoNinjas. (2025, September). SWIFT Teams with Linea on Blockchain Messaging and Stablecoin Pilot. *CryptoNinjas*. Retrieved January 2, 2026, from https://www.cryptoninjas.net/news/swift-teams-with-linea-on-blockchain-messaging-and-stablecoin-pilot-involving-7-trillion-network/
 
-[^2]: [CoinGecko - Linea Token](https://www.coingecko.com/en/coins/linea) - 🔷 HARD DATA: LINEA $0.0064, market cap $109M, circulating 16.98B, ATH $0.0467 (January 2, 2026).
+[^2]: CoinGecko. (2026, January 2). Linea Token. *CoinGecko*. Retrieved January 2, 2026, from https://www.coingecko.com/en/coins/linea 🔷 HARD DATA
 
-[^3]: [DefiLlama - Linea](https://defillama.com/chain/linea) - 🔷 HARD DATA: TVL $218 million retrieved via DefiLlama API (January 2, 2026).
+[^3]: DefiLlama. (2026, January 2). Linea TVL. *DefiLlama*. Retrieved January 2, 2026, from https://defillama.com/chain/linea 🔷 HARD DATA
 
-[^4]: [CoinDesk - SharpLink $200M Deployment](https://www.coindesk.com/markets/2025/10/28/sharplink-plans-usd200m-eth-deployment-on-consensys-linea-over-multiple-years) - SharpLink commits $200M multi-year ETH deployment on Linea (October 2025).
+[^4]: CoinDesk. (2025, October 28). SharpLink Plans $200M ETH Deployment on ConsenSys' Linea. *CoinDesk*. Retrieved January 2, 2026, from https://www.coindesk.com/markets/2025/10/28/sharplink-plans-usd200m-eth-deployment-on-consensys-linea-over-multiple-years
 
-[^5]: [CoinMarketCap - Linea Updates](https://coinmarketcap.com/cmc-ai/linea/latest-updates/) - Dual burn mechanism: 20% ETH + 80% LINEA per transaction (November 5, 2025).
+[^5]: CoinMarketCap. (2025, November 5). Linea Latest Updates. *CoinMarketCap*. Retrieved January 2, 2026, from https://coinmarketcap.com/cmc-ai/linea/latest-updates/
 
-[^6]: [Crowdfund Insider - Linea 2025](https://www.crowdfundinsider.com/2025/12/256736-ethereums-defi-ecosystem-supported-166b-in-tvl-with-uniswap-and-aave-enabling-growth-report-reveals/) - Six Ethereum upgrades integrated: Paris, Shanghai, Cancun, Prague, Pectra, Fusaka.
+[^6]: Crowdfund Insider. (2025, December). Ethereum's DeFi Ecosystem Supported $166B in TVL. *Crowdfund Insider*. Retrieved January 2, 2026, from https://www.crowdfundinsider.com/2025/12/256736-ethereums-defi-ecosystem-supported-166b-in-tvl-with-uniswap-and-aave-enabling-growth-report-reveals/
 
-[^7]: [L2Beat - Linea](https://l2beat.com/scaling/projects/linea) - Technical analysis of Linea's zkEVM architecture and fee structure.
+[^7]: L2Beat. (2026, January). Linea. *L2Beat*. Retrieved January 2, 2026, from https://l2beat.com/scaling/projects/linea
 
-[^8]: [Linea Documentation - Gas Fees](https://docs.linea.build/get-started/how-to/gas-fees) - Technical documentation on fee mechanisms and centralized sequencer.
+[^8]: Linea Documentation. (2026, January). Gas Fees. *Linea Docs*. Retrieved January 2, 2026, from https://docs.linea.build/get-started/how-to/gas-fees
 
-[^9]: [CoinMarketCap Academy - Linea](https://coinmarketcap.com/academy/article/what-is-linea-network) - ⏳ HISTORICAL (November 2024): 230M+ transactions and 1.3M users.
+[^9]: CoinMarketCap Academy. (2024, November). What is Linea Network. *CoinMarketCap Academy*. Retrieved January 2, 2026, from https://coinmarketcap.com/academy/article/what-is-linea-network ⏳ HISTORICAL
 
-[^10]: [WEEX - Linea Airdrop](https://www.weex.com/news/detail/linea-airdrop-claim-window-opens-september-10-to-december-9-with-all-tokens-fully-unlocked-latest-update-as-of-september-3-2025-157140) - 92% claim rate; 749,000+ wallets claimed LINEA tokens.
+[^10]: WEEX. (2025, September). Linea Airdrop Claim Window. *WEEX*. Retrieved January 2, 2026, from https://www.weex.com/news/detail/linea-airdrop-claim-window-opens-september-10-to-december-9-with-all-tokens-fully-unlocked-latest-update-as-of-september-3-2025-157140
 
-[^11]: [DefiLlama - Linea TVL](https://defillama.com/chain/linea) - 🔷 HARD DATA: Current TVL $218 million, down from $3.5B peak (January 2026).
+[^11]: DefiLlama. (2026, January 2). Linea TVL. *DefiLlama*. Retrieved January 2, 2026, from https://defillama.com/chain/linea 🔷 HARD DATA
 
-[^12]: [DefiLlama - Linea Fees](https://defillama.com/fees/linea) - 🔷 HARD DATA: Daily fees $2,024, 30-day $136,385, all-time $3.84M (January 2, 2026).
+[^12]: DefiLlama. (2026, January 2). Linea Fees. *DefiLlama*. Retrieved January 2, 2026, from https://defillama.com/fees/linea 🔷 HARD DATA
 
-[^13]: [CoinRank - Linea TVL $1B](https://www.coinrank.io/crypto/linea-network-defi-tvl-surpasses-1-billion/) - ⏳ HISTORICAL (September 2025): $1B TVL milestone with 18% daily growth.
+[^13]: CoinRank. (2025, September). Linea Network DeFi TVL Surpasses $1 Billion. *CoinRank*. Retrieved January 2, 2026, from https://www.coinrank.io/crypto/linea-network-defi-tvl-surpasses-1-billion/ ⏳ HISTORICAL
 
-[^14]: [CoinGecko Research - Blockchain Fees 2024](https://www.coingecko.com/research/publications/blockchain-fee-earnings) - ⏳ HISTORICAL (2024): Linea $39.2M annual fees, 62% growth from 2023.
+[^14]: CoinGecko Research. (2024). Blockchain Fee Earnings. *CoinGecko Research*. Retrieved January 2, 2026, from https://www.coingecko.com/research/publications/blockchain-fee-earnings ⏳ HISTORICAL
 
-[^15]: [The Defiant - Linea Voyage](https://thedefiant.io/news/defi/linea-voyage-drives-record-activity-on-layer-2) - ⏳ HISTORICAL (December 2023): Average fee $0.62 vs. $0.23 on Arbitrum.
+[^15]: The Defiant. (2023, December). Linea Voyage Drives Record Activity on Layer 2. *The Defiant*. Retrieved January 2, 2026, from https://thedefiant.io/news/defi/linea-voyage-drives-record-activity-on-layer-2 ⏳ HISTORICAL
 
-[^16]: [CCN - Linea Token Launch](https://www.ccn.com/news/crypto/consensys-linea-network-token-launch/) - 85% ecosystem allocation, 15% ConsenSys treasury with 5-year lockup.
+[^16]: CCN. (2025, September). ConsenSys Linea Network Token Launch. *CCN*. Retrieved January 2, 2026, from https://www.ccn.com/news/crypto/consensys-linea-network-token-launch/
 
-[^17]: [Linea Blog - Tokenomics](https://linea.build/blog/linea-tokenomics) - 75% Ecosystem Fund managed by consortium including ENS Labs and Eigen Labs.
+[^17]: Linea Blog. (2025, September). Linea Tokenomics. *Linea Blog*. Retrieved January 2, 2026, from https://linea.build/blog/linea-tokenomics
 
-[^18]: [CoinMarketCap - LINEA Token Unlocks](https://coinmarketcap.com/cmc-ai/linea/latest-updates/) - 🔷 HARD DATA: $14.63M unlock Dec 10, 2025; next unlock Jan 10, 2026 (1.38B LINEA).
+[^18]: CoinMarketCap. (2025, December 10). LINEA Token Unlocks. *CoinMarketCap*. Retrieved January 2, 2026, from https://coinmarketcap.com/cmc-ai/linea/latest-updates/ 🔷 HARD DATA
 
-[^19]: [WEEX - Airdrop Deadline](https://www.weex.com/news/detail/linea-airdrop-claim-window-opens-september-10-to-december-9-with-all-tokens-fully-unlocked-latest-update-as-of-september-3-2025-157140) - Claim window closed December 9, 2025 at 23:59 UTC.
+[^19]: WEEX. (2025, December). Linea Airdrop Deadline. *WEEX*. Retrieved January 2, 2026, from https://www.weex.com/news/detail/linea-airdrop-claim-window-opens-september-10-to-december-9-with-all-tokens-fully-unlocked-latest-update-as-of-september-3-2025-157140
 
-[^20]: [Tokenomist - Linea](https://tokenomist.ai/linea) - LINEA has no onchain governance rights; protocol operates without DAO.
+[^20]: Tokenomist. (2026, January). Linea. *Tokenomist*. Retrieved January 2, 2026, from https://tokenomist.ai/linea
 
-[^21]: [CryptoSlate - MetaMask mUSD](https://cryptoslate.com/metamask-enters-stablecoin-scene-with-musd-launch-on-ethereum-and-linea/) - mUSD launched on Ethereum and Linea, listed on Aave v3 (September 2025).
+[^21]: CryptoSlate. (2025, September). MetaMask Enters Stablecoin Scene with mUSD Launch. *CryptoSlate*. Retrieved January 2, 2026, from https://cryptoslate.com/metamask-enters-stablecoin-scene-with-musd-launch-on-ethereum-and-linea/
 
-[^22]: [BSC News - mUSD Stablecoin](https://bsc.news/post/metamask-musd-stablecoin-launch) - mUSD backed 1:1 by US Treasury bills via Bridge.xyz and M0 protocol.
+[^22]: BSC News. (2025, September). MetaMask mUSD Stablecoin Launch. *BSC News*. Retrieved January 2, 2026, from https://bsc.news/post/metamask-musd-stablecoin-launch
 
-[^23]: [Aave Governance - mUSD](https://governance.aave.com/t/arfc-add-metamask-usd-musd-to-aave-v3-core-instance-on-ethereum-and-linea/23097) - Stablecoin Earn via Aave offers ~4-5% APY on mUSD.
+[^23]: Aave Governance. (2025, September). Add MetaMask USD (mUSD) to Aave V3. *Aave Governance Forum*. Retrieved January 2, 2026, from https://governance.aave.com/t/arfc-add-metamask-usd-musd-to-aave-v3-core-instance-on-ethereum-and-linea/23097
 
-[^24]: [CryptoSlate - SWIFT Linea Pilot](https://cryptoslate.com/swift-reportedly-picks-linea-for-multi-month-interbank-messaging-system-transition/) - SWIFT pilot focuses on tokenized interbank messaging and stablecoin integration.
+[^24]: CryptoSlate. (2025, September). SWIFT Reportedly Picks Linea for Interbank Messaging System. *CryptoSlate*. Retrieved January 2, 2026, from https://cryptoslate.com/swift-reportedly-picks-linea-for-multi-month-interbank-messaging-system-transition/
 
-[^25]: [ForkLog - SWIFT Blockchain Pilot](https://forklog.com/en/swift-initiates-blockchain-pilot-on-linea-platform/) - Linea's zk-proof privacy features swayed SWIFT's decision.
+[^25]: ForkLog. (2025, September). SWIFT Initiates Blockchain Pilot on Linea Platform. *ForkLog*. Retrieved January 2, 2026, from https://forklog.com/en/swift-initiates-blockchain-pilot-on-linea-platform/
 
-[^26]: [The Block - SharpLink Deployment](https://www.theblock.co/post/376621/consensys-backed-ethereum-treasury-firm-sharplink-deploys-200-million-in-eth-on-linea-layer-2) - SharpLink: 861,251 ETH ($3.57B treasury), Anchorage Digital Bank custody.
+[^26]: The Block. (2025, October). SharpLink Deploys $200 Million in ETH on Linea Layer 2. *The Block*. Retrieved January 2, 2026, from https://www.theblock.co/post/376621/consensys-backed-ethereum-treasury-firm-sharplink-deploys-200-million-in-eth-on-linea-layer-2
 
-[^27]: [Linea Docs - Decentralization](https://docs.linea.build/technology/decentralization) - Roadmap: Security Council Q1 2025, QBFT Q2 2025, Type-1 zkEVM Q1 2026, full DPoS 2027+.
+[^27]: Linea Documentation. (2026, January). Decentralization. *Linea Docs*. Retrieved January 2, 2026, from https://docs.linea.build/technology/decentralization
 
-[^28]: [CoinMarketCap - Linea Updates](https://coinmarketcap.com/cmc-ai/linea/latest-updates/) - 🔷 HARD DATA: Sequencer v4.4-rc5.1 released November 26, 2025 with gas optimizations.
+[^28]: CoinMarketCap. (2025, November 26). Linea Updates. *CoinMarketCap*. Retrieved January 2, 2026, from https://coinmarketcap.com/cmc-ai/linea/latest-updates/ 🔷 HARD DATA
 
-[^29]: [AInvest - Linea Ignition](https://www.ainvest.com/news/liquidity-providers-1-billion-linea-tokens-fuel-defi-growth-linea-2509/) - 1B LINEA distributed via Ignition; Brevis ZK technology for reward validation.
+[^29]: AInvest. (2025, September). Liquidity Providers 1 Billion LINEA Tokens Fuel DeFi Growth. *AInvest*. Retrieved January 2, 2026, from https://www.ainvest.com/news/liquidity-providers-1-billion-linea-tokens-fuel-defi-growth-linea-2509/
 
-[^30]: [Crypto News - Linea Ignition](https://crypto.news/linea-ignition-rewards-program-boost-defi-tvl-2025/) - 15-month initiative targeting $1B TVL; peak reached $3.5B.
+[^30]: Crypto News. (2025). Linea Ignition Rewards Program Boost DeFi TVL. *Crypto News*. Retrieved January 2, 2026, from https://crypto.news/linea-ignition-rewards-program-boost-defi-tvl-2025/
 
-[^31]: [CoinMarketCap - Binance Promotion](https://coinmarketcap.com/cmc-ai/linea/latest-updates/) - 🔷 HARD DATA: Binance promotion until Dec 31: 30M LINEA for ≥0.2 ETH subscribers.
+[^31]: CoinMarketCap. (2025, December). Binance Promotion. *CoinMarketCap*. Retrieved January 2, 2026, from https://coinmarketcap.com/cmc-ai/linea/latest-updates/ 🔷 HARD DATA
 
-[^32]: [L2Beat - Linea Risks](https://l2beat.com/scaling/projects/linea) - Centralized sequencer with ~75% fee extraction; limited MEV transparency.
+[^32]: L2Beat. (2026, January). Linea Risks. *L2Beat*. Retrieved January 2, 2026, from https://l2beat.com/scaling/projects/linea
 
-[^33]: [Medium - Linea zkEVM](https://medium.com/@scalingx/maximizing-ethereums-potential-a-look-at-linea-zkevm-f1305943174d) - Vortex → Arcane → PLONK proof compression system.
+[^33]: Medium - ScalingX. (2024). Maximizing Ethereum's Potential: A Look at Linea zkEVM. *Medium*. Retrieved January 2, 2026, from https://medium.com/@scalingx/maximizing-ethereums-potential-a-look-at-linea-zkevm-f1305943174d
 
-[^34]: [Phemex - Linea zkEVM](https://phemex.com/academy/what-is-linea-zkevm-scaling-solution) - 15-20x fee reduction compared to Ethereum mainnet.
+[^34]: Phemex Academy. (2025). What is Linea zkEVM Scaling Solution. *Phemex Academy*. Retrieved January 2, 2026, from https://phemex.com/academy/what-is-linea-zkevm-scaling-solution
 
-[^35]: [Linea Official](https://linea.build/) - 100% proven zkEVM committed to full Ethereum equivalence.
+[^35]: Linea Official. (2026, January). Linea. *Linea*. Retrieved January 2, 2026, from https://linea.build/
 
-[^36]: [Ingonyama - Hardware Review](https://www.ingonyama.com/post/hardware-review-gpus-fpgas-and-zero-knowledge-proofs) - GPUs and FPGAs for ZK proof generation.
+[^36]: Ingonyama. (2024). Hardware Review: GPUs, FPGAs, and Zero Knowledge Proofs. *Ingonyama*. Retrieved January 2, 2026, from https://www.ingonyama.com/post/hardware-review-gpus-fpgas-and-zero-knowledge-proofs
 
-[^37]: [Atomic Wallet - Linea](https://atomicwallet.io/academy/articles/what-is-linea-ethereum) - Lattice-powered prover; recursion-friendly design.
+[^37]: Atomic Wallet Academy. (2025). What is Linea Ethereum. *Atomic Wallet Academy*. Retrieved January 2, 2026, from https://atomicwallet.io/academy/articles/what-is-linea-ethereum
 
-[^38]: [The Block - Linea Token](https://www.theblock.co/post/326210/consensys-layer-2-linea-association-token-launch) - Competitive analysis of L2 features.
+[^38]: The Block. (2025, September). ConsenSys Layer-2 Linea Association Token Launch. *The Block*. Retrieved January 2, 2026, from https://www.theblock.co/post/326210/consensys-layer-2-linea-association-token-launch
 
-[^39]: [ConsenSys - zkEVM](https://consensys.net/zkevm/) - Enterprise blockchain services and institutional tooling.
+[^39]: ConsenSys. (2026, January). zkEVM. *ConsenSys*. Retrieved January 2, 2026, from https://consensys.net/zkevm/
 
-[^40]: [BeInCrypto - Linea Decentralization](https://beincrypto.com/consensys-is-decentralizing-linea-network/) - Analysis of centralization risks and transition challenges.
+[^40]: BeInCrypto. (2025). ConsenSys is Decentralizing Linea Network. *BeInCrypto*. Retrieved January 2, 2026, from https://beincrypto.com/consensys-is-decentralizing-linea-network/
 
-[^41]: [ConsenSys Blog - Linea Mainnet](https://consensys.io/blog/consensys-launches-linea-mainnet-unlocking-a-new-level-of-user-experience) - MetaMask and Infura integration details.
+[^41]: ConsenSys Blog. (2023). ConsenSys Launches Linea Mainnet. *ConsenSys Blog*. Retrieved January 2, 2026, from https://consensys.io/blog/consensys-launches-linea-mainnet-unlocking-a-new-level-of-user-experience
 
-[^42]: [Linea Mirror - Sequencer Decentralization](https://linea.mirror.xyz/77eLxT6VpsO5n3FGbeWyEB7V48RnPEnkNnQnBn3scRg) - Enterprise relationships and payment infrastructure.
+[^42]: Linea Mirror. (2025). Sequencer Decentralization. *Linea Mirror*. Retrieved January 2, 2026, from https://linea.mirror.xyz/77eLxT6VpsO5n3FGbeWyEB7V48RnPEnkNnQnBn3scRg
 
-[^43]: [Yahoo Finance - Linea Exponent](https://finance.yahoo.com/news/linea-exponent-goes-live-linea-155538277.html) - Linea DeFi ecosystem developments.
+[^43]: Yahoo Finance. (2025). Linea Exponent Goes Live. *Yahoo Finance*. Retrieved January 2, 2026, from https://finance.yahoo.com/news/linea-exponent-goes-live-linea-155538277.html
 
-[^44]: [CoinDCX - Linea Price Prediction](https://coindcx.com/blog/price-predictions/linea-price-prediction/) - Technical analysis and price outlook.
+[^44]: CoinDCX Blog. (2025). Linea Price Prediction. *CoinDCX Blog*. Retrieved January 2, 2026, from https://coindcx.com/blog/price-predictions/linea-price-prediction/
 
-[^45]: [StealthEX - Linea Prediction](https://stealthex.io/blog/linea-price-prediction-is-linea-a-good-investment/) - Token distribution and market analysis.
+[^45]: StealthEX Blog. (2025). Linea Price Prediction: Is Linea a Good Investment? *StealthEX Blog*. Retrieved January 2, 2026, from https://stealthex.io/blog/linea-price-prediction-is-linea-a-good-investment/
 
-[^46]: [Ventureburn - Linea Airdrop Guide](https://ventureburn.com/linea-airdrop/) - Complete guide to airdrop claim process.
+[^46]: Ventureburn. (2025). Linea Airdrop Guide. *Ventureburn*. Retrieved January 2, 2026, from https://ventureburn.com/linea-airdrop/
 
-[^47]: [Decrypt - MetaMask mUSD](https://decrypt.co/336147/metamask-unveils-musd-stablecoin-ethereum-linea-teases-debit-functionality) - mUSD with MetaMask Card debit functionality.
+[^47]: Decrypt. (2025, September). MetaMask Unveils mUSD Stablecoin on Ethereum and Linea. *Decrypt*. Retrieved January 2, 2026, from https://decrypt.co/336147/metamask-unveils-musd-stablecoin-ethereum-linea-teases-debit-functionality
 
-[^48]: [AInvest - mUSD Future](https://www.ainvest.com/news/metamask-musd-future-wallet-native-stablecoins-2508/) - Wallet-native stablecoin market analysis.
+[^48]: AInvest. (2025, August). MetaMask mUSD Future of Wallet-Native Stablecoins. *AInvest*. Retrieved January 2, 2026, from https://www.ainvest.com/news/metamask-musd-future-wallet-native-stablecoins-2508/
 
-[^49]: [MetaMask - mUSD Announcement](https://metamask.io/news/metamask-announces-stablecoin-metamask-usd) - Official mUSD stablecoin announcement.
+[^49]: MetaMask. (2025, September). MetaMask Announces Stablecoin MetaMask USD. *MetaMask*. Retrieved January 2, 2026, from https://metamask.io/news/metamask-announces-stablecoin-metamask-usd
 
-[^50]: [CoinGecko Research - 2024 Fees](https://www.coingecko.com/research/publications/blockchain-fee-earnings) - ⏳ HISTORICAL: Linea 62% fee growth outpaced competitors in 2024.
+[^50]: CoinGecko Research. (2024). Blockchain Fee Earnings. *CoinGecko Research*. Retrieved January 2, 2026, from https://www.coingecko.com/research/publications/blockchain-fee-earnings ⏳ HISTORICAL

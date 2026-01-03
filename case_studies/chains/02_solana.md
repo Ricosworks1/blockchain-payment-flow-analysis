@@ -445,109 +445,109 @@ The network's economics are characterized by inflation dependency (>99% of secur
 
 ## References
 
-[^1]: [The Block - Solana SIMD-0096 Approval](https://www.theblock.co/post/296932/solana-validators-to-receive-full-priority-fees-as-simd-0096-proposal-gains-approval) - SIMD-0096 received 77% validator approval, eliminates priority fee burning, implemented February 2025.
+[^1]: The Block. (2025, February). Solana SIMD-0096 Approval. *The Block*. Retrieved January 2, 2026, from https://www.theblock.co/post/296932/solana-validators-to-receive-full-priority-fees-as-simd-0096-proposal-gains-approval 🔷 HARD DATA
 
-[^2]: [Charles Schwab - Solana ETPs Cleared to Trade](https://www.schwab.com/learn/story/crypto-etf-approval) - SEC approved spot Solana ETFs, trading began October 28, 2025.
+[^2]: Charles Schwab. (2025, October). Solana ETPs Cleared to Trade. *Charles Schwab*. Retrieved January 2, 2026, from https://www.schwab.com/learn/story/crypto-etf-approval 🔷 HARD DATA
 
-[^3]: [CoinGecko - Solana](https://www.coingecko.com/en/coins/solana) - 🔷 SOL price $126.64, market cap $71.27B, circulating supply 562.42M SOL, total supply 616.72M SOL retrieved via CoinGecko API (January 2, 2026).
+[^3]: CoinGecko. (2026, January 2). Solana Market Data. *CoinGecko*. Retrieved January 2, 2026, from https://www.coingecko.com/en/coins/solana 🔷 HARD DATA
 
-[^4]: [DefiLlama - Solana TVL](https://defillama.com/chain/Solana) - 🔷 Solana TVL $8.59 billion retrieved via DefiLlama API (January 2, 2026).
+[^4]: DefiLlama. (2026, January 2). Solana TVL. *DefiLlama*. Retrieved January 2, 2026, from https://defillama.com/chain/Solana 🔷 HARD DATA
 
-[^5]: [CryptoSlate - SOL Inflation Analysis](https://cryptoslate.com/sol-inflation-leaps-30-one-week-after-changes-in-fee-distribution-model/) - Current inflation rate 4.68% post-SIMD-0096.
+[^5]: CryptoSlate. (2025). SOL Inflation Analysis. *CryptoSlate*. Retrieved January 2, 2026, from https://cryptoslate.com/sol-inflation-leaps-30-one-week-after-changes-in-fee-distribution-model/
 
-[^6]: [ChainCatcher - Jito MEV Revenue](https://www.chaincatcher.com/en/article/2159392) - November 2024 peak: $210M monthly, $14.7M daily peak, 32% monthly growth.
+[^6]: ChainCatcher. (2024, November). Jito MEV Revenue. *ChainCatcher*. Retrieved January 2, 2026, from https://www.chaincatcher.com/en/article/2159392 🔷 HARD DATA
 
-[^7]: [Gate.io - Solana Staking Economics 2025](https://www.gate.com/learn/articles/understanding-solanas-staking-and-validator-economics-in-2025/6062) - Inflation rate 4.253% declining 15% annually, validator distribution analysis.
+[^7]: Gate.io. (2025). Solana Staking Economics 2025. *Gate.io Learn*. Retrieved January 2, 2026, from https://www.gate.com/learn/articles/understanding-solanas-staking-and-validator-economics-in-2025/6062
 
-[^8]: [DataWallet - Solana Staking Statistics 2025](https://www.datawallet.com/crypto/solana-staking-statistics-and-trends) - 🔷 67.12% of SOL staked, 7-9% APY staking yields.
+[^8]: DataWallet. (2025). Solana Staking Statistics 2025. *DataWallet*. Retrieved January 2, 2026, from https://www.datawallet.com/crypto/solana-staking-statistics-and-trends 🔷 HARD DATA
 
-[^9]: [CoinLaw - Solana Statistics 2025](https://coinlaw.io/solana-statistics/) - 3,248 active validators (up 57%), 45+ countries, top 30 control <30% stake.
+[^9]: CoinLaw. (2025). Solana Statistics 2025. *CoinLaw*. Retrieved January 2, 2026, from https://coinlaw.io/solana-statistics/ 🔷 HARD DATA
 
-[^10]: [Solana Docs - Transaction Fees](https://solana.com/docs/core/fees) - Base fee structure, compute unit pricing, account rent system.
+[^10]: Solana. (2026, January 2). Transaction Fees Documentation. *Solana Docs*. Retrieved January 2, 2026, from https://solana.com/docs/core/fees
 
-[^11]: [Solana Floor - SIMD-0096 Hidden Cost](https://solanafloor.com/news/solana-simd-0096-promises-greater-rewards-hidden-cost) - Daily burn reduction from ~18K to ~1K SOL.
+[^11]: Solana Floor. (2025). SIMD-0096 Hidden Cost. *Solana Floor*. Retrieved January 2, 2026, from https://solanafloor.com/news/solana-simd-0096-promises-greater-rewards-hidden-cost
 
-[^12]: [CoinLaw - Solana Statistics](https://coinlaw.io/solana-statistics/) - 🔷 Average transaction fee $0.00025, 10,000x cheaper than Ethereum.
+[^12]: CoinLaw. (2025). Solana Transaction Statistics. *CoinLaw*. Retrieved January 2, 2026, from https://coinlaw.io/solana-statistics/ 🔷 HARD DATA
 
-[^13]: [Solana Floor - Raydium TVL](https://solanafloor.com/news/solana-de-fi-surges-as-six-protocols-break-the-1-billion-tvl-barrier) - Raydium $1.84B TVL, +32% growth.
+[^13]: Solana Floor. (2025). Raydium TVL. *Solana Floor*. Retrieved January 2, 2026, from https://solanafloor.com/news/solana-de-fi-surges-as-six-protocols-break-the-1-billion-tvl-barrier 🔷 HARD DATA
 
-[^14]: [Cryptonomist - Jito $100M Monthly Revenue](https://en.cryptonomist.ch/2024/12/27/jito-di-solana-surpasses-100-million-dollars-in-monthly-revenue-the-mev-at-the-center-of-growth/) - December 2024 monthly revenue exceeded $100 million.
+[^14]: Cryptonomist. (2024, December 27). Jito $100M Monthly Revenue. *Cryptonomist*. Retrieved January 2, 2026, from https://en.cryptonomist.ch/2024/12/27/jito-di-solana-surpasses-100-million-dollars-in-monthly-revenue-the-mev-at-the-center-of-growth/ 🔷 HARD DATA
 
-[^15]: [GetBlock - Jito MEV Client](https://getblock.io/blog/what-is-jito-solana-mev-client/) - 95% of Solana's active stake delegated to Jito validators.
+[^15]: GetBlock. (2025). Jito MEV Client. *GetBlock Blog*. Retrieved January 2, 2026, from https://getblock.io/blog/what-is-jito-solana-mev-client/
 
-[^16]: [Solana Floor - Jito $3B TVL](https://solanafloor.com/news/solana-s-de-fi-protocols-break-7-8-b-tvl-led-by-jito-s-3-b-milestone) - Jito first Solana protocol to reach $3B TVL, 14M SOL staked.
+[^16]: Solana Floor. (2025). Jito $3B TVL. *Solana Floor*. Retrieved January 2, 2026, from https://solanafloor.com/news/solana-s-de-fi-protocols-break-7-8-b-tvl-led-by-jito-s-3-b-milestone 🔷 HARD DATA
 
-[^17]: [CoinTelegraph - Jito $100M Monthly Tips](https://cointelegraph.com/news/solana-jito-staking-pool-100m-per-month-in-tips-kairos-research) - JitoSOL metrics, 0.15% JTO holder rewards approved October 2024.
+[^17]: Cointelegraph. (2024, October). Jito $100M Monthly Tips. *Cointelegraph*. Retrieved January 2, 2026, from https://cointelegraph.com/news/solana-jito-staking-pool-100m-per-month-in-tips-kairos-research 🔷 HARD DATA
 
-[^18]: [Everstake - Solana Staking Insights H1 2025](https://everstake.one/crypto-reports/solana-staking-insights-and-analysis-first-half-of-2025) - Nakamoto coefficient improved to 20.
+[^18]: Everstake. (2025, H1). Solana Staking Insights H1 2025. *Everstake*. Retrieved January 2, 2026, from https://everstake.one/crypto-reports/solana-staking-insights-and-analysis-first-half-of-2025 🔷 HARD DATA
 
-[^19]: [BeInCrypto - SIMD-0411 Inflation Reduction](https://beincrypto.com/solana-economic-shift-sol-emission-cut/) - Proposal to double disinflation rate to 30%, reach 1.5% by 2029.
+[^19]: BeInCrypto. (2025). SIMD-0411 Inflation Reduction. *BeInCrypto*. Retrieved January 2, 2026, from https://beincrypto.com/solana-economic-shift-sol-emission-cut/
 
-[^20]: [BitTime - Solana Token Unlock March 2025](https://www.bittime.com/en/blog/solana-token-unlock-maret-2025) - 11.2M SOL ($2.03B) unlock, FTX creditor distribution.
+[^20]: BitTime. (2025, March). Solana Token Unlock March 2025. *BitTime*. Retrieved January 2, 2026, from https://www.bittime.com/en/blog/solana-token-unlock-maret-2025
 
-[^21]: [Bitrue - Solana Token Unlock Analysis](https://www.bitrue.com/blog/solana-token-unlock-anaysis) - FTX auction sales: Galaxy $64, Pantera $95, Figure $102.
+[^21]: Bitrue. (2025). Solana Token Unlock Analysis. *Bitrue Blog*. Retrieved January 2, 2026, from https://www.bitrue.com/blog/solana-token-unlock-anaysis
 
-[^22]: [The Crypto Basic - FTX SOL Unloading](https://thecryptobasic.com/2025/03/04/ftx-unloads-3-03m-solana-worth-432-5m-as-customer-repayment-gains-momentum/) - 7.83M SOL unstaked since Nov 2023, $986M to exchanges.
+[^22]: The Crypto Basic. (2025, March 4). FTX SOL Unloading. *The Crypto Basic*. Retrieved January 2, 2026, from https://thecryptobasic.com/2025/03/04/ftx-unloads-3-03m-solana-worth-432-5m-as-customer-repayment-gains-momentum/
 
-[^23]: [Solana Compass - Tokenomics](https://solanacompass.com/tokenomics) - Token supply metrics, vesting schedules, unlock tracker.
+[^23]: Solana Compass. (2026, January 2). Tokenomics. *Solana Compass*. Retrieved January 2, 2026, from https://solanacompass.com/tokenomics 🔷 HARD DATA
 
-[^24]: [Solana.org - Grants and Funding](https://solana.org/grants-funding) - Traditional grants, convertible grants, direct investments.
+[^24]: Solana Foundation. (2026, January 2). Grants and Funding. *Solana Foundation*. Retrieved January 2, 2026, from https://solana.org/grants-funding
 
-[^25]: [DappRadar - Solana DeFi Rankings](https://dappradar.com/narratives/defi/protocols/chain/solana) - Solana 2nd largest DeFi blockchain, 7.05% market share.
+[^25]: DappRadar. (2026, January 2). Solana DeFi Rankings. *DappRadar*. Retrieved January 2, 2026, from https://dappradar.com/narratives/defi/protocols/chain/solana 🔷 HARD DATA
 
-[^26]: [Solana Floor - Marinade Finance](https://solanafloor.com/news/solana-de-fi-surges-as-six-protocols-break-the-1-billion-tvl-barrier) - Marinade $1.74B TVL, v2 auction mechanism.
+[^26]: Solana Floor. (2025). Marinade Finance. *Solana Floor*. Retrieved January 2, 2026, from https://solanafloor.com/news/solana-de-fi-surges-as-six-protocols-break-the-1-billion-tvl-barrier 🔷 HARD DATA
 
-[^27]: [DataWallet - Liquid Staking Trends](https://www.datawallet.com/crypto/solana-staking-statistics-and-trends) - LSTs >10% of total stake.
+[^27]: DataWallet. (2025). Liquid Staking Trends. *DataWallet*. Retrieved January 2, 2026, from https://www.datawallet.com/crypto/solana-staking-statistics-and-trends
 
-[^28]: [ETF Database - Solana ETFs](https://etfdb.com/crypto-channel/summer-sol-solana-etfs/) - Hong Kong spot SOL ETF launched October 16, 2025.
+[^28]: ETF Database. (2025, October). Solana ETFs. *ETF Database*. Retrieved January 2, 2026, from https://etfdb.com/crypto-channel/summer-sol-solana-etfs/ 🔷 HARD DATA
 
-[^29]: [NerdWallet - Spot Solana ETFs](https://www.nerdwallet.com/article/investing/solana-etfs) - BSOL, GSOL trading, 21Shares provisional approval.
+[^29]: NerdWallet. (2025). Spot Solana ETFs. *NerdWallet*. Retrieved January 2, 2026, from https://www.nerdwallet.com/article/investing/solana-etfs
 
-[^30]: [AInvest - Solana Institutional Adoption](https://www.ainvest.com/news/solana-2025-2026-roadmap-institutional-adoption-catalyst-long-term-creation-2511/) - $58M daily inflows (Nov 26), $568.24M total since launch.
+[^30]: AInvest. (2025, November). Solana Institutional Adoption. *AInvest*. Retrieved January 2, 2026, from https://www.ainvest.com/news/solana-2025-2026-roadmap-institutional-adoption-catalyst-long-term-creation-2511/ 🔷 HARD DATA
 
-[^31]: [CCN - Solana ETF Filings](https://www.ccn.com/news/crypto/solana-spot-etf-timing-sol-sec-fund/) - Franklin Templeton, Fidelity, VanEck, Grayscale filings.
+[^31]: CCN. (2025). Solana ETF Filings. *CCN*. Retrieved January 2, 2026, from https://www.ccn.com/news/crypto/solana-spot-etf-timing-sol-sec-fund/
 
-[^32]: [Yahoo Finance - SEC Approves 21Shares SOL ETF](https://finance.yahoo.com/news/sec-approves-21shares-solana-spot-174532940.html) - Polymarket 99% approval odds.
+[^32]: Yahoo Finance. (2025). SEC Approves 21Shares SOL ETF. *Yahoo Finance*. Retrieved January 2, 2026, from https://finance.yahoo.com/news/sec-approves-21shares-solana-spot-174532940.html 🔷 HARD DATA
 
-[^33]: [Bitget - SEC Approves SOL ETF](https://www.bitget.com/price/solana) - Bloomberg Intelligence 95% approval probability.
+[^33]: Bitget. (2025). SEC Approves SOL ETF. *Bitget*. Retrieved January 2, 2026, from https://www.bitget.com/price/solana
 
-[^34]: [CoinGape - Solana Foundation Grant](https://coingape.com/solana-foundation-unveils-new-grant-for-open-source-developers/) - $400K Actions and Blinks tooling grant.
+[^34]: CoinGape. (2025). Solana Foundation Grant. *CoinGape*. Retrieved January 2, 2026, from https://coingape.com/solana-foundation-unveils-new-grant-for-open-source-developers/
 
-[^35]: [Solana.org - Ecosystem Funding](https://solana.org/grants) - Superteam microgrants, MonkeDAO grants, Colosseum hackathons.
+[^35]: Solana Foundation. (2026, January 2). Ecosystem Funding. *Solana Foundation*. Retrieved January 2, 2026, from https://solana.org/grants
 
-[^36]: [Solana Floor - Q3 2024 Funding](https://solanafloor.com/news/solana-sees-private-funding-surge-to-173-m-in-q3-2024-highest-in-2-years) - $173M Q3 2024, RockawayX $125M fund, 7,500+ new developers.
+[^36]: Solana Floor. (2024, Q3). Q3 2024 Funding. *Solana Floor*. Retrieved January 2, 2026, from https://solanafloor.com/news/solana-sees-private-funding-surge-to-173-m-in-q3-2024-highest-in-2-years 🔷 HARD DATA
 
-[^37]: [CB Insights - Solana Ventures](https://www.cbinsights.com/investor/solana-ventures) - 83 investments, 4 exits, January 2026 Pye deal.
+[^37]: CB Insights. (2026, January). Solana Ventures. *CB Insights*. Retrieved January 2, 2026, from https://www.cbinsights.com/investor/solana-ventures 🔷 HARD DATA
 
-[^38]: [AInvest - Mercurity $200M Deal](https://www.ainvest.com/news/solana-2025-2026-roadmap-institutional-adoption-catalyst-long-term-creation-2511/) - $200M equity line of credit, July 2025.
+[^38]: AInvest. (2025, July). Mercurity $200M Deal. *AInvest*. Retrieved January 2, 2026, from https://www.ainvest.com/news/solana-2025-2026-roadmap-institutional-adoption-catalyst-long-term-creation-2511/
 
-[^39]: [Tracxn - Solana Ventures Profile](https://tracxn.com/d/accelerator-incubator/solana-ventures/__Dp1Z7m92iz9BOl337pTyATHpoLnqxhWgbbpJyMRoV3k) - Starpower $2.5M seed round, January 2025.
+[^39]: Tracxn. (2025, January). Solana Ventures Profile. *Tracxn*. Retrieved January 2, 2026, from https://tracxn.com/d/accelerator-incubator/solana-ventures/__Dp1Z7m92iz9BOl337pTyATHpoLnqxhWgbbpJyMRoV3k
 
-[^40]: Author's analysis of RPC provider pricing from Helius, QuickNode, Alchemy documentation.
+[^40]: Author Analysis. (2026, January 2). RPC Provider Pricing. Analysis based on Helius, QuickNode, and Alchemy documentation.
 
-[^41]: [Solana Compass - TPS Statistics](https://solanacompass.com/statistics) - 🔷 Current TPS ~607, max 5,289, Rage Trade 55K+ sustained.
+[^41]: Solana Compass. (2026, January 2). TPS Statistics. *Solana Compass*. Retrieved January 2, 2026, from https://solanacompass.com/statistics 🔷 HARD DATA
 
-[^42]: [Chainspect - Solana Performance](https://chainspect.app/chain/solana) - 400ms block time, <2s finality, 90% under 500ms.
+[^42]: Chainspect. (2026, January 2). Solana Performance. *Chainspect*. Retrieved January 2, 2026, from https://chainspect.app/chain/solana 🔷 HARD DATA
 
-[^43]: Author's comparative analysis of Ethereum fee distribution based on EIP-1559 documentation.
+[^43]: Author Analysis. (2026, January 2). Ethereum Fee Distribution. Comparative analysis based on EIP-1559 documentation.
 
-[^44]: [Solana Beach - Validators](https://solanabeach.io/validators) - Public validator performance metrics.
+[^44]: Solana Beach. (2026, January 2). Validators. *Solana Beach*. Retrieved January 2, 2026, from https://solanabeach.io/validators 🔷 HARD DATA
 
-[^45]: [Blockworks - SIMD-228 Defeat](https://blockworks.co/news/solana-inflation-left-curve-228-proposal-federa) - ⏳ HISTORICAL (March 2025): SIMD-228 rejected with 43.6% approval.
+[^45]: Blockworks. (2025, March). SIMD-228 Defeat. *Blockworks*. Retrieved January 2, 2026, from https://blockworks.co/news/solana-inflation-left-curve-228-proposal-federa ⏳ HISTORICAL (March 2025)
 
-[^46]: [AInvest - Alpenglow Q4 2025](https://www.ainvest.com/news/solana-2025-2026-roadmap-institutional-adoption-catalyst-long-term-creation-2511/) - High-frequency trading infrastructure rollout.
+[^46]: AInvest. (2025, Q4). Alpenglow Q4 2025. *AInvest*. Retrieved January 2, 2026, from https://www.ainvest.com/news/solana-2025-2026-roadmap-institutional-adoption-catalyst-long-term-creation-2511/
 
-[^47]: [Helius - Staking Calculator](https://www.helius.dev/staking/calculator) - Staking reward calculations.
+[^47]: Helius. (2026, January 2). Staking Calculator. *Helius*. Retrieved January 2, 2026, from https://www.helius.dev/staking/calculator 🔷 HARD DATA
 
-[^48]: [Coinbase - Solana Validator Report January 2026](https://www.coinbase.com/institutional/research-insights/resources/guides/sol-validator-report-december-2025) - Geographic distribution, performance metrics.
+[^48]: Coinbase Institutional. (2026, January). Solana Validator Report January 2026. *Coinbase Institutional*. Retrieved January 2, 2026, from https://www.coinbase.com/institutional/research-insights/resources/guides/sol-validator-report-december-2025 🔷 HARD DATA
 
-[^49]: [Token Terminal - Solana TPS](https://tokenterminal.com/explorer/projects/solana/metrics/transactions-per-second) - Historical TPS data.
+[^49]: Token Terminal. (2026, January 2). Solana TPS. *Token Terminal*. Retrieved January 2, 2026, from https://tokenterminal.com/explorer/projects/solana/metrics/transactions-per-second 🔷 HARD DATA
 
-[^50]: [QuickNode - Solana MEV Economics](https://blog.quicknode.com/solana-mev-economics-jito-bundles-liquid-staking-guide/) - MEV bundle mechanics, liquid staking integration.
+[^50]: QuickNode. (2025). Solana MEV Economics. *QuickNode Blog*. Retrieved January 2, 2026, from https://blog.quicknode.com/solana-mev-economics-jito-bundles-liquid-staking-guide/
 
-[^51]: [The Block - Solana On-Chain Data](https://www.theblock.co/data/on-chain-metrics/solana) - Transaction fees, validator metrics.
+[^51]: The Block. (2026, January 2). Solana On-Chain Data. *The Block*. Retrieved January 2, 2026, from https://www.theblock.co/data/on-chain-metrics/solana 🔷 HARD DATA
 
-[^52]: [Jito Foundation](https://www.jito.network/) - Official liquid staking protocol documentation.
+[^52]: Jito Foundation. (2026, January 2). Official Documentation. *Jito Network*. Retrieved January 2, 2026, from https://www.jito.network/ 🔷 HARD DATA
 
 ---
 

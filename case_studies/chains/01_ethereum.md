@@ -415,121 +415,121 @@ The Fusaka upgrade represents Ethereum's most significant economic recalibration
 
 ## References
 
-[^1]: [CoinDesk - Ethereum Activates Fusaka Upgrade](https://www.coindesk.com/tech/2025/12/03/ethereum-activates-fusaka-upgrade-aiming-to-cut-node-costs-speed-layer-2-settlements) - December 3, 2025 activation, PeerDAS, EIP-7918 minimum blob fees, BPO schedules.
+[^1]: CoinDesk. (2025, December 3). Ethereum Activates Fusaka Upgrade. *CoinDesk*. Retrieved January 2, 2026, from https://www.coindesk.com/tech/2025/12/03/ethereum-activates-fusaka-upgrade-aiming-to-cut-node-costs-speed-layer-2-settlements 🔷 HARD DATA
 
-[^2]: [AInvest - Ethereum Fusaka Upgrade Deflationary Dynamics](https://www.ainvest.com/news/ethereum-fusaka-upgrade-emergence-eth-deflationary-dynamics-2512/) - Pre-Fusaka 620K issuance / 350K burn; post-Fusaka projections 600K-1.2M burn; potential Q1 2026 deflation.
+[^2]: AInvest. (2025, December). Ethereum Fusaka Upgrade Deflationary Dynamics. *AInvest*. Retrieved January 2, 2026, from https://www.ainvest.com/news/ethereum-fusaka-upgrade-emergence-eth-deflationary-dynamics-2512/
 
-[^3]: [Etherscan - Ether Price](https://etherscan.io/chart/etherprice) - ETH price $2,950.30 retrieved via Etherscan API (December 19, 2025).
+[^3]: Etherscan. (2026, January 2). Ether Price Chart. *Etherscan*. Retrieved January 2, 2026, from https://etherscan.io/chart/etherprice 🔷 HARD DATA
 
-[^4]: [Etherscan - ETH Supply](https://etherscan.io/stat/supply) - Total supply 122,373,866 ETH retrieved via Etherscan API (December 19, 2025).
+[^4]: Etherscan. (2026, January 2). ETH Supply Statistics. *Etherscan*. Retrieved January 2, 2026, from https://etherscan.io/stat/supply 🔷 HARD DATA
 
-[^5]: [Etherscan Gas Tracker](https://etherscan.io/gastracker) - Current gas 0.025 Gwei retrieved via Etherscan API (December 19, 2025).
+[^5]: Etherscan. (2026, January 2). Gas Tracker. *Etherscan*. Retrieved January 2, 2026, from https://etherscan.io/gastracker 🔷 HARD DATA
 
-[^6]: [Ultrasound.money](https://ultrasound.money/) - Annual issuance ~984,000 ETH to stakers.
+[^6]: Ultrasound.money. (2026, January 2). Ethereum Supply Dashboard. *Ultrasound.money*. Retrieved January 2, 2026, from https://ultrasound.money/ 🔷 HARD DATA
 
-[^7]: [CoinLedger - Is Ethereum Still Ultrasound Money](https://coinledger.io/learn/ultrasound-money) - 0.5% annual supply growth, inflation concerns.
+[^7]: CoinLedger. (2025). Is Ethereum Still Ultrasound Money. *CoinLedger*. Retrieved January 2, 2026, from https://coinledger.io/learn/ultrasound-money
 
-[^8]: [Ethereum Foundation Blog - Treasury Policy](https://blog.ethereum.org/2025/06/04/ef-treasury-policy) - ⏳ HISTORICAL (June 2025): 15% opex cap, 2.5-year buffer, quarterly reports. Policy document; awaiting Q4 2025 update.
+[^8]: Ethereum Foundation. (2025, June 4). Treasury Policy. *Ethereum Foundation Blog*. Retrieved January 2, 2026, from https://blog.ethereum.org/2025/06/04/ef-treasury-policy ⏳ HISTORICAL (June 2025)
 
-[^9]: [AiCoin - Ethereum Foundation Report 2024](https://www.aicoin.com/en/article/428392) - ⏳ HISTORICAL (2024): $970.2M treasury, $134.9M 2023 spending, budget allocation breakdown. No newer annual report available as of Dec 2025.
+[^9]: AiCoin. (2024, November). Ethereum Foundation Report 2024. *AiCoin*. Retrieved January 2, 2026, from https://www.aicoin.com/en/article/428392 ⏳ HISTORICAL (2024)
 
-[^10]: Author's analysis aggregating staking rewards, MEV extraction, infrastructure services, and foundation spending across multiple verified sources.
+[^10]: Author Analysis. (2026, January 2). Ecosystem Value Flow Aggregation. Aggregating staking rewards, MEV extraction, infrastructure services, and foundation spending across multiple verified sources.
 
-[^11]: [DataWallet - Ethereum Staking Statistics 2025](https://www.datawallet.com/crypto/ethereum-staking-statistics-and-trends) - 35.7M ETH staked (29.57% supply).
+[^11]: DataWallet. (2025). Ethereum Staking Statistics 2025. *DataWallet*. Retrieved January 2, 2026, from https://www.datawallet.com/crypto/ethereum-staking-statistics-and-trends 🔷 HARD DATA
 
-[^12]: [DefiLlama - Ethereum TVL](https://defillama.com/chain/Ethereum) - Ethereum TVL $68.96 billion retrieved via DefiLlama API (December 19, 2025).
+[^12]: DefiLlama. (2026, January 2). Ethereum TVL. *DefiLlama*. Retrieved January 2, 2026, from https://defillama.com/chain/Ethereum 🔷 HARD DATA
 
-[^13]: [Ethereum.org - Gas and Fees](https://ethereum.org/developers/docs/gas) - EIP-1559 base fee burn mechanism, 80-90% burned, 10-20% to validators.
+[^13]: Ethereum.org. (2026, January 2). Gas and Fees Documentation. *Ethereum.org*. Retrieved January 2, 2026, from https://ethereum.org/developers/docs/gas
 
-[^14]: [ESMA - Maximal Extractable Value Report](https://www.esma.europa.eu/sites/default/files/2025-07/ESMA50-481369926-29744_Maximal_Extractable_Value_Implications_for_crypto_markets.pdf) - ⏳ HISTORICAL (July 2025): Daily MEV $300-500K, sandwich attacks 51.56%, validator share 10-15%. Most authoritative regulatory MEV analysis available.
+[^14]: European Securities and Markets Authority. (2025, July). Maximal Extractable Value: Implications for Crypto Markets. *ESMA*. Retrieved January 2, 2026, from https://www.esma.europa.eu/sites/default/files/2025-07/ESMA50-481369926-29744_Maximal_Extractable_Value_Implications_for_crypto_markets.pdf ⏳ HISTORICAL (July 2025)
 
-[^15]: [CoinLaw - Gas Fee Volatility Statistics 2025](https://coinlaw.io/gas-fee-volatility-statistics/) - 95-96% decrease from 2024 peaks, current 2-3 Gwei average.
+[^15]: CoinLaw. (2025). Gas Fee Volatility Statistics 2025. *CoinLaw*. Retrieved January 2, 2026, from https://coinlaw.io/gas-fee-volatility-statistics/
 
-[^16]: [Etherscan Gas Tracker](https://etherscan.io/gastracker) - Simple transfer costs <$0.01.
+[^16]: Etherscan. (2026, January 2). Gas Tracker - Transfer Costs. *Etherscan*. Retrieved January 2, 2026, from https://etherscan.io/gastracker 🔷 HARD DATA
 
-[^17]: [CoinGate - Layer 2 Payments 2025](https://coingate.com/blog/post/layer-2-crypto-payment-data-2025) - L2 swap costs $0.20-1.00.
+[^17]: CoinGate. (2025). Layer 2 Payments 2025. *CoinGate*. Retrieved January 2, 2026, from https://coingate.com/blog/post/layer-2-crypto-payment-data-2025
 
-[^18]: [Flashbots Documentation](https://docs.flashbots.net/) - BuilderNet launch Nov 2024, v1.2 Feb 2025, Protect 98.5% success rate, 245ms response.
+[^18]: Flashbots. (2026, January 2). Documentation. *Flashbots Docs*. Retrieved January 2, 2026, from https://docs.flashbots.net/ 🔷 HARD DATA
 
-[^19]: [CoinGecko Research - Ethereum Burn Statistics](https://www.coingecko.com/research/publications/ethereum-burn-statistics) - ⏳ HISTORICAL (2024): Q1 2024: 333,555 ETH burned, Q2 2024: 107,725 ETH (-67.7%), 2024 total: 465,657 ETH. Used for historical comparison; no updated 2025 comprehensive burn report available.
+[^19]: CoinGecko Research. (2024). Ethereum Burn Statistics. *CoinGecko Research*. Retrieved January 2, 2026, from https://www.coingecko.com/research/publications/ethereum-burn-statistics ⏳ HISTORICAL (2024)
 
-[^20]: [CoinLedger - Ultrasound Money Analysis](https://coinledger.io/learn/ultrasound-money) - 4.5M total ETH burned since EIP-1559, 620K net added Apr 2024-Apr 2025.
+[^20]: CoinLedger. (2025). Ultrasound Money Analysis. *CoinLedger*. Retrieved January 2, 2026, from https://coinledger.io/learn/ultrasound-money
 
-[^21]: [Bitcompare - Ethereum Staking Rewards](https://bitcompare.net/coins/ethereum/staking-rewards) - Current reward rate 1.74%.
+[^21]: Bitcompare. (2026, January 2). Ethereum Staking Rewards. *Bitcompare*. Retrieved January 2, 2026, from https://bitcompare.net/coins/ethereum/staking-rewards 🔷 HARD DATA
 
-[^22]: [Everstake - Ethereum Staking APY](https://everstake.one/staking/ethereum) - 3.08% nominal APY, 5.69% with MEV-Boost.
+[^22]: Everstake. (2026, January 2). Ethereum Staking APY. *Everstake*. Retrieved January 2, 2026, from https://everstake.one/staking/ethereum 🔷 HARD DATA
 
-[^23]: [Beaconcha.in](https://beaconcha.in/) - 2,169,441 total validators, 968,681 active, 22,011 exiting (January 2026).
+[^23]: Beaconcha.in. (2026, January 2). Ethereum Validator Statistics. *Beaconcha.in*. Retrieved January 2, 2026, from https://beaconcha.in/ 🔷 HARD DATA
 
-[^24]: [UEEx - Ethereum Validator Performance Report 2025](https://blog.ueex.com/ethereum-validator-performance-report-2025/) - 99.2% average uptime.
+[^24]: UEEx. (2025). Ethereum Validator Performance Report 2025. *UEEx Blog*. Retrieved January 2, 2026, from https://blog.ueex.com/ethereum-validator-performance-report-2025/
 
-[^25]: [DataWallet - Pectra Upgrade](https://www.datawallet.com/crypto/ethereum-staking-statistics-and-trends) - Validator stake cap raised 32→2048 ETH (May 2025).
+[^25]: DataWallet. (2025). Pectra Upgrade Analysis. *DataWallet*. Retrieved January 2, 2026, from https://www.datawallet.com/crypto/ethereum-staking-statistics-and-trends
 
-[^26]: [Medium - MEV Protection 2025](https://medium.com/@ancilartech/implementing-effective-mev-protection-in-2025-c8a65570be3a) - $3+ billion annual MEV across Ethereum and rollups.
+[^26]: Ancilar Tech. (2025). Implementing Effective MEV Protection in 2025. *Medium*. Retrieved January 2, 2026, from https://medium.com/@ancilartech/implementing-effective-mev-protection-in-2025-c8a65570be3a
 
-[^27]: [The Block - MEV Bots Clogging Blockchains](https://www.theblock.co/post/358512/mev-bots-are-clogging-blockchains-faster-than-networks-can-scale-says-flashbots) - 33,000+ sandwich attack victims March 2025, ~$1B weekly volume.
+[^27]: The Block. (2025, March). MEV Bots Clogging Blockchains. *The Block*. Retrieved January 2, 2026, from https://www.theblock.co/post/358512/mev-bots-are-clogging-blockchains-faster-than-networks-can-scale-says-flashbots
 
-[^28]: [Flashbots Writings - MEV and Scaling](https://writings.flashbots.net/mev-and-the-limits-of-scaling) - MEV-Boost processes >90% of blocks.
+[^28]: Flashbots. (2025). MEV and Scaling. *Flashbots Writings*. Retrieved January 2, 2026, from https://writings.flashbots.net/mev-and-the-limits-of-scaling
 
-[^29]: [The Block - MEV Bot Spam](https://www.theblock.co/post/358512/mev-bots-are-clogging-blockchains-faster-than-networks-can-scale-says-flashbots) - Base 11M gas/s consumed by bots, 50%+ gas on OP-Stack.
+[^29]: The Block. (2025). MEV Bot Spam Analysis. *The Block*. Retrieved January 2, 2026, from https://www.theblock.co/post/358512/mev-bots-are-clogging-blockchains-faster-than-networks-can-scale-says-flashbots
 
-[^30]: [Decrypt - EF Treasury Strategy](https://decrypt.co/323805/ethereum-foundation-treasury-strategy-back-defi-cut-spending) - 45,000 ETH deployed to DeFi (Feb 2025), Aave/Spark/Compound.
+[^30]: Decrypt. (2025, February). EF Treasury Strategy. *Decrypt*. Retrieved January 2, 2026, from https://decrypt.co/323805/ethereum-foundation-treasury-strategy-back-defi-cut-spending
 
-[^31]: [Cointelegraph - EF Treasury Policy](https://cointelegraph.com/news/ethereum-foundation-new-treasury-policy-18-months-pivotal) - 2.5-year runway, pivotal 18 months.
+[^31]: Cointelegraph. (2025). EF Treasury Policy. *Cointelegraph*. Retrieved January 2, 2026, from https://cointelegraph.com/news/ethereum-foundation-new-treasury-policy-18-months-pivotal
 
-[^32]: [CoinCentral - EF Defipunk Framework](https://coincentral.com/ethereum-foundation-unveils-bold-treasury-plan/) - Privacy, self-custody, open-source requirements.
+[^32]: CoinCentral. (2025). EF Defipunk Framework. *CoinCentral*. Retrieved January 2, 2026, from https://coincentral.com/ethereum-foundation-unveils-bold-treasury-plan/
 
-[^33]: [Chainnodes - RPC Provider Pricing Comparison](https://www.chainnodes.org/blog/alchemy-vs-infura-vs-quicknode-vs-chainnodes-ethereum-rpc-provider-pricing-comparison/) - Enterprise pricing tiers, market structure.
+[^33]: Chainnodes. (2025). RPC Provider Pricing Comparison. *Chainnodes*. Retrieved January 2, 2026, from https://www.chainnodes.org/blog/alchemy-vs-infura-vs-quicknode-vs-chainnodes-ethereum-rpc-provider-pricing-comparison/
 
-[^34]: [Messari - State of The Graph Q1-Q3 2025](https://messari.io/report/state-of-the-graph-q1-2025) - Quarterly revenue $108K-$210K, indexing rewards $6-10M, 11.5B queries Q2 2025.
+[^34]: Messari. (2025). State of The Graph Q1-Q3 2025. *Messari*. Retrieved January 2, 2026, from https://messari.io/report/state-of-the-graph-q1-2025 🔷 HARD DATA
 
-[^35]: [CoinLaw - Chainlink Statistics 2025](https://coinlaw.io/chainlink-statistics/) - $93B TVS, 67% oracle market share, 83% Ethereum TVS, 2,400+ integrations.
+[^35]: CoinLaw. (2025). Chainlink Statistics 2025. *CoinLaw*. Retrieved January 2, 2026, from https://coinlaw.io/chainlink-statistics/ 🔷 HARD DATA
 
-[^36]: [Cointelegraph - Chainlink vs Pyth](https://cointelegraph.com/news/chainlink-faces-rising-competition-pyth-grows-tvs) - Pyth 10.79%, WINkLink 16.47%.
+[^36]: Cointelegraph. (2025). Chainlink vs Pyth. *Cointelegraph*. Retrieved January 2, 2026, from https://cointelegraph.com/news/chainlink-faces-rising-competition-pyth-grows-tvs
 
-[^37]: [CoinGecko - Fusaka Overview](https://www.coingecko.com/learn/what-is-ethereums-fusaka-upgrade) - 85%+ activity on L2s.
+[^37]: CoinGecko. (2025). Fusaka Overview. *CoinGecko Learn*. Retrieved January 2, 2026, from https://www.coingecko.com/learn/what-is-ethereums-fusaka-upgrade
 
-[^38]: [CoinLaw - Layer 2 Statistics](https://coinlaw.io/gas-fee-markets-on-layer-2-statistics/) - L2 costs 95%+ cheaper than mainnet.
+[^38]: CoinLaw. (2025). Layer 2 Statistics. *CoinLaw*. Retrieved January 2, 2026, from https://coinlaw.io/gas-fee-markets-on-layer-2-statistics/
 
-[^39]: [Cryptonomist - Fusaka Reshapes Layer 2 Economics](https://en.cryptonomist.ch/2025/12/03/ethereum-upgrade-fusaka-economics/) - L2 fee migration patterns, EIP-7918 fee restoration.
+[^39]: Cryptonomist. (2025, December 3). Fusaka Reshapes Layer 2 Economics. *Cryptonomist*. Retrieved January 2, 2026, from https://en.cryptonomist.ch/2025/12/03/ethereum-upgrade-fusaka-economics/
 
-[^40]: [CryptoRank - L2 Activity 2025](https://cryptorank.io/news/feed/82e5f-base-arbitrum-lead-l2-activity-revenue-2025) - L2 TVL $38B, Arbitrum 44%, Base 33%, OP 6%.
+[^40]: CryptoRank. (2025). L2 Activity 2025. *CryptoRank*. Retrieved January 2, 2026, from https://cryptorank.io/news/feed/82e5f-base-arbitrum-lead-l2-activity-revenue-2025 🔷 HARD DATA
 
-[^41]: [BitcoinEthereumNews - Ethereum Revenue Dip](https://bitcoinethereumnews.com/ethereum/ethereum-revenue-dip-amid-layer-2-growth-could-signal-speculative-bitmine-eth-bets/) - Revenue drop $2.52B to $604M (76%), L2s capture 90%+ fees.
+[^41]: BitcoinEthereumNews. (2025). Ethereum Revenue Dip. *BitcoinEthereumNews*. Retrieved January 2, 2026, from https://bitcoinethereumnews.com/ethereum/ethereum-revenue-dip-amid-layer-2-growth-could-signal-speculative-bitmine-eth-bets/
 
-[^42]: [Cryptopolitan - Base Arbitrum Lead L2](https://www.cryptopolitan.com/base-arbitrum-lead-l2-activity-revenue-2025/) - Base $185K/day, Arbitrum $55K/day.
+[^42]: Cryptopolitan. (2025). Base Arbitrum Lead L2. *Cryptopolitan*. Retrieved January 2, 2026, from https://www.cryptopolitan.com/base-arbitrum-lead-l2-activity-revenue-2025/ 🔷 HARD DATA
 
-[^43]: [CoinLaw - Gas Fee Markets L2](https://coinlaw.io/gas-fee-markets-on-layer-2-statistics/) - Base <$0.01, Arbitrum swap $0.03.
+[^43]: CoinLaw. (2025). Gas Fee Markets L2. *CoinLaw*. Retrieved January 2, 2026, from https://coinlaw.io/gas-fee-markets-on-layer-2-statistics/
 
-[^44]: [Lido Blog - Q3 2025 Tokenholder Update](https://blog.lido.fi/recap-lido-q3-2025-tokenholder-update/) - Lido 24.7%, Coinbase 11.7%, Binance 8.4%.
+[^44]: Lido Finance. (2025, Q3). Q3 2025 Tokenholder Update. *Lido Blog*. Retrieved January 2, 2026, from https://blog.lido.fi/recap-lido-q3-2025-tokenholder-update/ 🔷 HARD DATA
 
-[^45]: [CoinSpeaker - Lido Market Share Below 30%](https://www.coinspeaker.com/ethereum-staking-lido-market-share-below-30/) - Lido ~30% market share.
+[^45]: CoinSpeaker. (2025). Lido Market Share Below 30%. *CoinSpeaker*. Retrieved January 2, 2026, from https://www.coinspeaker.com/ethereum-staking-lido-market-share-below-30/
 
-[^46]: [Unchained - Lido Competition](https://unchainedcrypto.com/lido-competition-market-share-decline/) - Lido declined 4%, ether.fi 5.3%, Kiln 3.9%.
+[^46]: Unchained Crypto. (2025). Lido Competition. *Unchained Crypto*. Retrieved January 2, 2026, from https://unchainedcrypto.com/lido-competition-market-share-decline/
 
-[^47]: [CoinDesk - Ethereum Staking Shake-Up](https://www.coindesk.com/tech/2025/08/14/figment-outpaces-rivals-in-ether-staking-growth-lido-s-decline-eases-dominance-concerns) - ⏳ HISTORICAL (Aug 2025): No entity >33%, decentralization improving. Trend confirmed by more recent Q3 Lido data.
+[^47]: CoinDesk. (2025, August 14). Ethereum Staking Shake-Up. *CoinDesk*. Retrieved January 2, 2026, from https://www.coindesk.com/tech/2025/08/14/figment-outpaces-rivals-in-ether-staking-growth-lido-s-decline-eases-dominance-concerns ⏳ HISTORICAL (Aug 2025)
 
-[^48]: [On-chain Analytics](https://glassnode.com) - Exchange balances at 2016 lows (~8-9% supply).
+[^48]: Glassnode. (2026, January 2). On-chain Analytics. *Glassnode*. Retrieved January 2, 2026, from https://glassnode.com 🔷 HARD DATA
 
-[^49]: [DataWallet - Institutional Staking](https://www.datawallet.com/crypto/ethereum-staking-statistics-and-trends) - ETF approval driving institutional capital.
+[^49]: DataWallet. (2025). Institutional Staking. *DataWallet*. Retrieved January 2, 2026, from https://www.datawallet.com/crypto/ethereum-staking-statistics-and-trends
 
-[^50]: [AInvest - Institutional Accumulation](https://www.ainvest.com/news/ethereum-volatility-institutional-accumulation-contrarian-guide-navigating-2025-crypto-market-shifts-2512/) - $46.22B in treasuries/ETFs, 10M+ ETH held.
+[^50]: AInvest. (2025, December). Institutional Accumulation. *AInvest*. Retrieved January 2, 2026, from https://www.ainvest.com/news/ethereum-volatility-institutional-accumulation-contrarian-guide-navigating-2025-crypto-market-shifts-2512/
 
-[^51]: [FinanceFeeds - ETF Flows Dec 15](https://financefeeds.com/crypto-etf-flows-institutional-divergence-on-december-15-2025/) - $224.9M outflows Dec 16.
+[^51]: FinanceFeeds. (2025, December 15). ETF Flows Dec 15. *FinanceFeeds*. Retrieved January 2, 2026, from https://financefeeds.com/crypto-etf-flows-institutional-divergence-on-december-15-2025/ 🔷 HARD DATA
 
-[^52]: [FinanceFeeds - ETF Flows Dec 10](https://financefeeds.com/crypto-etf-flows-strong-ethereum-and-solana-demand-offset-bitcoin-outflows-on-december-10-2025/) - $117.71M inflows Dec 10.
+[^52]: FinanceFeeds. (2025, December 10). ETF Flows Dec 10. *FinanceFeeds*. Retrieved January 2, 2026, from https://financefeeds.com/crypto-etf-flows-strong-ethereum-and-solana-demand-offset-bitcoin-outflows-on-december-10-2025/ 🔷 HARD DATA
 
-[^53]: [AInvest - ETF Recovery](https://www.ainvest.com/news/ethereum-etf-outflows-wider-implications-digital-asset-institutional-adoption-2512/) - $250M late December inflows.
+[^53]: AInvest. (2025, December). ETF Recovery. *AInvest*. Retrieved January 2, 2026, from https://www.ainvest.com/news/ethereum-etf-outflows-wider-implications-digital-asset-institutional-adoption-2512/
 
-[^54]: [CoinGlass - ETH ETF Tracker](https://www.coinglass.com/eth-etf) - BlackRock 3.7M+ ETH.
+[^54]: CoinGlass. (2026, January 2). ETH ETF Tracker. *CoinGlass*. Retrieved January 2, 2026, from https://www.coinglass.com/eth-etf 🔷 HARD DATA
 
-[^55]: [AInvest - Q4 ETF Outflows](https://www.ainvest.com/news/ethereum-etf-outflows-reassessment-risk-resilience-shifting-institutional-landscape-2512/) - $14B Q4 outflows.
+[^55]: AInvest. (2025, December). Q4 ETF Outflows. *AInvest*. Retrieved January 2, 2026, from https://www.ainvest.com/news/ethereum-etf-outflows-reassessment-risk-resilience-shifting-institutional-landscape-2512/
 
-[^56]: Author's comparative analysis of cross-chain fee distribution models based on protocol documentation.
+[^56]: Author Analysis. (2026, January 2). Cross-Chain Fee Distribution Models. Comparative analysis based on protocol documentation.
 
-[^57]: [Ultrasound.money](https://ultrasound.money/) - Real-time ETH burn tracking, supply dynamics.
+[^57]: Ultrasound.money. (2026, January 2). ETH Burn Tracking. *Ultrasound.money*. Retrieved January 2, 2026, from https://ultrasound.money/ 🔷 HARD DATA
 
-[^58]: [Rated.network](https://rated.network/) - Validator performance metrics.
+[^58]: Rated.network. (2026, January 2). Validator Performance Metrics. *Rated Network*. Retrieved January 2, 2026, from https://rated.network/ 🔷 HARD DATA
 
 ---
 

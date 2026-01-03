@@ -668,112 +668,112 @@ Shardeum has partnered with leading wallet providers:
 
 ## Formatted Footnotes
 
-[^1]: [Shardeum Official Documentation](https://docs.shardeum.org/) - Technical documentation and architecture specifications.
+[^1]: Shardeum. (2025). Official Documentation. *Shardeum Docs*. Retrieved January 2, 2026, from https://docs.shardeum.org/
 
-[^2]: [Shardeum Official Blog](https://shardeum.org/blog/) - Announcements and updates.
+[^2]: Shardeum. (2025). Official Blog. *Shardeum*. Retrieved January 2, 2026, from https://shardeum.org/blog/
 
-[^3]: [Shardeum Whitepaper](https://docs.shardeum.org/docs/whitepaper) - Technical whitepaper with consensus mechanism details.
+[^3]: Shardeum. (2025). Whitepaper. *Shardeum Docs*. Retrieved January 2, 2026, from https://docs.shardeum.org/docs/whitepaper
 
-[^4]: [Shardeum Technical Whitepaper PDF](https://shardeum.org/Shardeum_Whitepaper.pdf) - Complete technical specifications.
+[^4]: Shardeum. (2025). Technical Whitepaper PDF. *Shardeum*. Retrieved January 2, 2026, from https://shardeum.org/Shardeum_Whitepaper.pdf
 
-[^5]: [EVM Mainnet Launch Announcement](https://shardeum.org/blog/evm-mainnet-smart-contracts-launch/) - October 30, 2025 smart contract launch.
+[^5]: Shardeum. (2025, October 30). EVM Mainnet Launch Announcement. *Shardeum*. Retrieved January 2, 2026, from https://shardeum.org/blog/evm-mainnet-smart-contracts-launch/
 
-[^6]: [SHM Token Redenomination Vote](https://shardeum.org/blog/vote-shm-redenomination-proposal/) - Community governance vote (85% approval).
+[^6]: Shardeum. (2025, October). SHM Token Redenomination Vote. *Shardeum*. Retrieved January 2, 2026, from https://shardeum.org/blog/vote-shm-redenomination-proposal/
 
-[^7]: [EVM Mainnet & Token Split Details](https://shardeum.org/blog/evm-mainnet-launch-shm-announcement/) - 1:240 redenomination announcement.
+[^7]: Shardeum. (2025, October). EVM Mainnet & Token Split Details. *Shardeum*. Retrieved January 2, 2026, from https://shardeum.org/blog/evm-mainnet-launch-shm-announcement/
 
-[^8]: [CEX Support for Token Split](https://shardeum.org/blog/cex-support-shm-token-split-mainnet-upgrade/) - Exchange listing support.
+[^8]: Shardeum. (2025, October). CEX Support for Token Split. *Shardeum*. Retrieved January 2, 2026, from https://shardeum.org/blog/cex-support-shm-token-split-mainnet-upgrade/
 
-[^9]: [Mainnet Goes Live](https://shardeum.org/blog/mainnet-launch/) - May 5, 2025 token-only mainnet.
+[^9]: Shardeum. (2025, May 5). Mainnet Goes Live. *Shardeum*. Retrieved January 2, 2026, from https://shardeum.org/blog/mainnet-launch/
 
-[^10]: [Token-Only Network Pause](https://shardeum.org/blog/token-only-network-pause-evm-launch/) - October 28, 2025 network pause.
+[^10]: Shardeum. (2025, October 28). Token-Only Network Pause. *Shardeum*. Retrieved January 2, 2026, from https://shardeum.org/blog/token-only-network-pause-evm-launch/
 
-[^11]: [Whitepaper V2 Tokenomics Update](https://shardeum.org/blog/whitepaper-tokenomics-update/) - Updated tokenomics documentation.
+[^11]: Shardeum. (2025). Whitepaper V2 Tokenomics Update. *Shardeum*. Retrieved January 2, 2026, from https://shardeum.org/blog/whitepaper-tokenomics-update/
 
-[^12]: [SHM Token Utilities](https://shardeum.org/blog/shm-token-utilities/) - Token use cases and utility.
+[^12]: Shardeum. (2025). SHM Token Utilities. *Shardeum*. Retrieved January 2, 2026, from https://shardeum.org/blog/shm-token-utilities/
 
-[^13]: [Node Rewards Explained](https://shardeum.org/blog/node-rewards-explained/) - Validator economics.
+[^13]: Shardeum. (2025). Node Rewards Explained. *Shardeum*. Retrieved January 2, 2026, from https://shardeum.org/blog/node-rewards-explained/
 
-[^14]: [Validator Node Benefits](https://shardeum.org/blog/benefits-of-running-shardeum-validator-node-mainnet/) - Node operation benefits.
+[^14]: Shardeum. (2025). Validator Node Benefits. *Shardeum*. Retrieved January 2, 2026, from https://shardeum.org/blog/benefits-of-running-shardeum-validator-node-mainnet/
 
-[^15]: [Staking & Unstaking Documentation](https://docs.shardeum.org/docs/ecosystem/advanced-operations/staking-and-unstaking) - Staking mechanics.
+[^15]: Shardeum. (2025). Staking & Unstaking Documentation. *Shardeum Docs*. Retrieved January 2, 2026, from https://docs.shardeum.org/docs/ecosystem/advanced-operations/staking-and-unstaking
 
-[^16]: [Roadmap to Mainnet](https://shardeum.org/blog/unveiling-shardeums-roadmap-to-mainnet/) - Development roadmap.
+[^16]: Shardeum. (2025). Roadmap to Mainnet. *Shardeum*. Retrieved January 2, 2026, from https://shardeum.org/blog/unveiling-shardeums-roadmap-to-mainnet/
 
-[^17]: [Solving the Blockchain Trilemma](https://shardeum.org/blog/shardeum-solves-blockchain-trilemma/) - Technical approach overview.
+[^17]: Shardeum. (2025). Solving the Blockchain Trilemma. *Shardeum*. Retrieved January 2, 2026, from https://shardeum.org/blog/shardeum-solves-blockchain-trilemma/
 
-[^18]: [TPS Explained](https://shardeum.org/blog/transactions-per-second-tps-blockchain/) - Performance metrics explanation.
+[^18]: Shardeum. (2025). TPS Explained. *Shardeum*. Retrieved January 2, 2026, from https://shardeum.org/blog/transactions-per-second-tps-blockchain/
 
-[^19]: [High-Level Architecture](https://docs.shardeum.org/docs/developer/architecture/high-level-architecture) - Architecture documentation.
+[^19]: Shardeum. (2025). High-Level Architecture. *Shardeum Docs*. Retrieved January 2, 2026, from https://docs.shardeum.org/docs/developer/architecture/high-level-architecture
 
-[^20]: [India dApp Ecosystem Strategy](https://shardeum.org/blog/evm-rollout-india-onchain-adoption/) - India market focus.
+[^20]: Shardeum. (2025). India dApp Ecosystem Strategy. *Shardeum*. Retrieved January 2, 2026, from https://shardeum.org/blog/evm-rollout-india-onchain-adoption/
 
-[^21]: [Solving Payments with Shardeum](https://shardeum.org/blog/solving-payments-with-shardeum/) - PayFi initiative.
+[^21]: Shardeum. (2025). Solving Payments with Shardeum. *Shardeum*. Retrieved January 2, 2026, from https://shardeum.org/blog/solving-payments-with-shardeum/
 
-[^22]: [Ecosystem Overview](https://shardeum.org/ecosystem/) - Project ecosystem listing.
+[^22]: Shardeum. (2025). Ecosystem Overview. *Shardeum*. Retrieved January 2, 2026, from https://shardeum.org/ecosystem/
 
-[^23]: [Developer Resources](https://shardeum.org/developers/) - Developer portal.
+[^23]: Shardeum. (2025). Developer Resources. *Shardeum*. Retrieved January 2, 2026, from https://shardeum.org/developers/
 
-[^24]: [CoinGecko - Shardeum](https://www.coingecko.com/en/coins/shardeum) - SHM price and market data. 🔷 HARD DATA
+[^24]: CoinGecko. (2025). Shardeum Token. *CoinGecko*. Retrieved January 2, 2026, from https://www.coingecko.com/en/coins/shardeum 🔷 HARD DATA
 
-[^25]: [Chainspect - Shardeum Data](https://chainspect.app/chain/shardeum) - Network analytics. 🔷 HARD DATA
+[^25]: Chainspect. (2025). Shardeum Data. *Chainspect*. Retrieved January 2, 2026, from https://chainspect.app/chain/shardeum 🔷 HARD DATA
 
-[^26]: [CoinCentral - Mainnet Launch Analysis](https://coincentral.com/shardeum-mainnet-goes-live-autoscaling-l1-blockchain-aims-to-solve-trilemma/) - Launch coverage.
+[^26]: CoinCentral. (2025, May). Mainnet Launch Analysis. *CoinCentral*. Retrieved January 2, 2026, from https://coincentral.com/shardeum-mainnet-goes-live-autoscaling-l1-blockchain-aims-to-solve-trilemma/
 
-[^27]: [CryptoSlate - Developer Accessibility](https://cryptoslate.com/shardeum-the-layer-1-thats-making-blockchain-more-accessible-for-developers/) - Developer focus article.
+[^27]: CryptoSlate. (2025). Shardeum Developer Accessibility. *CryptoSlate*. Retrieved January 2, 2026, from https://cryptoslate.com/shardeum-the-layer-1-thats-making-blockchain-more-accessible-for-developers/
 
-[^28]: [TheStreet Crypto - Mainnet Launch](https://www.thestreet.com/crypto/press-releases/shardeum-mainnet-goes-live-debuting-autoscaling-l1-after-record-testnet-validator-participation) - Press coverage.
+[^28]: TheStreet Crypto. (2025, May). Mainnet Launch. *TheStreet*. Retrieved January 2, 2026, from https://www.thestreet.com/crypto/press-releases/shardeum-mainnet-goes-live-debuting-autoscaling-l1-after-record-testnet-validator-participation
 
-[^29]: [Layer 1 Blockchains List 2025](https://metaschool.so/articles/layer-1-blockchain) - L1 comparisons.
+[^29]: Metaschool. (2025). Layer 1 Blockchains List 2025. *Metaschool*. Retrieved January 2, 2026, from https://metaschool.so/articles/layer-1-blockchain
 
-[^30]: [Solana vs Avalanche Comparison](https://crypto.com/en/university/solana-vs-avalanche) - Chain comparison.
+[^30]: Crypto.com. (2025). Solana vs Avalanche Comparison. *Crypto.com University*. Retrieved January 2, 2026, from https://crypto.com/en/university/solana-vs-avalanche
 
-[^31]: [Ethereum vs Solana vs Avalanche 2025](https://tradesanta.com/blog/ethereum-vs-solana-vs-avalanche-which-blockchain-will-win-in-2025) - 2025 analysis.
+[^31]: TradeSanta. (2025). Ethereum vs Solana vs Avalanche 2025. *TradeSanta*. Retrieved January 2, 2026, from https://tradesanta.com/blog/ethereum-vs-solana-vs-avalanche-which-blockchain-will-win-in-2025
 
-[^32]: [CoinMarketCap - Shardeum](https://coinmarketcap.com/currencies/shardeum/) - Market data and rankings. 🔷 HARD DATA
+[^32]: CoinMarketCap. (2025). Shardeum. *CoinMarketCap*. Retrieved January 2, 2026, from https://coinmarketcap.com/currencies/shardeum/ 🔷 HARD DATA
 
-[^33]: [KuCoin - SHM Listing](https://www.kucoin.com/trade/SHM-USDT) - Exchange listing. 🔷 HARD DATA
+[^33]: KuCoin. (2025). SHM Listing. *KuCoin*. Retrieved January 2, 2026, from https://www.kucoin.com/trade/SHM-USDT 🔷 HARD DATA
 
-[^34]: [MEXC - SHM Trading](https://www.mexc.com/exchange/SHM_USDT) - Exchange listing. 🔷 HARD DATA
+[^34]: MEXC. (2025). SHM Trading. *MEXC*. Retrieved January 2, 2026, from https://www.mexc.com/exchange/SHM_USDT 🔷 HARD DATA
 
-[^35]: [LBank - SHM](https://www.lbank.com/) - Exchange listing.
+[^35]: LBank. (2025). SHM. *LBank*. Retrieved January 2, 2026, from https://www.lbank.com/
 
-[^36]: [Bitget - SHM](https://www.bitget.com/) - Exchange listing.
+[^36]: Bitget. (2025). SHM. *Bitget*. Retrieved January 2, 2026, from https://www.bitget.com/
 
-[^37]: [MetaMask Integration](https://metamask.io/) - Wallet support.
+[^37]: MetaMask. (2025). Integration. *MetaMask*. Retrieved January 2, 2026, from https://metamask.io/
 
-[^38]: [OKX Wallet - Shardeum](https://www.okx.com/wallet) - Wallet integration.
+[^38]: OKX. (2025). Wallet - Shardeum. *OKX*. Retrieved January 2, 2026, from https://www.okx.com/wallet
 
-[^39]: [Trust Wallet](https://trustwallet.com/) - Mobile wallet support.
+[^39]: Trust Wallet. (2025). Mobile Wallet. *Trust Wallet*. Retrieved January 2, 2026, from https://trustwallet.com/
 
-[^40]: [DefiLlama - Shardeum](https://defillama.com/chain/Shardeum) - TVL tracking (when available). 🔷 HARD DATA
+[^40]: DefiLlama. (2025). Shardeum. *DefiLlama*. Retrieved January 2, 2026, from https://defillama.com/chain/Shardeum 🔷 HARD DATA
 
-[^41]: [Dune Analytics](https://dune.com/) - On-chain analytics platform.
+[^41]: Dune Analytics. (2025). Platform. *Dune Analytics*. Retrieved January 2, 2026, from https://dune.com/
 
-[^42]: [Messari - Shardeum Research](https://messari.io/) - Research analysis.
+[^42]: Messari. (2025). Shardeum Research. *Messari*. Retrieved January 2, 2026, from https://messari.io/
 
-[^43]: [The Block - Layer 1 Coverage](https://www.theblock.co/) - Industry news.
+[^43]: The Block. (2025). Layer 1 Coverage. *The Block*. Retrieved January 2, 2026, from https://www.theblock.co/
 
-[^44]: [CoinDesk - Blockchain News](https://www.coindesk.com/) - News coverage.
+[^44]: CoinDesk. (2025). Blockchain News. *CoinDesk*. Retrieved January 2, 2026, from https://www.coindesk.com/
 
-[^45]: [Decrypt - L1 Analysis](https://decrypt.co/) - Industry analysis.
+[^45]: Decrypt. (2025). L1 Analysis. *Decrypt*. Retrieved January 2, 2026, from https://decrypt.co/
 
-[^46]: [UniLend Finance](https://unilend.finance/) - DeFi protocol on Shardeum.
+[^46]: UniLend Finance. (2025). Protocol. *UniLend Finance*. Retrieved January 2, 2026, from https://unilend.finance/
 
-[^47]: [IceCreamSwap](https://icecreamswap.com/) - DEX on Shardeum.
+[^47]: IceCreamSwap. (2025). DEX. *IceCreamSwap*. Retrieved January 2, 2026, from https://icecreamswap.com/
 
-[^48]: [Xade Finance](https://xade.finance/) - DeFi protocol integration.
+[^48]: Xade Finance. (2025). Protocol. *Xade Finance*. Retrieved January 2, 2026, from https://xade.finance/
 
-[^49]: [Aspecta - AI Identity](https://aspecta.id/) - Identity protocol on Shardeum.
+[^49]: Aspecta. (2025). AI Identity. *Aspecta*. Retrieved January 2, 2026, from https://aspecta.id/
 
-[^50]: [Copperx - Payment Gateway](https://copperx.io/) - Payment infrastructure.
+[^50]: Copperx. (2025). Payment Gateway. *Copperx*. Retrieved January 2, 2026, from https://copperx.io/
 
-[^51]: [India Ministry of Electronics and IT](https://www.meity.gov.in/) - Government blockchain strategy.
+[^51]: India Ministry of Electronics and IT. (2024). Government Blockchain Strategy. *MeitY*. Retrieved January 2, 2026, from https://www.meity.gov.in/
 
-[^52]: [CoinTelegraph - India Crypto](https://cointelegraph.com/tags/india) - India regulatory coverage.
+[^52]: CoinTelegraph. (2025). India Crypto. *CoinTelegraph*. Retrieved January 2, 2026, from https://cointelegraph.com/tags/india
 
-[^53]: [Token Terminal - L1 Metrics](https://tokenterminal.com/) - Protocol revenue data. 🔷 HARD DATA
+[^53]: Token Terminal. (2025). L1 Metrics. *Token Terminal*. Retrieved January 2, 2026, from https://tokenterminal.com/ 🔷 HARD DATA
 
-[^54]: [Nansen - Blockchain Analytics](https://www.nansen.ai/) - Wallet and flow analytics.
+[^54]: Nansen. (2025). Blockchain Analytics. *Nansen*. Retrieved January 2, 2026, from https://www.nansen.ai/
 
-[^55]: [L2Beat - L1 Comparison](https://l2beat.com/) - Blockchain comparison metrics. 🔷 HARD DATA
+[^55]: L2Beat. (2025). L1 Comparison. *L2Beat*. Retrieved January 2, 2026, from https://l2beat.com/ 🔷 HARD DATA

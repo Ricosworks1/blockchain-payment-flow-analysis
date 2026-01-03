@@ -219,112 +219,112 @@ This would result in a 0.06-0.125x subsidy ratio, contrasting with the 158x rati
 
 ## Sources and References
 
-[^1]: [Canton Network Official Website](https://www.canton.network/) - Official protocol information and network overview.
+[^1]: Canton Network. (2024). Official Website. *Canton Network*. Retrieved January 2, 2026, from https://www.canton.network/
 
-[^2]: [Digital Asset](https://www.digitalasset.com/) - Parent company developing Canton Network infrastructure.
+[^2]: Digital Asset. (2024). About. *Digital Asset*. Retrieved January 2, 2026, from https://www.digitalasset.com/
 
-[^3]: [Canton Blog - Validator Expansion](https://blog.canton.network/) - Super validator growth and network updates.
+[^3]: Canton Network. (2024). Blog - Validator Expansion. *Canton Network Blog*. Retrieved January 2, 2026, from https://blog.canton.network/
 
-[^4]: [CoinMarketCap - Canton Coin](https://coinmarketcap.com/currencies/canton/) - CC token market data and pricing. 🔷 HARD DATA
+[^4]: CoinMarketCap. (2024). Canton Coin. *CoinMarketCap*. Retrieved January 2, 2026, from https://coinmarketcap.com/currencies/canton/ 🔷 HARD DATA
 
-[^5]: [CoinGecko - Canton](https://www.coingecko.com/en/coins/canton) - Token price and market cap data. 🔷 HARD DATA
+[^5]: CoinGecko. (2024). Canton Token. *CoinGecko*. Retrieved January 2, 2026, from https://www.coingecko.com/en/coins/canton 🔷 HARD DATA
 
-[^6]: [Chainlink Integration](https://chain.link/) - Oracle and infrastructure partnership.
+[^6]: Chainlink. (2024). Integrations. *Chainlink*. Retrieved January 2, 2026, from https://chain.link/
 
-[^7]: [Coin Metrics - Canton Data](https://coinmetrics.io/) - Network analytics partnership.
+[^7]: Coin Metrics. (2024). Canton Data. *Coin Metrics*. Retrieved January 2, 2026, from https://coinmetrics.io/ 🔷 HARD DATA
 
-[^8]: [Kiln - Staking Services](https://www.kiln.fi/) - Validator infrastructure provider.
+[^8]: Kiln. (2024). Staking Services. *Kiln*. Retrieved January 2, 2026, from https://www.kiln.fi/
 
-[^9]: [P2P.org - Canton Validation](https://p2p.org/) - Validator services for Canton Network.
+[^9]: P2P.org. (2024). Canton Validation. *P2P.org*. Retrieved January 2, 2026, from https://p2p.org/
 
-[^10]: [Goldman Sachs Digital Assets](https://www.goldmansachs.com/) - Institutional participant reference.
+[^10]: Goldman Sachs. (2024). Digital Assets. *Goldman Sachs*. Retrieved January 2, 2026, from https://www.goldmansachs.com/
 
-[^11]: [JPMorgan Onyx](https://www.jpmorgan.com/onyx) - Institutional blockchain initiative context.
+[^11]: JPMorgan. (2024). Onyx Platform. *JPMorgan*. Retrieved January 2, 2026, from https://www.jpmorgan.com/onyx
 
-[^12]: [Deutsche Bank Digital](https://www.db.com/) - Banking participant reference.
+[^12]: Deutsche Bank. (2024). Digital Assets. *Deutsche Bank*. Retrieved January 2, 2026, from https://www.db.com/
 
-[^13]: [BNP Paribas Securities Services](https://securities.cib.bnpparibas/) - Institutional participant.
+[^13]: BNP Paribas. (2024). Securities Services. *BNP Paribas*. Retrieved January 2, 2026, from https://securities.cib.bnpparibas/
 
-[^14]: [HSBC Digital](https://www.hsbc.com/) - Banking participant reference.
+[^14]: HSBC. (2024). Digital Assets. *HSBC*. Retrieved January 2, 2026, from https://www.hsbc.com/
 
-[^15]: [Barclays Investment Bank](https://www.barclays.com/) - Institutional participant.
+[^15]: Barclays. (2024). Investment Bank. *Barclays*. Retrieved January 2, 2026, from https://www.barclays.com/
 
-[^16]: [Citi Digital Assets](https://www.citi.com/) - Banking participant reference.
+[^16]: Citi. (2024). Digital Assets. *Citi*. Retrieved January 2, 2026, from https://www.citi.com/
 
-[^17]: [Bank of America Digital](https://www.bankofamerica.com/) - Institutional participant.
+[^17]: Bank of America. (2024). Digital Assets. *Bank of America*. Retrieved January 2, 2026, from https://www.bankofamerica.com/
 
-[^18]: [Microsoft Azure Blockchain](https://azure.microsoft.com/en-us/solutions/blockchain/) - Infrastructure partnership.
+[^18]: Microsoft. (2024). Azure Blockchain. *Microsoft Azure*. Retrieved January 2, 2026, from https://azure.microsoft.com/en-us/solutions/blockchain/
 
-[^19]: [DRW Trading](https://drw.com/) - Trading firm participant.
+[^19]: DRW Trading. (2024). About. *DRW Trading*. Retrieved January 2, 2026, from https://drw.com/
 
-[^20]: [Tradeweb Markets](https://www.tradeweb.com/) - Electronic trading platform participant.
+[^20]: Tradeweb. (2024). Markets. *Tradeweb*. Retrieved January 2, 2026, from https://www.tradeweb.com/
 
-[^21]: [Circle - USDC](https://www.circle.com/) - Stablecoin issuer participant.
+[^21]: Circle. (2024). USDC. *Circle*. Retrieved January 2, 2026, from https://www.circle.com/
 
-[^22]: [CoinDesk - Canton Network Coverage](https://www.coindesk.com/) - News and analysis.
+[^22]: CoinDesk. (2024). Canton Network Coverage. *CoinDesk*. Retrieved January 2, 2026, from https://www.coindesk.com/
 
-[^23]: [The Block - Institutional Blockchain](https://www.theblock.co/) - Industry coverage.
+[^23]: The Block. (2024). Institutional Blockchain. *The Block*. Retrieved January 2, 2026, from https://www.theblock.co/
 
-[^24]: [Bloomberg - RWA Tokenization](https://www.bloomberg.com/) - Market context and coverage.
+[^24]: Bloomberg. (2024). RWA Tokenization. *Bloomberg*. Retrieved January 2, 2026, from https://www.bloomberg.com/
 
-[^25]: [Reuters - Digital Securities](https://www.reuters.com/) - Financial news coverage.
+[^25]: Reuters. (2024). Digital Securities. *Reuters*. Retrieved January 2, 2026, from https://www.reuters.com/
 
-[^26]: [Ledger Insights - Canton Analysis](https://www.ledgerinsights.com/) - Enterprise blockchain coverage.
+[^26]: Ledger Insights. (2024). Canton Analysis. *Ledger Insights*. Retrieved January 2, 2026, from https://www.ledgerinsights.com/
 
-[^27]: [Digital Asset Documentation](https://docs.digitalasset.com/) - Technical documentation.
+[^27]: Digital Asset. (2024). Documentation. *Digital Asset Docs*. Retrieved January 2, 2026, from https://docs.digitalasset.com/
 
-[^28]: [Daml Documentation](https://docs.daml.com/) - Smart contract language for Canton.
+[^28]: Daml. (2024). Documentation. *Daml Docs*. Retrieved January 2, 2026, from https://docs.daml.com/
 
-[^29]: [ESMA - DLT Regulations](https://www.esma.europa.eu/) - EU regulatory framework.
+[^29]: ESMA. (2024). DLT Regulations. *ESMA*. Retrieved January 2, 2026, from https://www.esma.europa.eu/
 
-[^30]: [SEC - Digital Asset Framework](https://www.sec.gov/) - US regulatory context.
+[^30]: SEC. (2024). Digital Asset Framework. *SEC*. Retrieved January 2, 2026, from https://www.sec.gov/
 
-[^31]: [BIS - Tokenization Reports](https://www.bis.org/) - Central bank research.
+[^31]: BIS. (2024). Tokenization Reports. *Bank for International Settlements*. Retrieved January 2, 2026, from https://www.bis.org/
 
-[^32]: [World Economic Forum - Blockchain](https://www.weforum.org/) - Industry reports.
+[^32]: World Economic Forum. (2024). Blockchain Reports. *World Economic Forum*. Retrieved January 2, 2026, from https://www.weforum.org/
 
-[^33]: [McKinsey - Digital Assets](https://www.mckinsey.com/) - Consulting analysis.
+[^33]: McKinsey. (2024). Digital Assets. *McKinsey & Company*. Retrieved January 2, 2026, from https://www.mckinsey.com/
 
-[^34]: [Boston Consulting Group - Tokenization](https://www.bcg.com/) - Market sizing reports.
+[^34]: Boston Consulting Group. (2024). Tokenization. *BCG*. Retrieved January 2, 2026, from https://www.bcg.com/
 
-[^35]: [Messari - RWA Report](https://messari.io/) - Research and analysis.
+[^35]: Messari. (2024). RWA Report. *Messari*. Retrieved January 2, 2026, from https://messari.io/
 
-[^36]: [DefiLlama - RWA Category](https://defillama.com/protocols/RWA) - RWA TVL tracking. 🔷 HARD DATA
+[^36]: DefiLlama. (2024). RWA Category. *DefiLlama*. Retrieved January 2, 2026, from https://defillama.com/protocols/RWA 🔷 HARD DATA
 
-[^37]: [Token Terminal - Institutional DeFi](https://tokenterminal.com/) - Protocol metrics.
+[^37]: Token Terminal. (2024). Institutional DeFi. *Token Terminal*. Retrieved January 2, 2026, from https://tokenterminal.com/ 🔷 HARD DATA
 
-[^38]: [Dune Analytics - RWA](https://dune.com/) - On-chain analytics. 🔷 HARD DATA
+[^38]: Dune Analytics. (2024). RWA Dashboard. *Dune Analytics*. Retrieved January 2, 2026, from https://dune.com/ 🔷 HARD DATA
 
-[^39]: [Nansen - Institutional Flows](https://www.nansen.ai/) - Wallet analytics.
+[^39]: Nansen. (2024). Institutional Flows. *Nansen*. Retrieved January 2, 2026, from https://www.nansen.ai/
 
-[^40]: [Chainalysis - Enterprise](https://www.chainalysis.com/) - Blockchain analytics.
+[^40]: Chainalysis. (2024). Enterprise Analytics. *Chainalysis*. Retrieved January 2, 2026, from https://www.chainalysis.com/
 
-[^41]: [Blockworks - Institutional Crypto](https://blockworks.co/) - Industry news.
+[^41]: Blockworks. (2024). Institutional Crypto. *Blockworks*. Retrieved January 2, 2026, from https://blockworks.co/
 
-[^42]: [CoinTelegraph - Enterprise Blockchain](https://cointelegraph.com/) - News coverage.
+[^42]: CoinTelegraph. (2024). Enterprise Blockchain. *CoinTelegraph*. Retrieved January 2, 2026, from https://cointelegraph.com/
 
-[^43]: [Decrypt - DeFi and RWA](https://decrypt.co/) - Industry analysis.
+[^43]: Decrypt. (2024). DeFi and RWA. *Decrypt*. Retrieved January 2, 2026, from https://decrypt.co/
 
-[^44]: [The Defiant - Institutional DeFi](https://thedefiant.io/) - News and analysis.
+[^44]: The Defiant. (2024). Institutional DeFi. *The Defiant*. Retrieved January 2, 2026, from https://thedefiant.io/
 
-[^45]: [Finextra - Capital Markets Tech](https://www.finextra.com/) - Financial technology news.
+[^45]: Finextra. (2024). Capital Markets Tech. *Finextra*. Retrieved January 2, 2026, from https://www.finextra.com/
 
-[^46]: [American Banker - Digital Assets](https://www.americanbanker.com/) - Banking industry coverage.
+[^46]: American Banker. (2024). Digital Assets. *American Banker*. Retrieved January 2, 2026, from https://www.americanbanker.com/
 
-[^47]: [Financial Times - Blockchain](https://www.ft.com/) - Mainstream financial coverage.
+[^47]: Financial Times. (2024). Blockchain Coverage. *Financial Times*. Retrieved January 2, 2026, from https://www.ft.com/
 
-[^48]: [Wall Street Journal - Crypto](https://www.wsj.com/) - Financial news.
+[^48]: Wall Street Journal. (2024). Crypto Coverage. *Wall Street Journal*. Retrieved January 2, 2026, from https://www.wsj.com/
 
-[^49]: [Forbes - Digital Assets](https://www.forbes.com/digital-assets/) - Business coverage.
+[^49]: Forbes. (2024). Digital Assets. *Forbes*. Retrieved January 2, 2026, from https://www.forbes.com/digital-assets/
 
-[^50]: [Crunchbase - Digital Asset](https://www.crunchbase.com/organization/digital-asset-holdings) - Funding information.
+[^50]: Crunchbase. (2024). Digital Asset Holdings. *Crunchbase*. Retrieved January 2, 2026, from https://www.crunchbase.com/organization/digital-asset-holdings
 
-[^51]: [PitchBook - Canton Network](https://pitchbook.com/) - Investment data.
+[^51]: PitchBook. (2024). Canton Network. *PitchBook*. Retrieved January 2, 2026, from https://pitchbook.com/
 
-[^52]: [LinkedIn - Canton Network](https://www.linkedin.com/) - Professional network and team.
+[^52]: LinkedIn. (2024). Canton Network. *LinkedIn*. Retrieved January 2, 2026, from https://www.linkedin.com/
 
-[^53]: [GitHub - Digital Asset](https://github.com/digital-asset) - Open source development.
+[^53]: GitHub. (2024). Digital Asset Repositories. *GitHub*. Retrieved January 2, 2026, from https://github.com/digital-asset
 
-[^54]: [Hyperledger - Canton Interoperability](https://www.hyperledger.org/) - Enterprise blockchain context.
+[^54]: Hyperledger. (2024). Canton Interoperability. *Hyperledger*. Retrieved January 2, 2026, from https://www.hyperledger.org/
 
-[^55]: [R3 - Corda Comparison](https://www.r3.com/) - Competitor reference for context.
+[^55]: R3. (2024). Corda Platform. *R3*. Retrieved January 2, 2026, from https://www.r3.com/

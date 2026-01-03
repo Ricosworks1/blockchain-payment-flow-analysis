@@ -838,112 +838,112 @@ Quai's competitive position is differentiated as the primary scalable PoW L1 uti
 
 ## Formatted Footnotes
 
-[^1]: [Quai Network Website](https://qu.ai/) - Official website with 50,000+ TPS scalability claims.
+[^1]: Quai Network. (2025). Official Website. *Quai Network*. Retrieved January 2, 2026, from https://qu.ai/
 
-[^2]: [Quai Network Documentation](https://docs.qu.ai/) - Technical architecture, fee targets <$0.01.
+[^2]: Quai Network. (2025). Documentation. *Quai Network Docs*. Retrieved January 2, 2026, from https://docs.qu.ai/
 
-[^3]: [Quai Network - Hierarchical Structure](https://docs.qu.ai/learn/architecture) - Prime, Region, and Zone chain hierarchy.
+[^3]: Quai Network. (2025). Hierarchical Structure. *Quai Network Docs*. Retrieved January 2, 2026, from https://docs.qu.ai/learn/architecture
 
-[^4]: [AlexaBlockchain - Quai Mainnet Launch](https://alexablockchain.com/) - January 29, 2025 mainnet launch announcement.
+[^4]: AlexaBlockchain. (2025, January 29). Quai Mainnet Launch. *AlexaBlockchain*. Retrieved January 2, 2026, from https://alexablockchain.com/
 
-[^5]: [Quai Network - Testnet Metrics](https://qu.ai/blog) - Golden Age testnet: 2,000+ nodes, 42,000 GPUs, 110,000 wallets.
+[^5]: Quai Network. (2025, January). Testnet Metrics. *Quai Network*. Retrieved January 2, 2026, from https://qu.ai/blog
 
-[^6]: [Quai Network Docs - Cross-Shard](https://docs.qu.ai/learn/cross-shard) - Cross-shard communication mechanics.
+[^6]: Quai Network. (2025). Cross-Shard Documentation. *Quai Network Docs*. Retrieved January 2, 2026, from https://docs.qu.ai/learn/cross-shard
 
-[^7]: [Quai Network - QI Stablecoin](https://docs.qu.ai/learn/tokenomics/qi) - Energy-backed stablecoin mechanics.
+[^7]: Quai Network. (2025). QI Stablecoin. *Quai Network Docs*. Retrieved January 2, 2026, from https://docs.qu.ai/learn/tokenomics/qi
 
-[^8]: [Quai Network - Token Emissions](https://docs.qu.ai/learn/tokenomics/quai-emissions) - QUAI/QI dual-token emission model.
+[^8]: Quai Network. (2025). Token Emissions. *Quai Network Docs*. Retrieved January 2, 2026, from https://docs.qu.ai/learn/tokenomics/quai-emissions
 
-[^9]: [Quai Network - Merged Mining](https://docs.qu.ai/learn/consensus/merged-mining) - 100% hash power security across chains.
+[^9]: Quai Network. (2025). Merged Mining. *Quai Network Docs*. Retrieved January 2, 2026, from https://docs.qu.ai/learn/consensus/merged-mining
 
-[^10]: [Quai Network - PoEM Consensus](https://docs.qu.ai/learn/consensus/poem) - Proof-of-Entropy-Minima mechanism.
+[^10]: Quai Network. (2025). PoEM Consensus. *Quai Network Docs*. Retrieved January 2, 2026, from https://docs.qu.ai/learn/consensus/poem
 
-[^11]: [Quai Network - EVM Compatibility](https://docs.qu.ai/develop/evm) - Ethereum smart contract compatibility.
+[^11]: Quai Network. (2025). EVM Compatibility. *Quai Network Docs*. Retrieved January 2, 2026, from https://docs.qu.ai/develop/evm
 
-[^12]: [Kef Ventures - Quai Network Analysis](https://medium.com/@kefventures) - Risk assessment and criticisms.
+[^12]: Kef Ventures. (2025). Quai Network Analysis. *Medium*. Retrieved January 2, 2026, from https://medium.com/@kefventures
 
-[^13]: [Quai Network - QUAI Token](https://docs.qu.ai/learn/tokenomics/quai) - Token governance and utility.
+[^13]: Quai Network. (2025). QUAI Token. *Quai Network Docs*. Retrieved January 2, 2026, from https://docs.qu.ai/learn/tokenomics/quai
 
-[^14]: [Quai Network - Scaling](https://docs.qu.ai/learn/scaling) - Block time, 255 shard maximum, 250,000 TPS target.
+[^14]: Quai Network. (2025). Scaling. *Quai Network Docs*. Retrieved January 2, 2026, from https://docs.qu.ai/learn/scaling
 
-[^15]: [CryptoRank - Quai Token Allocation](https://cryptorank.io/ico/quai-network) - Token vesting schedules. 🔷 HARD DATA
+[^15]: CryptoRank. (2025). Quai Token Allocation. *CryptoRank*. Retrieved January 2, 2026, from https://cryptorank.io/ico/quai-network 🔷 HARD DATA
 
-[^16]: [Tracxn - Quai Network Funding](https://tracxn.com/d/companies/quai-network) - $15M total funding data. 🔷 HARD DATA
+[^16]: Tracxn. (2025). Quai Network Funding. *Tracxn*. Retrieved January 2, 2026, from https://tracxn.com/d/companies/quai-network 🔷 HARD DATA
 
-[^17]: [Quai Network Blog - Polychain Seed Round](https://qu.ai/blog) - $8M seed March 2022.
+[^17]: Quai Network. (2022, March). Polychain Seed Round. *Quai Network*. Retrieved January 2, 2026, from https://qu.ai/blog
 
-[^18]: [CryptoRank - Quai Investors](https://cryptorank.io/ico/quai-network) - Cogitent Ventures, investor details. 🔷 HARD DATA
+[^18]: CryptoRank. (2024, August). Quai Investors. *CryptoRank*. Retrieved January 2, 2026, from https://cryptorank.io/ico/quai-network 🔷 HARD DATA
 
-[^19]: [CoinGecko - Quai Network](https://www.coingecko.com/en/coins/quai-network) - QUAI token market data. 🔷 HARD DATA
+[^19]: CoinGecko. (2025). Quai Network. *CoinGecko*. Retrieved January 2, 2026, from https://www.coingecko.com/en/coins/quai-network 🔷 HARD DATA
 
-[^20]: [CoinMarketCap - Quai](https://coinmarketcap.com/currencies/quai-network/) - Token price and market cap. 🔷 HARD DATA
+[^20]: CoinMarketCap. (2025). Quai Network. *CoinMarketCap*. Retrieved January 2, 2026, from https://coinmarketcap.com/currencies/quai-network/ 🔷 HARD DATA
 
-[^21]: [Messari - Quai Network Research](https://messari.io/asset/quai-network) - Understanding Quai Network report.
+[^21]: Messari. (2025). Quai Network Research. *Messari*. Retrieved January 2, 2026, from https://messari.io/asset/quai-network
 
-[^22]: [Polychain Capital Portfolio](https://polychain.capital/) - Lead investor in seed round.
+[^22]: Polychain Capital. (2022). Portfolio. *Polychain Capital*. Retrieved January 2, 2026, from https://polychain.capital/
 
-[^23]: [Alumni Ventures](https://www.av.vc/) - Investor participation.
+[^23]: Alumni Ventures. (2024). Portfolio. *Alumni Ventures*. Retrieved January 2, 2026, from https://www.av.vc/
 
-[^24]: [Cogitent Ventures](https://cogitent.vc/) - Lead investor in August 2024 round.
+[^24]: Cogitent Ventures. (2024). Portfolio. *Cogitent Ventures*. Retrieved January 2, 2026, from https://cogitent.vc/
 
-[^25]: [Aza Ventures](https://aza.ventures/) - Investor participation.
+[^25]: Aza Ventures. (2024). Portfolio. *Aza Ventures*. Retrieved January 2, 2026, from https://aza.ventures/
 
-[^26]: [Wormhole - Quai Integration](https://wormhole.com/) - Multichain expansion partnership.
+[^26]: Wormhole. (2025). Quai Integration. *Wormhole*. Retrieved January 2, 2026, from https://wormhole.com/
 
-[^27]: [Dominant Strategies](https://dominantstrategies.io/) - Quai Network development entity.
+[^27]: Dominant Strategies. (2025). About. *Dominant Strategies*. Retrieved January 2, 2026, from https://dominantstrategies.io/
 
-[^28]: [DefiLlama - Quai](https://defillama.com/chain/Quai) - TVL tracking (when available). 🔷 HARD DATA
+[^28]: DefiLlama. (2025). Quai. *DefiLlama*. Retrieved January 2, 2026, from https://defillama.com/chain/Quai 🔷 HARD DATA
 
-[^29]: [Dune Analytics](https://dune.com/) - On-chain analytics platform.
+[^29]: Dune Analytics. (2025). Platform. *Dune Analytics*. Retrieved January 2, 2026, from https://dune.com/
 
-[^30]: [CoinDesk - PoW Networks](https://www.coindesk.com/) - Industry coverage.
+[^30]: CoinDesk. (2025). PoW Networks. *CoinDesk*. Retrieved January 2, 2026, from https://www.coindesk.com/
 
-[^31]: [The Block - Layer 1 News](https://www.theblock.co/) - Blockchain news.
+[^31]: The Block. (2025). Layer 1 News. *The Block*. Retrieved January 2, 2026, from https://www.theblock.co/
 
-[^32]: [Decrypt - Crypto News](https://decrypt.co/) - Industry analysis.
+[^32]: Decrypt. (2025). Crypto News. *Decrypt*. Retrieved January 2, 2026, from https://decrypt.co/
 
-[^33]: [CoinTelegraph - Mining](https://cointelegraph.com/tags/mining) - PoW mining coverage.
+[^33]: CoinTelegraph. (2025). Mining Coverage. *CoinTelegraph*. Retrieved January 2, 2026, from https://cointelegraph.com/tags/mining
 
-[^34]: [Bitcoin Magazine - PoW](https://bitcoinmagazine.com/) - Proof-of-Work context.
+[^34]: Bitcoin Magazine. (2025). PoW Coverage. *Bitcoin Magazine*. Retrieved January 2, 2026, from https://bitcoinmagazine.com/
 
-[^35]: [Kaspa Network](https://kaspa.org/) - BlockDAG competitor comparison.
+[^35]: Kaspa Network. (2025). About. *Kaspa*. Retrieved January 2, 2026, from https://kaspa.org/
 
-[^36]: [Nervos Network](https://www.nervos.org/) - PoW L1 competitor comparison.
+[^36]: Nervos Network. (2025). About. *Nervos*. Retrieved January 2, 2026, from https://www.nervos.org/
 
-[^37]: [Ethereum Foundation](https://ethereum.org/) - EVM specification reference.
+[^37]: Ethereum Foundation. (2025). Ethereum.org. *Ethereum Foundation*. Retrieved January 2, 2026, from https://ethereum.org/
 
-[^38]: [Solidity Documentation](https://docs.soliditylang.org/) - Smart contract development.
+[^38]: Solidity. (2025). Documentation. *Solidity Docs*. Retrieved January 2, 2026, from https://docs.soliditylang.org/
 
-[^39]: [Token Terminal - L1 Data](https://tokenterminal.com/) - Protocol metrics. 🔷 HARD DATA
+[^39]: Token Terminal. (2025). L1 Data. *Token Terminal*. Retrieved January 2, 2026, from https://tokenterminal.com/ 🔷 HARD DATA
 
-[^40]: [Nansen - Blockchain Analytics](https://www.nansen.ai/) - Wallet and flow data.
+[^40]: Nansen. (2025). Blockchain Analytics. *Nansen*. Retrieved January 2, 2026, from https://www.nansen.ai/
 
-[^41]: [Glassnode - Mining Metrics](https://glassnode.com/) - PoW network data. 🔷 HARD DATA
+[^41]: Glassnode. (2025). Mining Metrics. *Glassnode*. Retrieved January 2, 2026, from https://glassnode.com/ 🔷 HARD DATA
 
-[^42]: [Blockchain.com - Hash Rate](https://www.blockchain.com/) - Mining statistics.
+[^42]: Blockchain.com. (2025). Hash Rate. *Blockchain.com*. Retrieved January 2, 2026, from https://www.blockchain.com/
 
-[^43]: [Cambridge Bitcoin Electricity Index](https://ccaf.io/cbnsi/cbeci) - PoW energy consumption context.
+[^43]: Cambridge Centre for Alternative Finance. (2025). Bitcoin Electricity Index. *CCAF*. Retrieved January 2, 2026, from https://ccaf.io/cbnsi/cbeci
 
-[^44]: [SEC - Digital Assets](https://www.sec.gov/) - Regulatory framework reference.
+[^44]: SEC. (2025). Digital Assets. *SEC*. Retrieved January 2, 2026, from https://www.sec.gov/
 
-[^45]: [CFTC - Commodities](https://www.cftc.gov/) - Commodity classification context.
+[^45]: CFTC. (2025). Commodities. *CFTC*. Retrieved January 2, 2026, from https://www.cftc.gov/
 
-[^46]: [IEA - Energy Markets](https://www.iea.org/) - Energy cost data for QI context.
+[^46]: IEA. (2025). Energy Markets. *IEA*. Retrieved January 2, 2026, from https://www.iea.org/
 
-[^47]: [Crunchbase - Quai Network](https://www.crunchbase.com/organization/quai-network) - Company and funding information.
+[^47]: Crunchbase. (2025). Quai Network. *Crunchbase*. Retrieved January 2, 2026, from https://www.crunchbase.com/organization/quai-network
 
-[^48]: [LinkedIn - Quai Network](https://www.linkedin.com/company/quai-network/) - Team and company profile.
+[^48]: LinkedIn. (2025). Quai Network. *LinkedIn*. Retrieved January 2, 2026, from https://www.linkedin.com/company/quai-network/
 
-[^49]: [GitHub - Quai Network](https://github.com/dominant-strategies) - Open source repositories.
+[^49]: GitHub. (2025). Dominant Strategies. *GitHub*. Retrieved January 2, 2026, from https://github.com/dominant-strategies
 
-[^50]: [Discord - Quai Community](https://discord.gg/quai) - 204,000+ member community.
+[^50]: Discord. (2025). Quai Community. *Discord*. Retrieved January 2, 2026, from https://discord.gg/quai
 
-[^51]: [Twitter/X - Quai Network](https://x.com/QuaiNetwork) - Official announcements.
+[^51]: Twitter/X. (2025). Quai Network. *X (Twitter)*. Retrieved January 2, 2026, from https://x.com/QuaiNetwork
 
-[^52]: [Medium - Quai Network](https://medium.com/quai-network) - Blog posts and updates.
+[^52]: Medium. (2025). Quai Network Blog. *Medium*. Retrieved January 2, 2026, from https://medium.com/quai-network
 
-[^53]: [Blockworks - L1 Analysis](https://blockworks.co/) - Market coverage.
+[^53]: Blockworks. (2025). L1 Analysis. *Blockworks*. Retrieved January 2, 2026, from https://blockworks.co/
 
-[^54]: [The Defiant - DeFi News](https://thedefiant.io/) - DeFi ecosystem coverage.
+[^54]: The Defiant. (2025). DeFi News. *The Defiant*. Retrieved January 2, 2026, from https://thedefiant.io/
 
-[^55]: [L2Beat - Chain Comparison](https://l2beat.com/) - Blockchain comparison metrics. 🔷 HARD DATA
+[^55]: L2Beat. (2025). Chain Comparison. *L2Beat*. Retrieved January 2, 2026, from https://l2beat.com/ 🔷 HARD DATA

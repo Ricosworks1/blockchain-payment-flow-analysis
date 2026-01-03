@@ -347,106 +347,106 @@ Critical challenges include maintaining validator economics as 7% staking reward
 
 ## Sources and References
 
-[^1]: [Aptos Documentation - Gas and Storage Fees](https://aptos.dev/network/blockchain/gas-txn-fee) - Official documentation confirming 100% fee burn mechanism and storage refund system.
+[^1]: Aptos Documentation. (2026, January). Gas and Storage Fees. *Aptos Docs*. Retrieved January 2, 2026, from https://aptos.dev/network/blockchain/gas-txn-fee
 
-[^2]: [CoinGecko - Aptos (APT)](https://www.coingecko.com/en/coins/aptos) - 🔷 HARD DATA: APT $1.62, market cap $1.21B, circulating supply 749.42M, -82.5% YoY (January 2, 2026).
+[^2]: CoinGecko. (2026, January 2). Aptos (APT). *CoinGecko*. Retrieved January 2, 2026, from https://www.coingecko.com/en/coins/aptos 🔷 HARD DATA
 
-[^3]: [DefiLlama - Aptos TVL](https://defillama.com/chain/aptos) - 🔷 HARD DATA: Current TVL $455.7 million retrieved via DefiLlama API (January 2, 2026).
+[^3]: DefiLlama. (2026, January 2). Aptos TVL. *DefiLlama*. Retrieved January 2, 2026, from https://defillama.com/chain/aptos 🔷 HARD DATA
 
-[^4]: [Stakin - Aptos Ecosystem Update 2025](https://stakin.com/blog/aptos-ecosystem-update-2025-from-250-to-330-projects-and-beyond) - Ecosystem growth from 250 to 330+ projects, 74 weekly active developers Q2 2025.
+[^4]: Stakin Blog. (2025). Aptos Ecosystem Update 2025: From 250 to 330+ Projects and Beyond. *Stakin*. Retrieved January 2, 2026, from https://stakin.com/blog/aptos-ecosystem-update-2025-from-250-to-330-projects-and-beyond
 
-[^5]: [StakingRewards - Aptos (APT)](https://www.stakingrewards.com/asset/aptos) - Confirms 96.62% staking participation, ~7% APY, auto-compounding every 2-hour epoch.
+[^5]: Staking Rewards. (2026, January). Aptos (APT). *Staking Rewards*. Retrieved January 2, 2026, from https://www.stakingrewards.com/asset/aptos 🔷 HARD DATA
 
-[^6]: [Everstake - Aptos APT Staking](https://everstake.one/staking/aptos) - AIP-119 proposal for phased reduction from 7% to 3.79% over three months.
+[^6]: Everstake. (2025). Aptos APT Staking. *Everstake*. Retrieved January 2, 2026, from https://everstake.one/staking/aptos 🔷 HARD DATA
 
-[^7]: [Aptos Labs Medium - Block-STM](https://medium.com/aptoslabs/block-stm-how-we-execute-over-160k-transactions-per-second-on-the-aptos-blockchain-3b003657e4ba) - Technical details of 160,000+ TPS parallel execution engine and 250ms block times.
+[^7]: Aptos Labs - Medium. (2022). Block-STM: How We Execute Over 160K Transactions Per Second. *Medium*. Retrieved January 2, 2026, from https://medium.com/aptoslabs/block-stm-how-we-execute-over-160k-transactions-per-second-on-the-aptos-blockchain-3b003657e4ba
 
-[^8]: [CryptoNews - Aptos Proposes Quantum-Resistant Signatures](https://cryptonews.com/news/aptos-proposes-quantum-resistant-signatures-to-future-proof-blockchain-security/) - AIP-137 SLH-DSA-SHA2-128s proposal (January 2026).
+[^8]: CryptoNews. (2026, January). Aptos Proposes Quantum-Resistant Signatures to Future-Proof Blockchain Security. *CryptoNews*. Retrieved January 2, 2026, from https://cryptonews.com/news/aptos-proposes-quantum-resistant-signatures-to-future-proof-blockchain-security/
 
-[^9]: [Cointelegraph - Aptos Top 3 Blockchain for RWA](https://cointelegraph.com/news/aptos-tokenized-assets-traditional-managers) - $542.3M RWA value with 57.1% 30-day growth.
+[^9]: Cointelegraph. (2025, December). Aptos Top 3 Blockchain for RWA. *Cointelegraph*. Retrieved January 2, 2026, from https://cointelegraph.com/news/aptos-tokenized-assets-traditional-managers 🔷 HARD DATA
 
-[^10]: [The Block - Aave launches on Aptos](https://www.theblock.co/post/367769/aave-launches-on-aptos-in-first-non-evm-deployment-as-part-of-multichain-strategy) - First non-EVM Aave deployment with $500K bug bounty.
+[^10]: The Block. (2025, August). Aave Launches on Aptos in First Non-EVM Deployment. *The Block*. Retrieved January 2, 2026, from https://www.theblock.co/post/367769/aave-launches-on-aptos-in-first-non-evm-deployment-as-part-of-multichain-strategy 🔷 HARD DATA
 
-[^11]: [Cointelegraph - Wyoming WYST Stablecoin Pilot](https://cointelegraph.com/news/wyoming-stablecoin-pilot-aptos-sei) - Aptos scored highest (32 points) among 10+ blockchains for state stablecoin.
+[^11]: Cointelegraph. (2025). Wyoming Stablecoin Pilot: Aptos and Sei. *Cointelegraph*. Retrieved January 2, 2026, from https://cointelegraph.com/news/wyoming-stablecoin-pilot-aptos-sei 🔷 HARD DATA
 
-[^12]: [Blockchain Reporter - Aptos Stablecoins $1B Market Cap](https://blockchainreporter.net/aptos-stablecoins-hit-1-billion-market-cap-driven-by-usdc-market-dominance/) - Stablecoin supply $1.43B, 37% monthly increase, $386M single-day inflow record.
+[^12]: Blockchain Reporter. (2025, December). Aptos Stablecoins Hit $1 Billion Market Cap. *Blockchain Reporter*. Retrieved January 2, 2026, from https://blockchainreporter.net/aptos-stablecoins-hit-1-billion-market-cap-driven-by-usdc-market-dominance/ 🔷 HARD DATA
 
-[^13]: [Linity - Aptos Staking Guide 2025](https://linity.com/opportunities/aptos-staking-guide) - Staking mechanics, 11 APT minimum delegation, 0-30 day unstaking period.
+[^13]: Linity. (2025). Aptos Staking Guide 2025. *Linity*. Retrieved January 2, 2026, from https://linity.com/opportunities/aptos-staking-guide
 
-[^14]: [Aptos Documentation - Staking](https://aptos.dev/network/blockchain/staking) - Validator requirements: 1M APT minimum, 50M maximum, 3-12% commission range.
+[^14]: Aptos Documentation. (2026, January). Staking. *Aptos Docs*. Retrieved January 2, 2026, from https://aptos.dev/network/blockchain/staking
 
-[^15]: [Bitget News - Aptos Hits $1B Milestones](https://www.bitget.site/news/detail/12560604685536) - March 2025 $1B TVL milestone, capital shift to stablecoins and BTC products.
+[^15]: Bitget News. (2025, March). Aptos Hits $1B Milestones. *Bitget*. Retrieved January 2, 2026, from https://www.bitget.site/news/detail/12560604685536
 
-[^16]: [Blockchain Reporter - Aptos Leads Stablecoin Inflows](https://blockchainreporter.net/aptos-leads-stablecoin-inflows-as-386m-moves-onchain-in-24-hours) - Record $386.2M single-day stablecoin inflow.
+[^16]: Blockchain Reporter. (2025, December). Aptos Leads Stablecoin Inflows as $386M Moves Onchain in 24 Hours. *Blockchain Reporter*. Retrieved January 2, 2026, from https://blockchainreporter.net/aptos-leads-stablecoin-inflows-as-386m-moves-onchain-in-24-hours 🔷 HARD DATA
 
-[^17]: [DefiLlama - Aptos Fees](https://defillama.com/fees/aptos) - 🔷 HARD DATA: All-time fees $4.74M, 24h fees ~$1,004 (January 2026).
+[^17]: DefiLlama. (2026, January 2). Aptos Fees. *DefiLlama*. Retrieved January 2, 2026, from https://defillama.com/fees/aptos 🔷 HARD DATA
 
-[^18]: [Aptos Foundation - Aries Markets Spotlight](https://aptosfoundation.org/currents/ecosystem-spotlight-aries-markets-unlocking-2-years-of-record-growth) - Aries Markets $600M deposits, 700K wallets, 70% of stable assets.
+[^18]: Aptos Foundation. (2025). Ecosystem Spotlight: Aries Markets. *Aptos Foundation*. Retrieved January 2, 2026, from https://aptosfoundation.org/currents/ecosystem-spotlight-aries-markets-unlocking-2-years-of-record-growth 🔷 HARD DATA
 
-[^19]: [DefiLlama - Echelon Market](https://defillama.com/protocol/echelon-market) - Echelon $200M+ TVL, $90M sUSDe deposits, $100M+ BTC collateral.
+[^19]: DefiLlama. (2026, January). Echelon Market. *DefiLlama*. Retrieved January 2, 2026, from https://defillama.com/protocol/echelon-market 🔷 HARD DATA
 
-[^20]: [Aptos Foundation - DeFi Powerhouse](https://aptosfoundation.org/currents/how-aptos-rapidly-became-a-defi-powerhouse) - $200M+ grants committed for DeFi development.
+[^20]: Aptos Foundation. (2025). How Aptos Rapidly Became a DeFi Powerhouse. *Aptos Foundation*. Retrieved January 2, 2026, from https://aptosfoundation.org/currents/how-aptos-rapidly-became-a-defi-powerhouse
 
-[^21]: [PANews - BlackRock BUIDL on Aptos](https://www.panewslab.com/en/articles/69fe2548-1f6d-4ae6-ad85-372284c8d1da) - BlackRock $500M additional investment (October 2025), $1.2B+ total RWA.
+[^21]: PANews. (2025, October). BlackRock BUIDL on Aptos. *PANews*. Retrieved January 2, 2026, from https://www.panewslab.com/en/articles/69fe2548-1f6d-4ae6-ad85-372284c8d1da 🔷 HARD DATA
 
-[^22]: [Chainterms - BlackRock & Franklin Templeton Tokenized Funds](https://www.chainterms.com/articles/blackrock-franklin-tokenized-funds.html) - Franklin Templeton BENJI and FOBXX integration on Aptos.
+[^22]: Chainterms. (2025). BlackRock & Franklin Templeton Tokenized Funds. *Chainterms*. Retrieved January 2, 2026, from https://www.chainterms.com/articles/blackrock-franklin-tokenized-funds.html
 
-[^23]: [Figment - Aptos Tokenomics](https://figment.io/insights/aptos-tokenomics/) - Transaction cost analysis and fee burn implications.
+[^23]: Figment. (2024). Aptos Tokenomics. *Figment*. Retrieved January 2, 2026, from https://figment.io/insights/aptos-tokenomics/
 
-[^24]: [Joule Finance - Aptos DeFi Opportunities](https://joule-finance.medium.com/aptos-powering-new-defi-opportunities-ef59494e8c98) - ⏳ HISTORICAL (2024): DeFi user cost structure, 10% gas / 90% protocol fee split.
+[^24]: Joule Finance - Medium. (2024). Aptos: Powering New DeFi Opportunities. *Medium*. Retrieved January 2, 2026, from https://joule-finance.medium.com/aptos-powering-new-defi-opportunities-ef59494e8c98 ⏳ HISTORICAL
 
-[^25]: [Consensys - Aptos Layer 1 Analysis](https://consensys.net/blog/cryptoeconomic-research/aptos-a-highly-scalable-and-decidedly-modular-layer-1-blockchain/) - ⏳ HISTORICAL (2024): Developer economics, $50K-500K development costs.
+[^25]: ConsenSys. (2024). Aptos: A Highly Scalable and Decidedly Modular Layer 1 Blockchain. *ConsenSys*. Retrieved January 2, 2026, from https://consensys.net/blog/cryptoeconomic-research/aptos-a-highly-scalable-and-decidedly-modular-layer-1-blockchain/ ⏳ HISTORICAL
 
-[^26]: [Blockchain Reporter - Move on Aptos Extension](https://blockchainreporter.net/aptos-labs-unveils-move-on-aptos-language-extension-for-smoother-builder-experience) - VS Code extension launch, Move 2 upgrade coming 2025.
+[^26]: Blockchain Reporter. (2025). Aptos Labs Unveils Move on Aptos Language Extension. *Blockchain Reporter*. Retrieved January 2, 2026, from https://blockchainreporter.net/aptos-labs-unveils-move-on-aptos-language-extension-for-smoother-builder-experience
 
-[^27]: [Binance - Aptos Academy Course](https://www.binance.com/en/blog/education/7907169423753688544) - Binance Academy partnership, 3,500 APT reward pool (January 2026).
+[^27]: Binance Blog. (2026, January). Aptos Academy Course. *Binance*. Retrieved January 2, 2026, from https://www.binance.com/en/blog/education/7907169423753688544
 
-[^28]: [Chorus One - Aptos Technical Architecture](https://chorus.one/articles/understanding-aptos-how-its-technical-architecture-and-modular-design-transcends-monolithic-chains) - Multi-proposer consensus and Narwhal-based DAG mempool.
+[^28]: Chorus One. (2024). Understanding Aptos: Technical Architecture and Modular Design. *Chorus One*. Retrieved January 2, 2026, from https://chorus.one/articles/understanding-aptos-how-its-technical-architecture-and-modular-design-transcends-monolithic-chains
 
-[^29]: [BitDegree - Aptos AIP-137](https://www.bitdegree.org/crypto/news/aptos-labs-proposes-quantum-ready-blockchain-upgrade-with-aip-137) - Alin Tomescu proposal, SHA-256 foundation, optional adoption model.
+[^29]: BitDegree. (2026, January). Aptos Labs Proposes Quantum-Ready Blockchain Upgrade with AIP-137. *BitDegree*. Retrieved January 2, 2026, from https://www.bitdegree.org/crypto/news/aptos-labs-proposes-quantum-ready-blockchain-upgrade-with-aip-137
 
-[^30]: [TronWeekly - AIP-137 Quantum Computing Era](https://www.tronweekly.com/aip-137-proposal-how-aptos-is-preparing-for-the/) - 7,856 byte signatures (82x Ed25519), 294μs verification (4.8x slower).
+[^30]: TronWeekly. (2026, January). AIP-137 Proposal: How Aptos is Preparing for the Quantum Computing Era. *TronWeekly*. Retrieved January 2, 2026, from https://www.tronweekly.com/aip-137-proposal-how-aptos-is-preparing-for-the/
 
-[^31]: [Crypto Economy - Aptos Post-Quantum Signatures](https://crypto-economy.com/aptos-opens-a-path-for-post-quantum-signatures-before-urgency-arrives/) - Industry context: Solana testnet, Bitcoin BIP-360 debate.
+[^31]: Crypto Economy. (2026, January). Aptos Opens a Path for Post-Quantum Signatures Before Urgency Arrives. *Crypto Economy*. Retrieved January 2, 2026, from https://crypto-economy.com/aptos-opens-a-path-for-post-quantum-signatures-before-urgency-arrives/
 
-[^32]: [CoinDesk - Aptos Mainnet Launch](https://www.coindesk.com/business/2022/10/17/aptos-blockchain-goes-live-on-mainnet) - ⏳ HISTORICAL (October 2022): Mainnet genesis October 12, 2022, public launch October 18.
+[^32]: CoinDesk. (2022, October 17). Aptos Blockchain Goes Live on Mainnet. *CoinDesk*. Retrieved January 2, 2026, from https://www.coindesk.com/business/2022/10/17/aptos-blockchain-goes-live-on-mainnet ⏳ HISTORICAL
 
-[^33]: [3X Capital - Aptos Ecosystem Overview](https://3xcapital.fund/blog/tpost/fcu79r8841-aptos-ecosystem-overview) - ⏳ HISTORICAL (2022): $350M total funding, a16z seed, FTX Series A.
+[^33]: 3X Capital. (2022). Aptos Ecosystem Overview. *3X Capital*. Retrieved January 2, 2026, from https://3xcapital.fund/blog/tpost/fcu79r8841-aptos-ecosystem-overview ⏳ HISTORICAL
 
-[^34]: [Aptos Foundation](https://aptosfoundation.org/) - Move language security advantages, production-ready positioning.
+[^34]: Aptos Foundation. (2026, January). *Aptos Foundation*. Retrieved January 2, 2026, from https://aptosfoundation.org/
 
-[^35]: [TronWeekly - Wyoming WYST Stablecoin](https://www.tronweekly.com/wyomings-stablecoin-pilot-picks-top-blockchains/) - WYST August 2025 target, LayerZero OFT integration.
+[^35]: TronWeekly. (2025). Wyoming's Stablecoin Pilot Picks Top Blockchains. *TronWeekly*. Retrieved January 2, 2026, from https://www.tronweekly.com/wyomings-stablecoin-pilot-picks-top-blockchains/
 
-[^36]: [CoinDesk - Aptos Gains 4.5%](https://www.coindesk.com/markets/2025/12/22/aptos-gains-4-5-to-usd1-63-outpacing-broader-crypto-market) - January 2, 2026 price action, 29% below 30-day average volume.
+[^36]: CoinDesk. (2025, December 22). Aptos Gains 4.5% to $1.63, Outpacing Broader Crypto Market. *CoinDesk*. Retrieved January 2, 2026, from https://www.coindesk.com/markets/2025/12/22/aptos-gains-4-5-to-usd1-63-outpacing-broader-crypto-market
 
-[^37]: [AMBCrypto - Aptos Stablecoin Supply 3X Growth](https://ambcrypto.com/aptos-stablecoin-supply-grows-nearly-3x-in-2025-catalyst-for-apts-run-to-10/) - Stablecoin supply from $600M to $1.9B in 2025.
+[^37]: AMBCrypto. (2025). Aptos Stablecoin Supply Grows Nearly 3X in 2025. *AMBCrypto*. Retrieved January 2, 2026, from https://ambcrypto.com/aptos-stablecoin-supply-grows-nearly-3x-in-2025-catalyst-for-apts-run-to-10/ 🔷 HARD DATA
 
-[^38]: [Circle - USDC Launch on Aptos](https://www.thecoinrepublic.com/2025/01/31/circle-launches-usdc-on-aptos-crypto-apt-rebounds-after-bearish-january/) - Circle USDC mainnet launch January 2025.
+[^38]: The Coin Republic. (2025, January). Circle Launches USDC on Aptos. *The Coin Republic*. Retrieved January 2, 2026, from https://www.thecoinrepublic.com/2025/01/31/circle-launches-usdc-on-aptos-crypto-apt-rebounds-after-bearish-january/
 
-[^39]: [Aptos Foundation - Stablecoins](https://aptosfoundation.org/currents/aptos-the-chain-of-choice-for-stablecoins) - Native support for three USD stablecoins, $30B+ monthly volume.
+[^39]: Aptos Foundation. (2025). Aptos: The Chain of Choice for Stablecoins. *Aptos Foundation*. Retrieved January 2, 2026, from https://aptosfoundation.org/currents/aptos-the-chain-of-choice-for-stablecoins
 
-[^40]: [Invezz - Aave Aptos Integration](https://invezz.com/news/2025/08/21/aave-expands-to-aptos-in-first-ever-non-evm-integration/) - Aave rebuilt in Move language, Chainlink Price Feeds integration.
+[^40]: Invezz. (2025, August 21). Aave Expands to Aptos in First-Ever Non-EVM Integration. *Invezz*. Retrieved January 2, 2026, from https://invezz.com/news/2025/08/21/aave-expands-to-aptos-in-first-ever-non-evm-integration/
 
-[^41]: [Bankless - Aave Aptos Launch](https://www.bankless.com/read/aave-expands-beyond-evm-with-aptos-launch) - Stani Kulechov quotes, multichain strategy significance.
+[^41]: Bankless. (2025, August). Aave Expands Beyond EVM With Aptos Launch. *Bankless*. Retrieved January 2, 2026, from https://www.bankless.com/read/aave-expands-beyond-evm-with-aptos-launch
 
-[^42]: [Messari - State of Aptos Q2 2024](https://messari.io/report/state-of-aptos-q2-2024) - ⏳ HISTORICAL (Q2 2024): Quarterly performance metrics.
+[^42]: Messari. (2024, Q2). State of Aptos Q2 2024. *Messari*. Retrieved January 2, 2026, from https://messari.io/report/state-of-aptos-q2-2024 ⏳ HISTORICAL
 
-[^43]: [Gate.io - Aptos Ecosystem Development](https://www.gate.com/crypto-wiki/article/exploring-the-development-of-aptos-blockchain-ecosystem-20251208) - January 2026 ecosystem analysis.
+[^43]: Gate.io. (2025, December). Exploring the Development of Aptos Blockchain Ecosystem. *Gate.io*. Retrieved January 2, 2026, from https://www.gate.com/crypto-wiki/article/exploring-the-development-of-aptos-blockchain-ecosystem-20251208
 
-[^44]: [BingX - Top Aptos Ecosystem Projects](https://bingx.com/en/learn/article/what-are-the-top-aptos-ecosystem-dapps-and-tokens) - Major dApps and token overview 2025.
+[^44]: BingX Learn. (2025). What Are the Top Aptos Ecosystem dApps and Tokens. *BingX*. Retrieved January 2, 2026, from https://bingx.com/en/learn/article/what-are-the-top-aptos-ecosystem-dapps-and-tokens
 
-[^45]: [KuCoin Learn - Aptos Ecosystem 2025](https://www.kucoin.com/learn/crypto/top-crypto-projects-and-dapps-in-aptos-ecosystem) - Top crypto projects in ecosystem.
+[^45]: KuCoin Learn. (2025). Top Crypto Projects and dApps in Aptos Ecosystem. *KuCoin*. Retrieved January 2, 2026, from https://www.kucoin.com/learn/crypto/top-crypto-projects-and-dapps-in-aptos-ecosystem
 
-[^46]: [Disruption Banking - Aptos 2025 Outlook](https://www.disruptionbanking.com/2025/01/20/how-strong-will-aptos-be-in-2025/) - 2025 strength analysis and projections.
+[^46]: Disruption Banking. (2025, January 20). How Strong Will Aptos Be in 2025? *Disruption Banking*. Retrieved January 2, 2026, from https://www.disruptionbanking.com/2025/01/20/how-strong-will-aptos-be-in-2025/
 
-[^47]: [Bitget News - Aptos RWA Growth](https://www.bitget.com/news/detail/12560604838914) - RWA tokenization and Wyoming consideration.
+[^47]: Bitget News. (2025). Aptos RWA Growth. *Bitget*. Retrieved January 2, 2026, from https://www.bitget.com/news/detail/12560604838914
 
-[^48]: [INX - RWA Tokenization 2025](https://www.inx.co/mapping-the-future-of-real-world-assets-the-top-rwa-tokenization-projects-in-2025/) - RWA market grew 5x in two years to $33B.
+[^48]: INX. (2025). Mapping the Future of Real-World Assets: The Top RWA Tokenization Projects in 2025. *INX*. Retrieved January 2, 2026, from https://www.inx.co/mapping-the-future-of-real-world-assets-the-top-rwa-tokenization-projects-in-2025/
 
-[^49]: [CoinMarketCap - Aptos Latest Updates](https://coinmarketcap.com/cmc-ai/aptos/latest-updates/) - Real-time Aptos news and market insights.
+[^49]: CoinMarketCap. (2026, January). Aptos Latest Updates. *CoinMarketCap*. Retrieved January 2, 2026, from https://coinmarketcap.com/cmc-ai/aptos/latest-updates/
 
-[^50]: [Bitcompare - Aptos Staking Rewards](https://bitcompare.net/coins/aptos/staking-rewards) - APT staking calculator and reward estimates.
+[^50]: Bitcompare. (2026, January). Aptos Staking Rewards. *Bitcompare*. Retrieved January 2, 2026, from https://bitcompare.net/coins/aptos/staking-rewards 🔷 HARD DATA
 
-[^51]: [APTCore - Aptos Staking Explained](https://aptcore.one/blog/aptos-staking-rewards-explained-apy-epochs-auto-compounding) - Epoch mechanics, auto-compounding details.
+[^51]: APTCore. (2025). Aptos Staking Rewards Explained: APY, Epochs, Auto-Compounding. *APTCore*. Retrieved January 2, 2026, from https://aptcore.one/blog/aptos-staking-rewards-explained-apy-epochs-auto-compounding
 
-[^52]: [Phemex - RWA Crypto Coins 2025](https://phemex.com/blogs/top-5-rwa-crypto-coins-for-2025) - Aptos among top RWA platforms.
+[^52]: Phemex Blog. (2025). Top 5 RWA Crypto Coins for 2025. *Phemex*. Retrieved January 2, 2026, from https://phemex.com/blogs/top-5-rwa-crypto-coins-for-2025

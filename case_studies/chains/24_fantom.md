@@ -334,132 +334,112 @@ Fantom's emphasis on finality speed over raw throughput, mathematical consensus 
 
 ## Sources and References
 
-[^1]: Fantom Foundation. (2024). "Understanding Fantom Transaction Fees." Fantom Foundation Blog. Retrieved from https://blog.fantom.foundation/understanding-fantom-transaction-fees/
-Comprehensive fee distribution breakdown showing 70% validator allocation, 15% gas monetization, 10% development, and 5% burn mechanism
+[^1]: Fantom Foundation. (2024). Understanding Fantom Transaction Fees. *Fantom Blog*. Retrieved January 2, 2026, from https://blog.fantom.foundation/understanding-fantom-transaction-fees/
 
-[^2]: Fantom Foundation. (2024). "Transaction Fees Documentation." Fantom Documentation. Retrieved from https://docs.fantom.foundation/technology/transaction-fees
-Official documentation of gas monetization program enabling applications to earn 15% of generated fees through Web2-style revenue sharing
+[^2]: Fantom Foundation. (2024). Transaction Fees Documentation. *Fantom Documentation*. Retrieved January 2, 2026, from https://docs.fantom.foundation/technology/transaction-fees
 
-[^3]: Chainspect. (2024). "Fantom Network Analytics." Chainspect. Retrieved from https://chainspect.app/chain/fantom
-Real-time network metrics showing $73.49 million stake across 14 validators with 0.66-180.6 TPS performance range
+[^3]: Chainspect. (2024). Fantom Network Analytics. *Chainspect*. Retrieved January 2, 2026, from https://chainspect.app/chain/fantom 🔷 HARD DATA
 
-[^4]: Yahoo Finance. (2024). "Fantom Slashes Validator Staking Requirements." Yahoo Finance. Retrieved from https://finance.yahoo.com/news/fantom-slashes-validator-staking-requirements-080540354.html
-January 2024 validator requirement reduction from 500,000 to 50,000 FTM improving network decentralization access
+[^4]: Yahoo Finance. (2024, January). Fantom Slashes Validator Staking Requirements. *Yahoo Finance*. Retrieved January 2, 2026, from https://finance.yahoo.com/news/fantom-slashes-validator-staking-requirements-080540354.html
 
-[^5]: Fantom Foundation. (2024). "How to Stake and Delegate on Fantom." Fantom Foundation Blog. Retrieved from https://blog.fantom.foundation/how-to-stake-and-delegate-on-fantom/
-Staking mechanics offering 1.8-6% APR based on lock periods with 15x delegation multiplier and 7-day unbonding
+[^5]: Fantom Foundation. (2024). How to Stake and Delegate on Fantom. *Fantom Blog*. Retrieved January 2, 2026, from https://blog.fantom.foundation/how-to-stake-and-delegate-on-fantom/
 
-[^6]: Tokenomist. (2024). "Fantom Token Economics Analysis." Tokenomist. Retrieved from https://tokenomist.ai/fantom
-Fixed 3.175 billion FTM supply with 2.13 billion circulating and transparent distribution structure
+[^6]: Tokenomist. (2024). Fantom Token Economics Analysis. *Tokenomist*. Retrieved January 2, 2026, from https://tokenomist.ai/fantom 🔷 HARD DATA
 
-[^7]: Fantom Foundation. (2024). "How Consensus Works on Fantom." Fantom Foundation Blog. Retrieved from https://blog.fantom.foundation/how-consensus-works-on-fantom/
-Lachesis aBFT technical explanation achieving 1-2 second confirmation with bank-grade security guarantees
+[^7]: Fantom Foundation. (2024). How Consensus Works on Fantom. *Fantom Blog*. Retrieved January 2, 2026, from https://blog.fantom.foundation/how-consensus-works-on-fantom/
 
-[^8]: Fantom Foundation. (2024). "Lachesis Consensus Algorithm." Fantom Foundation. Retrieved from https://admin.fantom.foundation/lachesis-consensus-algorithm/
-Formal aBFT properties supporting 1/3 faulty nodes with deterministic finality through DAG structure
+[^8]: Fantom Foundation. (2024). Lachesis Consensus Algorithm. *Fantom Foundation*. Retrieved January 2, 2026, from https://admin.fantom.foundation/lachesis-consensus-algorithm/
 
-[^9]: SKALE Network. (2024). "Dartmouth Blockchain Performance Study." SKALE Dartmouth Research. Retrieved from https://skale.space/network/dartmouth
-Independent academic testing confirming 85.39 TPS with 1.76-second finality in real-world conditions
+[^9]: SKALE Network. (2024). Dartmouth Blockchain Performance Study. *SKALE Network*. Retrieved January 2, 2026, from https://skale.space/network/dartmouth
 
-[^10]: Sonic Labs. (2024). "From Fantom to Sonic Migration Guide." Sonic Labs Blog. Retrieved from https://blog.soniclabs.com/from-fantom-to-sonic-what-you-need-to-know/
-December 2024 Sonic mainnet launch with 10,000 TPS capability and 90% storage reduction
+[^10]: Sonic Labs. (2024, December). From Fantom to Sonic Migration Guide. *Sonic Labs Blog*. Retrieved January 2, 2026, from https://blog.soniclabs.com/from-fantom-to-sonic-what-you-need-to-know/
 
-[^11]: CoinGecko. (2024). "Sonic Mainnet Launch Analysis." CoinGecko Learn. Retrieved from https://www.coingecko.com/learn/what-is-sonic-crypto-migrate-ftm-to-s-token
-Testnet performance achieving 800+ million daily transactions with 1.1-second finality validation
+[^11]: CoinGecko. (2024). Sonic Mainnet Launch Analysis. *CoinGecko Learn*. Retrieved January 2, 2026, from https://www.coingecko.com/learn/what-is-sonic-crypto-migrate-ftm-to-s-token
 
-[^12]: DataWallet. (2024). "Sonic Tokenomics Guide." DataWallet. Retrieved from https://www.datawallet.com/crypto/what-is-fantom-sonic
-1:1 FTM-to-S token swap mechanics with 6% airdrop allocation and inflation-free operation for four years
+[^12]: DataWallet. (2024). Sonic Tokenomics Guide. *DataWallet*. Retrieved January 2, 2026, from https://www.datawallet.com/crypto/what-is-fantom-sonic
 
-[^13]: Messari. (2024). "State of Fantom Q2 2024." Messari Research. Retrieved from https://messari.io/report/state-of-fantom-q2-2024
-Q2 2024 performance showing 22% FTM-denominated TVL growth to 154.8 million despite USD decline
+[^13]: Messari. (2024, Q2). State of Fantom Q2 2024. *Messari*. Retrieved January 2, 2026, from https://messari.io/report/state-of-fantom-q2-2024
 
-[^14]: DeFiLlama. (2024). "Fantom Chain Data." DeFiLlama. Retrieved from https://defillama.com/chain/fantom
-Real-time DeFi protocol rankings with Beethoven X, SpookySwap, and Equalizer TVL leadership
+[^14]: DeFiLlama. (2024). Fantom Chain Data. *DeFiLlama*. Retrieved January 2, 2026, from https://defillama.com/chain/fantom 🔷 HARD DATA
 
-[^15]: Fantom Foundation. (2024). "Fantom Ecosystem Spotlight: SpookySwap." Fantom Foundation Blog. Retrieved from https://blog.fantom.foundation/fantom-ecosystem-spotlight-spookyswap/
-SpookySwap dominance as largest Fantom DEX with 0.2% fees and cross-chain functionality
+[^15]: Fantom Foundation. (2024). Fantom Ecosystem Spotlight: SpookySwap. *Fantom Blog*. Retrieved January 2, 2026, from https://blog.fantom.foundation/fantom-ecosystem-spotlight-spookyswap/
 
-[^16]: V-ID. (2024). "V-ID Fantom Government Projects Partnership." V-ID Medium. Retrieved from https://pim-vee.medium.com/v-id-fantom-join-forces-to-tackle-multiple-government-projects-89b8d19f3df2
-Multiple Middle East government projects utilizing Fantom for document verification and e-government infrastructure
+[^16]: V-ID. (2024). V-ID Fantom Government Projects Partnership. *Medium*. Retrieved January 2, 2026, from https://pim-vee.medium.com/v-id-fantom-join-forces-to-tackle-multiple-government-projects-89b8d19f3df2
 
-[^17]: Amazon Web Services. (2024). "Fantom Infrastructure Case Study." AWS. Retrieved from https://aws.amazon.com/solutions/case-studies/fantom-case-study/
-Enterprise-grade infrastructure deployment validating scalability for business-critical applications
+[^17]: Amazon Web Services. (2024). Fantom Infrastructure Case Study. *AWS Case Studies*. Retrieved January 2, 2026, from https://aws.amazon.com/solutions/case-studies/fantom-case-study/
 
-[^18]: CoinTelegraph. (2024). "Fantom $120M Sonic Network Launch." CoinTelegraph. Retrieved from https://cointelegraph.com/news/fantom-120m-sonic-network-launch
-$120 million Sonic Labs Innovator Fund supporting migration and developer ecosystem expansion
+[^18]: CoinTelegraph. (2024). Fantom $120M Sonic Network Launch. *Cointelegraph*. Retrieved January 2, 2026, from https://cointelegraph.com/news/fantom-120m-sonic-network-launch
 
-[^19]: Pontem Network. (2024). "Blockchain Speed Comparison Study." Pontem Medium. Retrieved from https://pontem.medium.com/a-detailed-guide-to-blockchain-speed-tps-vs-80c1d52402d0
-Comprehensive analysis showing Fantom's 1-second finality advantage over Solana's 12.8-second settlement
+[^19]: Pontem Network. (2024). Blockchain Speed Comparison Study. *Medium*. Retrieved January 2, 2026, from https://pontem.medium.com/a-detailed-guide-to-blockchain-speed-tps-vs-80c1d52402d0
 
-[^20]: ResearchGate. (2024). "Lachesis Academic Paper." ResearchGate. Retrieved from https://www.researchgate.net/publication/353700653_Lachesis_Scalable_Asynchronous_BFT_on_DAG_Streams
-Peer-reviewed mathematical proofs for Lachesis protocol scalability and Byzantine fault tolerance properties
+[^20]: ResearchGate. (2024). Lachesis Academic Paper. *ResearchGate*. Retrieved January 2, 2026, from https://www.researchgate.net/publication/353700653_Lachesis_Scalable_Asynchronous_BFT_on_DAG_Streams
 
-[^21]: [CoinGecko - Fantom](https://www.coingecko.com/en/coins/fantom) - FTM price, market cap, 24h volume, and circulating supply (January 2026). 🔷 HARD DATA
+[^21]: CoinGecko. (2026, January). Fantom. *CoinGecko*. Retrieved January 2, 2026, from https://www.coingecko.com/en/coins/fantom 🔷 HARD DATA
 
-[^22]: [CoinGecko - Sonic](https://www.coingecko.com/en/coins/sonic-3) - S token price, market cap, and trading data post-migration. 🔷 HARD DATA
+[^22]: CoinGecko. (2026, January). Sonic. *CoinGecko*. Retrieved January 2, 2026, from https://www.coingecko.com/en/coins/sonic-3 🔷 HARD DATA
 
-[^23]: [CoinMarketCap - Fantom](https://coinmarketcap.com/currencies/fantom/) - FTM market rankings and trading volume. 🔷 HARD DATA
+[^23]: CoinMarketCap. (2026, January). Fantom. *CoinMarketCap*. Retrieved January 2, 2026, from https://coinmarketcap.com/currencies/fantom/ 🔷 HARD DATA
 
-[^24]: [DefiLlama - Fantom](https://defillama.com/chain/Fantom) - Real-time TVL tracking and protocol breakdown. 🔷 HARD DATA
+[^24]: DeFiLlama. (2026, January). Fantom. *DeFiLlama*. Retrieved January 2, 2026, from https://defillama.com/chain/Fantom 🔷 HARD DATA
 
-[^25]: [DefiLlama - Sonic](https://defillama.com/chain/Sonic) - Sonic chain TVL tracking post-launch. 🔷 HARD DATA
+[^25]: DeFiLlama. (2026, January). Sonic. *DeFiLlama*. Retrieved January 2, 2026, from https://defillama.com/chain/Sonic 🔷 HARD DATA
 
-[^26]: [Staking Rewards - Fantom](https://www.stakingrewards.com/earn/fantom/) - Current staking APY and validator rewards. 🔷 HARD DATA
+[^26]: Staking Rewards. (2026, January). Fantom. *Staking Rewards*. Retrieved January 2, 2026, from https://www.stakingrewards.com/earn/fantom/ 🔷 HARD DATA
 
-[^27]: [Chainspect - Fantom](https://chainspect.app/chain/fantom) - Real-time network metrics and validator data. 🔷 HARD DATA
+[^27]: Chainspect. (2026, January). Fantom. *Chainspect*. Retrieved January 2, 2026, from https://chainspect.app/chain/fantom 🔷 HARD DATA
 
-[^28]: [FTMScan](https://ftmscan.com/) - Fantom block explorer with on-chain data. 🔷 HARD DATA
+[^28]: FTMScan. (2026, January). Block Explorer. *FTMScan*. Retrieved January 2, 2026, from https://ftmscan.com/ 🔷 HARD DATA
 
-[^29]: [Fantom Explorer](https://explorer.fantom.network/) - Official block explorer with staking data
+[^29]: Fantom. (2026, January). Explorer. *Fantom Network*. Retrieved January 2, 2026, from https://explorer.fantom.network/
 
-[^30]: [Sonic Labs Official](https://soniclabs.com/) - Official Sonic portal and migration resources
+[^30]: Sonic Labs. (2025). Official Portal. *Sonic Labs*. Retrieved January 2, 2026, from https://soniclabs.com/
 
-[^31]: [Sonic Labs Blog](https://blog.soniclabs.com/) - Official announcements and updates
+[^31]: Sonic Labs. (2025). Blog. *Sonic Labs Blog*. Retrieved January 2, 2026, from https://blog.soniclabs.com/
 
-[^32]: [Sonic Labs Documentation](https://docs.soniclabs.com/) - Technical documentation for Sonic chain
+[^32]: Sonic Labs. (2025). Documentation. *Sonic Labs Documentation*. Retrieved January 2, 2026, from https://docs.soniclabs.com/
 
-[^33]: [Fantom Foundation Blog](https://blog.fantom.foundation/) - Official Fantom announcements
+[^33]: Fantom Foundation. (2025). Blog. *Fantom Blog*. Retrieved January 2, 2026, from https://blog.fantom.foundation/
 
-[^34]: [Fantom Documentation](https://docs.fantom.foundation/) - Technical documentation and specs
+[^34]: Fantom Foundation. (2025). Documentation. *Fantom Documentation*. Retrieved January 2, 2026, from https://docs.fantom.foundation/
 
-[^35]: [SpookySwap](https://spooky.fi/) - Leading Fantom DEX platform
+[^35]: SpookySwap. (2025). DEX. *SpookySwap*. Retrieved January 2, 2026, from https://spooky.fi/
 
-[^36]: [Beethoven X](https://beets.fi/) - Liquidity protocol on Fantom
+[^36]: Beethoven X. (2025). Liquidity Protocol. *Beethoven X*. Retrieved January 2, 2026, from https://beets.fi/
 
-[^37]: [Equalizer Exchange](https://equalizer.exchange/) - DEX with ve(3,3) model on Fantom
+[^37]: Equalizer Exchange. (2025). DEX. *Equalizer Exchange*. Retrieved January 2, 2026, from https://equalizer.exchange/
 
-[^38]: [Messari - Fantom](https://messari.io/asset/fantom) - Professional research and quarterly reports
+[^38]: Messari. (2025). Fantom. *Messari*. Retrieved January 2, 2026, from https://messari.io/asset/fantom
 
-[^39]: [Token Terminal - Fantom](https://tokenterminal.com/terminal/projects/fantom) - Financial metrics and revenue data
+[^39]: Token Terminal. (2025). Fantom. *Token Terminal*. Retrieved January 2, 2026, from https://tokenterminal.com/terminal/projects/fantom 🔷 HARD DATA
 
-[^40]: [DappRadar - Fantom](https://dappradar.com/rankings/protocol/fantom) - dApp rankings and activity metrics
+[^40]: DappRadar. (2025). Fantom. *DappRadar*. Retrieved January 2, 2026, from https://dappradar.com/rankings/protocol/fantom
 
-[^41]: [CoinDesk - Fantom](https://www.coindesk.com/tag/fantom/) - Industry news coverage
+[^41]: CoinDesk. (2025). Fantom Coverage. *CoinDesk*. Retrieved January 2, 2026, from https://www.coindesk.com/tag/fantom/
 
-[^42]: [Cointelegraph - Fantom](https://cointelegraph.com/tags/fantom) - Technical analysis and market insights
+[^42]: Cointelegraph. (2025). Fantom. *Cointelegraph*. Retrieved January 2, 2026, from https://cointelegraph.com/tags/fantom
 
-[^43]: [The Block - Fantom](https://www.theblock.co/tag/fantom) - Market analysis and ecosystem updates
+[^43]: The Block. (2025). Fantom Coverage. *The Block*. Retrieved January 2, 2026, from https://www.theblock.co/tag/fantom
 
-[^44]: [Decrypt - Fantom](https://decrypt.co/tag/fantom) - Educational content and news
+[^44]: Decrypt. (2025). Fantom. *Decrypt*. Retrieved January 2, 2026, from https://decrypt.co/tag/fantom
 
-[^45]: [Fantom GitHub](https://github.com/Fantom-foundation) - Open-source repositories and development
+[^45]: Fantom Foundation. (2025). GitHub. *GitHub*. Retrieved January 2, 2026, from https://github.com/Fantom-foundation
 
-[^46]: [Dune Analytics - Fantom](https://dune.com/browse/dashboards?q=fantom) - Community analytics dashboards
+[^46]: Dune Analytics. (2025). Fantom Dashboards. *Dune Analytics*. Retrieved January 2, 2026, from https://dune.com/browse/dashboards?q=fantom
 
-[^47]: [Nansen - Fantom](https://www.nansen.ai/) - On-chain intelligence and wallet analytics
+[^47]: Nansen. (2025). Fantom Analytics. *Nansen*. Retrieved January 2, 2026, from https://www.nansen.ai/
 
-[^48]: [AWS Fantom Case Study](https://aws.amazon.com/solutions/case-studies/fantom-case-study/) - Enterprise infrastructure deployment
+[^48]: Amazon Web Services. (2024). Fantom Case Study. *AWS Case Studies*. Retrieved January 2, 2026, from https://aws.amazon.com/solutions/case-studies/fantom-case-study/
 
-[^49]: [Chainlink - Fantom](https://chain.link/ecosystem/fantom) - Oracle integration and price feeds
+[^49]: Chainlink. (2025). Fantom Integration. *Chainlink*. Retrieved January 2, 2026, from https://chain.link/ecosystem/fantom 🔷 HARD DATA
 
-[^50]: [The Graph - Fantom](https://thegraph.com/explorer?chain=fantom) - Subgraph indexing infrastructure
+[^50]: The Graph. (2025). Fantom Subgraphs. *The Graph*. Retrieved January 2, 2026, from https://thegraph.com/explorer?chain=fantom
 
-[^51]: [Fantom Staking Dashboard](https://pwawallet.fantom.network/) - Official staking interface
+[^51]: Fantom. (2025). Staking Dashboard. *Fantom Network*. Retrieved January 2, 2026, from https://pwawallet.fantom.network/
 
-[^52]: [Sonic Migration Guide](https://blog.soniclabs.com/from-fantom-to-sonic-what-you-need-to-know/) - FTM to S token swap details
+[^52]: Sonic Labs. (2024, December). Migration Guide. *Sonic Labs Blog*. Retrieved January 2, 2026, from https://blog.soniclabs.com/from-fantom-to-sonic-what-you-need-to-know/
 
-[^53]: [V-ID Fantom Partnership](https://pim-vee.medium.com/v-id-fantom-join-forces-to-tackle-multiple-government-projects-89b8d19f3df2) - Government blockchain projects
+[^53]: V-ID. (2024). Fantom Partnership. *Medium*. Retrieved January 2, 2026, from https://pim-vee.medium.com/v-id-fantom-join-forces-to-tackle-multiple-government-projects-89b8d19f3df2
 
-[^54]: [Fantom Twitter](https://twitter.com/FantomFDN) - Official updates and announcements
+[^54]: Fantom Foundation. (2025). Twitter. *Twitter*. Retrieved January 2, 2026, from https://twitter.com/FantomFDN
 
-[^55]: [Sonic Labs Twitter](https://twitter.com/SonicLabs) - Official Sonic updates
+[^55]: Sonic Labs. (2025). Twitter. *Twitter*. Retrieved January 2, 2026, from https://twitter.com/SonicLabs
