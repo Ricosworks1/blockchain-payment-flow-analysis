@@ -1,11 +1,11 @@
-# Video Analysis Report: Caffeine & The Self-Writing Internet
+# Caffeine & The Self-Writing Internet
 ## World Computer Day Presentation by DFINITY Foundation
 
 ---
 
 ## Executive Summary
 
-This video is a presentation from "World Computer Day" where a speaker from DFINITY Foundation and Caffeine Labs introduces **Caffeine** - a platform enabling "self-writing" internet/cloud applications powered by AI. The presentation discusses a paradigm shift from traditional coding to AI-driven application development, positioning the Internet Computer Protocol (ICP) as the underlying infrastructure.
+At World Computer Day, **Dominic Williams** (Founder & Chief Scientist of DFINITY Foundation) introduced **Caffeine** - a platform enabling "self-writing" internet/cloud applications powered by AI. The presentation discusses a paradigm shift from traditional coding to AI-driven application development, positioning the Internet Computer Protocol (ICP) as the underlying infrastructure.
 
 **Key Announcement:** The Internet Computer now has almost 10x more people building dApps on the network than across all other Web3 networks combined, with a goal to reach 100x by year end.
 
@@ -15,6 +15,7 @@ This video is a presentation from "World Computer Day" where a speaker from DFIN
 
 **Event:** World Computer Day
 **Topic:** "Hello, Self-Writing Internet" - Caffeine Platform
+**Speaker:** Dominic Williams (Founder & Chief Scientist, DFINITY Foundation)
 **Speaker Organization:** DFINITY Foundation & Caffeine Labs
 **Duration:** ~27 minutes
 **Recording Date:** January 2026
@@ -100,39 +101,9 @@ The presentation addresses growing demand for sovereign cloud infrastructure:
 
 ---
 
-## Visual Content Analysis
-
-Based on extracted key frames (53 frames at 30-second intervals):
-
-### Stage Setup
-- Professional conference setting with stage and screen
-- Single male speaker presenting
-- "World Computer Day" branding visible
-- Purple/blue lighting scheme
-
-### Key Slides Observed
-
-1. **"Caffeine - hello, self-writing internet"** - Title slide with branding
-2. **"ICP Platform Ecosystem"** - Overview of DFINITY, Caffeine Labs, Utopia
-3. **Evolution Timeline** - "craft coding" (1950) -> "vibe coding" (2023) -> "self-writing" (2025)
-4. **"The network is the cloud, AI is a wish machine"** - Core concept slide
-5. **"tech's moat dissolving"** - Market disruption thesis
-6. **Cloud Computing Revenue** - $1T -> $2T projection
-7. **Traditional Cloud vs Self-Writing Cloud** - Comparison visual
-8. **Internet Computer Properties:**
-   - "apps are tamperproof"
-   - "apps are unstoppable"
-   - "apps are sovereign"
-   - "code is serverless"
-   - "0% data loss risk"
-9. **Sovereign Cloud & Geopolitical Context** - Defense stocks chart
-10. **Closing Slide** - caffeine.ai URL, major upgrade February 2nd
-
----
-
 ## Key Takeaways
 
-1. **Market Shift:** The presentation argues self-writing cloud represents the biggest innovation in decentralized networking since Bitcoin/Ethereum
+1. **Market Shift:** Self-writing cloud represents the biggest innovation in decentralized networking since Bitcoin/Ethereum
 
 2. **Competitive Position:** ICP claims ~10x more dApp developers than all other blockchains combined
 
@@ -140,35 +111,10 @@ Based on extracted key frames (53 frames at 30-second intervals):
 
 4. **Target Users:** Business owners who want online functionality without hiring tech teams
 
-5. **Call to Action:**
-   - Try caffeine.ai
-   - Major upgrade coming February 2nd, 2026
-   - Nation-states should use ICP for sovereign cloud
-
----
-
-## Technical Specifications
-
-**Video File:** 20260120_121202.mp4
-**Duration:** 26 minutes 39 seconds
-**Resolution:** 2336x1080 (ultrawide)
-**File Size:** 2.7 GB
-
-**Transcription:** Whisper (medium model, English)
-**Frame Extraction:** 53 key frames at 30-second intervals
-
----
-
-## Files Generated
-
-| File | Description |
-|------|-------------|
-| `audio.txt` | Plain text transcript |
-| `audio.srt` | Subtitle format with timestamps |
-| `audio.vtt` | WebVTT subtitle format |
-| `audio.json` | JSON format with detailed segments |
-| `audio.tsv` | Tab-separated values format |
-| `frames/` | 53 extracted key frames (JPEG) |
+5. **Next Steps:**
+   - Platform available at caffeine.ai
+   - Major upgrade scheduled for February 2nd, 2026
+   - DFINITY engaging with nation-states for sovereign cloud deployments
 
 ---
 
