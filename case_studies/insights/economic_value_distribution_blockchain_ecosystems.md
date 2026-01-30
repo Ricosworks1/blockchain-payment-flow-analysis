@@ -20,7 +20,7 @@ This analysis examines the distribution of economic value generated when users i
 
 Given the extensive amount of data, a GitHub repository has been created as the core reference repository[^2]. This report examines the core dynamics of economic value distribution across the blockchain ecosystem. However, for further, comprehensive details, methodology, and supporting case studies under other point of views or assets, refer to the full repository information.
 
-A key finding of this report is that oracle networks monetize primarily through non-public commercial contracts rather than transparent on-chain fee mechanism while constituting critical Web3 infrastructure, as referenced in the [oracles infrastructure analysis](../infrastructure/oracles.md)[^3].
+A key finding of this report is that oracle networks monetize primarily through non-public commercial contracts rather than transparent on-chain fee mechanism while constituting critical Web3 infrastructure, as referenced in the [oracles infrastructure analysis](https://github.com/Ricosworks1/blockchain-payment-flow-analysis/blob/main/case_studies/infrastructure/oracles.md)[^3].
 
 To create this report, we analyzed end-to-end cash flows across 25+ major networks, 20 leading protocols, dApps per TVL, fees generated, as well as meta-research, using quantitative data and/or expert assessment for cases where public information is limited or unavailable. This report extends the analysis not only to onchain token unlocks and subsidy mechanisms, but also to off-chain financial flows across 14 oracle providers, major infrastructure entities, venture capital and foundation ecosystems, which together represent the largest hidden cost layer of the blockchain economy. These costs, though largely opaque, are ultimately carried by end users. This underscores the extent to which blockchain remains a subsidized and an externally supported financial experiment rather than a fully self-sustaining system.
 
@@ -55,9 +55,9 @@ When adding all identifiable sources, the total ecosystem funding base amounts t
 
 A limited subset of ecosystems is very close to potentially self-sustaining models:
 
-- **[Hyperliquid](../chains/07_hyperliquid.md)**: Generates an estimated $0.9–1.35B in annualized trading-fee profits[^11]
-- **[Base](../chains/05_base.md)**: Extracts all revenue and is profitable[^12]
-- **[Optimism](../chains/14_optimism.md)**: Operates with superchain architecture that captures portions of the fees of 40 other L2s, but not yet breakeven[^13]
+- **[Hyperliquid](https://github.com/Ricosworks1/blockchain-payment-flow-analysis/blob/main/case_studies/chains/07_hyperliquid.md)**: Generates an estimated $0.9–1.35B in annualized trading-fee profits[^11]
+- **[Base](https://github.com/Ricosworks1/blockchain-payment-flow-analysis/blob/main/case_studies/chains/05_base.md)**: Extracts all revenue and is profitable[^12]
+- **[Optimism](https://github.com/Ricosworks1/blockchain-payment-flow-analysis/blob/main/case_studies/chains/14_optimism.md)**: Operates with superchain architecture that captures portions of the fees of 40 other L2s, but not yet breakeven[^13]
 
 Yet even these exceptions face material long-term risks: Hyperliquid's $12B in team token unlocks scheduled for 2026 may significantly test the stability of its business model.
 
@@ -129,7 +129,7 @@ Additional parties extract value without direct user payment:
 
 ### Ethereum - Decentralized Value Distribution
 
-> **Full Analysis:** [Ethereum Payment Flow Analysis](../chains/01_ethereum.md)
+> **Full Analysis:** [Ethereum Payment Flow Analysis](https://github.com/Ricosworks1/blockchain-payment-flow-analysis/blob/main/case_studies/chains/01_ethereum.md)
 
 Ethereum burns 100% of the base fee under EIP-1559 (≈$0.75–$0.90 per transaction), while validators capture priority fees (≈$0.10–$0.25 per transaction) and MEV rewards, depending on network congestion and block composition. Following the Dencun upgrade, the network transitioned from deflationary conditions to an estimated 0.7–0.8% trailing annual inflation.
 
@@ -171,7 +171,7 @@ Post-Dencun, only ≈40,000 ETH are burned annually, while ≈960,000 ETH are ne
 
 ### Bitcoin - Mining-Centric Distribution
 
-> **Full Analysis:** [Bitcoin Payment Flow Analysis](../chains/04_bitcoin.md)
+> **Full Analysis:** [Bitcoin Payment Flow Analysis](https://github.com/Ricosworks1/blockchain-payment-flow-analysis/blob/main/case_studies/chains/04_bitcoin.md)
 
 Bitcoin's monetary flow exhibits near-total dependence on inflationary block rewards rather than user-generated fees. The mining economy totals $44–60B annually, funded almost entirely through new token issuance instead of transaction revenue. The network issues approximately 164,500 BTC per year (≈$18.2B) while collecting only ≈$115 million in user fees, resulting in a substantial subsidy gap where less than 1% of miner compensation originates from transaction activity.
 
@@ -203,7 +203,7 @@ This dynamic effectively transfers value from all Bitcoin holders to miners via 
 
 ### Solana - Validator-MEV Distribution
 
-> **Full Analysis:** [Solana Payment Flow Analysis](../chains/02_solana.md)
+> **Full Analysis:** [Solana Payment Flow Analysis](https://github.com/Ricosworks1/blockchain-payment-flow-analysis/blob/main/case_studies/chains/02_solana.md)
 
 Solana's monetary flow demonstrates a structural reliance on inflationary rewards and programmed token unlocks, with validators earning approximately $4.5–5.0B annually from new token issuance versus only $55 million in user fees. The network's 4.3% annual inflation rate steadily dilutes non-staking holders while financing validator rewards, MEV infrastructure, and network security.
 
@@ -236,7 +236,7 @@ Transaction fees represent roughly 1% of total ecosystem funding when issuance a
 
 ### BNB Chain - Corporate-Backed Model
 
-> **Full Analysis:** [BNB Chain Payment Flow Analysis](../chains/03_bnb_chain.md)
+> **Full Analysis:** [BNB Chain Payment Flow Analysis](https://github.com/Ricosworks1/blockchain-payment-flow-analysis/blob/main/case_studies/chains/03_bnb_chain.md)
 
 BNB Chain operates a corporate-subsidized economic model in which 90% of user fees accrue to validators and 10% are burned, generating approximately $53 million in annual on-chain fee revenue. The network's financial stability relies primarily on Binance's corporate subsidies, totaling an estimated $4.0–4.3B annually, comprising $3.884B in documented quarterly token burns and $150–400 million in ecosystem development and infrastructure support.
 
@@ -264,7 +264,7 @@ This corporate backing is roughly **80× larger than direct user fee income**, p
 
 ### Cardano - Treasury-Funded Development
 
-> **Full Analysis:** [Cardano Payment Flow Analysis](../chains/16_cardano.md)
+> **Full Analysis:** [Cardano Payment Flow Analysis](https://github.com/Ricosworks1/blockchain-payment-flow-analysis/blob/main/case_studies/chains/16_cardano.md)
 
 When users spend $1 on Cardano, fees flow entirely to stake pool operators (100%) through the eUTXO-based fee model. Cardano operates a treasury-funded development model where ecosystem funding comes from inflation, creating $1-2B annually in ecosystem resources.
 
@@ -289,7 +289,7 @@ When users spend $1 on Cardano, fees flow entirely to stake pool operators (100%
 
 ### Avalanche - Deflationary with High External Funding
 
-> **Full Analysis:** [Avalanche Payment Flow Analysis](../chains/08_avalanche.md)
+> **Full Analysis:** [Avalanche Payment Flow Analysis](https://github.com/Ricosworks1/blockchain-payment-flow-analysis/blob/main/case_studies/chains/08_avalanche.md)
 
 When users spend $1 on Avalanche, 100% of transaction fees are burned. Avalanche generates $26M in fees annually. Validators earn zero from fees, instead receiving rewards from newly minted AVAX through inflation. Avalanche operates on $3-4B annually in external funding.
 
@@ -318,7 +318,7 @@ When users spend $1 on Avalanche, 100% of transaction fees are burned. Avalanche
 
 ### Hyperliquid - Purpose-Built DEX L1
 
-> **Full Analysis:** [Hyperliquid Payment Flow Analysis](../chains/07_hyperliquid.md)
+> **Full Analysis:** [Hyperliquid Payment Flow Analysis](https://github.com/Ricosworks1/blockchain-payment-flow-analysis/blob/main/case_studies/chains/07_hyperliquid.md)
 
 Hyperliquid currently ranks as the **highest revenue-generating blockchain ecosystem**, with annualized revenues estimated at $0.9–1.4B, surpassing all other Layer-1 and Layer-2 networks. Approximately 93–97% of trading-fee revenues are directed toward daily HYPE token buybacks (≈$1 million per day), establishing a self-reinforcing, non-inflationary model that operates without venture-capital financing or token emissions.
 
@@ -371,7 +371,7 @@ Analysis of Layer-1 network architectures reveals structural mismatches between 
 
 ### Base (Coinbase) - Corporate Revenue Model
 
-> **Full Analysis:** [Base Payment Flow Analysis](../chains/05_base.md)
+> **Full Analysis:** [Base Payment Flow Analysis](https://github.com/Ricosworks1/blockchain-payment-flow-analysis/blob/main/case_studies/chains/05_base.md)
 
 Base represents the most efficient corporate value-extraction model among Ethereum Layer-2 networks, capturing an estimated 65–80% of user fees, equivalent to $50–80 million in annual net profit to Coinbase's treasury after accounting for OP Stack licensing.
 
@@ -395,7 +395,7 @@ Despite paying approximately 15% of revenue (~$12 million in 2025) to Optimism f
 
 ### Arbitrum - DAO Treasury Model
 
-> **Full Analysis:** [Arbitrum Payment Flow Analysis](../chains/06_arbitrum.md)
+> **Full Analysis:** [Arbitrum Payment Flow Analysis](https://github.com/Ricosworks1/blockchain-payment-flow-analysis/blob/main/case_studies/chains/06_arbitrum.md)
 
 Arbitrum operates as a DAO-governed Layer-2 network in which transaction fees are divided between Ethereum Layer-1 data availability costs (30–35%) and the Arbitrum DAO treasury surplus (65–70%). In 2024, Arbitrum generated $42M revenues, but in 2025 it dropped to $13–15 million in annualized sequencer revenue.
 
@@ -426,7 +426,7 @@ This creates a **spending-to-revenue ratio exceeding 47:1**.
 
 ### Optimism - Public Goods Funding (Superchain Model)
 
-> **Full Analysis:** [Optimism Payment Flow Analysis](../chains/14_optimism.md)
+> **Full Analysis:** [Optimism Payment Flow Analysis](https://github.com/Ricosworks1/blockchain-payment-flow-analysis/blob/main/case_studies/chains/14_optimism.md)
 
 Optimism operates as a Public Benefit Corporation–governed Layer-2 ecosystem, directing sequencer revenues from the expanding OP Stack "Superchain" toward Retroactive Public Goods Funding (RPGF) rather than private shareholder profit.
 
@@ -459,7 +459,7 @@ The Superchain powers multiple L2 networks: **Base, Unichain, Mode, Zora, Soneiu
 
 ### zkSync Era - Development Company Model
 
-> **Full Analysis:** [zkSync Payment Flow Analysis](../chains/21_zksync.md)
+> **Full Analysis:** [zkSync Payment Flow Analysis](https://github.com/Ricosworks1/blockchain-payment-flow-analysis/blob/main/case_studies/chains/21_zksync.md)
 
 zkSync Era operates as a Matter Labs–controlled ZK rollup, where sequencer revenues are retained at the corporate level to fund continued network development. Despite its technical sophistication, the network currently generates only $8–12 million in annualized revenue.
 
@@ -510,7 +510,7 @@ Only **Base and Optimism** have currently achieved potentially sustainable model
 
 ### Oracle Providers - The DeFi Infrastructure Tax
 
-> **Full Analysis:** [Oracle Infrastructure Analysis](../infrastructure/oracles.md)
+> **Full Analysis:** [Oracle Infrastructure Analysis](https://github.com/Ricosworks1/blockchain-payment-flow-analysis/blob/main/case_studies/infrastructure/oracles.md)
 
 The oracle infrastructure market represents a **$178M-365M annual economy** securing $189B+ in "Total Value Secured" (TVS) across 800+ protocols, yet reveals a fundamental paradox where technical innovation drives costs toward zero while demand for reliable data infrastructure grows fast.
 
@@ -557,7 +557,7 @@ The oracle market extracts **$178M-365M annually** from DeFi protocols that gene
 
 ### MEV (Maximum Extractable Value) Recipients
 
-> **Full Analysis:** [MEV Comprehensive Analysis](../infrastructure/mev.md)
+> **Full Analysis:** [MEV Comprehensive Analysis](https://github.com/Ricosworks1/blockchain-payment-flow-analysis/blob/main/case_studies/infrastructure/mev.md)
 
 **Annual MEV Value: $3-7B across all chains**
 
@@ -605,7 +605,7 @@ The oracle market extracts **$178M-365M annually** from DeFi protocols that gene
 
 ### RPC and Infrastructure Providers
 
-> **Full Analysis:** [RPC Infrastructure Analysis](../infrastructure/rpc_providers.md)
+> **Full Analysis:** [RPC Infrastructure Analysis](https://github.com/Ricosworks1/blockchain-payment-flow-analysis/blob/main/case_studies/infrastructure/rpc_providers.md)
 
 **The blockchain RPC and infrastructure services market generates $200-500M annually.**
 
@@ -628,7 +628,7 @@ The oracle market extracts **$178M-365M annually** from DeFi protocols that gene
 
 ## Ecosystem Funding: Foundations
 
-> **Full Analysis:** [Foundations Funding Analysis](../infrastructure/foundations.md)
+> **Full Analysis:** [Foundations Funding Analysis](https://github.com/Ricosworks1/blockchain-payment-flow-analysis/blob/main/case_studies/infrastructure/foundations.md)
 
 Blockchain foundations represent a **$1-2B annual economy** dedicated to ecosystem development, research funding, and infrastructure support across major networks.
 
@@ -691,7 +691,7 @@ Blockchain foundations represent a **$1-2B annual economy** dedicated to ecosyst
 
 ## VC Money Flows
 
-> **Full Analysis:** [VC Investment Analysis](../infrastructure/vc.md)
+> **Full Analysis:** [VC Investment Analysis](https://github.com/Ricosworks1/blockchain-payment-flow-analysis/blob/main/case_studies/infrastructure/vc.md)
 
 **Annual VC Investment in Blockchain: $10-30B**
 
@@ -836,17 +836,17 @@ Until then, blockchain will remain both experiment and spectacle: a global syste
 
 [^1]: [CoinMarketCap - Market Cap Charts](https://coinmarketcap.com/charts/)
 [^2]: [Blockchain Payment Flow Analysis Repository](https://github.com/Ricosworks1/blockchain-payment-flow-analysis)
-[^3]: [Oracle Infrastructure Analysis](../infrastructure/oracles.md) - Comprehensive oracle payment flow analysis
+[^3]: [Oracle Infrastructure Analysis](https://github.com/Ricosworks1/blockchain-payment-flow-analysis/blob/main/case_studies/infrastructure/oracles.md) - Comprehensive oracle payment flow analysis
 [^4]: [Token Unlock Analysis 2025](https://github.com/Ricosworks1/blockchain-payment-flow-analysis/blob/main/case_studies/Token%20Unlocks/token_unlock_analysis_2025.md)
 [^5]: [Binance - BNB Chain Quarterly Token Burn](https://www.binance.com/en/square/post/04-16-2025-bnb-chain-news-bnb-chain-completes-31st-quarterly-token-burn-eliminating-916m-worth-of-bnb-22987577284722)
-[^6]: [MEV Comprehensive Analysis](../infrastructure/mev.md) - Total reported MEV figure divided by two for conservative baseline
-[^7]: [Foundation Ecosystem Funding Analysis](../infrastructure/foundations.md)
-[^8]: [VC Money Flow Analysis](../infrastructure/vc.md)
+[^6]: [MEV Comprehensive Analysis](https://github.com/Ricosworks1/blockchain-payment-flow-analysis/blob/main/case_studies/infrastructure/mev.md) - Total reported MEV figure divided by two for conservative baseline
+[^7]: [Foundation Ecosystem Funding Analysis](https://github.com/Ricosworks1/blockchain-payment-flow-analysis/blob/main/case_studies/infrastructure/foundations.md)
+[^8]: [VC Money Flow Analysis](https://github.com/Ricosworks1/blockchain-payment-flow-analysis/blob/main/case_studies/infrastructure/vc.md)
 [^9]: [Binance - Cryptocurrency Industry Revenue](https://www.binance.com/en/square/post/20642089256402)
 [^10]: [Binance - 2024 Financial Performance](https://www.binance.com/en/square/post/21381071722209)
-[^11]: [Hyperliquid Payment Flow Analysis](../chains/07_hyperliquid.md)
-[^12]: [Base Payment Flow Analysis](../chains/05_base.md)
-[^13]: [Optimism Payment Flow Analysis](../chains/14_optimism.md)
+[^11]: [Hyperliquid Payment Flow Analysis](https://github.com/Ricosworks1/blockchain-payment-flow-analysis/blob/main/case_studies/chains/07_hyperliquid.md)
+[^12]: [Base Payment Flow Analysis](https://github.com/Ricosworks1/blockchain-payment-flow-analysis/blob/main/case_studies/chains/05_base.md)
+[^13]: [Optimism Payment Flow Analysis](https://github.com/Ricosworks1/blockchain-payment-flow-analysis/blob/main/case_studies/chains/14_optimism.md)
 
 ---
 
