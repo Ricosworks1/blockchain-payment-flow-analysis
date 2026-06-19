@@ -37,7 +37,7 @@ To create this report, we analyzed end-to-end cash flows across 25+ major networ
 
 ### Key Findings
 
-Strip away the narrative and one number refuses to behave. As of June 19, 2026, the blockchain sector earns roughly **$12.6B per year** in transparent, on-chain income[^s1_4] — yet it runs on an estimated funding base of **$55–66B per year**. The rest is subsidy. The machine looks self-sustaining. It isn't. On a defensible central estimate, **~81–83% of the ecosystem's total value flows are still subsidy-driven**[^s1_4][^s1_5]. The October 2025 report put that ratio at 85–90% against a $86–113B base; eight months of price compression — BTC at $62,560, ETH at $1,694, SOL at $68 — deflated the absolute dollars while the structural ratio merely slid into the low-80s. The dependency is intact. Only the denomination changed.
+Strip away the narrative and one number refuses to behave. As of June 19, 2026, the blockchain sector earns roughly **$12.6B per year** in transparent, on-chain income[^s1_4] — yet it runs on an estimated funding base of **$55–66B per year**. The rest is subsidy. The machine looks self-sustaining. It isn't. On a defensible central estimate, **~81–83% of the ecosystem's total value flows are still subsidy-driven**[^s1_4] [^s1_5]. The October 2025 report put that ratio at 85–90% against a $86–113B base; eight months of price compression — BTC at $62,560, ETH at $1,694, SOL at $68 — deflated the absolute dollars while the structural ratio merely slid into the low-80s. The dependency is intact. Only the denomination changed.
 
 **Core on-chain revenues (transparent, API-verifiable):**
 - Blockchain base-layer fees (BTC + ETH L1 + SOL): ~$355M/yr — BTC $78.6M, ETH L1 $137.9M, SOL $138.8M[^s1_6] 🔷 HARD DATA
@@ -48,11 +48,11 @@ Strip away the narrative and one number refuses to behave. As of June 19, 2026, 
 - Bitcoin mining issuance: ~$10.3B/yr — 3.125 BTC × 144 blocks × 365 days × $62,560 = the single largest line item in the entire industry, by a wide margin[^s1_7] 🔷 HARD DATA (issuance schedule + live price)
 - Ethereum staking issuance: ~$1.86B/yr (~1.1M ETH/yr run-rate, derived from Etherscan cumulative staking)[^s1_8] 🔷 HARD DATA (on-chain cumulative)
 - Solana staking inflation: ~$1.5B/yr (3.795% disinflationary rate × ~580M circulating SOL)[^s1_9]
-- Venture-capital deployment: ~$16–27B/yr — see range note below[^s1_10][^s1_11]
+- Venture-capital deployment: ~$16–27B/yr — see range note below[^s1_10] [^s1_11]
 - Token unlocks (VC/team vesting): ~$20–25B/yr (expert estimate; no verified public annual aggregate exists)[^s1_12]
 - **Total subsidy base: ~$55–66B annually** (estimate — the spread is driven almost entirely by which VC source you trust)
 
-A note on the spread, because it is the whole game. Bitcoin, Ethereum and Solana issuance together total a clean **~$13.7B/yr** of hard-data inflation[^s1_7][^s1_8][^s1_9]. The two soft inputs — VC and token unlocks — are where the uncertainty lives. The institutional-standard Galaxy Digital tally puts 2026 crypto VC on a **~$16B annualized run-rate** (Q1 2026 was $4.0B across 355 deals, down ~50% QoQ)[^s1_10]; broader trackers that bundle M&A and later-stage rounds reach **~$27B**[^s1_11]. Pair Galaxy's $16B with $20–25B of unlocks and the subsidy base lands near **$50–55B (~80–81% subsidy-driven)**; use the higher VC tracker and it stretches to **$61–66B (~83–84%)**. We lead with the Galaxy-anchored central case: **~$55–60B of subsidy, ~81–83% of all flows**. Either way, the conclusion is the same — for every real dollar of user revenue, roughly four to five dollars of hidden economy moves alongside it. The following numbers would make Milton Friedman faint: an industry that mints, vests, and venture-funds its way to the appearance of viability, while organic income covers barely a fifth of the bill.
+A note on the spread, because it is the whole game. Bitcoin, Ethereum and Solana issuance together total a clean **~$13.7B/yr** of hard-data inflation[^s1_7] [^s1_8] [^s1_9]. The two soft inputs — VC and token unlocks — are where the uncertainty lives. The institutional-standard Galaxy Digital tally puts 2026 crypto VC on a **~$16B annualized run-rate** (Q1 2026 was $4.0B across 355 deals, down ~50% QoQ)[^s1_10]; broader trackers that bundle M&A and later-stage rounds reach **~$27B**[^s1_11]. Pair Galaxy's $16B with $20–25B of unlocks and the subsidy base lands near **$50–55B (~80–81% subsidy-driven)**; use the higher VC tracker and it stretches to **$61–66B (~83–84%)**. We lead with the Galaxy-anchored central case: **~$55–60B of subsidy, ~81–83% of all flows**. Either way, the conclusion is the same — for every real dollar of user revenue, roughly four to five dollars of hidden economy moves alongside it. The following numbers would make Milton Friedman faint: an industry that mints, vests, and venture-funds its way to the appearance of viability, while organic income covers barely a fifth of the bill.
 
 When the multiplier is written per dollar of genuine user revenue, the picture sharpens: **$1.00 retained by protocols, validators and miners triggers ~$5–6 of simultaneous subsidy** — issuance, vesting, and venture capital — none of which a user ever sees on a fee receipt[^s1_5]. BNB's ~$4B/yr quarterly auto-burn is deliberately *excluded* from this total: it removes supply rather than subsidizing activity, and counting it as a subsidy would flatter the deflationary case it actually represents[^s1_13].
 
@@ -68,9 +68,9 @@ Yet even these exceptions face material long-term risks: large scheduled team an
 
 ### The Sustainability Gap
 
-- **Bitcoin** spends ~$10.3B/yr in block-subsidy issuance to secure roughly **$78.6M** in actual annual user fees — a security-subsidy ratio of about **130:1**[^s1_6][^s1_7]. As the price compressed, the fee base thinned faster than the subsidy, leaving Bitcoin's long-run fee-only security question more exposed, not less.
-- **Ethereum** has flipped firmly back to net inflationary (~+0.8%) as L2s — Base foremost — absorbed mainnet activity. The EIP-1559 burn has collapsed to a negligible ~$28M/yr pace against ~$1.86B/yr of staking issuance[^s1_8][^s1_17].
-- **Solana** depends on ~$1.5B/yr of inflation against ~$139M/yr in network fees — issuance still dwarfs organic fees by roughly an order of magnitude[^s1_6][^s1_9].
+- **Bitcoin** spends ~$10.3B/yr in block-subsidy issuance to secure roughly **$78.6M** in actual annual user fees — a security-subsidy ratio of about **130:1**[^s1_6] [^s1_7]. As the price compressed, the fee base thinned faster than the subsidy, leaving Bitcoin's long-run fee-only security question more exposed, not less.
+- **Ethereum** has flipped firmly back to net inflationary (~+0.8%) as L2s — Base foremost — absorbed mainnet activity. The EIP-1559 burn has collapsed to a negligible ~$28M/yr pace against ~$1.86B/yr of staking issuance[^s1_8] [^s1_17].
+- **Solana** depends on ~$1.5B/yr of inflation against ~$139M/yr in network fees — issuance still dwarfs organic fees by roughly an order of magnitude[^s1_6] [^s1_9].
 
 Most networks are expected to continue relying on elaborate, highly inflationary token-redistribution mechanisms, with user fees representing at best 5–15% of total economic flows even for major established networks.
 
@@ -205,7 +205,7 @@ The seven networks below settle the overwhelming majority of public-blockchain v
 
 ### Ethereum: The Ultrasound Money Thesis, in Abeyance
 
-Ethereum's deflation story hit a wall. ETH trades at **$1,694** as of 19 June 2026[^s3_eth1], down roughly **66% from its $4,946 August 2025 all-time high**[^s3_eth1] — the single largest price move in this refresh. With activity at multi-year lows, the network is back to **+0.86% net annual inflation**: EIP-1559 burns only ~70,000 ETH a year while staking issues ~1.1M ETH[^s3_eth9][^s3_eth10]. The "ultrasound money" meme requires mainnet demand to push burn above issuance. It isn't even close.
+Ethereum's deflation story hit a wall. ETH trades at **$1,694** as of 19 June 2026[^s3_eth1], down roughly **66% from its $4,946 August 2025 all-time high**[^s3_eth1] — the single largest price move in this refresh. With activity at multi-year lows, the network is back to **+0.86% net annual inflation**: EIP-1559 burns only ~70,000 ETH a year while staking issues ~1.1M ETH[^s3_eth9] [^s3_eth10]. The "ultrasound money" meme requires mainnet demand to push burn above issuance. It isn't even close.
 
 The Fusaka upgrade (5 December 2025) introduced EIP-7918's minimum blob-fee floor[^s3_eth11], but at current L2 volumes the burn impact is marginal. A simple transfer now costs **under $0.003** at sub-0.1 Gwei gas[^s3_eth3]. The chain collected **$303.6M in user fees over the trailing twelve months**[^s3_eth4] 🔷 HARD DATA — and against that, paid out roughly **$1.87B in staking rewards**[^s3_eth9]. DeFi TVL on Ethereum has fallen to **$38.4B**[^s3_eth5], tracking both the price decline and continued migration to L2s, which now handle ~95% of throughput[^s3_eth16].
 
@@ -216,7 +216,7 @@ The Fusaka upgrade (5 December 2025) introduced EIP-7918's minimum blob-fee floo
 > - **$0.15** — validators, as the priority-fee tip[^s3_eth17]
 >
 > **Ecosystem / Subsidy Funding**
-> - **+$6.16** — staking-issuance subsidy ($1.87B annual issuance ÷ $303.6M annual fees = 6.2x)[^s3_eth9][^s3_eth4]. Token inflation paid to stakers, diluting everyone who doesn't stake.
+> - **+$6.16** — staking-issuance subsidy ($1.87B annual issuance ÷ $303.6M annual fees = 6.2x)[^s3_eth9] [^s3_eth4]. Token inflation paid to stakers, diluting everyone who doesn't stake.
 >
 > **Infrastructure / Hidden Extraction**
 > - **+$1.81** — MEV extracted by searchers and bots (estimate: ~$550M/yr ÷ $303.6M fees)[^s3_eth13]. A cost borne by traders and LPs that never shows up in a gas-fee statistic.
@@ -232,9 +232,9 @@ The arithmetic deserves a footnote of its own. An earlier draft of this analysis
 
 ### Bitcoin: The Numbers That Would Make Milton Friedman Faint
 
-Bitcoin spends an estimated **$10.28B a year in freshly printed BTC** to secure a network that earns roughly **$68.7M in actual user fees**[^s3_btc1][^s3_btc2]. That is a **~150:1 subsidy-to-fee ratio** — and it is getting *worse*, not better, as price retreats. BTC trades at **$62,565**, down ~50% from its $126,080 October 2025 ATH[^s3_btc1].
+Bitcoin spends an estimated **$10.28B a year in freshly printed BTC** to secure a network that earns roughly **$68.7M in actual user fees**[^s3_btc1] [^s3_btc2]. That is a **~150:1 subsidy-to-fee ratio** — and it is getting *worse*, not better, as price retreats. BTC trades at **$62,565**, down ~50% from its $126,080 October 2025 ATH[^s3_btc1].
 
-The mechanics are brutally simple. Each block pays 3.125 BTC in subsidy and a few hundredths of a BTC in fees: 144 blocks a day × 3.125 BTC × $62,565 = **$28.15M/day in new issuance**, against ~$188K/day in fees[^s3_btc2]. Fees are **0.66% of miner revenue**[^s3_btc2][^s3_btc7]. Hashrate hit ~1.05 ZH/s in January 2026 before retreating to **936 EH/s** by June — the first first-quarter hashrate decline since 2020, as miners pivot rigs to AI compute (Cipher's 15-year, ~$5.5B AWS deal being the headline)[^s3_btc3][^s3_btc8][^s3_btc13]. With fleet-average production cost estimated near **$90,000/BTC** against a $62,565 spot, large swaths of the network are mining at a loss[^s3_btc8].
+The mechanics are brutally simple. Each block pays 3.125 BTC in subsidy and a few hundredths of a BTC in fees: 144 blocks a day × 3.125 BTC × $62,565 = **$28.15M/day in new issuance**, against ~$188K/day in fees[^s3_btc2]. Fees are **0.66% of miner revenue**[^s3_btc2] [^s3_btc7]. Hashrate hit ~1.05 ZH/s in January 2026 before retreating to **936 EH/s** by June — the first first-quarter hashrate decline since 2020, as miners pivot rigs to AI compute (Cipher's 15-year, ~$5.5B AWS deal being the headline)[^s3_btc3] [^s3_btc8] [^s3_btc13]. With fleet-average production cost estimated near **$90,000/BTC** against a $62,565 spot, large swaths of the network are mining at a loss[^s3_btc8].
 
 > **When a user pays $1.00 in Bitcoin transaction fees:**
 >
@@ -258,9 +258,9 @@ Bitcoin is the purest expression of the report's thesis. There are no token unlo
 
 ### Solana: Strip Out the Meme Mania, and the Subsidy Remains
 
-Solana's inflation machine printed **~$1.63B in validator subsidies** over the past year against **$305.5M in actual user fees**[^s3_sol2][^s3_sol4] — a **5.3x hidden subsidy ratio**. SOL trades at **$68.27**, down **46% since the October 2025 report**[^s3_sol1]. The memecoin frenzy that made Solana's DEX volume look like it was challenging Ethereum has evaporated — monthly DEX volume crashed from a **$145B October 2025 peak to ~$42B by April 2026**[^s3_sol15] — and what's left underneath is a structurally subsidy-dependent network.
+Solana's inflation machine printed **~$1.63B in validator subsidies** over the past year against **$305.5M in actual user fees**[^s3_sol2] [^s3_sol4] — a **5.3x hidden subsidy ratio**. SOL trades at **$68.27**, down **46% since the October 2025 report**[^s3_sol1]. The memecoin frenzy that made Solana's DEX volume look like it was challenging Ethereum has evaporated — monthly DEX volume crashed from a **$145B October 2025 peak to ~$42B by April 2026**[^s3_sol15] — and what's left underneath is a structurally subsidy-dependent network.
 
-Inflation sits at **3.788%** on the unchanged 15%/year disinflation schedule; SIMD-0411, which would have doubled the disinflation rate, was **withdrawn without a vote** in early 2026[^s3_sol2][^s3_sol10]. With **67.7% of supply staked**[^s3_sol2], that prints ~23.8M SOL/year. On top of issuance, **Jito MEV tips ran $297M over the trailing year**[^s3_sol5] — a near-1:1 match with organic fees, and a vivid measure of how much value extraction rides alongside every transaction.
+Inflation sits at **3.788%** on the unchanged 15%/year disinflation schedule; SIMD-0411, which would have doubled the disinflation rate, was **withdrawn without a vote** in early 2026[^s3_sol2] [^s3_sol10]. With **67.7% of supply staked**[^s3_sol2], that prints ~23.8M SOL/year. On top of issuance, **Jito MEV tips ran $297M over the trailing year**[^s3_sol5] — a near-1:1 match with organic fees, and a vivid measure of how much value extraction rides alongside every transaction.
 
 > **When a user pays $1.00 in Solana network fees:**
 >
@@ -287,7 +287,7 @@ The structural story held even as the dollars collapsed. The Alpenglow consensus
 
 BNB Chain collects **~$214.7M in trailing-twelve-month user fees**[^s3_bnb3] and destroys **$3.4–4.7B a year in corporate auto-burns**[^s3_bnb6]. The machine is running roughly **22x what users actually pay for it** — and unlike issuance-funded chains, this subsidy is *deflationary corporate capital*, not inflation. BNB trades at **$574**, down 34% from its $1,370 October 2025 ATH[^s3_bnb1].
 
-The Fermi hard fork (14 January 2026) cut block time to **0.45 seconds**[^s3_bnb7], making BSC the fastest EVM L1 by block interval. Three quarterly burns frame the subsidy: the 33rd (Oct 2025, ~$1.24B), 34th (Jan 2026, ~$1.27B), and 35th (Apr 2026, ~$1.0B)[^s3_bnb5][^s3_bnb6]. Annualizing the recent cadence at burn-time prices yields **~$4.69B/year**; at the current $574 price it's ~$3.35B. Either way it towers over the $214.7M fee base. On the demand side, BSC's RWA tokenization jumped **60% QoQ to $3.6B** in Q1 2026 and stablecoin supply hit **$17.9B**[^s3_bnb10], repositioning the chain as an institutional settlement rail.
+The Fermi hard fork (14 January 2026) cut block time to **0.45 seconds**[^s3_bnb7], making BSC the fastest EVM L1 by block interval. Three quarterly burns frame the subsidy: the 33rd (Oct 2025, ~$1.24B), 34th (Jan 2026, ~$1.27B), and 35th (Apr 2026, ~$1.0B)[^s3_bnb5] [^s3_bnb6]. Annualizing the recent cadence at burn-time prices yields **~$4.69B/year**; at the current $574 price it's ~$3.35B. Either way it towers over the $214.7M fee base. On the demand side, BSC's RWA tokenization jumped **60% QoQ to $3.6B** in Q1 2026 and stablecoin supply hit **$17.9B**[^s3_bnb10], repositioning the chain as an institutional settlement rail.
 
 > **When a user pays $1.00 in BSC gas fees:**
 >
@@ -311,7 +311,7 @@ The Fermi hard fork (14 January 2026) cut block time to **0.45 seconds**[^s3_bnb
 
 ### Cardano: The Treasury That Runs on Invisible Money
 
-Cardano is the starkest subsidy case among smart-contract chains in this report. It collected just **$1.84M in user fees over the trailing twelve months**[^s3_ada2]. The Ouroboros inflation engine simultaneously distributed an estimated **$244M in new ADA** to stake-pool operators and the on-chain treasury[^s3_ada3][^s3_ada-iss] — a **~132x subsidy ratio**. ADA trades at **$0.159**, down **73.6% year-on-year** and 94.8% below its 2021 ATH[^s3_ada1].
+Cardano is the starkest subsidy case among smart-contract chains in this report. It collected just **$1.84M in user fees over the trailing twelve months**[^s3_ada2]. The Ouroboros inflation engine simultaneously distributed an estimated **$244M in new ADA** to stake-pool operators and the on-chain treasury[^s3_ada3] [^s3_ada-iss] — a **~132x subsidy ratio**. ADA trades at **$0.159**, down **73.6% year-on-year** and 94.8% below its 2021 ATH[^s3_ada1].
 
 The issuance is funded entirely from the unminted reserve pool (rho ≈ 0.003/epoch on ~7.79B ADA of remaining reserves), split **80% to validators / 20% to the on-chain treasury**[^s3_ada3]. Native DeFi TVL has fallen to **$90.6M**[^s3_ada2], with Minswap the largest protocol at $23.6M[^s3_ada13]. At current fee rates it would take **143 years of user fees to match a single year of inflationary issuance**.
 
@@ -325,7 +325,7 @@ The issuance is funded entirely from the unminted reserve pool (rho ≈ 0.003/ep
 > - **+~$26** — concurrent inflation to the on-chain treasury (20% share)[^s3_ada-flow]
 >
 > **Infrastructure / Hidden Extraction**
-> - **$0** — no MEV layer of consequence, no burns; the entire developer-and-ecosystem apparatus (Project Catalyst Fund 15 at ~$2.9M, Leios at ~$4.4M) is inflation-funded, not fee-funded[^s3_ada10][^s3_ada5].
+> - **$0** — no MEV layer of consequence, no burns; the entire developer-and-ecosystem apparatus (Project Catalyst Fund 15 at ~$2.9M, Leios at ~$4.4M) is inflation-funded, not fee-funded[^s3_ada10] [^s3_ada5].
 >
 > **Total Ecosystem Value Flow: ~$133 per $1 of user fees — ~99% inflation-funded.**
 
@@ -340,7 +340,7 @@ What's quietly notable is the governance. IOG's 2026 treasury ask was **$46.8M �
 
 Avalanche burns **100% of its fees** — and that fact is economically misleading. The chain burned roughly **$1.2M in fees over the past year** (30-day run-rate basis; DefiLlama's trailing-12-month figure is $6.48M)[^s3_avax3], while issuing an estimated **$77M/year in new AVAX to validators**[^s3_avax5]. For every $1 a user burns, validators receive about **$64 in fresh inflation**. AVAX trades at **$5.98**, at five-year lows and down ~52% since January 2026[^s3_avax1].
 
-The "institutional honeymoon" turned into a reality check. Avalanche Treasury Co. (AVAT) listed on Nasdaq on 11 June 2026 via a $675M SPAC — and **fell 16% on debut** as the market confronted the gap between merger valuation and the ~$90M in AVAX actually held[^s3_avax7]. Three spot AVAX ETFs (VanEck, Bitwise, Grayscale) launched and CME added futures[^s3_avax8][^s3_avax9], but the most credible demand driver was RWA: BlackRock BUIDL helped push tokenized assets to a record **$1.16B** in May 2026[^s3_avax10].
+The "institutional honeymoon" turned into a reality check. Avalanche Treasury Co. (AVAT) listed on Nasdaq on 11 June 2026 via a $675M SPAC — and **fell 16% on debut** as the market confronted the gap between merger valuation and the ~$90M in AVAX actually held[^s3_avax7]. Three spot AVAX ETFs (VanEck, Bitwise, Grayscale) launched and CME added futures[^s3_avax8] [^s3_avax9], but the most credible demand driver was RWA: BlackRock BUIDL helped push tokenized assets to a record **$1.16B** in May 2026[^s3_avax10].
 
 > **When a user pays $1.00 in Avalanche fees (all burned):**
 >
@@ -367,9 +367,9 @@ At ~$1.2M/year, Avalanche's *entire* annual fee burn is dwarfed by a single mid-
 
 And then there's the exception. Hyperliquid runs a **$984M annualized fee run-rate**[^s3_hype2] — among the top three revenue-generating chains on earth — and recycles **~97% of it into HYPE buybacks** via the Assistance Fund[^s3_hype5]. This is the one network in the section where users genuinely pay for what they get. HYPE trades at **$73.24**, having hit a fresh **$76.70 ATH on 16 June 2026**, up ~194% from January[^s3_hype1].
 
-The fee engine is real: $82M in 30-day fees[^s3_hype2], $1.37B all-time, a $9.6B open interest, and ~40–44% of on-chain DEX-perp volume[^s3_hype2][^s3_hype7]. The Assistance Fund has accumulated **~44.4M HYPE (~$2.2B)**[^s3_hype-af] and cumulative buybacks have crossed $1.5B[^s3_hype-bb]. The AQA v2 governance vote layered a second buyback stream — 90% of the yield on ~$6.2B of on-platform USDC, an estimated $135–160M/year from October 2026[^s3_hype9].
+The fee engine is real: $82M in 30-day fees[^s3_hype2], $1.37B all-time, a $9.6B open interest, and ~40–44% of on-chain DEX-perp volume[^s3_hype2] [^s3_hype7]. The Assistance Fund has accumulated **~44.4M HYPE (~$2.2B)**[^s3_hype-af] and cumulative buybacks have crossed $1.5B[^s3_hype-bb]. The AQA v2 governance vote layered a second buyback stream — 90% of the yield on ~$6.2B of on-platform USDC, an estimated $135–160M/year from October 2026[^s3_hype9].
 
-But Hyperliquid's hidden economy isn't issuance or VC — it's a **team-unlock overhang**. Since the November 2025 cliff, **9.92M HYPE unlocks on the 6th of every month** through ~November 2027; the 6 June 2026 tranche released **~$727M in notional**[^s3_hype12][^s3_hype-unlock]. Against ~$82M in monthly fees, the buyback fund absorbs only **~12.6% of what the unlock schedule releases each month**[^s3_hype-cover].
+But Hyperliquid's hidden economy isn't issuance or VC — it's a **team-unlock overhang**. Since the November 2025 cliff, **9.92M HYPE unlocks on the 6th of every month** through ~November 2027; the 6 June 2026 tranche released **~$727M in notional**[^s3_hype12] [^s3_hype-unlock]. Against ~$82M in monthly fees, the buyback fund absorbs only **~12.6% of what the unlock schedule releases each month**[^s3_hype-cover].
 
 > **When a user pays $1.00 in Hyperliquid trading fees:**
 >
@@ -383,7 +383,7 @@ But Hyperliquid's hidden economy isn't issuance or VC — it's a **team-unlock o
 > - **+~$0.15** — AQA v2 USDC reserve-yield subsidy (effectively an interest-rate transfer from Circle/Coinbase)[^s3_hype9]
 >
 > **Infrastructure / Hidden Extraction**
-> - A **$6.0B HyperEVM ecosystem** of 175+ dApps and a ~$2.2B mark-to-market Assistance Fund treasury amplify every price move into billions of latent economic impact[^s3_hype4][^s3_hype-af].
+> - A **$6.0B HyperEVM ecosystem** of 175+ dApps and a ~$2.2B mark-to-market Assistance Fund treasury amplify every price move into billions of latent economic impact[^s3_hype4] [^s3_hype-af].
 >
 > **Total Ecosystem Value Flow: ~$10–11 per $1 of user fees — but inverted: the protocol is structurally profitable; the overhang is the risk, not the revenue.**
 
@@ -515,16 +515,16 @@ A note on the macro: the crypto market that these L2s settle into has compressed
 
 ![Base payment flow](charts_2026-06-19/base.png)
 
-Base is the outlier that proves the rule: it is the only major L2 that behaves like a profitable business, because a $60B public company runs the sequencer and keeps the change. Base collected **$77.5M in sequencer fees in full-year 2025** — down ~13% from 2024's $88.9M as trading volumes softened, but still enough to make Base the #1 L2 by fees with an estimated 62% of all L2 fee revenue.[^s4_2][^s4_3] Over the trailing 30 days it booked **$5.17M in fees** against just **$9,121 in L1 blob costs** — a settlement bill equal to 0.18% of revenue after Pectra expanded blob capacity.[^s4_2][^s4_4] TVL sits at **$4.14B**, off the $4.4B January 2026 peak but still the largest L2 by a wide margin.[^s4_5]
+Base is the outlier that proves the rule: it is the only major L2 that behaves like a profitable business, because a $60B public company runs the sequencer and keeps the change. Base collected **$77.5M in sequencer fees in full-year 2025** — down ~13% from 2024's $88.9M as trading volumes softened, but still enough to make Base the #1 L2 by fees with an estimated 62% of all L2 fee revenue.[^s4_2] [^s4_3] Over the trailing 30 days it booked **$5.17M in fees** against just **$9,121 in L1 blob costs** — a settlement bill equal to 0.18% of revenue after Pectra expanded blob capacity.[^s4_2] [^s4_4] TVL sits at **$4.14B**, off the $4.4B January 2026 peak but still the largest L2 by a wide margin.[^s4_5]
 
-The structural event of 2026 was the divorce. In **February 2026 Base announced it was leaving the OP Stack**, ending the revenue-share arrangement that fed the Optimism Collective.[^s4_6] Over the 2.5-year partnership Base had paid Optimism **8,387 ETH (~$16.4M)** — roughly 41% of the Collective's lifetime revenue and over 90% of its monthly revenue right before the exit.[^s4_7][^s4_8] Post-divorce, Coinbase keeps essentially everything.
+The structural event of 2026 was the divorce. In **February 2026 Base announced it was leaving the OP Stack**, ending the revenue-share arrangement that fed the Optimism Collective.[^s4_6] Over the 2.5-year partnership Base had paid Optimism **8,387 ETH (~$16.4M)** — roughly 41% of the Collective's lifetime revenue and over 90% of its monthly revenue right before the exit.[^s4_7] [^s4_8] Post-divorce, Coinbase keeps essentially everything.
 
 **When a user pays $1 in Base sequencer fees (post-OP departure):**
 - **$0.998 → Coinbase sequencer profit.** Near-total capture by the corporate parent. No more Optimism cut since February 2026.[^s4_6]
 - **$0.002 → Ethereum L1 blob fees.** ETH burned for data availability, collapsed to near-zero post-Pectra (the pre-Pectra rate was ~5%).[^s4_4]
 - **$0.00 → Optimism Collective.** Was 14.3 cents under the old deal; now zero.[^s4_7]
 
-**The hidden multiple: ~$5–7 per $1 of sequencer fee.** This is the rare case where the multiple isn't a subsidy indictment — it's app-layer economics. Apps on Base generated an estimated **$369.9M in 2025 revenue** (Aerodrome alone ~$160.5M) against $77.5M in sequencer fees, a 4.8x ratio of protocol economy to toll.[^s4_9] Layer on undisclosed sequencer MEV (Flashblocks gives Coinbase 200ms blocks) and Coinbase's USDC/stablecoin float income (~$305M in Q1 2026, much of it Base-driven), and the visible sequencer fee is roughly the top 15–20% of what actually moves.[^s4_10][^s4_11] One caveat that cuts the other way: a native **BASE token has not launched** — exploration was announced in September 2025, and Polymarket assigns 69% odds to a launch before end-2026.[^s4_12][^s4_13] If it ships, the subsidy column appears.
+**The hidden multiple: ~$5–7 per $1 of sequencer fee.** This is the rare case where the multiple isn't a subsidy indictment — it's app-layer economics. Apps on Base generated an estimated **$369.9M in 2025 revenue** (Aerodrome alone ~$160.5M) against $77.5M in sequencer fees, a 4.8x ratio of protocol economy to toll.[^s4_9] Layer on undisclosed sequencer MEV (Flashblocks gives Coinbase 200ms blocks) and Coinbase's USDC/stablecoin float income (~$305M in Q1 2026, much of it Base-driven), and the visible sequencer fee is roughly the top 15–20% of what actually moves.[^s4_10] [^s4_11] One caveat that cuts the other way: a native **BASE token has not launched** — exploration was announced in September 2025, and Polymarket assigns 69% odds to a launch before end-2026.[^s4_12] [^s4_13] If it ships, the subsidy column appears.
 
 ---
 
@@ -532,7 +532,7 @@ The structural event of 2026 was the divorce. In **February 2026 Base announced 
 
 ![Arbitrum payment flow](charts_2026-06-19/arbitrum.png)
 
-Arbitrum is the anti-Base: nobody pockets the margin, because there is barely a margin to pocket. The sequencer runs at a break-even mandate, with all surplus routed to the Arbitrum DAO treasury.[^s4_14] The problem is the surplus has nearly vanished. Trailing 30-day fees are **$411,072** — annualising to under $5M — while the **Arbitrum Foundation just asked its own DAO for $43.5M** in a single funding request, roughly **2.3x the entire $23.49M gross revenue of 2025**.[^s4_15][^s4_16] The chain that secures ~$15.6B in value (the #1 L2 by total value secured) cannot pay its own staff out of its own fees.[^s4_17]
+Arbitrum is the anti-Base: nobody pockets the margin, because there is barely a margin to pocket. The sequencer runs at a break-even mandate, with all surplus routed to the Arbitrum DAO treasury.[^s4_14] The problem is the surplus has nearly vanished. Trailing 30-day fees are **$411,072** — annualising to under $5M — while the **Arbitrum Foundation just asked its own DAO for $43.5M** in a single funding request, roughly **2.3x the entire $23.49M gross revenue of 2025**.[^s4_15] [^s4_16] The chain that secures ~$15.6B in value (the #1 L2 by total value secured) cannot pay its own staff out of its own fees.[^s4_17]
 
 The token tells the rest. **ARB trades at $0.0836**, down 96.5% from its $2.39 ATH and down 27% in 30 days, with a $527M market cap.[^s4_18] The DAO treasury is **93% ARB** — a position now worth ~$224M, down from $651M in January 2026 — meaning the treasury's value collapses in lockstep with the token it's supposed to fund operations with.[^s4_19] Meanwhile ARB unlocks continue at roughly 92.65M tokens/month, ~$7.6M of monthly potential selling pressure at current prices, outpacing monthly fee revenue by roughly 17x; the next DAO tranche unlocks 16 July 2026.[^s4_20]
 
@@ -543,7 +543,7 @@ The token tells the rest. **ARB trades at $0.0836**, down 96.5% from its $2.39 A
 
 On top of base fees sits **Timeboost**, the express-lane priority auction launched April 2025: **$7.5M cumulative**, annualising ~$5.94M, ~25% of total DAO revenue — though its 30-day take has compressed to $155K as the novelty premium fades.[^s4_22]
 
-**The hidden multiple: ~$8–12 per $1 of fees.** Dividing annualised ARB issuance value (~$91M/year of unlocks at current prices), the ~$20M+ structural DAO deficit, and VC-funded Offchain Labs opex (the company raised $120M+ in 2021–22 to run the sequencer at zero margin) by ~$4.9M of annualised fee revenue yields a chain where roughly nine to twelve dollars of subsidy and issuance move for every dollar a user actually pays.[^s4_20][^s4_23] Arbitrum is a venture- and issuance-funded public good, not a self-sustaining business.
+**The hidden multiple: ~$8–12 per $1 of fees.** Dividing annualised ARB issuance value (~$91M/year of unlocks at current prices), the ~$20M+ structural DAO deficit, and VC-funded Offchain Labs opex (the company raised $120M+ in 2021–22 to run the sequencer at zero margin) by ~$4.9M of annualised fee revenue yields a chain where roughly nine to twelve dollars of subsidy and issuance move for every dollar a user actually pays.[^s4_20] [^s4_23] Arbitrum is a venture- and issuance-funded public good, not a self-sustaining business.
 
 ---
 
@@ -575,7 +575,7 @@ Matter Labs has effectively pivoted away from the public chain: it announced a s
 - **$0.30 → Ethereum L1 data + proof costs.** Blob data availability plus proof verification, amortised across the batch (estimate; varies with congestion).[^s4_39]
 - **$0.70 → Matter Labs sequencer profit.** Retained by the still-fully-centralised sequencer operator. The ZKnomics value-accrual mechanism explicitly excludes Era transaction fees.[^s4_40]
 
-**The hidden multiple: ~$217 per $1 of fees — the most lopsided in this report.** Team (13.55%) and investor (17.19%) allocations total 33.33% of the 21B supply and, post-June-2025 cliff, unlock roughly **286.56M ZK/month — ~$3.16M of monthly insider selling pressure against $14,574 of monthly user fees**, a ~217:1 ratio.[^s4_41][^s4_42] Behind that sit unrealised governance reserves (Token Assembly $67.8M, Ecosystem Initiatives $46.1M) and an estimated ~$450M in VC funding subsidising Matter Labs off-chain.[^s4_43] The fee revenue is economically immaterial; the ZK economy runs on vesting, not users.
+**The hidden multiple: ~$217 per $1 of fees — the most lopsided in this report.** Team (13.55%) and investor (17.19%) allocations total 33.33% of the 21B supply and, post-June-2025 cliff, unlock roughly **286.56M ZK/month — ~$3.16M of monthly insider selling pressure against $14,574 of monthly user fees**, a ~217:1 ratio.[^s4_41] [^s4_42] Behind that sit unrealised governance reserves (Token Assembly $67.8M, Ecosystem Initiatives $46.1M) and an estimated ~$450M in VC funding subsidising Matter Labs off-chain.[^s4_43] The fee revenue is economically immaterial; the ZK economy runs on vesting, not users.
 
 ---
 
@@ -592,13 +592,13 @@ Step back from the four chains and a single structure repeats. **Sequencer fees 
 
 Three patterns hold across all four:
 
-1. **The DA-cost collapse broke the toll model.** Pectra and Fusaka cut L1 settlement to near-zero, which was meant to be the L2's margin. Instead it removed the cost the toll was justifying. Base monetises anyway because Coinbase owns the rail; the others collect fees that no longer cover operations.[^s4_4][^s4_1]
+1. **The DA-cost collapse broke the toll model.** Pectra and Fusaka cut L1 settlement to near-zero, which was meant to be the L2's margin. Instead it removed the cost the toll was justifying. Base monetises anyway because Coinbase owns the rail; the others collect fees that no longer cover operations.[^s4_4] [^s4_1]
 
-2. **Token issuance, not user fees, funds the chain.** Arbitrum's DAO requested 2.3x its annual revenue; Optimism prints 4.6x its fees in annual inflation; zkSync unlocks 217x its fees to insiders every month. In every case the visible user fee is a fraction of the value flowing to token holders and future unlock recipients.[^s4_16][^s4_30][^s4_41]
+2. **Token issuance, not user fees, funds the chain.** Arbitrum's DAO requested 2.3x its annual revenue; Optimism prints 4.6x its fees in annual inflation; zkSync unlocks 217x its fees to insiders every month. In every case the visible user fee is a fraction of the value flowing to token holders and future unlock recipients.[^s4_16] [^s4_30] [^s4_41]
 
 3. **Ownership decides who captures the dollar.** A corporate sequencer (Base) keeps 99.8 cents; a break-even/public-goods model (Arbitrum, Optimism) keeps ~0 and routes everything to a treasury or the Collective; a centralised-but-tokenised model (zkSync) splits with L1 and lets insiders extract via vesting. Same toll, radically different beneficiaries.
 
-**The limitations of this framing are real and worth stating.** "Total value secured" is not revenue — Arbitrum's $15.6B TVS and Base's $4.1B TVL represent user capital, not income, and an L2 captures only the thin fee layer on top.[^s4_17][^s4_5] The hidden multiples mix categories that are not equivalent: app-layer revenue (Base) is a healthy sign of economic activity, whereas insider unlock pressure (zkSync) is a one-way wealth transfer, even though both inflate the "$X per $1" headline. And MEV, stablecoin float, and private corporate cross-sells are undisclosed estimates, not hard data — flagged as such throughout. The multiples are directional indictments, not audited income statements.
+**The limitations of this framing are real and worth stating.** "Total value secured" is not revenue — Arbitrum's $15.6B TVS and Base's $4.1B TVL represent user capital, not income, and an L2 captures only the thin fee layer on top.[^s4_17] [^s4_5] The hidden multiples mix categories that are not equivalent: app-layer revenue (Base) is a healthy sign of economic activity, whereas insider unlock pressure (zkSync) is a one-way wealth transfer, even though both inflate the "$X per $1" headline. And MEV, stablecoin float, and private corporate cross-sells are undisclosed estimates, not hard data — flagged as such throughout. The multiples are directional indictments, not audited income statements.
 
 **The L2 sustainability crisis, plainly.** Outside of the one chain with a corporate balance sheet behind it, no major L2 in this report earns enough to fund itself. The standard rollup pitch — cheap fees today, fee revenue scales with adoption tomorrow — has collided with two facts: adoption did not produce proportional fee revenue (Optimism's fees *fell* as the Superchain grew), and the DA-cost collapse means the per-transaction take keeps falling even when usage holds. What fills the gap is inflation (Optimism), treasury drawdowns funded by a token-heavy reserve that deflates with the token (Arbitrum), insider vesting (zkSync), or a corporate parent (Base). Three of those four are running down a finite resource. The rollup economy, stripped of narrative, is a set of public goods waiting to discover whether anyone will pay for them once the subsidy runs out — and on current numbers, the subsidy is winning by two-to-three orders of magnitude.
 
@@ -672,7 +672,7 @@ So how does the oracle business actually pay for itself? It doesn't, on transpar
 
 The most important fact about oracle economics is that the biggest contracts are invisible. Chainlink's disclosed enterprise and institutional clients include **Swift, DTCC, Fidelity, UBS, and the US Department of Commerce** (which publishes six macroeconomic indicators across ten blockchains via Chainlink)[^s5_7]. None of these deals have a public price. Our **estimate of ~$150M/yr in enterprise contract revenue is exactly that — an estimate**, inferred from disclosed client names and institutional pricing norms, not hard data[^s5_8]. It could be materially higher or lower. The honest position is that the single largest revenue line in the oracle sector cannot be verified by anyone outside the contracting parties.
 
-Stacking the pieces gives a rough Chainlink revenue picture: ~$72.5M on-chain fees (hard) + ~$33M annualized SVR run-rate (Q1 2026 × 4) + ~$150M estimated enterprise (soft) ≈ **$256M/yr total — against ~$561M/yr in token unlocks, a 2.6x subsidy ratio**[^s5_4][^s5_9].
+Stacking the pieces gives a rough Chainlink revenue picture: ~$72.5M on-chain fees (hard) + ~$33M annualized SVR run-rate (Q1 2026 × 4) + ~$150M estimated enterprise (soft) ≈ **$256M/yr total — against ~$561M/yr in token unlocks, a 2.6x subsidy ratio**[^s5_4] [^s5_9].
 
 #### The one bright spot: MEV recapture (SVR)
 
@@ -703,7 +703,7 @@ The prior (October 2025) report pegged global MEV at **$8–15B/year**. Live dat
 
 **On Ethereum, validators collected $241.6M via MEV-Boost over the trailing twelve months[^s5_22]; on Solana, Jito MEV tips paid validators $165.9M[^s5_23].** 🔷 HARD DATA — both confirmed live via DefiLlama on 19 June 2026. These are the floor: the value that *visibly* reached validators.
 
-Gross MEV — what actually moved through the sandwich, arbitrage, and liquidation machinery before searchers and builders took their cut — has to be *estimated* from searcher-margin assumptions. Keeping the estimate *internally consistent* with the validator-share model (validators retain 65–80% of gross on Ethereum, 70–80% of gross on Solana), the hard $241.6M and $165.9M that reached validators imply **$302–372M/yr gross on Ethereum and $207–237M/yr on Solana, for a combined $509–609M/yr**[^s5_24][^s5_25]. Halved conservatively to avoid double-counting the searcher-to-builder-to-validator flow, the report-quality figure lands near **~$280M/yr**[^s5_26]. We label this **estimate, not hard data** — the only hard numbers here are the $241.6M and $165.9M that reached validators. (The October 2025 report's $8–15B headline bundled BNB, L2s, and speculative projections and is superseded; even a $480–720M Ethereum figure circulated in an earlier draft, but it is not reconcilable with the 65–80% validator share and has been removed.)
+Gross MEV — what actually moved through the sandwich, arbitrage, and liquidation machinery before searchers and builders took their cut — has to be *estimated* from searcher-margin assumptions. Keeping the estimate *internally consistent* with the validator-share model (validators retain 65–80% of gross on Ethereum, 70–80% of gross on Solana), the hard $241.6M and $165.9M that reached validators imply **$302–372M/yr gross on Ethereum and $207–237M/yr on Solana, for a combined $509–609M/yr**[^s5_24] [^s5_25]. Halved conservatively to avoid double-counting the searcher-to-builder-to-validator flow, the report-quality figure lands near **~$280M/yr**[^s5_26]. We label this **estimate, not hard data** — the only hard numbers here are the $241.6M and $165.9M that reached validators. (The October 2025 report's $8–15B headline bundled BNB, L2s, and speculative projections and is superseded; even a $480–720M Ethereum figure circulated in an earlier draft, but it is not reconcilable with the 65–80% validator share and has been removed.)
 
 > MEV is not a line item on the fee market. It is a parallel economy layered silently on top of it. For every $1 validators visibly collect via MEV-Boost, roughly **$1.30–1.40 of gross MEV** moved through the system — searcher profit and builder margin stacked on top of the validator payment[^s5_27].
 
@@ -722,7 +722,7 @@ On Solana's Jito model, **94% of tips flow straight to validators and stakers, w
 MEV isn't dying — it's consolidating and going off-chain:
 
 - **Builder concentration is now extreme.** Titan Builder controls **~50% of Ethereum blocks** as of February 2026, up from 24% in the prior report[^s5_29]. MEV-Boost still routes **~92.75% of all Ethereum blocks**[^s5_30].
-- **SUAVE is dead; BuilderNet is the successor.** Flashbots archived SUAVE in May 2025 and pivoted to BuilderNet, a TEE-based decentralized builder network that reached **25.5% of blocks by January 2026**[^s5_29][^s5_31].
+- **SUAVE is dead; BuilderNet is the successor.** Flashbots archived SUAVE in May 2025 and pivoted to BuilderNet, a TEE-based decentralized builder network that reached **25.5% of blocks by January 2026**[^s5_29] [^s5_31].
 - **Sandwich extraction is collapsing.** Ethereum sandwich-attack take fell from ~$10M/month (late 2024) to **~$2.5M/month by October 2025** as bot competition compressed margins[^s5_32].
 - **The money migrated to CEX-DEX arbitrage.** A 19-month academic study (Aug 2023–Mar 2025) found **$233.8M extracted across 7.2M arbitrages by just 19 searchers** — the top three (Wintermute, SCP, Kayle) taking ~73%[^s5_33]. On Solana, Helius logged **$142.8M in arbitrage profits across 90.4M successful transactions** over a trailing year[^s5_25].
 - **Intent-based protection went mainstream.** CoW Swap hit a **$9B monthly volume** all-time high in July 2025, evidence that users are actively routing around the extraction machine[^s5_34].
@@ -763,7 +763,7 @@ We estimate **$4–$8 of broader ecosystem value is unlocked per $1 of RPC/index
 
 #### The subsidy didn't disappear — it changed form
 
-RPC providers carry **~0% token subsidy** (they're private, on subscription revenue) — but they were heavily **VC-subsidized**: Alchemy ($564M raised) and QuickNode ($106M) together injected roughly **$670M of venture capital** into free and cheap developer access to capture market share[^s5_55][^s5_42]. At $447M ARR, Alchemy is only now approaching VC recovery — after eight years of subsidized growth. The Graph carries the subsidy in tokens; the private providers carried it in venture capital. Either way, the developer who pays $1 today is standing on years of someone else's money.
+RPC providers carry **~0% token subsidy** (they're private, on subscription revenue) — but they were heavily **VC-subsidized**: Alchemy ($564M raised) and QuickNode ($106M) together injected roughly **$670M of venture capital** into free and cheap developer access to capture market share[^s5_55] [^s5_42]. At $447M ARR, Alchemy is only now approaching VC recovery — after eight years of subsidized growth. The Graph carries the subsidy in tokens; the private providers carried it in venture capital. Either way, the developer who pays $1 today is standing on years of someone else's money.
 
 ---
 
@@ -773,9 +773,9 @@ The infrastructure layer is the report's thesis in miniature. Three sub-sectors,
 
 | Sub-sector | Verifiable on-chain income | Hidden / subsidy layer | Subsidy mechanism |
 |---|---|---|---|
-| **Oracles** | ~$72.5M/yr (Chainlink fees) 🔷[^s5_2] | ~$561M/yr token unlocks + ~$150M est. private contracts[^s5_4][^s5_8] | LINK emissions + opaque enterprise deals |
-| **MEV** | $241.6M (ETH) + $165.9M (SOL) to validators 🔷[^s5_22][^s5_23] | ~$509M–$609M gross extraction (est.)[^s5_24] | ~1.3–1.4x off-chain searcher/builder economy |
-| **RPC / Indexing** | The Graph ~$99K/quarter fees[^s5_48] | ~$600–900M private revenue + 78:1 GRT subsidy (est.)[^s5_35][^s5_50] | VC capital (private) + token emissions (The Graph) |
+| **Oracles** | ~$72.5M/yr (Chainlink fees) 🔷[^s5_2] | ~$561M/yr token unlocks + ~$150M est. private contracts[^s5_4] [^s5_8] | LINK emissions + opaque enterprise deals |
+| **MEV** | $241.6M (ETH) + $165.9M (SOL) to validators 🔷[^s5_22] [^s5_23] | ~$509M–$609M gross extraction (est.)[^s5_24] | ~1.3–1.4x off-chain searcher/builder economy |
+| **RPC / Indexing** | The Graph ~$99K/quarter fees[^s5_48] | ~$600–900M private revenue + 78:1 GRT subsidy (est.)[^s5_35] [^s5_50] | VC capital (private) + token emissions (The Graph) |
 
 The pattern is identical across all three: **the numbers we can verify are small, and the numbers that matter are either off-chain, token-printed, or behind a private contract.** When a user pays $1 in fees, the infrastructure layer beneath them is moving multiples of that — but most of it is structurally designed not to be counted. That is not an accident of measurement. It is the business model.
 
@@ -880,7 +880,7 @@ The pattern is identical across all three: **the numbers we can verify are small
 
 [^s5_49]: [Messari — State of The Graph Q3 2025](https://messari.io/report/state-of-the-graph-q3-2025) — Indexing rewards 81.6M GRT (~$7.6M USD), an all-time high in GRT terms (+29.6% QoQ); 99 active indexers; query volume 5.46B (−15.9% QoQ from Q2 ATH of 6.49B).
 
-[^s5_50]: The Graph subsidy ratio: ~$98,667 quarterly fees vs ~$7.6M quarterly minted GRT rewards = **~78:1 rewards-to-fees, or ~98.7% subsidy / ~1.3% organic**. Derived from Messari Q3/Q4 2025 figures[^s5_48][^s5_49]. ESTIMATE based on disclosed protocol data.
+[^s5_50]: The Graph subsidy ratio: ~$98,667 quarterly fees vs ~$7.6M quarterly minted GRT rewards = **~78:1 rewards-to-fees, or ~98.7% subsidy / ~1.3% organic**. Derived from Messari Q3/Q4 2025 figures[^s5_48] [^s5_49]. ESTIMATE based on disclosed protocol data.
 
 [^s5_51]: [CoinGecko — The Graph (GRT)](https://www.coingecko.com/en/coins/the-graph) — GRT $0.020, market cap ~$218M; ~99.3% below all-time high of $2.84. Retrieved via CoinGecko API (June 19, 2026). 🔷 HARD DATA
 
@@ -900,7 +900,7 @@ The pattern is identical across all three: **the numbers we can verify are small
 
 ### The shape of the off-chain subsidy
 
-Strip the on-chain story away and a parallel economy comes into focus. Across 2025 the industry absorbed roughly **$20B of venture capital**[^s6_e1], spent an estimated **$2–5B in foundation and DAO grants**[^s6_e2], and saw its two largest exchanges alone book **~$25B in combined revenue**[^s6_e3][^s6_e4] — none of it counted in the ~$12.6B of transparent, on-chain protocol income that the rest of this report measures.[^s6_e5] 🔷 HARD DATA (on-chain income; DefiLlama protocol revenue, 30-day $1.051B annualised, retrieved via DefiLlama API, June 19, 2026)
+Strip the on-chain story away and a parallel economy comes into focus. Across 2025 the industry absorbed roughly **$20B of venture capital**[^s6_e1], spent an estimated **$2–5B in foundation and DAO grants**[^s6_e2], and saw its two largest exchanges alone book **~$25B in combined revenue**[^s6_e3] [^s6_e4] — none of it counted in the ~$12.6B of transparent, on-chain protocol income that the rest of this report measures.[^s6_e5] 🔷 HARD DATA (on-chain income; DefiLlama protocol revenue, 30-day $1.051B annualised, retrieved via DefiLlama API, June 19, 2026)
 
 That asymmetry is the point. The on-chain ledger is the part of the business that pays for itself. The off-chain ledger is the part that someone else pays for — and in 2026, with **BTC at $62,620, ETH at $1,695, and SOL at $68.56**[^s6_e6] 🔷 HARD DATA (CoinGecko, June 19, 2026), the dollar value of that subsidy has compressed hard from the October 2025 baseline even as its structural share of the industry held.
 
@@ -922,14 +922,14 @@ Foundations are the clearest case of spending that outruns earning. Take the liv
 
 | Foundation / DAO | 2025–26 spend or ask | Organic revenue it sits on |
 |---|---|---|
-| **Ethereum Foundation** | 15% opex cap on treasury (first-ever formal policy, June 2025), ~$40M/yr implied at today's ~$270M portfolio[^s6_e14][^s6_e15] | n/a (protocol fees accrue to validators, not EF) |
+| **Ethereum Foundation** | 15% opex cap on treasury (first-ever formal policy, June 2025), ~$40M/yr implied at today's ~$270M portfolio[^s6_e14] [^s6_e15] | n/a (protocol fees accrue to validators, not EF) |
 | **Arbitrum Foundation** | Requested **$43.5M** from the DAO for a ~$27.6M operating budget plus grants[^s6_e16] | **~$23.5M** gross protocol revenue in 2025 — spending ~2.3x revenue[^s6_e17] |
-| **Optimism** | RetroPGF Round 5 (**8M OP** to 79 projects) + Round 6 (**5M OP** to 88 projects)[^s6_e18][^s6_e19] | Sequencer revenue, recycled into incentives |
+| **Optimism** | RetroPGF Round 5 (**8M OP** to 79 projects) + Round 6 (**5M OP** to 88 projects)[^s6_e18] [^s6_e19] | Sequencer revenue, recycled into incentives |
 | **Polygon** | Community Grants Season 2: **35M POL (~$17.5M est.)**[^s6_e20] | n/a |
 | **Polkadot** | Treasury spend **$7.4M** in Q4 2025 — lowest since OpenGov launch, but its first net-profit quarter (1.6M DOT)[^s6_e21] | OpenGov revenue finally edged ahead of outflow |
 | **Interchain (Cosmos)** | **$7.5M** 2024 grant allocation across core teams and builders[^s6_e22] ⏳ HISTORICAL (2024 program; no newer aggregate published) | n/a |
 
-The Arbitrum line is the tell. A foundation asking the DAO for **$43.5M against ~$23.5M of revenue**[^s6_e16][^s6_e17] is, by definition, spending future token value to manufacture present-day activity. That is grant subsidy in its purest form — and delegates noticed, openly questioning spending above DAO revenue.[^s6_e16]
+The Arbitrum line is the tell. A foundation asking the DAO for **$43.5M against ~$23.5M of revenue**[^s6_e16] [^s6_e17] is, by definition, spending future token value to manufacture present-day activity. That is grant subsidy in its purest form — and delegates noticed, openly questioning spending above DAO revenue.[^s6_e16]
 
 The Ethereum Foundation is the most disciplined actor in the set, and even its discipline is a story about shrinkage. Its **first-ever treasury policy (June 2025) capped operating spend at 15% of treasury with a 2.5-year buffer, targeting an endowment-style 5% over a five-year horizon**[^s6_e14]. It put the balance sheet to work, **staking toward a 70,000 ETH target reached in April 2026**[^s6_e23] for an estimated **~$4M/yr of recurring yield at ~2.7% APY**[^s6_e24]. But the headline number is the collapse in the corpus itself: the **tracked EF portfolio stood near $270.9M (~102,400 ETH at ~$1,695) in April 2026**[^s6_e25] 🔷 HARD DATA (on-chain wallet tracking) — **down from roughly $970M at October 2024**. The endowment that was supposed to fund Ethereum for decades is a fraction of its former dollar size, mostly because ETH itself is down two-thirds from its **August 2025 ATH of $4,946**[^s6_e6]. 🔷 HARD DATA (CoinGecko)
 
@@ -955,9 +955,9 @@ Putting the off-chain pieces against the ~$12.6B of transparent on-chain income[
 
 | Off-chain channel | Subsidy per $1 of user fees | Basis |
 |---|---|---|
-| **Foundation / DAO grants** | **$2–3** | $2–5B/yr grants vs. ~$1–2B genuinely organic protocol revenue[^s6_e2][^s6_e17] |
-| **VC deployment** | **$2–3** | ~$16–20B VC seeding teams/liquidity vs. ~$10–13B fee revenue[^s6_e1][^s6_e9] |
-| **Exchange revenue recycle** | **$1–2** | ~$27B exchange revenue, indirectly attributed[^s6_e3][^s6_e4][^s6_e26] |
+| **Foundation / DAO grants** | **$2–3** | $2–5B/yr grants vs. ~$1–2B genuinely organic protocol revenue[^s6_e2] [^s6_e17] |
+| **VC deployment** | **$2–3** | ~$16–20B VC seeding teams/liquidity vs. ~$10–13B fee revenue[^s6_e1] [^s6_e9] |
+| **Exchange revenue recycle** | **$1–2** | ~$27B exchange revenue, indirectly attributed[^s6_e3] [^s6_e4] [^s6_e26] |
 | **Total off-chain subsidy** | **~$5–8** | Wide range due to opacity; not hard data |
 
 > The machine looks self-sustaining. Section by section it isn't, and this is the section where you can see why. For every dollar a user actually pays, somewhere between five and eight more dollars of foundation grants, venture capital and exchange profit are working off-ledger to make the on-chain economy look like one. The on-chain receipts are real. The going concern behind them is, for now, still mostly subsidy.
@@ -1018,7 +1018,7 @@ Where a single user dollar actually lands differs sharply by network. Some chain
 | **Arbitrum**[^s7_s12] | $0.00 | $0.00 | $0.69 (DAO) | $0.31 (L1 DA) |
 | **Optimism**[^s7_s13] | $0.00 | $0.00 | $0.97 (Collective) | $0.03 (L1 DA) |
 
-Two patterns jump out. First, **Bitcoin and Cardano route 100% of fees to block producers with zero burn** — pure pay-the-validator economies. Second, the rollups have split into two camps: Coinbase's **Base captures 99.8% of every fee dollar for its corporate parent**[^s7_s11] after walking away from the Optimism revenue share in February 2026, while **Optimism and Arbitrum recycle 97–69% into community treasuries**[^s7_s12][^s7_s13]. Same technology, opposite philosophies of who gets paid.
+Two patterns jump out. First, **Bitcoin and Cardano route 100% of fees to block producers with zero burn** — pure pay-the-validator economies. Second, the rollups have split into two camps: Coinbase's **Base captures 99.8% of every fee dollar for its corporate parent**[^s7_s11] after walking away from the Optimism revenue share in February 2026, while **Optimism and Arbitrum recycle 97–69% into community treasuries**[^s7_s12] [^s7_s13]. Same technology, opposite philosophies of who gets paid.
 
 ### The Hidden Multiplier (Per $1 User Fee)
 
@@ -1032,9 +1032,9 @@ The visible fee split is the small story. The real story is what fires in the ba
 | **Ethereum**[^s7_s5] | ~$9.0 | 88.8% | Staking issuance (6.2x) + MEV (1.8x) |
 | **Solana**[^s7_s7] | ~$7.29 | 86% | Inflation (5.32x) + Jito MEV (0.97x) |
 | **BNB Chain**[^s7_s8] | ~$22.8 | ~96% | Corporate auto-burn (21.8x) |
-| **Base / Optimism**[^s7_s11][^s7_s13] | ~$5–7 | varies | App-layer DEX volume + token unlocks |
+| **Base / Optimism**[^s7_s11] [^s7_s13] | ~$5–7 | varies | App-layer DEX volume + token unlocks |
 
-A clarification matters here, because the headline numbers move with the denominator. Ethereum's multiple is the one most often overstated. Measured against its **live trailing-twelve-month fee base of $303.55M**[^s7_s14] 🔷 HARD DATA — not the lower 30-day snapshot — ETH's staking subsidy is **6.2x**, MEV adds **~1.8x**, and the total settles near **~9.0x with an 88.8% subsidy fraction**.[^s7_s5] The fee denominator you pick decides whether Ethereum looks 9x or 22x subsidized; the honest, full-year number is ~9x. Bitcoin and Cardano need no such caveat: their multiples sit at **150x and 133x** because their fee income is almost nonexistent next to their issuance.[^s7_s6][^s7_s9]
+A clarification matters here, because the headline numbers move with the denominator. Ethereum's multiple is the one most often overstated. Measured against its **live trailing-twelve-month fee base of $303.55M**[^s7_s14] 🔷 HARD DATA — not the lower 30-day snapshot — ETH's staking subsidy is **6.2x**, MEV adds **~1.8x**, and the total settles near **~9.0x with an 88.8% subsidy fraction**.[^s7_s5] The fee denominator you pick decides whether Ethereum looks 9x or 22x subsidized; the honest, full-year number is ~9x. Bitcoin and Cardano need no such caveat: their multiples sit at **150x and 133x** because their fee income is almost nonexistent next to their issuance.[^s7_s6] [^s7_s9]
 
 ### Annual Ecosystem Funding Beyond User Fees
 
@@ -1050,7 +1050,7 @@ Zoom out from per-dollar mechanics to the absolute capital stack, and the subsid
 | **Foundation/DAO grants**[^s7_s20] | ~$2–5B | Developers, ecosystem projects | Estimate |
 | **MEV extraction**[^s7_s21] | ~$2–5B | Searchers, builders, validators | Estimate |
 
-The single largest hard-data line is **Bitcoin's $10.3B annual block subsidy** — 164,250 BTC minted into existence each year to secure a network that collects under **$79M** in actual user fees.[^s7_s15][^s7_s22] These numbers would make Milton Friedman faint: a 130:1 spend-to-revenue ratio on security alone, with no burn, no cap on the subsidy beyond the 2028 halving, and a hashrate that recently dropped to **~918 EH/s** after margins compressed.[^s7_s23]
+The single largest hard-data line is **Bitcoin's $10.3B annual block subsidy** — 164,250 BTC minted into existence each year to secure a network that collects under **$79M** in actual user fees.[^s7_s15] [^s7_s22] These numbers would make Milton Friedman faint: a 130:1 spend-to-revenue ratio on security alone, with no burn, no cap on the subsidy beyond the 2028 halving, and a hashrate that recently dropped to **~918 EH/s** after margins compressed.[^s7_s23]
 
 The largest *soft* line is venture capital, and it carries the report's widest uncertainty band. Galaxy Digital — the institutional standard — pegs Q1 2026 at **$4.0B across 355 deals**, implying a **~$16B annualized run-rate** after FY2025's ~$20B record.[^s7_s18] Alternative trackers that bundle M&A and acquisition rounds put the figure as high as $27B.[^s7_s24] We lean on Galaxy's $16B for defensibility; the difference is the gap between an 81% and an 84% subsidy ratio.
 
@@ -1058,13 +1058,13 @@ The largest *soft* line is venture capital, and it carries the report's widest u
 
 **By annual value captured:**
 
-1. **Miners and stakers** — the dominant recipients. Bitcoin miners alone absorb ~$10.3B in issuance[^s7_s15]; ETH and SOL stakers split another ~$3.4B in inflation.[^s7_s16][^s7_s17] Combined, block producers are the largest paid class in crypto, and the overwhelming majority of their pay is minted, not earned.
+1. **Miners and stakers** — the dominant recipients. Bitcoin miners alone absorb ~$10.3B in issuance[^s7_s15]; ETH and SOL stakers split another ~$3.4B in inflation.[^s7_s16] [^s7_s17] Combined, block producers are the largest paid class in crypto, and the overwhelming majority of their pay is minted, not earned.
 
 2. **VC firms and early investors** — capturing value through **token unlocks (~$20–25B/yr)**[^s7_s19] layered on top of **fresh deployment (~$16B/yr)**.[^s7_s18] The vesting cliff, not the fee market, is where most early capital is realized.
 
 3. **Exchanges** — the clearest organic bright spot. **Coinbase reported $7.18B in FY2025 revenue** 🔷 HARD DATA, **Kraken $2.2B** 🔷 HARD DATA, and **Binance an estimated ~$17.5B**.[^s7_s25] This is real revenue from real users — but it sits largely off-chain and recycles back into listings, market-making, and ecosystem incentives rather than appearing in the $12.6B on-chain figure.
 
-4. **Foundations** — redistributing **$2–5B/yr** of token-funded treasuries into grants. The Ethereum Foundation's tracked portfolio has shrunk to **~$271M** (from ~$970M at its 2024 peak), and it has formalized a 15%-opex-cap treasury policy and staked 70,000 ETH for recurring yield[^s7_s20][^s7_s26] — a foundation visibly bracing for a leaner, cash-flow-aware era.
+4. **Foundations** — redistributing **$2–5B/yr** of token-funded treasuries into grants. The Ethereum Foundation's tracked portfolio has shrunk to **~$271M** (from ~$970M at its 2024 peak), and it has formalized a 15%-opex-cap treasury policy and staked 70,000 ETH for recurring yield[^s7_s20] [^s7_s26] — a foundation visibly bracing for a leaner, cash-flow-aware era.
 
 5. **Infrastructure providers** — oracles, RPC, indexers, and MEV searchers collectively skim **$2–6B/yr** in "hidden taxes" on user activity, none of which shows up in headline fee statistics.[^s7_s21]
 
