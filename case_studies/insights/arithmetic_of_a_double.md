@@ -10,7 +10,9 @@
 
 > A companion piece to [Economic Value Distribution in Blockchain Ecosystems](https://github.com/Ricosworks1/blockchain-payment-flow-analysis/blob/main/case_studies/insights/economic_value_distribution_blockchain_ecosystems.md), which established that roughly 75–82% of measured value flows in this sector come from somewhere other than organic user demand. This report asks the follow-up question that matters to anyone holding the asset: **if that is true, what would actually have to happen for the market to double?**
 
-**Written on a green day, deliberately.** Bitcoin is \$77,095, up roughly 22% on the week.[^14] Ethereum is \$2,419, up 54% from its June close.[^5] Total market capitalisation is \$2.62T. Timelines are loud again. This is the correct moment to publish arithmetic, because arithmetic is unwelcome when it is most useful.[^1] 🔷 HARD DATA
+**Written on a green day, deliberately.** Crypto is rallying hard and timelines are loud again, which is precisely why this is the right moment to publish arithmetic. Arithmetic is least welcome exactly when it is most useful.
+
+The tape, for the record: Bitcoin at \$77,095, up roughly 22% on the week[^14]; Ethereum at \$2,419, up 54% from its June close[^5]; total market capitalisation \$2.62T.[^1] 🔷 HARD DATA
 
 ---
 
